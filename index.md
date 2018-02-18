@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 41–47% <br> 27–28 | 15–20% <br> 10 | N/A <br> N/A | 4–7% <br> 0–3 | 3–5% <br> 0 | 3–5% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 |
-| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 41–47% <br> 27–28 | 15–20% <br> 10 | N/A <br> N/A | 4–7% <br> 0–3 | 3–5% <br> 0 | 3–5% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 41–47% <br> 24–29 | 15–20% <br> 9–12 | 6–9% <br> 3–5 | 4–7% <br> 0–3 | 3–5% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–2% <br> 0 |
+| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 41–47% <br> 24–29 | 15–20% <br> 9–12 | 6–9% <br> 3–5 | 4–7% <br> 0–3 | 3–5% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -16,7 +16,7 @@ Only polls for which at least the sample size has been published are included in
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
 + **PiS:** Prawo i Sprawiedliwość (ECR)
 + **PO:** Platforma Obywatelska (EPP)
-+ **K:** Kukiz’15
++ **K:** Kukiz’15 (ENF)
 + **.N:** .Nowoczesna (ALDE)
 + **PSL:** Polskie Stronnictwo Ludowe (EPP)
 + **SLD:** Sojusz Lewicy Demokratycznej (S&D)

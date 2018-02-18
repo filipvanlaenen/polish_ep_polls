@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 18 Feb 2018 15:43:53 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by CBOS, 1–8 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 24–29 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (ENF): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (—): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS-seats.png"
+        length="169870"
+        type="image/png"/>
+      <pubDate>Sun, 18 Feb 2018 15:43:53 +0100</pubDate>
+      <dc:date>2018-02-18T15:43:53.291138+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 1–8 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS-coalitions-seats.png"
+        length="97181"
+        type="image/png"/>
+      <pubDate>Sun, 18 Feb 2018 15:43:53 +0100</pubDate>
+      <dc:date>2018-02-18T15:43:53.291138+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 1–8 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 40.9–46.9%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 15.2–19.7%&lt;/li&gt;&lt;li&gt;Kukiz’15 (ENF): 5.8–8.9%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 1.4–3.1%&lt;/li&gt;&lt;li&gt;Partia Razem (—): 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.png"
+        length="185591"
+        type="image/png"/>
+      <pubDate>Sun, 18 Feb 2018 15:43:53 +0100</pubDate>
+      <dc:date>2018-02-18T15:43:53.291138+01:00</dc:date>
+    </item>
+    <dc:date>2018-02-18T15:43:53.291138+01:00</dc:date>
+  </channel>
+</rss>

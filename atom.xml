@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
+  <title>All Registered Polls for the European Parliament</title>
+  <updated>2018-02-18T15:43:53.291138+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 40.9–46.9%, 24–29 seats</li><li>Platforma Obywatelska (EPP): 15.2–19.7%, 9–12 seats</li><li>Kukiz’15 (ENF): 5.8–8.9%, 3–5 seats</li><li>.Nowoczesna (ALDE): 3.9–6.6%, 0–3 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 3.0–5.4%, 0–3 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 3.0–5.4%, 0–3 seats</li><li>Wolność (EFDD): 1.4–3.1%, 0 seats</li><li>Partia Razem (—): 0.6–1.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.html"/>
+    <title>Opinion Poll by CBOS, 1–8 February 2018</title>
+    <updated>2018-02-18T15:43:53.291138+01:00</updated>
+    <dc:date>2018-02-18T15:43:53.291138+01:00</dc:date>
+  </entry>
+  <dc:date>2018-02-18T15:43:53.291138+01:00</dc:date>
+</feed>

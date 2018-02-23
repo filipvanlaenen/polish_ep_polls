@@ -80,8 +80,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26 | 24–28 | 24–28 | 24–29 | 23–30 |
-| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 26 | 24–28 | 24–28 | 24–29 | 23–30 |
+| N/A | [Poll Average](average.html) | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
+| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 26 | 24–28 | 24–28 | 24–29 | 23–29 |
 
 ### Probability Mass Function
 
@@ -115,13 +115,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0% | 100% |  |
 | 22 | 0.2% | 100% |  |
 | 23 | 2% | 99.8% |  |
-| 24 | 9% | 98% |  |
-| 25 | 16% | 89% |  |
-| 26 | 38% | 73% | Median, Majority |
-| 27 | 20% | 34% |  |
-| 28 | 11% | 14% |  |
-| 29 | 3% | 4% |  |
-| 30 | 0.6% | 0.6% |  |
+| 24 | 10% | 98% |  |
+| 25 | 20% | 88% |  |
+| 26 | 29% | 68% | Median, Majority |
+| 27 | 19% | 39% |  |
+| 28 | 17% | 21% |  |
+| 29 | 4% | 4% |  |
+| 30 | 0.3% | 0.4% |  |
 | 31 | 0% | 0% |  |
 
 

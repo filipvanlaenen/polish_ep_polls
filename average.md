@@ -9,8 +9,8 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 37–46% <br> 21–28 | 14–21% <br> 8–12 | 5–8% <br> 0–5 | 4–9% <br> 0–6 | 3–8% <br> 0–4 | 2–11% <br> 0–6 | 1–4% <br> 0 | 1–5% <br> 0 |
-| [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 37–43% <br> 23–28 | 14–18% <br> 8–10 | 5–8% <br> 0–3 | 6–10% <br> 4–6 | 4–7% <br> 0–3 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 |
+| N/A | Poll Average | 37–46% <br> 21–28 | 14–21% <br> 8–12 | 5–8% <br> 0–5 | 4–9% <br> 0–5 | 3–8% <br> 0–4 | 2–11% <br> 0–6 | 1–4% <br> 0 | 1–5% <br> 0 |
+| [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 37–43% <br> 22–26 | 14–18% <br> 8–11 | 5–8% <br> 0–4 | 6–10% <br> 3–6 | 4–7% <br> 0–3 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 37–43% <br> 21–26 | 17–22% <br> 10–13 | 4–7% <br> 0–4 | 3–6% <br> 0–3 | 5–8% <br> 3–4 | 8–11% <br> 4–6 | 1–2% <br> 0 | 3–5% <br> 0–2 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 41–47% <br> 24–29 | 15–20% <br> 9–12 | 6–9% <br> 3–5 | 4–7% <br> 0–3 | 3–5% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
@@ -253,10 +253,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 24 | 22–27 |22–28 | 21–28 | 21–29 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 24 | 22–27 |22–28 | 21–28 | 20–29 |
 | <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 10 | 9–12 |8–12 | 8–12 | 8–13 |
 | <a href="#kukiz’15-(enf)">Kukiz’15 (ENF)</a> | 0 | 3 | 2–4 |0–4 | 0–5 | 0–5 |
-| <a href="#.nowoczesna-(alde)">.Nowoczesna (ALDE)</a> | 0 | 3 | 0–5 |0–6 | 0–6 | 0–6 |
+| <a href="#.nowoczesna-(alde)">.Nowoczesna (ALDE)</a> | 0 | 3 | 0–5 |0–5 | 0–5 | 0–6 |
 | <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 3 | 0–4 |0–4 | 0–4 | 0–5 |
 | <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 0 | 0–5 |0–6 | 0–6 | 0–6 |
 | <a href="#wolność-(efdd)">Wolność (EFDD)</a> | 0 | 0 | 0 |0 | 0 | 0 |
@@ -290,15 +290,15 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.4% | 100% |  |
-| 21 | 2% | 99.5% |  |
-| 22 | 9% | 97% |  |
-| 23 | 34% | 88% |  |
-| 24 | 16% | 54% | Median |
-| 25 | 13% | 38% |  |
-| 26 | 10% | 25% | Majority |
-| 27 | 7% | 15% |  |
-| 28 | 7% | 8% |  |
+| 20 | 0.5% | 100% |  |
+| 21 | 3% | 99.5% |  |
+| 22 | 14% | 96% |  |
+| 23 | 20% | 82% |  |
+| 24 | 20% | 62% | Median |
+| 25 | 16% | 42% |  |
+| 26 | 12% | 26% | Majority |
+| 27 | 7% | 14% |  |
+| 28 | 6% | 7% |  |
 | 29 | 1.3% | 1.4% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
@@ -318,11 +318,11 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 5% | 100% |  |
-| 9 | 35% | 95% |  |
-| 10 | 25% | 59% | Median |
-| 11 | 22% | 35% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 6% | 99.7% |  |
+| 9 | 24% | 93% |  |
+| 10 | 33% | 69% | Median |
+| 11 | 24% | 36% |  |
 | 12 | 11% | 12% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0.1% | 0.1% |  |
@@ -336,11 +336,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 8% | 92% |  |
-| 3 | 56% | 84% | Median |
-| 4 | 24% | 28% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 0% | 91% |  |
+| 2 | 2% | 91% |  |
+| 3 | 54% | 90% | Median |
+| 4 | 32% | 36% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -356,10 +356,10 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 39% | 100% | Last Result |
 | 1 | 0% | 61% |  |
 | 2 | 4% | 61% |  |
-| 3 | 23% | 57% | Median |
-| 4 | 9% | 34% |  |
-| 5 | 19% | 25% |  |
-| 6 | 5% | 5% |  |
+| 3 | 24% | 57% | Median |
+| 4 | 20% | 33% |  |
+| 5 | 12% | 13% |  |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 ### Polskie Stronnictwo Ludowe (EPP)
@@ -370,11 +370,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 0% | 58% |  |
-| 2 | 0.7% | 58% |  |
-| 3 | 41% | 57% | Median |
-| 4 | 16% | 16% |  |
+| 0 | 49% | 100% | Last Result |
+| 1 | 0% | 51% |  |
+| 2 | 0.9% | 51% |  |
+| 3 | 33% | 50% | Median |
+| 4 | 16% | 17% |  |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
@@ -404,7 +404,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Partia Razem (—)
 
@@ -429,10 +432,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 24 | 25% | 22–27 | 22–28 | 21–28 | 21–29 |
-| Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 12 | 0% | 9–15 | 9–16 | 8–16 | 8–17 |
-| .Nowoczesna (ALDE) | 0 | 3 | 0% | 0–5 | 0–6 | 0–6 | 0–6 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 24 | 26% | 22–27 | 22–28 | 21–28 | 20–29 |
+| Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 11 | 0% | 9–15 | 9–16 | 9–16 | 8–17 |
 | Sojusz Lewicy Demokratycznej (S&D) | 0 | 0 | 0% | 0–5 | 0–6 | 0–6 | 0–6 |
+| .Nowoczesna (ALDE) | 0 | 3 | 0% | 0–5 | 0–5 | 0–5 | 0–6 |
 | Kukiz’15 (ENF) | 0 | 3 | 0% | 2–4 | 0–4 | 0–5 | 0–5 |
 | Partia Razem (—) | 0 | 0 | 0% | 0 | 0 | 0 | 0–3 |
 | Wolność (EFDD) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -461,15 +464,15 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0.4% | 100% |  |
-| 21 | 2% | 99.5% |  |
-| 22 | 9% | 97% |  |
-| 23 | 34% | 88% |  |
-| 24 | 16% | 54% | Median |
-| 25 | 13% | 38% |  |
-| 26 | 10% | 25% | Majority |
-| 27 | 7% | 15% |  |
-| 28 | 7% | 8% |  |
+| 20 | 0.5% | 100% |  |
+| 21 | 3% | 99.5% |  |
+| 22 | 14% | 96% |  |
+| 23 | 20% | 82% |  |
+| 24 | 20% | 62% | Median |
+| 25 | 16% | 42% |  |
+| 26 | 12% | 26% | Majority |
+| 27 | 7% | 14% |  |
+| 28 | 6% | 7% |  |
 | 29 | 1.3% | 1.4% |  |
 | 30 | 0.1% | 0.1% |  |
 | 31 | 0% | 0% |  |
@@ -486,31 +489,18 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 5% | 100% |  |
-| 9 | 12% | 95% |  |
-| 10 | 16% | 83% |  |
-| 11 | 8% | 66% |  |
-| 12 | 24% | 59% |  |
-| 13 | 5% | 35% | Median |
-| 14 | 11% | 30% |  |
+| 8 | 2% | 100% |  |
+| 9 | 14% | 98% |  |
+| 10 | 23% | 84% |  |
+| 11 | 13% | 61% |  |
+| 12 | 10% | 47% |  |
+| 13 | 7% | 37% | Median |
+| 14 | 12% | 30% |  |
 | 15 | 11% | 18% |  |
 | 16 | 6% | 7% |  |
 | 17 | 0.9% | 0.9% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
-
-### .Nowoczesna (ALDE)
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 39% | 100% | Last Result |
-| 1 | 0% | 61% |  |
-| 2 | 4% | 61% |  |
-| 3 | 23% | 57% | Median |
-| 4 | 9% | 34% |  |
-| 5 | 19% | 25% |  |
-| 6 | 5% | 5% |  |
-| 7 | 0% | 0% |  |
 
 ### Sojusz Lewicy Demokratycznej (S&D)
 
@@ -526,15 +516,28 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
+### .Nowoczesna (ALDE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 39% | 100% | Last Result |
+| 1 | 0% | 61% |  |
+| 2 | 4% | 61% |  |
+| 3 | 24% | 57% | Median |
+| 4 | 20% | 33% |  |
+| 5 | 12% | 13% |  |
+| 6 | 0.8% | 0.8% |  |
+| 7 | 0% | 0% |  |
+
 ### Kukiz’15 (ENF)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 8% | 92% |  |
-| 3 | 56% | 84% | Median |
-| 4 | 24% | 28% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 0% | 91% |  |
+| 2 | 2% | 91% |  |
+| 3 | 54% | 90% | Median |
+| 4 | 32% | 36% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -553,7 +556,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Technical Information

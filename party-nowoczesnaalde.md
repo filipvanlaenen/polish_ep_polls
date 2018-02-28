@@ -45,7 +45,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
+| [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 
@@ -59,8 +59,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 39% | 100% | Last Result |
 | 1 | 0% | 61% |  |
-| 2 | 4% | 61% |  |
-| 3 | 24% | 57% | Median |
+| 2 | 3% | 61% |  |
+| 3 | 25% | 57% | Median |
 | 4 | 20% | 33% |  |
 | 5 | 12% | 13% |  |
 | 6 | 0.8% | 0.8% |  |

@@ -10,8 +10,8 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 37–46% <br> 21–28 | 14–21% <br> 8–12 | 5–8% <br> 0–5 | 4–9% <br> 0–5 | 3–8% <br> 0–4 | 2–11% <br> 0–6 | 1–4% <br> 0 | 1–5% <br> 0 |
-| [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 37–43% <br> 22–26 | 14–18% <br> 8–11 | 5–8% <br> 0–4 | 6–10% <br> 3–6 | 4–7% <br> 0–3 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 |
-| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 37–43% <br> 21–26 | 17–22% <br> 10–13 | 4–7% <br> 0–4 | 3–6% <br> 0–3 | 5–8% <br> 3–4 | 8–11% <br> 4–6 | 1–2% <br> 0 | 3–5% <br> 0–2 |
+| [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 37–43% <br> 21–26 | 14–18% <br> 8–11 | 5–8% <br> 0–4 | 6–10% <br> 3–5 | 4–7% <br> 0–3 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 |
+| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 37–43% <br> 21–26 | 17–22% <br> 10–13 | 4–7% <br> 0–4 | 3–6% <br> 0–3 | 5–8% <br> 3–4 | 8–11% <br> 4–6 | 1–2% <br> 0 | 3–5% <br> 0–3 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 41–47% <br> 24–29 | 15–20% <br> 9–12 | 6–9% <br> 3–5 | 4–7% <br> 0–3 | 3–5% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -292,8 +292,8 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 0% | 100% |  |
 | 20 | 0.5% | 100% |  |
 | 21 | 3% | 99.5% |  |
-| 22 | 14% | 96% |  |
-| 23 | 20% | 82% |  |
+| 22 | 13% | 96% |  |
+| 23 | 21% | 83% |  |
 | 24 | 20% | 62% | Median |
 | 25 | 16% | 42% |  |
 | 26 | 12% | 26% | Majority |
@@ -319,11 +319,11 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.3% | 100% |  |
-| 8 | 6% | 99.7% |  |
+| 8 | 7% | 99.7% |  |
 | 9 | 24% | 93% |  |
 | 10 | 33% | 69% | Median |
 | 11 | 24% | 36% |  |
-| 12 | 11% | 12% |  |
+| 12 | 10% | 12% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0.1% | 0.1% |  |
 | 15 | 0% | 0% |  |
@@ -339,7 +339,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 9% | 100% | Last Result |
 | 1 | 0% | 91% |  |
 | 2 | 2% | 91% |  |
-| 3 | 54% | 90% | Median |
+| 3 | 53% | 89% | Median |
 | 4 | 32% | 36% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0.1% | 0.1% |  |
@@ -355,8 +355,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 39% | 100% | Last Result |
 | 1 | 0% | 61% |  |
-| 2 | 4% | 61% |  |
-| 3 | 24% | 57% | Median |
+| 2 | 3% | 61% |  |
+| 3 | 25% | 57% | Median |
 | 4 | 20% | 33% |  |
 | 5 | 12% | 13% |  |
 | 6 | 0.8% | 0.8% |  |
@@ -372,8 +372,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 49% | 100% | Last Result |
 | 1 | 0% | 51% |  |
-| 2 | 0.9% | 51% |  |
-| 3 | 33% | 50% | Median |
+| 2 | 0.8% | 51% |  |
+| 3 | 34% | 51% | Median |
 | 4 | 16% | 17% |  |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
@@ -419,8 +419,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 98% | 100% | Last Result, Median |
 | 1 | 0% | 2% |  |
-| 2 | 1.0% | 2% |  |
-| 3 | 0.6% | 0.6% |  |
+| 2 | 0.9% | 2% |  |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -466,8 +466,8 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 0% | 100% |  |
 | 20 | 0.5% | 100% |  |
 | 21 | 3% | 99.5% |  |
-| 22 | 14% | 96% |  |
-| 23 | 20% | 82% |  |
+| 22 | 13% | 96% |  |
+| 23 | 21% | 83% |  |
 | 24 | 20% | 62% | Median |
 | 25 | 16% | 42% |  |
 | 26 | 12% | 26% | Majority |
@@ -493,12 +493,12 @@ Only polls for which at least the sample size has been published are included in
 | 9 | 14% | 98% |  |
 | 10 | 23% | 84% |  |
 | 11 | 13% | 61% |  |
-| 12 | 10% | 47% |  |
-| 13 | 7% | 37% | Median |
-| 14 | 12% | 30% |  |
-| 15 | 11% | 18% |  |
-| 16 | 6% | 7% |  |
-| 17 | 0.9% | 0.9% |  |
+| 12 | 10% | 48% |  |
+| 13 | 8% | 37% | Median |
+| 14 | 11% | 29% |  |
+| 15 | 12% | 19% |  |
+| 16 | 5% | 6% |  |
+| 17 | 0.8% | 0.9% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 
@@ -522,8 +522,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 39% | 100% | Last Result |
 | 1 | 0% | 61% |  |
-| 2 | 4% | 61% |  |
-| 3 | 24% | 57% | Median |
+| 2 | 3% | 61% |  |
+| 3 | 25% | 57% | Median |
 | 4 | 20% | 33% |  |
 | 5 | 12% | 13% |  |
 | 6 | 0.8% | 0.8% |  |
@@ -536,7 +536,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 9% | 100% | Last Result |
 | 1 | 0% | 91% |  |
 | 2 | 2% | 91% |  |
-| 3 | 54% | 90% | Median |
+| 3 | 53% | 89% | Median |
 | 4 | 32% | 36% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0.1% | 0.1% |  |
@@ -548,8 +548,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 98% | 100% | Last Result, Median |
 | 1 | 0% | 2% |  |
-| 2 | 1.0% | 2% |  |
-| 3 | 0.6% | 0.6% |  |
+| 2 | 0.9% | 2% |  |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 ### Wolność (EFDD)

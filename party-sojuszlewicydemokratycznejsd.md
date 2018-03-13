@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 2.8–10.0% | 2.5–10.4% | 2.3–10.8% | 2.0–11.5% |
+| N/A | [Poll Average](average.html) | 5.4% | 3.1–7.2% | 2.7–7.6% | 2.5–8.0% | 2.1–8.7% |
+| [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.6–7.0% |
+| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.6–8.7% | 5.2–9.2% |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.9% | 5.1–7.0% | 4.8–7.3% | 4.6–7.6% | 4.3–8.1% |
+| [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.6% | 3.5–7.1% |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 9.5% | 8.4–10.7% | 8.1–11.0% | 7.9–11.3% | 7.4–11.9% |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
@@ -23,18 +27,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 27% | 95% |  |
-| 3.5–4.5% | 26% | 68% | Median |
-| 4.5–5.5% | 8% | 42% |  |
-| 5.5–6.5% | 0.6% | 34% |  |
-| 6.5–7.5% | 0.3% | 33% |  |
-| 7.5–8.5% | 4% | 33% |  |
-| 8.5–9.5% | 13% | 29% |  |
-| 9.5–10.5% | 12% | 16% |  |
-| 10.5–11.5% | 4% | 4% |  |
-| 11.5–12.5% | 0.5% | 0.5% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 13% | 97% |  |
+| 3.5–4.5% | 12% | 84% |  |
+| 4.5–5.5% | 27% | 72% | Median |
+| 5.5–6.5% | 24% | 45% |  |
+| 6.5–7.5% | 15% | 21% |  |
+| 7.5–8.5% | 5% | 6% |  |
+| 8.5–9.5% | 0.7% | 0.7% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -45,7 +46,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–5 | 0–6 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
+| [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 0 | 0 | 0–3 | 0–3 | 0–3 |
@@ -58,14 +63,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 65% | 100% | Last Result, Median |
-| 1 | 0% | 35% |  |
-| 2 | 0.2% | 35% |  |
-| 3 | 2% | 35% |  |
-| 4 | 4% | 33% |  |
-| 5 | 21% | 29% |  |
-| 6 | 8% | 8% |  |
-| 7 | 0.4% | 0.4% |  |
-| 8 | 0% | 0% |  |
+| 0 | 41% | 100% | Last Result |
+| 1 | 0% | 59% |  |
+| 2 | 5% | 59% |  |
+| 3 | 38% | 54% | Median |
+| 4 | 15% | 16% |  |
+| 5 | 0.8% | 0.8% |  |
+| 6 | 0% | 0% |  |
 
 

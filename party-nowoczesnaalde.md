@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.5–5.9% | 3.1–6.4% |
-| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 5.1% | N/A | N/A | N/A | N/A |
+| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
 
 ### Probability Mass Function
 
@@ -55,7 +55,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS |  |  |  |  |  |
+| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 0 | 0 | 0 | 0–3 | 0–4 |
 
 ### Probability Mass Function
 

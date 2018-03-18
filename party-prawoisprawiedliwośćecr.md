@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 50.2% | 48.2–52.3% | 47.7–52.8% | 47.2–53.3% | 46.2–54.3% |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 37.0% | 35.1–38.9% | 34.5–39.5% | 34.1–40.0% | 33.2–40.9% |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 40.0% | 38.1–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.1% |
-| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 39.7% | 37.9–41.7% | 37.3–42.2% | 36.9–42.7% | 36.0–43.6% |
+| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 39.7% | 37.9–41.6% | 37.3–42.2% | 36.9–42.7% | 36.0–43.6% |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 43.9% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 27–31 | 27–32 | 27–33 | 25–33 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 21 | 21 | 20–21 | 20–22 | 20–22 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 23 | 23–25 | 23–25 | 23–28 | 23–28 |
-| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
+| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 22 | 20–25 | 20–25 | 20–25 | 20–25 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS |  |  |  |  |  |
 
 ### Probability Mass Function

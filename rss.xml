@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 10:31:06 +0100</pubDate>
+    <pubDate>Sun, 18 Mar 2018 10:38:17 +0100</pubDate>
     <item>
       <title>Opinion Poll by CBOS, 1–8 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS.html</link>
@@ -59,6 +59,16 @@
       <pubDate>Sun, 18 Mar 2018 10:31:06 +0100</pubDate>
       <dc:date>2018-03-18T10:31:06.432751+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T10:31:06.432751+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet, 20 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 36.9–42.7%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17.4–22.1%&lt;/li&gt;&lt;li&gt;Kukiz’15 (ENF): 4.3–7.1%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 3.5–5.9%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 5.3–8.3%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 7.9–11.3%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Partia Razem (—): 2.9–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS.png"
+        length="198478"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 10:38:17 +0100</pubDate>
+      <dc:date>2018-03-18T10:38:17.984569+01:00</dc:date>
+    </item>
+    <dc:date>2018-03-18T10:38:17.984569+01:00</dc:date>
   </channel>
 </rss>

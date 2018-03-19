@@ -64,8 +64,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 8–14 | 8–14 | 8–14 | 7–16 |
-| [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 8 | 8 | 7–8 | 7–8 | 7–8 |
+| N/A | [Poll Average](average.html) | 12 | 8–14 | 7–14 | 7–14 | 7–16 |
+| [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 14 | 13–14 | 11–14 | 11–16 | 11–16 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 11–13 | 11–13 | 10–13 | 10–15 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
@@ -87,11 +87,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 2% | 100% |  |
-| 8 | 18% | 98% |  |
-| 9 | 19% | 80% |  |
-| 10 | 2% | 61% |  |
+| 6 | 0.3% | 100% |  |
+| 7 | 5% | 99.7% |  |
+| 8 | 10% | 94% |  |
+| 9 | 22% | 84% |  |
+| 10 | 3% | 62% |  |
 | 11 | 9% | 59% |  |
 | 12 | 20% | 50% | Median |
 | 13 | 13% | 30% |  |

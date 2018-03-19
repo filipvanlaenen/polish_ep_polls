@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 15:38:44 +0100</pubDate>
+    <pubDate>Mon, 19 Mar 2018 13:50:30 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by CBOS, 1–8 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 23–29 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 7–9 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (ENF): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (—): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS-seats.png"
+        length="207980"
+        type="image/png"/>
+      <pubDate>Mon, 19 Mar 2018 13:50:30 +0100</pubDate>
+      <dc:date>2018-03-19T13:50:30.787929+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 1–8 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS-coalitions-seats.png"
+        length="121101"
+        type="image/png"/>
+      <pubDate>Mon, 19 Mar 2018 13:50:30 +0100</pubDate>
+      <dc:date>2018-03-19T13:50:30.787929+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CBOS, 1–8 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS.png"
         length="187134"
         type="image/png"/>
-      <pubDate>Sat, 17 Mar 2018 22:51:35 +0100</pubDate>
-      <dc:date>2018-03-17T22:51:35.377933+01:00</dc:date>
+      <pubDate>Mon, 19 Mar 2018 13:50:30 +0100</pubDate>
+      <dc:date>2018-03-19T13:50:30.787929+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS, 26 February 2018 – Voting Intentions</title>
@@ -79,6 +99,6 @@
       <pubDate>Sun, 18 Mar 2018 15:38:44 +0100</pubDate>
       <dc:date>2018-03-18T15:38:44.8182+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T15:38:44.8182+01:00</dc:date>
+    <dc:date>2018-03-19T13:50:30.787929+01:00</dc:date>
   </channel>
 </rss>

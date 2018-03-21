@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 35–52% <br> 21–30 | 13–25% <br> 7–14 | 5–9% <br> 2–5 | 3–9% <br> 0–6 | 4–7% <br> 0–4 | 2–8% <br> 0–5 | 0–4% <br> 0 | 2–4% <br> 0–3 |
+| N/A | [Poll Average](average.html) | 35–52% <br> 21–31 | 13–25% <br> 7–15 | 5–9% <br> 2–5 | 3–9% <br> 0–6 | 4–7% <br> 0–3 | 2–8% <br> 0–4 | 0–4% <br> 0 | 2–4% <br> 0 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 41–47% <br> 23–29 | 12–16% <br> 7–9 | 5–8% <br> 0–4 | 5–8% <br> 0–4 | 4–7% <br> 0–3 | 4–7% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 38–43% <br> 22–25 | 20–25% <br> 11–16 | 5–8% <br> 3–5 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 6–9% <br> 0–5 | 1–2% <br> 0 | 3–5% <br> 0 |
-| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 47–53% <br> 27–33 | 20–26% <br> 10–13 | 6–9% <br> 3–6 | 3–5% <br> 0–3 | 4–7% <br> 0–4 | 5–8% <br> 0–5 | 0–2% <br> 0 | 2–4% <br> 0–3 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 47–53% <br> 27–33 | 20–26% <br> 12–15 | 6–9% <br> 3–5 | 3–5% <br> 0–3 | 4–7% <br> 0–4 | 5–8% <br> 0–4 | 0–2% <br> 0 | 2–4% <br> 0 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 34–40% <br> 20–22 | 18–23% <br> 11–13 | 6–9% <br> 3–5 | 5–8% <br> 0–4 | 4–7% <br> 0–3 | 4–7% <br> 0–3 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 37–43% <br> 23–28 | 14–18% <br> 9–10 | 5–8% <br> 0–3 | 6–10% <br> 4–6 | 4–7% <br> 0–3 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |

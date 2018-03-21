@@ -46,10 +46,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 3 | 3–5 | 3–5 | 0–5 | 0–5 |
-| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 0–4 | 0–4 | 0–5 | 0–5 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -63,12 +63,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 0% | 53% |  |
-| 2 | 1.0% | 53% |  |
-| 3 | 36% | 52% | Median |
-| 4 | 12% | 15% |  |
-| 5 | 3% | 3% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 0% | 55% |  |
+| 2 | 1.2% | 55% |  |
+| 3 | 47% | 54% | Median |
+| 4 | 5% | 7% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 

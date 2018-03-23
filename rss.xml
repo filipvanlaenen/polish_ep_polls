@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 22 Mar 2018 20:18:24 +0100</pubDate>
+    <pubDate>Fri, 23 Mar 2018 11:25:36 +0100</pubDate>
     <item>
       <title>Opinion Poll by CBOS, 1–8 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-03-19T13:50:30.787929+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IBRiS, 26 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-26-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 22–26 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (ENF): 3–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (—): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-26-IBRiS-seats.png"
+        length="175609"
+        type="image/png"/>
+      <pubDate>Fri, 23 Mar 2018 11:25:36 +0100</pubDate>
+      <dc:date>2018-03-23T11:25:36.802472+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS, 26 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-26-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-26-IBRiS-coalitions-seats.png"
+        length="90244"
+        type="image/png"/>
+      <pubDate>Fri, 23 Mar 2018 11:25:36 +0100</pubDate>
+      <dc:date>2018-03-23T11:25:36.802472+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS, 26 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-26-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 37.6–43.4%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 20.0–24.9%&lt;/li&gt;&lt;li&gt;Kukiz’15 (ENF): 5.3–8.3%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 2.6–4.8%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 4.8–7.7%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0.7–2.0%&lt;/li&gt;&lt;li&gt;Partia Razem (—): 2.6–4.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-26-IBRiS.png"
         length="195890"
         type="image/png"/>
-      <pubDate>Sun, 18 Mar 2018 10:04:45 +0100</pubDate>
-      <dc:date>2018-03-18T10:04:45.930766+01:00</dc:date>
+      <pubDate>Fri, 23 Mar 2018 11:25:36 +0100</pubDate>
+      <dc:date>2018-03-23T11:25:36.802472+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 21–22 February 2018 – Seat Projections</title>
@@ -159,6 +179,6 @@
       <pubDate>Tue, 20 Mar 2018 22:59:51 +0100</pubDate>
       <dc:date>2018-03-20T22:59:51.213988+01:00</dc:date>
     </item>
-    <dc:date>2018-03-22T20:18:24.864316+01:00</dc:date>
+    <dc:date>2018-03-23T11:25:36.802472+01:00</dc:date>
   </channel>
 </rss>

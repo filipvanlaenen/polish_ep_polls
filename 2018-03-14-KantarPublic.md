@@ -10,14 +10,14 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0.0% | 37.8% | N/A |N/A |N/A |N/A |
-| Platforma Obywatelska (EPP) | 0.0% | 22.5% | N/A |N/A |N/A |N/A |
-| .Nowoczesna (ALDE) | 0.0% | 6.1% | N/A |N/A |N/A |N/A |
-| Kukiz’15 (ENF) | 0.0% | 5.1% | N/A |N/A |N/A |N/A |
-| Sojusz Lewicy Demokratycznej (S&D) | 0.0% | 4.1% | N/A |N/A |N/A |N/A |
-| Polskie Stronnictwo Ludowe (EPP) | 0.0% | 2.0% | N/A |N/A |N/A |N/A |
-| Wolność (EFDD) | 0.0% | 1.0% | N/A |N/A |N/A |N/A |
-| Partia Razem (—) | 0.0% | 1.0% | N/A |N/A |N/A |N/A |
+| Prawo i Sprawiedliwość (ECR) | 0.0% | 37.8% | 35.9–39.8% |35.3–40.3% |34.9–40.8% |34.0–41.7% |
+| Platforma Obywatelska (EPP) | 0.0% | 22.5% | 20.9–24.2% |20.4–24.7% |20.0–25.1% |19.3–26.0% |
+| .Nowoczesna (ALDE) | 0.0% | 6.1% | 5.3–7.2% |5.0–7.5% |4.8–7.8% |4.4–8.3% |
+| Kukiz’15 (ENF) | 0.0% | 5.1% | 4.3–6.1% |4.1–6.3% |3.9–6.6% |3.5–7.1% |
+| Sojusz Lewicy Demokratycznej (S&D) | 0.0% | 4.1% | 3.4–5.0% |3.2–5.3% |3.0–5.5% |2.7–6.0% |
+| Polskie Stronnictwo Ludowe (EPP) | 0.0% | 2.0% | 1.6–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.5% |
+| Wolność (EFDD) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.6% |0.5–1.8% |0.4–2.1% |
+| Partia Razem (—) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.6% |0.5–1.8% |0.4–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -29,19 +29,269 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#.nowoczesna-(alde)">.Nowoczesna (ALDE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#kukiz’15-(enf)">Kukiz’15 (ENF)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#wolność-(efdd)">Wolność (EFDD)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
-| <a href="#partia-razem-(—)">Partia Razem (—)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 23 | 21–25 |21–25 |21–25 |20–25 |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 13 | 13–15 |12–15 |12–16 |12–16 |
+| <a href="#.nowoczesna-(alde)">.Nowoczesna (ALDE)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#kukiz’15-(enf)">Kukiz’15 (ENF)</a> | 0 | 0 | 0 |0 |0–3 |0–3 |
+| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 0 | 0 |0 |0 |0–3 |
+| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#wolność-(efdd)">Wolność (EFDD)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#partia-razem-(—)">Partia Razem (—)</a> | 0 | 0 | 0 |0 |0 |0 |
+
+### Prawo i Sprawiedliwość (ECR)
+
+*For a full overview of the results for this party, see the [Prawo i Sprawiedliwość (ECR)](party-prawoisprawiedliwośćecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-14-KantarPublic-seats-pmf-prawoisprawiedliwośćecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.1% | 100% |  |
+| 20 | 0.7% | 99.9% |  |
+| 21 | 10% | 99.2% |  |
+| 22 | 6% | 89% |  |
+| 23 | 44% | 83% | Median |
+| 24 | 0.9% | 39% |  |
+| 25 | 38% | 38% |  |
+| 26 | 0% | 0% |  |
+
+### Platforma Obywatelska (EPP)
+
+*For a full overview of the results for this party, see the [Platforma Obywatelska (EPP)](party-platformaobywatelskaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-14-KantarPublic-seats-pmf-platformaobywatelskaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.4% | 100% |  |
+| 12 | 5% | 99.6% |  |
+| 13 | 84% | 95% | Median |
+| 14 | 0.5% | 11% |  |
+| 15 | 6% | 10% |  |
+| 16 | 4% | 4% |  |
+| 17 | 0% | 0% |  |
+
+### .Nowoczesna (ALDE)
+
+*For a full overview of the results for this party, see the [.Nowoczesna (ALDE)](party-nowoczesnaalde.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-14-KantarPublic-seats-pmf-nowoczesnaalde.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 47% | 99.9% |  |
+| 4 | 53% | 53% | Median |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
+
+### Kukiz’15 (ENF)
+
+*For a full overview of the results for this party, see the [Kukiz’15 (ENF)](party-kukiz’15enf.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-14-KantarPublic-seats-pmf-kukiz’15enf.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 4% | 4% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
+
+### Sojusz Lewicy Demokratycznej (S&D)
+
+*For a full overview of the results for this party, see the [Sojusz Lewicy Demokratycznej (S&D)](party-sojuszlewicydemokratycznejsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-14-KantarPublic-seats-pmf-sojuszlewicydemokratycznejsd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% |  |
+
+### Polskie Stronnictwo Ludowe (EPP)
+
+*For a full overview of the results for this party, see the [Polskie Stronnictwo Ludowe (EPP)](party-polskiestronnictwoludoweepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-14-KantarPublic-seats-pmf-polskiestronnictwoludoweepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Wolność (EFDD)
+
+*For a full overview of the results for this party, see the [Wolność (EFDD)](party-wolnośćefdd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-14-KantarPublic-seats-pmf-wolnośćefdd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Partia Razem (—)
+
+*For a full overview of the results for this party, see the [Partia Razem (—)](party-partiarazem—.html) page.*
+
+![Graph with seats probability mass function not yet produced](2018-03-14-KantarPublic-seats-pmf-partiarazem—.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Coalitions
 
 ![Graph with coalitions seats not yet produced](2018-03-14-KantarPublic-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Prawo i Sprawiedliwość (ECR) | 0 | 23 | 0% | 21–25 | 21–25 | 21–25 | 20–25 |
+| Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 13 | 0% | 13–15 | 12–15 | 12–16 | 12–16 |
+| .Nowoczesna (ALDE) | 0 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
+| Kukiz’15 (ENF) | 0 | 0 | 0% | 0 | 0 | 0–3 | 0–3 |
+| Partia Razem (—) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Sojusz Lewicy Demokratycznej (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0–3 |
+| Wolność (EFDD) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Prawo i Sprawiedliwość (ECR)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.1% | 100% |  |
+| 20 | 0.7% | 99.9% |  |
+| 21 | 10% | 99.2% |  |
+| 22 | 6% | 89% |  |
+| 23 | 44% | 83% | Median |
+| 24 | 0.9% | 39% |  |
+| 25 | 38% | 38% |  |
+| 26 | 0% | 0% |  |
+
+### Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0.4% | 100% |  |
+| 12 | 5% | 99.6% |  |
+| 13 | 84% | 95% | Median |
+| 14 | 0.5% | 11% |  |
+| 15 | 6% | 10% |  |
+| 16 | 4% | 4% |  |
+| 17 | 0% | 0% |  |
+
+### .Nowoczesna (ALDE)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 47% | 99.9% |  |
+| 4 | 53% | 53% | Median |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
+
+### Kukiz’15 (ENF)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 0% | 4% |  |
+| 3 | 4% | 4% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
+
+### Partia Razem (—)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Sojusz Lewicy Demokratycznej (S&D)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% |  |
+
+### Wolność (EFDD)
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
@@ -55,6 +305,6 @@
 ### Calculations
 
 + **Sample size:** 1027
-+ **Simulations done:** 0
-+ **Error estimate:** 100.00%
++ **Simulations done:** 1,024
++ **Error estimate:** 2.87%
 

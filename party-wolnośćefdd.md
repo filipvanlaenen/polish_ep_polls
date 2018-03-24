@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.8–3.2% | 0.6–3.5% | 0.5–3.8% | 0.4–4.3% |
-| [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 1.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.4% | 0.7–3.1% | 0.6–3.4% | 0.5–3.7% | 0.4–4.2% |
+| [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.1% |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.6–2.3% |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
@@ -27,10 +27,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 44% | 97% |  |
-| 1.5–2.5% | 28% | 53% | Median |
-| 2.5–3.5% | 20% | 25% |  |
-| 3.5–4.5% | 5% | 5% |  |
+| 0.5–1.5% | 53% | 97% | Median |
+| 1.5–2.5% | 24% | 44% |  |
+| 2.5–3.5% | 16% | 20% |  |
+| 3.5–4.5% | 4% | 4% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -44,7 +44,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 0 | 0 | 0 | 0 | 0 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |

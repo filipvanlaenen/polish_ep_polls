@@ -65,14 +65,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 8–14 | 8–14 | 8–15 | 7–16 |
+| N/A | [Poll Average](average.html) | 12 | 8–14 | 8–14 | 8–15 | 7–16 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 13 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 8 | 8 | 7–8 | 7–8 | 7–8 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 14 | 13–14 | 11–14 | 11–16 | 11–16 |
-| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 11–13 | 11–13 | 10–13 | 10–15 |
+| [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 9 | 9 | 9–10 | 9–10 | 8–10 |
-| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
+| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 10 | 9–11 | 9–11 | 9–12 | 8–13 |
 
 ### Probability Mass Function
@@ -93,12 +93,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 2% | 100% |  |
 | 8 | 18% | 98% |  |
 | 9 | 19% | 80% |  |
-| 10 | 1.4% | 61% |  |
-| 11 | 2% | 60% |  |
-| 12 | 5% | 58% |  |
-| 13 | 26% | 53% | Median |
-| 14 | 23% | 28% |  |
-| 15 | 3% | 5% |  |
+| 10 | 2% | 61% |  |
+| 11 | 7% | 59% |  |
+| 12 | 12% | 52% | Median |
+| 13 | 20% | 40% |  |
+| 14 | 17% | 20% |  |
+| 15 | 1.3% | 3% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0% | 0% |  |
 

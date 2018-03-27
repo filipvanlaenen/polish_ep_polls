@@ -93,14 +93,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–30 | 23–31 | 22–31 | 21–33 |
+| N/A | [Poll Average](average.html) | 25 | 23–29 | 23–30 | 22–30 | 21–33 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 23 | 21–25 | 21–25 | 21–25 | 20–25 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 28 | 27–28 | 26–28 | 25–28 | 24–28 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 24 | 23–24 | 22–25 | 22–25 | 22–27 |
-| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 28–31 | 28–32 | 27–33 | 27–34 |
-| [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 21 | 20–23 | 19–24 | 19–24 | 19–25 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 27–31 | 27–32 | 27–33 | 25–33 |
+| [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 21 | 21 | 20–21 | 20–22 | 20–22 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 23 | 23–25 | 23–25 | 23–28 | 23–28 |
-| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 23 | 22–25 | 22–25 | 21–26 | 21–27 |
+| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 22 | 20–25 | 20–25 | 20–25 | 20–25 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
 
 ### Probability Mass Function
@@ -137,15 +137,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 25% | 95% |  |
 | 24 | 16% | 71% |  |
 | 25 | 15% | 55% | Median |
-| 26 | 0.4% | 40% |  |
-| 27 | 2% | 40% | Majority |
-| 28 | 22% | 38% |  |
-| 29 | 5% | 16% |  |
-| 30 | 6% | 11% |  |
-| 31 | 4% | 6% |  |
+| 26 | 0.3% | 40% |  |
+| 27 | 5% | 40% | Majority |
+| 28 | 19% | 35% |  |
+| 29 | 9% | 16% |  |
+| 30 | 5% | 7% |  |
+| 31 | 0.6% | 2% |  |
 | 32 | 1.2% | 2% |  |
-| 33 | 0.4% | 0.7% |  |
-| 34 | 0.3% | 0.3% |  |
+| 33 | 0.5% | 0.6% |  |
+| 34 | 0.1% | 0.1% |  |
 | 35 | 0% | 0% |  |
 
 

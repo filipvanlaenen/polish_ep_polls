@@ -101,7 +101,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 21 | 21 | 20–21 | 20–22 | 20–22 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 23 | 23–25 | 23–25 | 23–28 | 23–28 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 22 | 20–25 | 20–25 | 20–25 | 20–25 |
-| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 27 | 25–28 | 24–29 | 24–29 | 23–30 |
+| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 29 | 29 | 29 | 27–29 | 25–29 |
 
 ### Probability Mass Function
 

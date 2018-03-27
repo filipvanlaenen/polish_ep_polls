@@ -49,10 +49,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
-| [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
-| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 0 | 0 | 0 | 0 | 0–3 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 4 | 4 | 4 | 4 | 0–4 |
+| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -67,11 +67,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 0% | 60% |  |
-| 2 | 1.1% | 60% |  |
-| 3 | 28% | 59% | Median |
-| 4 | 16% | 31% |  |
+| 0 | 37% | 100% | Last Result |
+| 1 | 0% | 63% |  |
+| 2 | 0.5% | 63% |  |
+| 3 | 12% | 63% |  |
+| 4 | 35% | 50% | Median |
 | 5 | 12% | 15% |  |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |

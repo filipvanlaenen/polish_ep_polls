@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 36–52% <br> 22–30 | 13–25% <br> 8–15 | 4–8% <br> 0–5 | 3–9% <br> 0–6 | 2–7% <br> 0–4 | 2–8% <br> 0–5 | 0–4% <br> 0 | 1–4% <br> 0–3 |
+| N/A | [Poll Average](average.html) | 36–52% <br> 22–30 | 13–25% <br> 7–15 | 4–8% <br> 0–5 | 3–9% <br> 0–6 | 2–7% <br> 0–4 | 2–8% <br> 0–5 | 0–4% <br> 0 | 1–4% <br> 0–3 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 35–41% <br> 21–25 | 20–25% <br> 12–16 | 4–7% <br> 0–3 | 5–8% <br> 3–4 | 1–3% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 |
-| [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 41–47% <br> 25–28 | 12–16% <br> 7–8 | 5–8% <br> 3–4 | 5–8% <br> 4 | 4–7% <br> 0 | 4–7% <br> 0–4 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 41–47% <br> 23–29 | 12–16% <br> 7–9 | 5–8% <br> 0–4 | 5–8% <br> 0–4 | 4–7% <br> 0–3 | 4–7% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 38–43% <br> 22–25 | 20–25% <br> 11–16 | 5–8% <br> 3–5 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 6–9% <br> 0–5 | 1–2% <br> 0 | 3–5% <br> 0 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 47–53% <br> 27–33 | 20–26% <br> 10–13 | 6–9% <br> 3–6 | 3–5% <br> 0–3 | 4–7% <br> 0–4 | 5–8% <br> 0–5 | 0–2% <br> 0 | 2–4% <br> 0–3 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 37–43% <br> 23–28 | 14–18% <br> 9–10 | 5–8% <br> 0–3 | 6–10% <br> 4–6 | 4–7% <br> 0–3 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 |

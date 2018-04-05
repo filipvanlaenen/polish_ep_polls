@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 03 Apr 2018 12:56:53 +0200</pubDate>
+    <pubDate>Wed, 04 Apr 2018 22:46:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for TVP1, 29–30 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-30-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 36.0–41.9%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 19.5–24.5%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 9.3–13.0%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 2.1–4.2%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-30-InstytutBadańPollster.png"
+        length="205919"
+        type="image/png"/>
+      <pubDate>Wed, 04 Apr 2018 22:25:23 +0200</pubDate>
+      <dc:date>2018-04-04T22:25:23.899425+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 26–27 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-27-KantarMillwardBrown.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 25.3–30.8%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 19.5–24.7%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 8.3–12.0%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 7.4–10.9%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-27-KantarMillwardBrown.png"
+        length="218510"
+        type="image/png"/>
+      <pubDate>Wed, 04 Apr 2018 22:31:48 +0200</pubDate>
+      <dc:date>2018-04-04T22:31:48.166148+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 21–22 March 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-22-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 43.6–49.8%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 23.0–28.4%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 6.4–9.8%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 5.4–8.6%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 1.1–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-22-Estymator.png"
+        length="194612"
+        type="image/png"/>
+      <pubDate>Wed, 04 Apr 2018 22:46:40 +0200</pubDate>
+      <dc:date>2018-04-04T22:46:40.047035+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar Public, 9–14 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-14-KantarPublic.html</link>
@@ -109,6 +139,6 @@
       <pubDate>Tue, 27 Mar 2018 16:29:46 +0200</pubDate>
       <dc:date>2018-03-27T16:29:46.759531+02:00</dc:date>
     </item>
-    <dc:date>2018-04-03T12:56:53.396632+02:00</dc:date>
+    <dc:date>2018-04-04T22:46:40.047035+02:00</dc:date>
   </channel>
 </rss>

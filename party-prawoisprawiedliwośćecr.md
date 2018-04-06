@@ -92,10 +92,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 17–30 | 17–30 | 17–30 | 14–30 |
+| N/A | [Poll Average](average.html) | 24 | 17–27 | 17–28 | 17–29 | 14–30 |
 | [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 17 | 17–18 | 15–18 | 13–18 | 13–18 |
-| [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 25–30 | 25–30 | 25–30 | 24–31 |
+| [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 23 | 21–25 | 21–25 | 21–25 | 20–25 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 24 | 23–24 | 22–25 | 22–25 | 22–27 |
@@ -137,14 +137,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 4% | 83% |  |
 | 22 | 7% | 79% |  |
 | 23 | 17% | 72% |  |
-| 24 | 16% | 55% | Median |
-| 25 | 14% | 38% |  |
-| 26 | 5% | 24% |  |
-| 27 | 3% | 19% | Majority |
-| 28 | 1.3% | 16% |  |
-| 29 | 0.6% | 14% |  |
-| 30 | 13% | 14% |  |
-| 31 | 0.3% | 0.3% |  |
+| 24 | 16% | 54% | Median |
+| 25 | 13% | 38% |  |
+| 26 | 8% | 25% |  |
+| 27 | 8% | 16% | Majority |
+| 28 | 5% | 8% |  |
+| 29 | 2% | 3% |  |
+| 30 | 0.6% | 0.7% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 

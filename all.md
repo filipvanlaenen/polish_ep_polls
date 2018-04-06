@@ -7,7 +7,7 @@ The table below lists all polls registered and analyzed so far.
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 36–42% <br> 21–24 | 20–25% <br> 11–14 | 9–13% <br> 5–7 | 6–9% <br> 3–5 | 5–8% <br> 0–4 | 7–10% <br> 3–5 | 2–4% <br> 0 | 3–5% <br> 0–3 |
 | [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 25–31% <br> 13–18 | 20–25% <br> 11–15 | 8–12% <br> 4–6 | 5–8% <br> 0–3 | 4–7% <br> 0–4 | 7–11% <br> 4–7 | 4–7% <br> 0–4 | 1–3% <br> 0 |
-| [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 44–50% <br> 25–30 | 23–28% <br> 14–16 | 6–10% <br> 3–5 | 4–6% <br> 0–3 | 4–7% <br> 0–4 | 5–9% <br> 3–4 | 0–2% <br> 0 | 1–3% <br> 0 |
+| [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 44–50% <br> 25–30 | 23–28% <br> 13–17 | 6–10% <br> 3–5 | 4–6% <br> 0–3 | 4–7% <br> 0–3 | 5–9% <br> 3–5 | 0–2% <br> 0 | 1–3% <br> 0 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 35–41% <br> 21–25 | 20–25% <br> 12–16 | 4–7% <br> 0–3 | 5–8% <br> 3–4 | 1–3% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 41–47% <br> 23–29 | 12–16% <br> 7–9 | 5–8% <br> 0–4 | 5–8% <br> 0–4 | 4–7% <br> 0–3 | 4–7% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 38–43% <br> 22–25 | 20–25% <br> 11–16 | 5–8% <br> 3–5 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 6–9% <br> 0–5 | 1–2% <br> 0 | 3–5% <br> 0 |

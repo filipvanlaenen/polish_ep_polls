@@ -92,11 +92,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 17–27 | 17–28 | 17–29 | 14–30 |
+| N/A | [Poll Average](average.html) | 24 | 16–27 | 15–28 | 15–29 | 14–30 |
 | [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
-| [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 17 | 17–18 | 15–18 | 13–18 | 13–18 |
+| [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
-| [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 23 | 21–25 | 21–25 | 21–25 | 20–25 |
+| [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 24 | 23–24 | 22–25 | 22–25 | 22–27 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 27–31 | 27–32 | 27–33 | 25–33 |
@@ -126,20 +126,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.5% | 100% |  |
-| 14 | 0.3% | 99.5% |  |
-| 15 | 0.2% | 99.2% |  |
-| 16 | 0.1% | 99.0% |  |
-| 17 | 13% | 98.8% |  |
-| 18 | 3% | 86% |  |
-| 19 | 0.1% | 83% |  |
-| 20 | 0.4% | 83% |  |
-| 21 | 4% | 83% |  |
-| 22 | 7% | 79% |  |
-| 23 | 17% | 72% |  |
-| 24 | 16% | 54% | Median |
-| 25 | 13% | 38% |  |
-| 26 | 8% | 25% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.9% | 99.9% |  |
+| 15 | 5% | 99.0% |  |
+| 16 | 5% | 94% |  |
+| 17 | 4% | 89% |  |
+| 18 | 1.3% | 85% |  |
+| 19 | 0.3% | 84% |  |
+| 20 | 1.4% | 83% |  |
+| 21 | 6% | 82% |  |
+| 22 | 12% | 76% |  |
+| 23 | 14% | 64% |  |
+| 24 | 18% | 50% | Median |
+| 25 | 7% | 32% |  |
+| 26 | 9% | 25% |  |
 | 27 | 8% | 16% | Majority |
 | 28 | 5% | 8% |  |
 | 29 | 2% | 3% |  |

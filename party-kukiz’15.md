@@ -62,11 +62,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 5 | 3–5 | 3–5 | 3–5 | 0–5 |
-| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 3 | 3 | 0–3 | 0–3 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 4 | 4 | 4 | 4 | 3–5 |
+| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 
 ### Probability Mass Function
 

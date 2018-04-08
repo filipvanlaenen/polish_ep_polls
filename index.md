@@ -11,7 +11,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 44–50% <br> 25–30 | 23–28% <br> 13–17 | 6–10% <br> 3–5 | 4–6% <br> 0–3 | 4–7% <br> 0–3 | 5–9% <br> 3–5 | 0–2% <br> 0 | 1–3% <br> 0 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 35–41% <br> 20–24 | 20–25% <br> 11–15 | 4–7% <br> 0–3 | 5–8% <br> 0–4 | 1–3% <br> 0 | 3–5% <br> 0–3 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 41–47% <br> 23–29 | 12–16% <br> 7–9 | 5–8% <br> 0–4 | 5–8% <br> 0–4 | 4–7% <br> 0–3 | 4–7% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
-| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 38–43% <br> 22–25 | 20–25% <br> 11–16 | 5–8% <br> 3–5 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 6–9% <br> 0–5 | 1–2% <br> 0 | 3–5% <br> 0 |
+| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 38–43% <br> 22–26 | 20–25% <br> 11–14 | 5–8% <br> 3–4 | 3–5% <br> 0 | 5–8% <br> 0–4 | 6–9% <br> 3–5 | 1–2% <br> 0 | 3–5% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

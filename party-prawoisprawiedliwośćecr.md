@@ -92,17 +92,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24 | 16–27 | 15–28 | 15–29 | 14–30 |
+| N/A | [Poll Average](average.html) | 23 | 16–27 | 15–28 | 15–29 | 14–30 |
 | [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
-| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 24 | 23–24 | 22–25 | 22–25 | 22–27 |
-| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 28–32 | 27–35 | 27–35 | 27–35 |
+| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 24 | 23–25 | 22–25 | 22–26 | 21–27 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 28–31 | 28–32 | 27–32 | 27–33 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 21 | 21 | 20–21 | 20–22 | 20–22 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 23 | 23–25 | 23–25 | 23–28 | 23–28 |
-| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 22 | 20–25 | 20–25 | 20–25 | 20–25 |
+| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 23 | 22–25 | 22–26 | 21–26 | 21–26 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 27 | 25–28 | 24–29 | 24–29 | 23–29 |
 
 ### Probability Mass Function
@@ -135,10 +135,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0.3% | 84% |  |
 | 20 | 1.4% | 83% |  |
 | 21 | 6% | 82% |  |
-| 22 | 12% | 76% |  |
-| 23 | 14% | 64% |  |
-| 24 | 18% | 50% | Median |
-| 25 | 7% | 32% |  |
+| 22 | 13% | 76% |  |
+| 23 | 18% | 63% | Median |
+| 24 | 13% | 46% |  |
+| 25 | 8% | 33% |  |
 | 26 | 9% | 25% |  |
 | 27 | 8% | 16% | Majority |
 | 28 | 5% | 8% |  |

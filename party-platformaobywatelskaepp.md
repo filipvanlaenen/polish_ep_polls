@@ -77,11 +77,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 14 | 13–14 | 11–14 | 11–16 | 11–16 |
-| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 12 | 12–13 | 11–13 | 11–13 | 11–13 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 9 | 9 | 9–10 | 9–10 | 8–10 |
-| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 11 | 10–12 | 10–13 | 10–13 | 10–14 |
+| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 11 | 11–12 | 10–13 | 10–13 | 10–14 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 10 | 9–11 | 9–11 | 9–11 | 8–13 |
 
 ### Probability Mass Function
@@ -102,14 +102,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 4% | 99.7% |  |
 | 8 | 9% | 95% |  |
 | 9 | 3% | 87% |  |
-| 10 | 0.7% | 84% |  |
+| 10 | 0.6% | 84% |  |
 | 11 | 5% | 83% |  |
-| 12 | 18% | 78% |  |
-| 13 | 22% | 60% | Median |
-| 14 | 27% | 38% |  |
-| 15 | 7% | 11% |  |
-| 16 | 3% | 4% |  |
-| 17 | 0.6% | 0.6% |  |
+| 12 | 21% | 78% |  |
+| 13 | 31% | 57% | Median |
+| 14 | 16% | 26% |  |
+| 15 | 7% | 10% |  |
+| 16 | 3% | 3% |  |
+| 17 | 0.5% | 0.6% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 

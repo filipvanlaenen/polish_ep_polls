@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 07 Apr 2018 19:54:20 +0200</pubDate>
+    <pubDate>Sun, 08 Apr 2018 10:44:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for TVP1, 29–30 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-30-InstytutBadańPollster.html#seats</link>
@@ -176,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-22-Estymator.png"
         length="194136"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 12:32:20 +0200</pubDate>
-      <dc:date>2018-03-27T12:32:20.53588+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 10:44:58 +0200</pubDate>
+      <dc:date>2018-04-08T10:44:58.420835+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 16–21 February 2018 – Voting Intentions</title>
@@ -216,9 +216,9 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.png"
         length="187835"
         type="image/png"/>
-      <pubDate>Tue, 27 Mar 2018 16:29:46 +0200</pubDate>
-      <dc:date>2018-03-27T16:29:46.759531+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 10:25:36 +0200</pubDate>
+      <dc:date>2018-04-08T10:25:36.654533+02:00</dc:date>
     </item>
-    <dc:date>2018-04-07T19:54:20.985325+02:00</dc:date>
+    <dc:date>2018-04-08T10:44:58.420835+02:00</dc:date>
   </channel>
 </rss>

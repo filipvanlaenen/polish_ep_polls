@@ -15,7 +15,7 @@ The table below lists all polls registered and analyzed so far.
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 34–40% <br> 20–22 | 18–23% <br> 11–13 | 6–9% <br> 3–5 | 5–8% <br> 0–4 | 4–7% <br> 0–3 | 4–7% <br> 0–3 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 37–43% <br> 23–28 | 14–18% <br> 9–10 | 5–8% <br> 0–3 | 6–10% <br> 4–6 | 4–7% <br> 0–3 | 2–4% <br> 0 | 2–4% <br> 0 | 2–4% <br> 0 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 37–43% <br> 20–25 | 17–22% <br> 10–13 | 4–7% <br> 0–3 | 3–6% <br> 0–3 | 5–8% <br> 3–4 | 8–11% <br> 4–6 | 1–2% <br> 0 | 3–5% <br> 0–3 |
-| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 41–47% <br> 27–29 | 15–20% <br> 10 | 6–9% <br> 4 | 4–7% <br> 0–3 | 3–5% <br> 0 | 3–5% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 |
+| [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 41–47% <br> 24–29 | 15–20% <br> 9–11 | 6–9% <br> 3–5 | 4–7% <br> 0–4 | 3–5% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–2% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

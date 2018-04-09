@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 08 Apr 2018 17:09:40 +0200</pubDate>
+    <pubDate>Mon, 09 Apr 2018 19:55:00 +0200</pubDate>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for TVP1, 29–30 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-30-InstytutBadańPollster.html#seats</link>
@@ -180,14 +180,34 @@
       <dc:date>2018-04-08T10:48:53.88351+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public, 16–21 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-21-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 19–24 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-21-KantarPublic-seats.png"
+        length="210291"
+        type="image/png"/>
+      <pubDate>Mon, 09 Apr 2018 19:55:00 +0200</pubDate>
+      <dc:date>2018-04-09T19:55:00.753104+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 16–21 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-21-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-21-KantarPublic-coalitions-seats.png"
+        length="130875"
+        type="image/png"/>
+      <pubDate>Mon, 09 Apr 2018 19:55:00 +0200</pubDate>
+      <dc:date>2018-04-09T19:55:00.753104+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Public, 16–21 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-21-KantarPublic.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 34.1–40.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17.7–22.6%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 5.6–8.7%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-21-KantarPublic.png"
         length="204374"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 15:11:49 +0200</pubDate>
-      <dc:date>2018-04-08T15:11:49.2411+02:00</dc:date>
+      <pubDate>Mon, 09 Apr 2018 19:55:00 +0200</pubDate>
+      <dc:date>2018-04-09T19:55:00.753104+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 19–20 February 2018 – Voting Intentions</title>
@@ -200,14 +220,54 @@
       <dc:date>2018-04-08T17:09:40.190082+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IBRiS for Onet, 20 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 21–26 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS-seats.png"
+        length="193560"
+        type="image/png"/>
+      <pubDate>Mon, 09 Apr 2018 15:41:50 +0200</pubDate>
+      <dc:date>2018-04-09T15:41:50.668944+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet, 20 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS-coalitions-seats.png"
+        length="116432"
+        type="image/png"/>
+      <pubDate>Mon, 09 Apr 2018 15:41:50 +0200</pubDate>
+      <dc:date>2018-04-09T15:41:50.668944+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS for Onet, 20 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 36.9–42.7%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17.4–22.1%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4.3–7.1%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 3.5–5.9%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 5.3–8.3%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 7.9–11.3%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0.8–2.2%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 2.9–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS.png"
         length="207564"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 13:16:23 +0200</pubDate>
-      <dc:date>2018-04-08T13:16:23.133455+02:00</dc:date>
+      <pubDate>Mon, 09 Apr 2018 15:41:50 +0200</pubDate>
+      <dc:date>2018-04-09T15:41:50.668944+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 1–8 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 24–29 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS-seats.png"
+        length="185076"
+        type="image/png"/>
+      <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
+      <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 1–8 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS-coalitions-seats.png"
+        length="107899"
+        type="image/png"/>
+      <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
+      <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 1–8 February 2018 – Voting Intentions</title>
@@ -216,9 +276,9 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.png"
         length="194371"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 10:25:36 +0200</pubDate>
-      <dc:date>2018-04-08T10:25:36.654533+02:00</dc:date>
+      <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
+      <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-04-08T17:09:40.190082+02:00</dc:date>
+    <dc:date>2018-04-09T19:55:00.753104+02:00</dc:date>
   </channel>
 </rss>

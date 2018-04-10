@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 09 Apr 2018 19:55:00 +0200</pubDate>
+    <pubDate>Tue, 10 Apr 2018 14:04:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for TVP1, 29–30 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-30-InstytutBadańPollster.html#seats</link>
@@ -210,14 +210,34 @@
       <dc:date>2018-04-09T19:55:00.753104+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 19–20 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-KantarMillwardBrown.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 22–27 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 3–6 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-KantarMillwardBrown-seats.png"
+        length="183655"
+        type="image/png"/>
+      <pubDate>Tue, 10 Apr 2018 14:04:35 +0200</pubDate>
+      <dc:date>2018-04-10T14:04:35.338365+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 19–20 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-KantarMillwardBrown.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-KantarMillwardBrown-coalitions-seats.png"
+        length="117952"
+        type="image/png"/>
+      <pubDate>Tue, 10 Apr 2018 14:04:35 +0200</pubDate>
+      <dc:date>2018-04-10T14:04:35.338365+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 19–20 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-KantarMillwardBrown.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 37.0–43.1%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 13.8–18.4%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4.7–7.6%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-KantarMillwardBrown.png"
         length="204318"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 17:09:40 +0200</pubDate>
-      <dc:date>2018-04-08T17:09:40.190082+02:00</dc:date>
+      <pubDate>Tue, 10 Apr 2018 14:04:35 +0200</pubDate>
+      <dc:date>2018-04-10T14:04:35.338365+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 20 February 2018 – Seat Projections</title>
@@ -279,6 +299,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-04-09T19:55:00.753104+02:00</dc:date>
+    <dc:date>2018-04-10T14:04:35.338365+02:00</dc:date>
   </channel>
 </rss>

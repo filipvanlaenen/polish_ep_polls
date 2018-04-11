@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 27 | 25–29 | 25–29 | 25–30 | 24–30 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
-| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 24 | 23–25 | 22–25 | 22–26 | 21–27 |
+| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 28–31 | 28–32 | 27–32 | 27–33 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 21 | 20–23 | 19–24 | 19–24 | 19–25 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
@@ -136,9 +136,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 1.4% | 83% |  |
 | 21 | 6% | 82% |  |
 | 22 | 13% | 76% |  |
-| 23 | 18% | 63% | Median |
-| 24 | 13% | 46% |  |
-| 25 | 8% | 33% |  |
+| 23 | 16% | 63% | Median |
+| 24 | 12% | 47% |  |
+| 25 | 9% | 34% |  |
 | 26 | 9% | 25% |  |
 | 27 | 8% | 16% | Majority |
 | 28 | 5% | 8% |  |

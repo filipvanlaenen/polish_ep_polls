@@ -99,7 +99,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 26 | 24–28 | 24–28 | 23–29 | 23–30 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
-| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 28–31 | 28–32 | 27–32 | 27–33 |
+| [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 28–31 | 28–32 | 27–33 | 27–34 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 21 | 20–23 | 19–24 | 19–24 | 19–25 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 24 | 23–26 | 22–26 | 22–27 | 21–28 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 23 | 22–25 | 22–25 | 21–26 | 21–27 |

@@ -76,9 +76,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 8–16 | 8–17 | 7–17 | 7–17 |
+| N/A | [Poll Average](average.html) | 13 | 8–16 | 8–17 | 7–17 | 7–18 |
 | [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–17 | 15–18 | 14–18 |
+| [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 12 | 11–14 | 11–14 | 11–14 | 11–15 |
 | [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
@@ -116,10 +116,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 26% | 55% | Median |
 | 14 | 10% | 29% |  |
 | 15 | 6% | 19% |  |
-| 16 | 6% | 13% |  |
-| 17 | 7% | 7% |  |
-| 18 | 0.4% | 0.4% |  |
-| 19 | 0.1% | 0.1% |  |
+| 16 | 7% | 13% |  |
+| 17 | 5% | 6% |  |
+| 18 | 0.9% | 1.0% |  |
+| 19 | 0% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
 

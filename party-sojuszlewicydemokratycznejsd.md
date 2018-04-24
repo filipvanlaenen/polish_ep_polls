@@ -65,9 +65,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
-| [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 0–5 |
@@ -92,10 +92,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 97% |  |
 | 2 | 0.3% | 97% |  |
 | 3 | 23% | 97% |  |
-| 4 | 26% | 73% | Median |
-| 5 | 41% | 48% |  |
-| 6 | 7% | 7% |  |
-| 7 | 0.2% | 0.2% |  |
+| 4 | 27% | 73% | Median |
+| 5 | 38% | 46% |  |
+| 6 | 8% | 8% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 

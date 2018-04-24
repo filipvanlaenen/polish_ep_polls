@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 5.1–10.6% | 4.7–11.1% | 4.4–11.5% | 3.9–12.2% |
+| N/A | [Poll Average](average.html) | 9.4% | 5.2–11.3% | 4.7–11.8% | 4.4–12.2% | 4.0–13.0% |
+| [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 9.8% | 8.7–11.1% | 8.4–11.4% | 8.2–11.7% | 7.7–12.3% |
+| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 11.0% | 9.9–12.4% | 9.5–12.8% | 9.3–13.1% | 8.7–13.8% |
+| [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 5.0% | 4.3–5.9% | 4.1–6.2% | 3.9–6.4% | 3.6–6.9% |
+| [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 10.0% | 8.9–11.3% | 8.5–11.6% | 8.3–12.0% | 7.8–12.6% |
 | [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.9% | 8.0–10.1% | 7.7–10.4% | 7.5–10.7% | 7.0–11.2% |
 | [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 8.5% | 7.5–9.7% | 7.3–10.1% | 7.0–10.3% | 6.6–10.9% |
@@ -37,16 +41,17 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 3% | 99.9% |  |
-| 4.5–5.5% | 12% | 97% |  |
-| 5.5–6.5% | 13% | 84% |  |
-| 6.5–7.5% | 7% | 72% |  |
-| 7.5–8.5% | 13% | 65% |  |
-| 8.5–9.5% | 23% | 52% | Median |
-| 9.5–10.5% | 19% | 30% |  |
-| 10.5–11.5% | 9% | 11% |  |
-| 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 4.5–5.5% | 11% | 97% |  |
+| 5.5–6.5% | 10% | 86% |  |
+| 6.5–7.5% | 4% | 75% |  |
+| 7.5–8.5% | 7% | 71% |  |
+| 8.5–9.5% | 19% | 65% | Median |
+| 9.5–10.5% | 24% | 46% |  |
+| 10.5–11.5% | 16% | 22% |  |
+| 11.5–12.5% | 6% | 7% |  |
+| 12.5–13.5% | 1.2% | 1.3% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -57,7 +62,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–6 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–7 | 0–7 | 0–8 |
+| [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
@@ -81,14 +90,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 0.6% | 92% |  |
-| 3 | 21% | 92% |  |
-| 4 | 17% | 70% |  |
-| 5 | 32% | 54% | Median |
-| 6 | 21% | 22% |  |
-| 7 | 1.4% | 1.4% |  |
-| 8 | 0% | 0% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 0% | 93% |  |
+| 2 | 0.6% | 93% |  |
+| 3 | 17% | 93% |  |
+| 4 | 9% | 75% |  |
+| 5 | 29% | 66% | Median |
+| 6 | 32% | 38% |  |
+| 7 | 5% | 5% |  |
+| 8 | 0.5% | 0.6% |  |
+| 9 | 0% | 0% |  |
 
 

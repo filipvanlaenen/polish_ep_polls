@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.8–4.9% | 0.7–5.4% | 0.6–5.8% | 0.5–6.5% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.4–4.9% | 1.2–5.4% | 1.1–5.8% | 0.9–6.4% |
+| [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
+| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.2–3.4% |
+| [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.4% | 1.1–2.0% | 1.0–2.1% | 0.9–2.2% | 0.7–2.5% |
 | [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% | 0.4–1.9% |
@@ -32,14 +36,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.2% | 100% | Last Result |
-| 0.5–1.5% | 42% | 98.8% |  |
-| 1.5–2.5% | 23% | 57% | Median |
-| 2.5–3.5% | 14% | 34% |  |
-| 3.5–4.5% | 7% | 20% |  |
-| 4.5–5.5% | 9% | 13% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 16% | 100% |  |
+| 1.5–2.5% | 28% | 84% |  |
+| 2.5–3.5% | 24% | 55% | Median |
+| 3.5–4.5% | 17% | 32% |  |
+| 4.5–5.5% | 11% | 14% |  |
+| 5.5–6.5% | 3% | 4% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -52,6 +56,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
+| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
+| [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 0 | 0 | 0 | 0 | 0 |
 | [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
@@ -77,9 +85,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 91% | 100% | Last Result, Median |
 | 1 | 0% | 9% |  |
-| 2 | 1.1% | 9% |  |
-| 3 | 7% | 8% |  |
-| 4 | 0.2% | 0.2% |  |
+| 2 | 1.3% | 9% |  |
+| 3 | 7% | 7% |  |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 

@@ -57,7 +57,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
-| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 0 | 0 | 0 | 0 | 0 |
@@ -83,9 +83,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 0% | 9% |  |
-| 2 | 1.3% | 9% |  |
+| 0 | 92% | 100% | Last Result, Median |
+| 1 | 0% | 8% |  |
+| 2 | 1.2% | 8% |  |
 | 3 | 7% | 7% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |

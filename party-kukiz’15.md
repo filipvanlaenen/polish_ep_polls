@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–7 | 0–7 | 0–7 |
 | [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -90,15 +90,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 0% | 93% |  |
-| 2 | 0.2% | 93% |  |
-| 3 | 18% | 93% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 0.2% | 92% |  |
+| 3 | 17% | 92% |  |
 | 4 | 9% | 75% |  |
-| 5 | 31% | 66% | Median |
-| 6 | 30% | 35% |  |
-| 7 | 5% | 6% |  |
-| 8 | 0.6% | 0.6% |  |
+| 5 | 33% | 66% | Median |
+| 6 | 27% | 33% |  |
+| 7 | 6% | 6% |  |
+| 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |
 
 

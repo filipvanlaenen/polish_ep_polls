@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 24 Apr 2018 21:52:15 +0200</pubDate>
+    <pubDate>Wed, 25 Apr 2018 18:55:33 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet, 19 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-19-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 18–21 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4–6 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-19-IBRiS-seats.png"
+        length="181488"
+        type="image/png"/>
+      <pubDate>Wed, 25 Apr 2018 18:55:33 +0200</pubDate>
+      <dc:date>2018-04-25T18:55:33.520962+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet, 19 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-19-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-19-IBRiS-coalitions-seats.png"
+        length="107407"
+        type="image/png"/>
+      <pubDate>Wed, 25 Apr 2018 18:55:33 +0200</pubDate>
+      <dc:date>2018-04-25T18:55:33.520962+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 19 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-19-IBRiS.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-19-IBRiS.png"
         length="213027"
         type="image/png"/>
-      <pubDate>Tue, 24 Apr 2018 07:49:30 +0200</pubDate>
-      <dc:date>2018-04-24T07:49:30.066476+02:00</dc:date>
+      <pubDate>Wed, 25 Apr 2018 18:55:33 +0200</pubDate>
+      <dc:date>2018-04-25T18:55:33.520962+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for OKO.press, 12–13 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-13-IPSOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 21–26 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 5–8 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 3–5 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-13-IPSOS-seats.png"
+        length="193310"
+        type="image/png"/>
+      <pubDate>Wed, 25 Apr 2018 14:46:54 +0200</pubDate>
+      <dc:date>2018-04-25T14:46:54.42384+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for OKO.press, 12–13 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-13-IPSOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-13-IPSOS-coalitions-seats.png"
+        length="117572"
+        type="image/png"/>
+      <pubDate>Wed, 25 Apr 2018 14:46:54 +0200</pubDate>
+      <dc:date>2018-04-25T14:46:54.42384+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS for OKO.press, 12–13 April 2018 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-13-IPSOS.png"
         length="211123"
         type="image/png"/>
-      <pubDate>Tue, 24 Apr 2018 07:39:52 +0200</pubDate>
-      <dc:date>2018-04-24T07:39:52.302263+02:00</dc:date>
+      <pubDate>Wed, 25 Apr 2018 14:46:54 +0200</pubDate>
+      <dc:date>2018-04-25T14:46:54.42384+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 5–12 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-12-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 25–31 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 8–11 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 0–3 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-12-CBOS-seats.png"
+        length="189718"
+        type="image/png"/>
+      <pubDate>Wed, 25 Apr 2018 18:16:54 +0200</pubDate>
+      <dc:date>2018-04-25T18:16:54.399605+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 5–12 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-12-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-12-CBOS-coalitions-seats.png"
+        length="112672"
+        type="image/png"/>
+      <pubDate>Wed, 25 Apr 2018 18:16:54 +0200</pubDate>
+      <dc:date>2018-04-25T18:16:54.399605+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 5–12 April 2018 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-12-CBOS.png"
         length="191222"
         type="image/png"/>
-      <pubDate>Tue, 24 Apr 2018 07:59:25 +0200</pubDate>
-      <dc:date>2018-04-24T07:59:25.351187+02:00</dc:date>
+      <pubDate>Wed, 25 Apr 2018 18:16:54 +0200</pubDate>
+      <dc:date>2018-04-25T18:16:54.399605+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 9–10 April 2018 – Seat Projections</title>
@@ -489,6 +549,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-04-24T21:52:15.248442+02:00</dc:date>
+    <dc:date>2018-04-25T18:55:33.520962+02:00</dc:date>
   </channel>
 </rss>

@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 02 May 2018 08:26:08 +0200</pubDate>
+    <pubDate>Wed, 02 May 2018 13:05:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Nowa TV, se.pl and Super Express, 25–27 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 23–27 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 5–7 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster-seats.png"
+        length="201078"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 13:05:10 +0200</pubDate>
+      <dc:date>2018-05-02T13:05:10.247507+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Nowa TV, se.pl and Super Express, 25–27 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster-coalitions-seats.png"
+        length="122328"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 13:05:10 +0200</pubDate>
+      <dc:date>2018-05-02T13:05:10.247507+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Nowa TV, se.pl and Super Express, 25–27 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster.png"
         length="214888"
         type="image/png"/>
-      <pubDate>Wed, 02 May 2018 08:03:29 +0200</pubDate>
-      <dc:date>2018-05-02T08:03:29.44228+02:00</dc:date>
+      <pubDate>Wed, 02 May 2018 13:05:10 +0200</pubDate>
+      <dc:date>2018-05-02T13:05:10.247507+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 25–26 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-KantarMillwardBrown.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 17–22 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 13–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 0–3 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3–6 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-KantarMillwardBrown-seats.png"
+        length="208855"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 11:23:29 +0200</pubDate>
+      <dc:date>2018-05-02T11:23:29.824699+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 25–26 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-KantarMillwardBrown.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-KantarMillwardBrown-coalitions-seats.png"
+        length="134423"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 11:23:29 +0200</pubDate>
+      <dc:date>2018-05-02T11:23:29.824699+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 25–26 April 2018 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-KantarMillwardBrown.png"
         length="219561"
         type="image/png"/>
-      <pubDate>Wed, 02 May 2018 08:13:32 +0200</pubDate>
-      <dc:date>2018-05-02T08:13:32.086322+02:00</dc:date>
+      <pubDate>Wed, 02 May 2018 11:23:29 +0200</pubDate>
+      <dc:date>2018-05-02T11:23:29.824699+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 25–26 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-Estymator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 20–24 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 6–8 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-Estymator-seats.png"
+        length="195825"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 10:55:40 +0200</pubDate>
+      <dc:date>2018-05-02T10:55:40.682397+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 25–26 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-Estymator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-Estymator-coalitions-seats.png"
+        length="110235"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 10:55:40 +0200</pubDate>
+      <dc:date>2018-05-02T10:55:40.682397+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 25–26 April 2018 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-Estymator.png"
         length="215629"
         type="image/png"/>
-      <pubDate>Wed, 02 May 2018 08:26:08 +0200</pubDate>
-      <dc:date>2018-05-02T08:26:08.067612+02:00</dc:date>
+      <pubDate>Wed, 02 May 2018 10:55:40 +0200</pubDate>
+      <dc:date>2018-05-02T10:55:40.682397+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 19 April 2018 – Seat Projections</title>
@@ -579,6 +639,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-05-02T08:26:08.067612+02:00</dc:date>
+    <dc:date>2018-05-02T13:05:10.247507+02:00</dc:date>
   </channel>
 </rss>

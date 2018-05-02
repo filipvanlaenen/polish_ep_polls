@@ -82,10 +82,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 10–16 | 9–16 | 9–16 | 8–17 |
-| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 14 | 12–15 | 12–15 | 12–16 | 11–16 |
+| N/A | [Poll Average](average.html) | 14 | 10–16 | 9–16 | 9–17 | 8–17 |
+| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
-| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 15–16 | 14–17 | 14–17 | 13–17 |
+| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
@@ -126,12 +126,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 6% | 92% |  |
 | 11 | 4% | 86% |  |
 | 12 | 11% | 83% |  |
-| 13 | 20% | 72% |  |
-| 14 | 23% | 52% | Median |
-| 15 | 19% | 29% |  |
-| 16 | 8% | 10% |  |
-| 17 | 2% | 2% |  |
-| 18 | 0.1% | 0.1% |  |
+| 13 | 21% | 72% |  |
+| 14 | 24% | 52% | Median |
+| 15 | 16% | 28% |  |
+| 16 | 8% | 12% |  |
+| 17 | 3% | 3% |  |
+| 18 | 0.3% | 0.3% |  |
 | 19 | 0% | 0% |  |
 
 

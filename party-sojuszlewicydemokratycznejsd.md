@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 5.7–10.0% | 5.4–10.4% | 5.1–10.7% | 4.6–11.4% |
+| N/A | [Poll Average](average.html) | 7.4% | 5.7–9.4% | 5.3–9.9% | 5.1–10.2% | 4.6–11.0% |
+| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
+| [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
+| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 9.2% | 8.2–10.4% | 7.8–10.7% | 7.6–11.0% | 7.1–11.6% |
 | [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.5% | 4.4–8.0% |
@@ -42,13 +45,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.4% | 100% |  |
 | 4.5–5.5% | 7% | 99.6% |  |
-| 5.5–6.5% | 18% | 92% |  |
-| 6.5–7.5% | 14% | 74% |  |
-| 7.5–8.5% | 16% | 60% | Median |
-| 8.5–9.5% | 25% | 44% |  |
-| 9.5–10.5% | 15% | 19% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 22% | 92% |  |
+| 6.5–7.5% | 24% | 70% | Median |
+| 7.5–8.5% | 22% | 46% |  |
+| 8.5–9.5% | 16% | 24% |  |
+| 9.5–10.5% | 7% | 8% |  |
+| 10.5–11.5% | 1.3% | 1.4% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -60,7 +63,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 0–6 |
+| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
@@ -90,12 +96,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
 | 1 | 0% | 98% |  |
-| 2 | 0.1% | 98% |  |
-| 3 | 25% | 98% |  |
-| 4 | 29% | 73% | Median |
-| 5 | 35% | 44% |  |
-| 6 | 9% | 9% |  |
-| 7 | 0.3% | 0.3% |  |
-| 8 | 0% | 0% |  |
+| 2 | 0.2% | 98% |  |
+| 3 | 28% | 98% |  |
+| 4 | 43% | 70% | Median |
+| 5 | 24% | 28% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0% | 0% |  |
 
 

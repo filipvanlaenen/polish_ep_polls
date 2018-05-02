@@ -5,6 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 39–45% <br> 22–27 | 20–26% <br> 12–16 | 9–13% <br> 5–7 | 5–8% <br> 0–4 | 3–5% <br> 0–3 | 6–9% <br> 3–5 | 2–4% <br> 0 | 3–5% <br> 0–3 |
+| [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 30–36% <br> 17–22 | 22–28% <br> 13–17 | 4–7% <br> 0–4 | 5–8% <br> 0–4 | 4–7% <br> 0–4 | 6–10% <br> 4–6 | 3–5% <br> 0–3 | 2–4% <br> 0 |
+| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 35–41% <br> 20–23 | 25–30% <br> 14–17 | 11–15% <br> 6–9 | 3–5% <br> 0 | 5–8% <br> 0–4 | 7–10% <br> 4–6 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 32–37% <br> 18–21 | 22–27% <br> 12–15 | 8–12% <br> 4–6 | 3–6% <br> 0–3 | 5–8% <br> 3–4 | 8–11% <br> 4–6 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 36–42% <br> 21–26 | 19–24% <br> 11–14 | 9–13% <br> 5–8 | 6–9% <br> 3–5 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 3–5% <br> 0–3 | 1–3% <br> 0 |
 | [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 43–49% <br> 25–31 | 14–18% <br> 8–11 | 4–6% <br> 0–3 | 3–5% <br> 0–3 | 2–4% <br> 0 | 5–7% <br> 0–4 | 1–3% <br> 0 | 1–2% <br> 0 |

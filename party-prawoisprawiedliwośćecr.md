@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.9% | 33.1–45.3% | 32.2–46.5% | 31.5–47.3% | 30.3–48.6% |
+| N/A | [Poll Average](average.html) | 37.9% | 33.1–45.2% | 32.2–46.5% | 31.5–47.3% | 30.3–48.6% |
+| [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 41.9% | 40.0–43.8% | 39.5–44.4% | 39.0–44.9% | 38.1–45.8% |
 | [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 41.9% | 39.9–43.9% | 39.4–44.4% | 38.9–44.9% | 38.0–45.9% |
 | [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–35.9% | 29.2–36.9% |
 | [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 38.2% | 36.3–40.2% | 35.8–40.8% | 35.3–41.3% | 34.4–42.2% |
@@ -82,7 +83,7 @@ The following table shows the probability mass function per percentage block of 
 | 39.5–40.5% | 7% | 36% |  |
 | 40.5–41.5% | 6% | 29% |  |
 | 41.5–42.5% | 5% | 24% |  |
-| 42.5–43.5% | 3% | 19% |  |
+| 42.5–43.5% | 4% | 19% |  |
 | 43.5–44.5% | 3% | 16% |  |
 | 44.5–45.5% | 4% | 12% |  |
 | 45.5–46.5% | 4% | 9% |  |
@@ -102,6 +103,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 19–27 | 19–28 | 18–29 | 17–30 |
+| [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 25 | 25 | 25 | 24–27 | 22–28 |
 | [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
 | [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 20–23 | 20–23 | 20–24 | 19–24 |
@@ -155,11 +157,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 13% | 87% |  |
 | 21 | 17% | 74% |  |
 | 22 | 12% | 57% | Median |
-| 23 | 11% | 45% |  |
-| 24 | 8% | 34% |  |
-| 25 | 6% | 25% |  |
-| 26 | 7% | 20% |  |
-| 27 | 5% | 13% | Majority |
+| 23 | 10% | 45% |  |
+| 24 | 5% | 35% |  |
+| 25 | 15% | 29% |  |
+| 26 | 2% | 15% |  |
+| 27 | 4% | 12% | Majority |
 | 28 | 4% | 8% |  |
 | 29 | 2% | 4% |  |
 | 30 | 1.0% | 1.5% |  |

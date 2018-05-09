@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 02 May 2018 13:05:10 +0200</pubDate>
+    <pubDate>Wed, 09 May 2018 18:51:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Nowa TV, se.pl and Super Express, 27–29 April 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-29-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 39.0–44.9%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 21.5–26.5%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 7.4–10.9%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 3.0–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-29-InstytutBadańPollster.png"
+        length="212876"
+        type="image/png"/>
+      <pubDate>Wed, 09 May 2018 18:51:17 +0200</pubDate>
+      <dc:date>2018-05-09T18:51:17.239168+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Nowa TV, se.pl and Super Express, 25–27 April 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster.html#seats</link>
@@ -639,6 +649,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-05-02T13:05:10.247507+02:00</dc:date>
+    <dc:date>2018-05-09T18:51:17.239168+02:00</dc:date>
   </channel>
 </rss>

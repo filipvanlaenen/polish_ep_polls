@@ -68,7 +68,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–7 | 0–7 | 0–8 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 0–7 | 0–7 | 0–8 | 0–8 |
 | [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -104,9 +104,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 85% |  |
 | 2 | 0.5% | 85% |  |
 | 3 | 23% | 84% |  |
-| 4 | 18% | 61% | Median |
-| 5 | 11% | 43% |  |
-| 6 | 15% | 32% |  |
+| 4 | 8% | 61% |  |
+| 5 | 18% | 53% | Median |
+| 6 | 18% | 35% |  |
 | 7 | 12% | 17% |  |
 | 8 | 5% | 5% |  |
 | 9 | 0.3% | 0.3% |  |

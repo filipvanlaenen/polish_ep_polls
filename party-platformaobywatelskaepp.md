@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.6% | 16.6–27.0% | 15.6–27.9% | 15.0–28.7% | 14.1–29.9% |
+| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 20.0% | 18.5–21.6% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
+| [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 27.3% | 25.6–29.1% | 25.1–29.6% | 24.7–30.0% | 23.9–30.8% |
 | [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 23.9% | 22.3–25.6% | 21.9–26.1% | 21.5–26.5% | 20.7–27.4% |
 | [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 23.0% | 21.3–24.7% | 20.9–25.2% | 20.5–25.6% | 19.7–26.5% |
 | [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
@@ -84,6 +86,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 10–16 | 9–16 | 9–17 | 8–17 |
+| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 10 | 9–10 | 9–10 | 9–10 | 9–10 |
+| [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 14 | 13–16 | 13–17 | 13–17 | 13–17 |
 | [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 15 | 14–16 | 13–17 | 13–17 | 12–18 |

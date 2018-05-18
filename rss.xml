@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 10 May 2018 09:55:21 +0200</pubDate>
+    <pubDate>Fri, 18 May 2018 09:58:40 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for TVP1, 10–11 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 40.0–45.8%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17.7–22.5%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 6.5–9.7%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 4.8–7.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 7.4–10.8%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 3.0–5.3%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 3.9–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster.png"
+        length="208267"
+        type="image/png"/>
+      <pubDate>Thu, 17 May 2018 19:54:30 +0200</pubDate>
+      <dc:date>2018-05-17T19:54:30.629265+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 10–11 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 34.8–40.5%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 24.7–30.0%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 5.0–7.9%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 2.1–4.1%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 4.1–6.8%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 8.7–12.3%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0.6–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-IBRiS.png"
+        length="207555"
+        type="image/png"/>
+      <pubDate>Fri, 18 May 2018 09:58:40 +0200</pubDate>
+      <dc:date>2018-05-18T09:58:40.58578+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Nowa TV, se.pl and Super Express, 27–29 April 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-29-InstytutBadańPollster.html#seats</link>
@@ -24,7 +44,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-29-InstytutBadańPollster.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-29-InstytutBadańPollster-coalitions-seats.png"
-        length="127967"
+        length="127981"
         type="image/png"/>
       <pubDate>Thu, 10 May 2018 09:55:21 +0200</pubDate>
       <dc:date>2018-05-10T09:55:21.002511+02:00</dc:date>
@@ -54,7 +74,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-27-InstytutBadańPollster-coalitions-seats.png"
-        length="122328"
+        length="122326"
         type="image/png"/>
       <pubDate>Wed, 02 May 2018 13:05:10 +0200</pubDate>
       <dc:date>2018-05-02T13:05:10.247507+02:00</dc:date>
@@ -84,7 +104,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-KantarMillwardBrown.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-KantarMillwardBrown-coalitions-seats.png"
-        length="134423"
+        length="134746"
         type="image/png"/>
       <pubDate>Wed, 02 May 2018 11:23:29 +0200</pubDate>
       <dc:date>2018-05-02T11:23:29.824699+02:00</dc:date>
@@ -114,7 +134,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-Estymator.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-26-Estymator-coalitions-seats.png"
-        length="110235"
+        length="110302"
         type="image/png"/>
       <pubDate>Wed, 02 May 2018 10:55:40 +0200</pubDate>
       <dc:date>2018-05-02T10:55:40.682397+02:00</dc:date>
@@ -144,7 +164,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-19-IBRiS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-19-IBRiS-coalitions-seats.png"
-        length="107407"
+        length="107539"
         type="image/png"/>
       <pubDate>Wed, 25 Apr 2018 18:55:33 +0200</pubDate>
       <dc:date>2018-04-25T18:55:33.520962+02:00</dc:date>
@@ -174,7 +194,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-13-IPSOS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-13-IPSOS-coalitions-seats.png"
-        length="117572"
+        length="117638"
         type="image/png"/>
       <pubDate>Wed, 25 Apr 2018 14:46:54 +0200</pubDate>
       <dc:date>2018-04-25T14:46:54.42384+02:00</dc:date>
@@ -204,7 +224,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-12-CBOS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-12-CBOS-coalitions-seats.png"
-        length="112672"
+        length="112665"
         type="image/png"/>
       <pubDate>Wed, 25 Apr 2018 18:16:54 +0200</pubDate>
       <dc:date>2018-04-25T18:16:54.399605+02:00</dc:date>
@@ -234,7 +254,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-10-KantarPublic.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-10-KantarPublic-coalitions-seats.png"
-        length="115221"
+        length="115116"
         type="image/png"/>
       <pubDate>Tue, 24 Apr 2018 21:52:15 +0200</pubDate>
       <dc:date>2018-04-24T21:52:15.248442+02:00</dc:date>
@@ -264,7 +284,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-05-InstytutBadańPollster.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-05-InstytutBadańPollster-coalitions-seats.png"
-        length="120839"
+        length="120971"
         type="image/png"/>
       <pubDate>Tue, 24 Apr 2018 11:59:36 +0200</pubDate>
       <dc:date>2018-04-24T11:59:36.731088+02:00</dc:date>
@@ -294,7 +314,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-05-Estymator.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-05-Estymator-coalitions-seats.png"
-        length="108118"
+        length="108255"
         type="image/png"/>
       <pubDate>Sun, 22 Apr 2018 08:04:16 +0200</pubDate>
       <dc:date>2018-04-22T08:04:16.6608+02:00</dc:date>
@@ -324,7 +344,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-04-04-IBRiS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-04-IBRiS-coalitions-seats.png"
-        length="133026"
+        length="133325"
         type="image/png"/>
       <pubDate>Tue, 24 Apr 2018 17:56:40 +0200</pubDate>
       <dc:date>2018-04-24T17:56:40.838177+02:00</dc:date>
@@ -354,7 +374,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-30-InstytutBadańPollster.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-30-InstytutBadańPollster-coalitions-seats.png"
-        length="114464"
+        length="114350"
         type="image/png"/>
       <pubDate>Fri, 06 Apr 2018 08:04:07 +0200</pubDate>
       <dc:date>2018-04-06T08:04:07.333632+02:00</dc:date>
@@ -384,7 +404,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-27-KantarMillwardBrown.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-27-KantarMillwardBrown-coalitions-seats.png"
-        length="153167"
+        length="153412"
         type="image/png"/>
       <pubDate>Sat, 07 Apr 2018 19:21:07 +0200</pubDate>
       <dc:date>2018-04-07T19:21:07.906591+02:00</dc:date>
@@ -414,7 +434,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-22-Estymator.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-22-Estymator-coalitions-seats.png"
-        length="104914"
+        length="104851"
         type="image/png"/>
       <pubDate>Fri, 06 Apr 2018 13:54:09 +0200</pubDate>
       <dc:date>2018-04-06T13:54:09.293634+02:00</dc:date>
@@ -444,7 +464,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-14-KantarPublic.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-14-KantarPublic-coalitions-seats.png"
-        length="122688"
+        length="122687"
         type="image/png"/>
       <pubDate>Sat, 07 Apr 2018 19:54:20 +0200</pubDate>
       <dc:date>2018-04-07T19:54:20.985325+02:00</dc:date>
@@ -474,7 +494,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-03-08-CBOS-coalitions-seats.png"
-        length="130413"
+        length="130503"
         type="image/png"/>
       <pubDate>Tue, 03 Apr 2018 12:56:53 +0200</pubDate>
       <dc:date>2018-04-03T12:56:53.396632+02:00</dc:date>
@@ -504,7 +524,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-26-IBRiS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-26-IBRiS-coalitions-seats.png"
-        length="99519"
+        length="99450"
         type="image/png"/>
       <pubDate>Wed, 11 Apr 2018 17:25:23 +0200</pubDate>
       <dc:date>2018-04-11T17:25:23.992339+02:00</dc:date>
@@ -534,7 +554,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-22-Estymator.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-22-Estymator-coalitions-seats.png"
-        length="111911"
+        length="111880"
         type="image/png"/>
       <pubDate>Thu, 12 Apr 2018 15:06:05 +0200</pubDate>
       <dc:date>2018-04-12T15:06:05.596679+02:00</dc:date>
@@ -564,7 +584,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-21-KantarPublic.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-21-KantarPublic-coalitions-seats.png"
-        length="130875"
+        length="130873"
         type="image/png"/>
       <pubDate>Mon, 09 Apr 2018 19:55:00 +0200</pubDate>
       <dc:date>2018-04-09T19:55:00.753104+02:00</dc:date>
@@ -594,7 +614,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-KantarMillwardBrown.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-KantarMillwardBrown-coalitions-seats.png"
-        length="117952"
+        length="117909"
         type="image/png"/>
       <pubDate>Tue, 10 Apr 2018 14:04:35 +0200</pubDate>
       <dc:date>2018-04-10T14:04:35.338365+02:00</dc:date>
@@ -624,7 +644,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-20-IBRiS-coalitions-seats.png"
-        length="116432"
+        length="116312"
         type="image/png"/>
       <pubDate>Mon, 09 Apr 2018 15:41:50 +0200</pubDate>
       <dc:date>2018-04-09T15:41:50.668944+02:00</dc:date>
@@ -654,7 +674,7 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-02-08-CBOS-coalitions-seats.png"
-        length="107899"
+        length="107961"
         type="image/png"/>
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
@@ -669,6 +689,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-05-10T09:55:21.002511+02:00</dc:date>
+    <dc:date>2018-05-18T09:58:40.58578+02:00</dc:date>
   </channel>
 </rss>

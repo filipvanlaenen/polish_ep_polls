@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 May 2018 09:58:40 +0200</pubDate>
+    <pubDate>Fri, 18 May 2018 13:19:59 +0200</pubDate>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for TVP1, 10–11 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster.png"
         length="208267"
         type="image/png"/>
-      <pubDate>Thu, 17 May 2018 19:54:30 +0200</pubDate>
-      <dc:date>2018-05-17T19:54:30.629265+02:00</dc:date>
+      <pubDate>Fri, 18 May 2018 13:19:59 +0200</pubDate>
+      <dc:date>2018-05-18T13:19:59.549604+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 10–11 May 2018 – Voting Intentions</title>
@@ -689,6 +689,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-05-18T09:58:40.58578+02:00</dc:date>
+    <dc:date>2018-05-18T13:19:59.549604+02:00</dc:date>
   </channel>
 </rss>

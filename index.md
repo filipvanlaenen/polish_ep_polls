@@ -7,7 +7,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 32–47% <br> 18–29 | 15–29% <br> 9–17 | 4–14% <br> 0–8 | 3–8% <br> 0–4 | 2–8% <br> 0–4 | 5–10% <br> 3–6 | 1–5% <br> 0–2 | 1–5% <br> 0 |
 | [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 40–46% <br> 26–27 | 18–22% <br> 9–10 | 6–10% <br> 5 | 5–8% <br> 3–4 | 4–6% <br> 0–3 | 7–11% <br> 4–6 | 3–5% <br> 0 | 4–6% <br> 0–3 |
-| [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35–41% <br> 20–24 | 25–30% <br> 13–17 | 5–8% <br> 0–4 | 2–4% <br> 0 | 4–7% <br> 0–4 | 9–12% <br> 5–7 | 1–2% <br> 0 | 1–2% <br> 0 |
+| [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35–41% <br> 20–24 | 25–30% <br> 14–17 | 5–8% <br> 2–4 | 2–4% <br> 0 | 4–7% <br> 0–3 | 9–12% <br> 5–7 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 30–36% <br> 17–22 | 22–28% <br> 13–17 | 4–7% <br> 0–3 | 5–8% <br> 0–4 | 4–7% <br> 0–3 | 6–10% <br> 3–6 | 3–5% <br> 0–3 | 2–4% <br> 0 |
 | [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 35–41% <br> 20–24 | 25–30% <br> 14–17 | 11–15% <br> 6–8 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 7–10% <br> 4–6 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 36–42% <br> 21–26 | 19–24% <br> 11–14 | 9–13% <br> 5–8 | 6–9% <br> 3–5 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 3–5% <br> 0–3 | 1–3% <br> 0 |

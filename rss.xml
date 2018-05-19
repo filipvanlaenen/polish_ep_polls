@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 May 2018 23:33:13 +0200</pubDate>
+    <pubDate>Sat, 19 May 2018 17:12:13 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for TVP1, 10–11 May 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 23–27 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster-seats.png"
+        length="209448"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 15:33:28 +0200</pubDate>
+      <dc:date>2018-05-19T15:33:28.460284+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for TVP1, 10–11 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster-coalitions-seats.png"
+        length="126325"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 15:33:28 +0200</pubDate>
+      <dc:date>2018-05-19T15:33:28.460284+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for TVP1, 10–11 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-InstytutBadańPollster.png"
         length="208267"
         type="image/png"/>
-      <pubDate>Fri, 18 May 2018 13:19:59 +0200</pubDate>
-      <dc:date>2018-05-18T13:19:59.549604+02:00</dc:date>
+      <pubDate>Sat, 19 May 2018 15:33:28 +0200</pubDate>
+      <dc:date>2018-05-19T15:33:28.460284+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 10–11 May 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 20–23 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 2–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-IBRiS-seats.png"
+        length="192419"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 17:12:13 +0200</pubDate>
+      <dc:date>2018-05-19T17:12:13.779324+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 10–11 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-IBRiS-coalitions-seats.png"
+        length="107730"
+        type="image/png"/>
+      <pubDate>Sat, 19 May 2018 17:12:13 +0200</pubDate>
+      <dc:date>2018-05-19T17:12:13.779324+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 10–11 May 2018 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-11-IBRiS.png"
         length="207555"
         type="image/png"/>
-      <pubDate>Fri, 18 May 2018 23:33:13 +0200</pubDate>
-      <dc:date>2018-05-18T23:33:13.825743+02:00</dc:date>
+      <pubDate>Sat, 19 May 2018 17:12:13 +0200</pubDate>
+      <dc:date>2018-05-19T17:12:13.779324+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Nowa TV, se.pl and Super Express, 27–29 April 2018 – Seat Projections</title>
@@ -689,6 +729,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-05-18T23:33:13.825743+02:00</dc:date>
+    <dc:date>2018-05-19T17:12:13.779324+02:00</dc:date>
   </channel>
 </rss>

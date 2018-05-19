@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–7 | 0–7 | 0–8 | 0–8 |
-| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
 | [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -106,10 +106,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 16% | 100% | Last Result |
 | 1 | 0% | 84% |  |
-| 2 | 0.8% | 84% |  |
+| 2 | 0.7% | 84% |  |
 | 3 | 34% | 84% | Median |
-| 4 | 14% | 50% |  |
-| 5 | 8% | 36% |  |
+| 4 | 16% | 50% |  |
+| 5 | 7% | 34% |  |
 | 6 | 11% | 27% |  |
 | 7 | 11% | 16% |  |
 | 8 | 5% | 5% |  |

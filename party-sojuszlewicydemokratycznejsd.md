@@ -73,7 +73,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 0–6 | 0–7 |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -110,8 +110,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 3% | 100% | Last Result |
 | 1 | 0% | 97% |  |
 | 2 | 0.2% | 97% |  |
-| 3 | 30% | 97% |  |
-| 4 | 23% | 67% | Median |
+| 3 | 30% | 96% |  |
+| 4 | 22% | 66% | Median |
 | 5 | 33% | 44% |  |
 | 6 | 11% | 12% |  |
 | 7 | 1.0% | 1.1% |  |

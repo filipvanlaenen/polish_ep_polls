@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 05 Jun 2018 06:41:55 +0200</pubDate>
+    <pubDate>Tue, 05 Jun 2018 19:13:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 23–24 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-24-Estymator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 21–25 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 5–7 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-24-Estymator-seats.png"
+        length="195864"
+        type="image/png"/>
+      <pubDate>Tue, 05 Jun 2018 17:52:34 +0200</pubDate>
+      <dc:date>2018-06-05T17:52:34.432898+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 23–24 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-24-Estymator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-24-Estymator-coalitions-seats.png"
+        length="109831"
+        type="image/png"/>
+      <pubDate>Tue, 05 Jun 2018 17:52:34 +0200</pubDate>
+      <dc:date>2018-06-05T17:52:34.432898+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 23–24 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-24-Estymator.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-24-Estymator.png"
         length="212853"
         type="image/png"/>
-      <pubDate>Mon, 04 Jun 2018 20:49:59 +0200</pubDate>
-      <dc:date>2018-06-04T20:49:59.468679+02:00</dc:date>
+      <pubDate>Tue, 05 Jun 2018 17:52:34 +0200</pubDate>
+      <dc:date>2018-06-05T17:52:34.432898+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 10–17 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-17-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 21–26 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 9–12 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4–7 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-17-CBOS-seats.png"
+        length="200958"
+        type="image/png"/>
+      <pubDate>Tue, 05 Jun 2018 19:13:00 +0200</pubDate>
+      <dc:date>2018-06-05T19:13:00.834314+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 10–17 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-05-17-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-17-CBOS-coalitions-seats.png"
+        length="121400"
+        type="image/png"/>
+      <pubDate>Tue, 05 Jun 2018 19:13:00 +0200</pubDate>
+      <dc:date>2018-06-05T19:13:00.834314+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 10–17 May 2018 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-05-17-CBOS.png"
         length="200937"
         type="image/png"/>
-      <pubDate>Mon, 04 Jun 2018 20:54:16 +0200</pubDate>
-      <dc:date>2018-06-04T20:54:16.357909+02:00</dc:date>
+      <pubDate>Tue, 05 Jun 2018 19:13:00 +0200</pubDate>
+      <dc:date>2018-06-05T19:13:00.834314+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 11–16 May 2018 – Seat Projections for the Parties</title>
@@ -779,6 +819,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-06-05T06:41:55.260522+02:00</dc:date>
+    <dc:date>2018-06-05T19:13:00.834314+02:00</dc:date>
   </channel>
 </rss>

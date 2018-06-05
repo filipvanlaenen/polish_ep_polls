@@ -105,8 +105,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 20–25 | 19–26 | 19–26 | 18–27 |
-| [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 21–25 | 21–25 | 20–25 |
-| [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 23 | 22–26 | 22–27 | 21–27 | 21–27 |
+| [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
+| [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 24 | 22–25 | 22–26 | 21–26 | 21–27 |
 | [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 22 | 20–24 | 20–24 | 20–25 | 19–26 |
 | [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 25 | 24–27 | 23–27 | 23–27 | 22–29 |
 | [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
@@ -162,14 +162,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 2% | 99.5% |  |
 | 19 | 3% | 98% |  |
 | 20 | 8% | 94% |  |
-| 21 | 13% | 87% |  |
-| 22 | 22% | 73% |  |
-| 23 | 22% | 52% | Median |
-| 24 | 13% | 30% |  |
+| 21 | 14% | 87% |  |
+| 22 | 20% | 73% |  |
+| 23 | 20% | 52% | Median |
+| 24 | 15% | 32% |  |
 | 25 | 10% | 17% |  |
-| 26 | 5% | 7% |  |
-| 27 | 2% | 2% | Majority |
-| 28 | 0.3% | 0.3% |  |
+| 26 | 4% | 6% |  |
+| 27 | 1.4% | 2% | Majority |
+| 28 | 0.3% | 0.4% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 

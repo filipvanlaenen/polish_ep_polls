@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Jun 2018 18:57:34 +0200</pubDate>
+    <pubDate>Mon, 25 Jun 2018 21:36:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Public, 9–17 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-06-17-KantarPublic.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-06-17-KantarPublic.png"
         length="198777"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 18:12:15 +0200</pubDate>
-      <dc:date>2018-06-23T18:12:15.928767+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 20:34:12 +0200</pubDate>
+      <dc:date>2018-06-25T20:34:12.681802+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 13–14 June 2018 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-06-14-CBOS.png"
         length="198120"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 18:22:28 +0200</pubDate>
-      <dc:date>2018-06-23T18:22:28.538398+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 21:36:46 +0200</pubDate>
+      <dc:date>2018-06-25T21:36:46.046973+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 June 2018 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-06-07-InstytutBadańPollster.png"
         length="210599"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 18:57:34 +0200</pubDate>
-      <dc:date>2018-06-23T18:57:34.458782+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 19:24:01 +0200</pubDate>
+      <dc:date>2018-06-25T19:24:01.283656+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 28–29 May 2018 – Seat Projections for the Parties</title>
@@ -929,6 +929,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-06-23T18:57:34.458782+02:00</dc:date>
+    <dc:date>2018-06-25T21:36:46.046973+02:00</dc:date>
   </channel>
 </rss>

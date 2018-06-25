@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 4.9–11.3% | 4.5–11.8% | 4.3–12.2% | 3.8–13.1% |
+| N/A | [Poll Average](average.html) | 7.5% | 5.6–10.6% | 5.3–11.5% | 5.0–12.0% | 4.5–13.0% |
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
@@ -55,18 +55,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 18% | 95% |  |
-| 5.5–6.5% | 15% | 76% |  |
-| 6.5–7.5% | 8% | 61% |  |
-| 7.5–8.5% | 8% | 53% | Median |
-| 8.5–9.5% | 9% | 46% |  |
-| 9.5–10.5% | 15% | 36% |  |
-| 10.5–11.5% | 14% | 21% |  |
-| 11.5–12.5% | 6% | 7% |  |
-| 12.5–13.5% | 1.3% | 1.5% |  |
-| 13.5–14.5% | 0.1% | 0.2% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.5% | 100% |  |
+| 4.5–5.5% | 9% | 99.5% |  |
+| 5.5–6.5% | 22% | 90% |  |
+| 6.5–7.5% | 19% | 68% | Median |
+| 7.5–8.5% | 20% | 49% |  |
+| 8.5–9.5% | 12% | 28% |  |
+| 9.5–10.5% | 6% | 16% |  |
+| 10.5–11.5% | 6% | 10% |  |
+| 11.5–12.5% | 4% | 5% |  |
+| 12.5–13.5% | 1.0% | 1.1% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -78,12 +78,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–7 | 0–7 | 0–7 |
-| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 3 | 3–5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 0–7 | 0–7 |
+| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 6 | 5–6 | 4–6 | 4–6 |
-| [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–4 | 3–4 | 0–4 |
-| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 4 | 4 | 4–6 | 4–6 | 4–6 |
+| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -122,14 +122,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 0.1% | 87% |  |
-| 3 | 25% | 87% |  |
-| 4 | 14% | 62% | Median |
-| 5 | 19% | 48% |  |
-| 6 | 23% | 29% |  |
-| 7 | 6% | 6% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 0% | 97% |  |
+| 2 | 0.1% | 97% |  |
+| 3 | 22% | 97% |  |
+| 4 | 32% | 75% | Median |
+| 5 | 16% | 43% |  |
+| 6 | 23% | 27% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |
 

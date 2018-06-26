@@ -83,7 +83,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
-| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
+| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -126,8 +126,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 96% |  |
 | 2 | 0.3% | 96% |  |
 | 3 | 27% | 96% |  |
-| 4 | 30% | 69% | Median |
-| 5 | 24% | 39% |  |
+| 4 | 36% | 69% | Median |
+| 5 | 18% | 34% |  |
 | 6 | 11% | 15% |  |
 | 7 | 4% | 4% |  |
 | 8 | 0.4% | 0.4% |  |

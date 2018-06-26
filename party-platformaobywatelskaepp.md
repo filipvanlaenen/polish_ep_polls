@@ -98,10 +98,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 11–18 | 10–18 | 9–19 | 9–20 |
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 12 | 11–13 | 10–13 | 10–14 | 10–14 |
-| [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 14–18 | 14–18 | 14–18 |
+| [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 10 | 9–11 | 9–11 | 8–12 | 8–12 |
 | [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 18 | 16–19 | 15–19 | 15–19 | 15–20 |
+| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 17 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
@@ -154,13 +154,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 12% | 90% |  |
 | 12 | 13% | 78% |  |
 | 13 | 7% | 65% |  |
-| 14 | 4% | 58% |  |
-| 15 | 14% | 54% | Median |
-| 16 | 13% | 41% |  |
-| 17 | 12% | 28% |  |
-| 18 | 12% | 16% |  |
-| 19 | 3% | 4% |  |
-| 20 | 0.5% | 0.6% |  |
+| 14 | 3% | 58% |  |
+| 15 | 13% | 55% | Median |
+| 16 | 17% | 42% |  |
+| 17 | 14% | 25% |  |
+| 18 | 8% | 12% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.5% | 0.5% |  |
 | 21 | 0% | 0% |  |
 
 

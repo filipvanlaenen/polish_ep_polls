@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 25 Jun 2018 21:36:46 +0200</pubDate>
+    <pubDate>Mon, 25 Jun 2018 22:42:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Public, 9–17 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-06-17-KantarPublic.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-06-14-Estymator.png"
         length="211566"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 18:18:05 +0200</pubDate>
-      <dc:date>2018-06-23T18:18:05.814556+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 22:01:42 +0200</pubDate>
+      <dc:date>2018-06-25T22:01:42.90959+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 7–14 June 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-06-08-IBRiS.png"
         length="217029"
         type="image/png"/>
-      <pubDate>Sat, 23 Jun 2018 18:53:25 +0200</pubDate>
-      <dc:date>2018-06-23T18:53:25.984036+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 22:42:46 +0200</pubDate>
+      <dc:date>2018-06-25T22:42:46.875036+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for TVP1, 6–7 June 2018 – Voting Intentions</title>
@@ -929,6 +929,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-06-25T21:36:46.046973+02:00</dc:date>
+    <dc:date>2018-06-25T22:42:46.875036+02:00</dc:date>
   </channel>
 </rss>

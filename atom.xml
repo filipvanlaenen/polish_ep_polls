@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2018-06-26T14:10:37.780943+02:00</updated>
+  <updated>2018-06-29T19:57:51.671162+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 38.0–44.0%, 22–26 seats</li><li>Platforma Obywatelska (EPP): 17.7–22.6%, 10–13 seats</li><li>Kukiz’15 (*): 4.7–7.6%, 0–4 seats</li><li>.Nowoczesna (ALDE): 3.0–5.4%, 0–3 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 2.1–4.3%, 0 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 4.7–7.6%, 0–4 seats</li><li>Wolność (EFDD): 0.5–1.8%, 0 seats</li><li>Partia Razem (*): 0.5–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2018-06-17-KantarPublic.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2018-06-17-KantarPublic.html"/>
+    <title>Opinion Poll by Kantar Public, 9–17 June 2018</title>
+    <updated>2018-06-29T19:57:51.671162+02:00</updated>
+    <dc:date>2018-06-29T19:57:51.671162+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 37.8–43.8%, 22–27 seats</li><li>Platforma Obywatelska (EPP): 25.2–30.8%, 14–18 seats</li><li>Kukiz’15 (*): 6.8–10.2%, 4–6 seats</li><li>.Nowoczesna (ALDE): 3.1–5.6%, 0–3 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 4.2–7.0%, 0–4 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 7.0–10.5%, 3–6 seats</li><li>Wolność (EFDD): 1.2–2.9%, 0 seats</li><li>Partia Razem (*): 2.1–4.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2018-06-14-Estymator.html</id>
@@ -14,6 +22,14 @@
     <title>Opinion Poll by Estymator for DoRzeczy.pl, 13–14 June 2018</title>
     <updated>2018-06-26T12:05:41.277842+02:00</updated>
     <dc:date>2018-06-26T12:05:41.277842+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 29.9–35.6%, 17–21 seats</li><li>Platforma Obywatelska (EPP): 23.9–29.2%, 14–17 seats</li><li>Kukiz’15 (*): 4.9–7.8%, 0–4 seats</li><li>.Nowoczesna (ALDE): 3.2–5.7%, 0–3 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 5.0–7.9%, 0–4 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 7.9–11.5%, 4–6 seats</li><li>Wolność (EFDD): 0.8–2.2%, 0 seats</li><li>Partia Razem (*): 2.4–4.5%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2018-06-08-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2018-06-08-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 June 2018</title>
+    <updated>2018-06-29T19:34:08.215944+02:00</updated>
+    <dc:date>2018-06-29T19:34:08.215944+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 37.0–42.9%, 22–27 seats</li><li>Platforma Obywatelska (EPP): 25.3–30.7%, 15–19 seats</li><li>Kukiz’15 (*): 6.5–9.8%, 4–6 seats</li><li>.Nowoczesna (ALDE): 3.0–5.4%, 0–3 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 3.9–6.5%, 0–3 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 5.6–8.7%, 3–5 seats</li><li>Wolność (EFDD): 3.0–5.4%, 0–3 seats</li><li>Partia Razem (*): 3.0–5.4%, 0–3 seats</li></ul></div></content>
@@ -255,5 +271,5 @@
     <updated>2018-04-09T19:30:43.664613+02:00</updated>
     <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
   </entry>
-  <dc:date>2018-06-26T14:10:37.780943+02:00</dc:date>
+  <dc:date>2018-06-29T19:57:51.671162+02:00</dc:date>
 </feed>

@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 38–44% <br> 22–26 | 18–23% <br> 10–14 | 5–8% <br> 0–4 | 3–5% <br> 0–3 | 2–4% <br> 0 | 5–8% <br> 0–4 | 1–2% <br> 0 | 1–2% <br> 0 |
+| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 38–44% <br> 22–26 | 18–23% <br> 10–13 | 5–8% <br> 0–4 | 3–5% <br> 0–3 | 2–4% <br> 0 | 5–8% <br> 0–4 | 1–2% <br> 0 | 1–2% <br> 0 |
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 38–44% <br> 22–27 | 25–31% <br> 14–18 | 7–10% <br> 4–6 | 3–6% <br> 0–3 | 4–7% <br> 0–4 | 7–11% <br> 3–6 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 40–46% <br> 24–28 | 15–19% <br> 8–12 | 6–10% <br> 4–6 | 4–6% <br> 0–3 | 3–5% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 30–36% <br> 17–21 | 24–29% <br> 14–17 | 5–8% <br> 0–4 | 3–6% <br> 0–3 | 5–8% <br> 0–4 | 8–11% <br> 4–6 | 1–2% <br> 0 | 2–5% <br> 0 |

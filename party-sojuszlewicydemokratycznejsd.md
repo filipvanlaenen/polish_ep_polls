@@ -77,10 +77,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–5 | 0–6 | 0–6 | 0–6 |
-| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 0 | 0 | 0–3 | 0–3 | 0–3 |
-| [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -120,14 +120,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% | Last Result |
-| 1 | 0% | 78% |  |
-| 2 | 0.3% | 78% |  |
-| 3 | 31% | 78% | Median |
-| 4 | 22% | 47% |  |
-| 5 | 19% | 24% |  |
-| 6 | 5% | 5% |  |
-| 7 | 0.2% | 0.2% |  |
+| 0 | 21% | 100% | Last Result |
+| 1 | 0% | 79% |  |
+| 2 | 0.3% | 79% |  |
+| 3 | 33% | 78% | Median |
+| 4 | 21% | 45% |  |
+| 5 | 18% | 25% |  |
+| 6 | 6% | 7% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 

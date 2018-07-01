@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 5.6–10.6% | 5.3–11.5% | 5.0–12.0% | 4.5–13.0% |
+| N/A | [Poll Average](average.html) | 7.8% | 5.7–10.7% | 5.4–11.5% | 5.1–12.0% | 4.6–13.0% |
+| [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
+| [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.7–9.8% |
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.8–10.2% | 6.3–10.8% |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
@@ -56,14 +58,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 9% | 99.5% |  |
-| 5.5–6.5% | 22% | 90% |  |
-| 6.5–7.5% | 19% | 68% | Median |
-| 7.5–8.5% | 20% | 49% |  |
-| 8.5–9.5% | 12% | 28% |  |
-| 9.5–10.5% | 6% | 16% |  |
-| 10.5–11.5% | 6% | 10% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 7% | 99.6% |  |
+| 5.5–6.5% | 16% | 93% |  |
+| 6.5–7.5% | 19% | 76% |  |
+| 7.5–8.5% | 24% | 57% | Median |
+| 8.5–9.5% | 15% | 33% |  |
+| 9.5–10.5% | 8% | 18% |  |
+| 10.5–11.5% | 6% | 11% |  |
 | 11.5–12.5% | 4% | 5% |  |
 | 12.5–13.5% | 1.0% | 1.1% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
@@ -78,7 +80,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–7 | 0–7 |
+| [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
@@ -124,11 +128,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
 | 1 | 0% | 98% |  |
-| 2 | 0.5% | 98% |  |
-| 3 | 29% | 97% |  |
-| 4 | 35% | 68% | Median |
-| 5 | 18% | 33% |  |
-| 6 | 11% | 15% |  |
+| 2 | 0.3% | 98% |  |
+| 3 | 22% | 98% |  |
+| 4 | 36% | 76% | Median |
+| 5 | 24% | 40% |  |
+| 6 | 11% | 16% |  |
 | 7 | 4% | 4% |  |
 | 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |

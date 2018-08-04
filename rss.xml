@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 01 Aug 2018 20:55:03 +0200</pubDate>
+    <pubDate>Sat, 04 Aug 2018 20:49:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 11–12 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-07-12-InstytutBadańPollster.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 22–26 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4–6 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-07-12-InstytutBadańPollster-seats.png"
+        length="190562"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 18:54:28 +0200</pubDate>
+      <dc:date>2018-08-04T18:54:28.908958+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 11–12 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-07-12-InstytutBadańPollster.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-07-12-InstytutBadańPollster-coalitions-seats.png"
+        length="106740"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 18:54:28 +0200</pubDate>
+      <dc:date>2018-08-04T18:54:28.908958+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 11–12 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-07-12-InstytutBadańPollster.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-07-12-InstytutBadańPollster.png"
         length="209419"
         type="image/png"/>
-      <pubDate>Wed, 01 Aug 2018 20:10:28 +0200</pubDate>
-      <dc:date>2018-08-01T20:10:28.093185+02:00</dc:date>
+      <pubDate>Sat, 04 Aug 2018 18:54:28 +0200</pubDate>
+      <dc:date>2018-08-04T18:54:28.908958+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 6–11 July 2018 – Voting Intentions</title>
@@ -70,14 +90,34 @@
       <dc:date>2018-08-01T20:28:25.687279+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CBOS, 28 June–5 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-07-05-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 21–25 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 8–10 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-07-05-CBOS-seats.png"
+        length="183716"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 20:49:56 +0200</pubDate>
+      <dc:date>2018-08-04T20:49:56.585881+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 28 June–5 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-07-05-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-07-05-CBOS-coalitions-seats.png"
+        length="107382"
+        type="image/png"/>
+      <pubDate>Sat, 04 Aug 2018 20:49:56 +0200</pubDate>
+      <dc:date>2018-08-04T20:49:56.585881+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CBOS, 28 June–5 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-07-05-CBOS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 36.9–43.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 13.8–18.3%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 6.5–9.9%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 3.8–6.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0.1–0.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-07-05-CBOS.png"
         length="196751"
         type="image/png"/>
-      <pubDate>Wed, 01 Aug 2018 20:19:47 +0200</pubDate>
-      <dc:date>2018-08-01T20:19:47.213034+02:00</dc:date>
+      <pubDate>Sat, 04 Aug 2018 20:49:56 +0200</pubDate>
+      <dc:date>2018-08-04T20:49:56.585881+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 27–28 June 2018 – Seat Projections for the Parties</title>
@@ -1159,6 +1199,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-08-01T20:55:03.916658+02:00</dc:date>
+    <dc:date>2018-08-04T20:49:56.585881+02:00</dc:date>
   </channel>
 </rss>

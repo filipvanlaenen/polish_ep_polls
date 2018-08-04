@@ -103,12 +103,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 9–17 | 9–18 | 8–18 | 7–19 |
-| [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
+| N/A | [Poll Average](average.html) | 15 | 9–17 | 9–18 | 8–18 | 8–19 |
+| [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [4–5 July 2018](2018-07-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
+| [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
 | [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 12 | 10–12 | 10–13 | 10–13 | 10–14 |
@@ -161,17 +161,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 0.5% | 100% |  |
-| 8 | 2% | 99.5% |  |
-| 9 | 11% | 97% |  |
-| 10 | 3% | 87% |  |
-| 11 | 0.4% | 84% |  |
+| 7 | 0.3% | 100% |  |
+| 8 | 4% | 99.7% |  |
+| 9 | 9% | 96% |  |
+| 10 | 4% | 87% |  |
+| 11 | 0.3% | 83% |  |
 | 12 | 3% | 83% |  |
 | 13 | 12% | 80% |  |
-| 14 | 15% | 68% |  |
-| 15 | 24% | 54% | Median |
-| 16 | 12% | 30% |  |
-| 17 | 11% | 18% |  |
+| 14 | 15% | 69% |  |
+| 15 | 23% | 53% | Median |
+| 16 | 14% | 30% |  |
+| 17 | 9% | 16% |  |
 | 18 | 5% | 7% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.4% | 0.5% |  |

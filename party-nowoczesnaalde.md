@@ -80,11 +80,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [4–5 July 2018](2018-07-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 0 | 0 | 0–2 | 0–3 | 0–3 |
@@ -130,11 +130,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Last Result, Median |
-| 1 | 0% | 30% |  |
-| 2 | 3% | 30% |  |
-| 3 | 26% | 27% |  |
-| 4 | 1.2% | 1.3% |  |
+| 0 | 71% | 100% | Last Result, Median |
+| 1 | 0% | 29% |  |
+| 2 | 3% | 29% |  |
+| 3 | 24% | 26% |  |
+| 4 | 1.3% | 1.3% |  |
 | 5 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 5.5–9.8% | 5.2–10.2% | 4.9–10.5% | 4.5–11.2% |
+| N/A | [Poll Average](average.html) | 7.9% | 5.5–9.6% | 5.2–10.1% | 4.9–10.4% | 4.5–11.1% |
+| [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.2% | 7.1–9.4% | 6.9–9.7% | 6.6–10.0% | 6.2–10.6% |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 9.0% | 7.9–10.2% | 7.7–10.5% | 7.4–10.8% | 6.9–11.4% |
 | [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.7% | 4.9–6.7% | 4.7–7.0% | 4.5–7.3% | 4.1–7.8% |
@@ -66,12 +67,12 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.8% | 100% |  |
 | 4.5–5.5% | 9% | 99.2% |  |
 | 5.5–6.5% | 17% | 90% |  |
-| 6.5–7.5% | 12% | 73% |  |
-| 7.5–8.5% | 21% | 61% | Median |
-| 8.5–9.5% | 25% | 40% |  |
-| 9.5–10.5% | 12% | 14% |  |
+| 6.5–7.5% | 14% | 73% |  |
+| 7.5–8.5% | 24% | 58% | Median |
+| 8.5–9.5% | 23% | 34% |  |
+| 9.5–10.5% | 9% | 11% |  |
 | 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -84,6 +85,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 0–6 | 0–6 |
+| [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -137,11 +139,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 3% | 100% | Last Result |
 | 1 | 0% | 97% |  |
 | 2 | 0.8% | 97% |  |
-| 3 | 23% | 96% |  |
-| 4 | 26% | 73% | Median |
-| 5 | 39% | 46% |  |
-| 6 | 7% | 8% |  |
-| 7 | 0.2% | 0.2% |  |
+| 3 | 24% | 96% |  |
+| 4 | 32% | 72% | Median |
+| 5 | 34% | 40% |  |
+| 6 | 6% | 6% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
 

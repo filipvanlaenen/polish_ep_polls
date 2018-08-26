@@ -5,9 +5,9 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 33–39% <br> 20–24 | 23–29% <br> 12–17 | 6–9% <br> 3–4 | 4–7% <br> 0–4 | 3–5% <br> 0–3 | 5–8% <br> 3–4 | 1–3% <br> 0 | 2–4% <br> 0 |
+| [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 33–39% <br> 19–24 | 23–29% <br> 14–18 | 6–9% <br> 3–5 | 4–7% <br> 0–3 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 35–41% <br> 20–22 | 25–31% <br> 15–18 | 9–13% <br> 6–7 | 5–8% <br> 3–4 | 3–5% <br> 0 | 7–10% <br> 3–5 | 1–3% <br> 0 | 2–4% <br> 0 |
-| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 39–45% <br> 23–28 | 22–27% <br> 13–16 | 5–8% <br> 0–4 | 4–7% <br> 0–3 | 3–6% <br> 0–3 | 9–13% <br> 5–8 | 2–4% <br> 0 | 3–5% <br> 0 |
+| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 39–45% <br> 23–28 | 22–27% <br> 13–17 | 5–8% <br> 3–4 | 4–7% <br> 0–4 | 3–6% <br> 0–3 | 9–13% <br> 5–7 | 2–4% <br> 0 | 3–5% <br> 0 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 39–45% <br> 22–26 | 23–29% <br> 13–17 | 7–10% <br> 3–5 | 3–6% <br> 0–3 | 5–8% <br> 0–4 | 8–11% <br> 4–6 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 37–43% <br> 22–26 | 24–30% <br> 14–17 | 7–11% <br> 4–6 | 4–6% <br> 0–3 | 5–8% <br> 0–4 | 6–10% <br> 3–5 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 31–37% <br> 18–22 | 21–26% <br> 12–15 | 7–11% <br> 4–6 | 2–4% <br> 0 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 1–2% <br> 0 | 1–3% <br> 0 |

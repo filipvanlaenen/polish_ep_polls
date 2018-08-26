@@ -88,10 +88,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 0–6 | 0–6 | 0–8 |
-| [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 0–7 | 0–7 | 0–7 |
+| [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 6 | 5–6 | 5–8 | 5–8 | 5–8 |
+| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
@@ -143,15 +143,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 0% | 93% |  |
-| 2 | 0.1% | 93% |  |
-| 3 | 34% | 93% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 0.1% | 92% |  |
+| 3 | 33% | 92% |  |
 | 4 | 18% | 59% | Median |
 | 5 | 21% | 41% |  |
-| 6 | 19% | 20% |  |
-| 7 | 0.5% | 1.4% |  |
-| 8 | 0.9% | 0.9% |  |
+| 6 | 14% | 20% |  |
+| 7 | 6% | 6% |  |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 

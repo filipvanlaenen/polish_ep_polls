@@ -108,9 +108,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 9–17 | 9–18 | 8–18 | 8–19 |
-| [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 15 | 15–17 | 13–17 | 12–17 | 12–17 |
+| [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 17 | 16–18 | 15–18 | 15–18 |
-| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 16 | 16 | 14–16 | 13–16 | 13–16 |
+| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 15 | 14–15 | 13–16 | 13–17 | 12–17 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
@@ -174,13 +174,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 8% | 97% |  |
 | 10 | 3% | 89% |  |
 | 11 | 0.1% | 86% |  |
-| 12 | 0.7% | 86% |  |
-| 13 | 2% | 85% |  |
-| 14 | 9% | 83% |  |
-| 15 | 24% | 74% | Median |
-| 16 | 22% | 50% |  |
-| 17 | 21% | 28% |  |
-| 18 | 5% | 7% |  |
+| 12 | 0.1% | 86% |  |
+| 13 | 3% | 86% |  |
+| 14 | 16% | 83% |  |
+| 15 | 24% | 67% | Median |
+| 16 | 15% | 43% |  |
+| 17 | 20% | 28% |  |
+| 18 | 6% | 8% |  |
 | 19 | 2% | 2% |  |
 | 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |

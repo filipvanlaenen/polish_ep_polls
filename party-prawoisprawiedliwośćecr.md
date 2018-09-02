@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 38.5% | 35.2–42.6% | 34.5–43.4% | 33.9–44.1% | 32.8–45.2% |
+| N/A | [Poll Average](average.html) | 38.8% | 35.2–44.8% | 34.5–45.6% | 33.9–46.2% | 32.8–47.4% |
+| [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 44.2% | 42.2–46.2% | 41.7–46.8% | 41.2–47.3% | 40.2–48.3% |
+| [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 44.0% | 42.1–46.0% | 41.6–46.5% | 41.1–47.0% | 40.2–47.9% |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 36.0% | 34.1–37.9% | 33.5–38.5% | 33.1–39.0% | 32.2–39.9% |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 37.9% | 36.0–39.8% | 35.4–40.4% | 35.0–40.9% | 34.1–41.8% |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
@@ -100,18 +102,20 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 4% | 98% |  |
 | 34.5–35.5% | 8% | 95% |  |
 | 35.5–36.5% | 12% | 87% |  |
-| 36.5–37.5% | 14% | 75% |  |
-| 37.5–38.5% | 12% | 61% | Median |
-| 38.5–39.5% | 10% | 49% |  |
-| 39.5–40.5% | 9% | 39% |  |
-| 40.5–41.5% | 10% | 29% |  |
-| 41.5–42.5% | 9% | 19% |  |
-| 42.5–43.5% | 6% | 11% |  |
-| 43.5–44.5% | 3% | 4% |  |
-| 44.5–45.5% | 1.1% | 1.4% |  |
-| 45.5–46.5% | 0.3% | 0.3% |  |
-| 46.5–47.5% | 0% | 0% |  |
-| 47.5–48.5% | 0% | 0% |  |
+| 36.5–37.5% | 13% | 75% |  |
+| 37.5–38.5% | 10% | 62% |  |
+| 38.5–39.5% | 7% | 52% | Median |
+| 39.5–40.5% | 4% | 45% |  |
+| 40.5–41.5% | 5% | 41% |  |
+| 41.5–42.5% | 7% | 36% |  |
+| 42.5–43.5% | 9% | 30% |  |
+| 43.5–44.5% | 9% | 21% |  |
+| 44.5–45.5% | 7% | 12% |  |
+| 45.5–46.5% | 4% | 5% |  |
+| 46.5–47.5% | 1.3% | 2% |  |
+| 47.5–48.5% | 0.3% | 0.4% |  |
+| 48.5–49.5% | 0.1% | 0.1% |  |
+| 49.5–50.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -122,7 +126,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 21–25 | 20–26 | 20–26 | 19–27 |
+| N/A | [Poll Average](average.html) | 23 | 21–27 | 20–27 | 20–27 | 19–28 |
+| [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 26 | 26 | 26 | 25–27 |
+| [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 27 | 27 | 25–28 | 25–28 | 25–28 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 22 | 20–23 | 20–23 | 19–24 | 19–25 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 22 | 21–22 | 20–22 | 20–22 | 20–22 |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 26 | 24–26 | 23–27 | 23–28 | 21–29 |
@@ -198,14 +204,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0.1% | 100% |  |
 | 19 | 1.2% | 99.9% |  |
 | 20 | 6% | 98.7% |  |
-| 21 | 13% | 93% |  |
-| 22 | 32% | 80% | Median |
-| 23 | 16% | 48% |  |
-| 24 | 12% | 32% |  |
-| 25 | 10% | 20% |  |
-| 26 | 9% | 10% |  |
-| 27 | 0.9% | 1.3% | Majority |
-| 28 | 0.3% | 0.4% |  |
+| 21 | 11% | 93% |  |
+| 22 | 28% | 82% |  |
+| 23 | 9% | 54% | Median |
+| 24 | 4% | 45% |  |
+| 25 | 5% | 41% |  |
+| 26 | 21% | 36% |  |
+| 27 | 13% | 15% | Majority |
+| 28 | 1.2% | 1.3% |  |
 | 29 | 0.1% | 0.1% |  |
 | 30 | 0% | 0% |  |
 

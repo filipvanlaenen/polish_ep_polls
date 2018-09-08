@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 02 Sep 2018 09:38:30 +0200</pubDate>
+    <pubDate>Sat, 08 Sep 2018 21:01:33 +0200</pubDate>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 22–23 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-08-23-Estymator.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-08-23-Estymator.png"
         length="205662"
         type="image/png"/>
-      <pubDate>Sun, 02 Sep 2018 09:34:35 +0200</pubDate>
-      <dc:date>2018-09-02T09:34:35.664311+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 20:41:00 +0200</pubDate>
+      <dc:date>2018-09-08T20:41:00.403244+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 16–23 August 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-08-23-CBOS.png"
         length="196705"
         type="image/png"/>
-      <pubDate>Sun, 02 Sep 2018 09:38:30 +0200</pubDate>
-      <dc:date>2018-09-02T09:38:30.910025+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 19:45:26 +0200</pubDate>
+      <dc:date>2018-09-08T19:45:26.273187+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public for Gazeta Prawna, 11 August 2018 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-08-10-InstytutBadańPollster.png"
         length="216294"
         type="image/png"/>
-      <pubDate>Fri, 24 Aug 2018 18:45:24 +0200</pubDate>
-      <dc:date>2018-08-24T18:45:24.527037+02:00</dc:date>
+      <pubDate>Sat, 08 Sep 2018 21:01:33 +0200</pubDate>
+      <dc:date>2018-09-08T21:01:33.628142+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBM Indicator for TVP1, 8–10 August 2018 – Voting Intentions</title>
@@ -1299,6 +1299,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-09-02T09:38:30.910025+02:00</dc:date>
+    <dc:date>2018-09-08T21:01:33.628142+02:00</dc:date>
   </channel>
 </rss>

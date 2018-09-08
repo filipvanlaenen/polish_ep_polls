@@ -109,11 +109,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 11–17 | 11–18 | 11–18 | 11–19 |
-| [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 14 | 14 | 14 | 13–16 |
-| [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 11 | 11 | 11–12 | 11–12 | 11–12 |
+| N/A | [Poll Average](average.html) | 15 | 12–17 | 11–18 | 11–18 | 10–19 |
+| [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 14–15 | 13–15 | 13–16 | 12–16 |
+| [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 17 | 16–18 | 15–18 | 15–18 |
+| [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 15 | 14–15 | 13–16 | 13–17 | 12–17 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -175,14 +175,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 13% | 100% |  |
-| 12 | 1.0% | 87% |  |
-| 13 | 2% | 86% |  |
-| 14 | 26% | 84% |  |
-| 15 | 18% | 58% | Median |
-| 16 | 13% | 40% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 2% | 99.9% |  |
+| 11 | 6% | 98% |  |
+| 12 | 6% | 92% |  |
+| 13 | 4% | 86% |  |
+| 14 | 19% | 83% |  |
+| 15 | 23% | 64% | Median |
+| 16 | 13% | 41% |  |
 | 17 | 20% | 27% |  |
 | 18 | 6% | 8% |  |
 | 19 | 2% | 2% |  |

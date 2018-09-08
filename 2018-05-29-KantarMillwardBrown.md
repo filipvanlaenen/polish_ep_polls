@@ -211,6 +211,8 @@
 
 ### Prawo i Sprawiedliwość (ECR)
 
+![Graph with seats probability mass function not yet produced](2018-05-29-KantarMillwardBrown-coalitions-seats-pmf-pis.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -245,6 +247,8 @@
 
 ### Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-05-29-KantarMillwardBrown-coalitions-seats-pmf-po–psl.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
@@ -274,6 +278,8 @@
 
 ### .Nowoczesna (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-05-29-KantarMillwardBrown-coalitions-seats-pmf-n.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 52% | 100% | Last Result, Median |
@@ -284,6 +290,8 @@
 | 5 | 0% | 0% |  |
 
 ### Kukiz’15 (*) – Partia Razem (*)
+
+![Graph with seats probability mass function not yet produced](2018-05-29-KantarMillwardBrown-coalitions-seats-pmf-k–r.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -297,6 +305,8 @@
 
 ### Sojusz Lewicy Demokratycznej (S&D)
 
+![Graph with seats probability mass function not yet produced](2018-05-29-KantarMillwardBrown-coalitions-seats-pmf-sld.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 45% | 100% | Last Result |
@@ -307,6 +317,8 @@
 | 5 | 0% | 0% |  |
 
 ### Wolność (EFDD)
+
+![Graph with seats probability mass function not yet produced](2018-05-29-KantarMillwardBrown-coalitions-seats-pmf-w.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

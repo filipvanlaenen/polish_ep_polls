@@ -91,11 +91,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–7 | 3–7 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 0–6 | 0–7 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -153,9 +153,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.7% | 97% |  |
 | 3 | 35% | 96% |  |
 | 4 | 41% | 61% | Median |
-| 5 | 5% | 20% |  |
-| 6 | 2% | 14% |  |
-| 7 | 13% | 13% |  |
-| 8 | 0% | 0% |  |
+| 5 | 8% | 20% |  |
+| 6 | 9% | 11% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 

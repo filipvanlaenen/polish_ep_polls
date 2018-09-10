@@ -96,7 +96,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -151,8 +151,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 3% | 100% | Last Result |
 | 1 | 0% | 97% |  |
 | 2 | 0.7% | 97% |  |
-| 3 | 35% | 96% |  |
-| 4 | 41% | 61% | Median |
+| 3 | 37% | 96% |  |
+| 4 | 40% | 59% | Median |
 | 5 | 8% | 20% |  |
 | 6 | 9% | 11% |  |
 | 7 | 2% | 2% |  |

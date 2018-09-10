@@ -7,10 +7,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 34–46% <br> 20–28 | 18–30% <br> 11–18 | 5–12% <br> 0–6 | 2–7% <br> 0–4 | 3–7% <br> 0–4 | 4–12% <br> 0–7 | 1–5% <br> 0 | 2–4% <br> 0 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 41–47% <br> 24–28 | 22–28% <br> 13–16 | 6–9% <br> 3–5 | 2–5% <br> 0 | 5–8% <br> 3–4 | 7–11% <br> 4–6 | 1–2% <br> 0 | 2–4% <br> 0 |
-| [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 41–47% <br> 25–29 | 17–21% <br> 10–13 | 6–9% <br> 3–5 | 2–4% <br> 0 | 4–6% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 41–47% <br> 24–29 | 17–21% <br> 10–13 | 6–9% <br> 3–5 | 2–4% <br> 0 | 4–6% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 33–39% <br> 19–24 | 23–29% <br> 14–18 | 6–9% <br> 3–5 | 4–7% <br> 0–3 | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 35–41% <br> 20–24 | 25–31% <br> 15–18 | 9–13% <br> 5–7 | 5–8% <br> 0–4 | 3–5% <br> 0–3 | 7–10% <br> 3–5 | 1–3% <br> 0 | 2–4% <br> 0 |
-| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 39–45% <br> 23–28 | 22–27% <br> 13–17 | 5–8% <br> 3–4 | 4–7% <br> 0–4 | 3–6% <br> 0–3 | 9–13% <br> 5–7 | 2–4% <br> 0 | 3–5% <br> 0 |
+| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 39–45% <br> 23–28 | 22–27% <br> 13–17 | 5–8% <br> 0–4 | 4–7% <br> 0–4 | 3–6% <br> 0–3 | 9–13% <br> 5–7 | 2–4% <br> 0 | 3–5% <br> 0 |
 | [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35–40% <br> 20–24 | 24–29% <br> 13–17 | 4–7% <br> 0–4 | 2–4% <br> 0 | 4–7% <br> 0–3 | 8–12% <br> 4–6 | N/A <br> N/A | 2–3% <br> 0 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 33–39% <br> 19–25 | 25–31% <br> 15–20 | 5–8% <br> 0–4 | 4–7% <br> 0–4 | 3–5% <br> 0–3 | 4–7% <br> 0–4 | 3–5% <br> 0–3 | 1–3% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |

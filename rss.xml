@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 10 Sep 2018 19:50:38 +0200</pubDate>
+    <pubDate>Wed, 12 Sep 2018 22:58:30 +0200</pubDate>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 22–23 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-08-23-Estymator.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-08-11-KantarPublic.png"
         length="211852"
         type="image/png"/>
-      <pubDate>Sun, 26 Aug 2018 09:29:27 +0200</pubDate>
-      <dc:date>2018-08-26T09:29:27.29895+02:00</dc:date>
+      <pubDate>Wed, 12 Sep 2018 22:58:30 +0200</pubDate>
+      <dc:date>2018-09-12T22:58:30.461747+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 9–10 August 2018 – Seat Projections for the Parties</title>
@@ -1359,6 +1359,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-09-10T19:50:38.62084+02:00</dc:date>
+    <dc:date>2018-09-12T22:58:30.461747+02:00</dc:date>
   </channel>
 </rss>

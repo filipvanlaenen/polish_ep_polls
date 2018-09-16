@@ -94,7 +94,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 0–6 | 0–7 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |

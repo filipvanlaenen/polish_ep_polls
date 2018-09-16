@@ -311,11 +311,11 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 19% | 79% |  |
 | 23 | 15% | 60% | Median |
 | 24 | 8% | 46% |  |
-| 25 | 11% | 38% |  |
-| 26 | 14% | 27% |  |
-| 27 | 7% | 12% | Majority |
+| 25 | 10% | 38% |  |
+| 26 | 15% | 27% |  |
+| 27 | 8% | 13% | Majority |
 | 28 | 4% | 5% |  |
-| 29 | 1.1% | 1.4% |  |
+| 29 | 1.2% | 1.5% |  |
 | 30 | 0.3% | 0.3% |  |
 | 31 | 0% | 0% |  |
 
@@ -340,10 +340,10 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 2% | 99.9% |  |
 | 11 | 6% | 98% |  |
 | 12 | 5% | 92% |  |
-| 13 | 5% | 87% |  |
-| 14 | 18% | 82% |  |
-| 15 | 25% | 63% | Median |
-| 16 | 19% | 39% |  |
+| 13 | 6% | 86% |  |
+| 14 | 18% | 81% |  |
+| 15 | 24% | 63% | Median |
+| 16 | 20% | 39% |  |
 | 17 | 12% | 20% |  |
 | 18 | 5% | 7% |  |
 | 19 | 2% | 2% |  |
@@ -362,8 +362,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 97% |  |
 | 2 | 0.7% | 97% |  |
 | 3 | 37% | 96% |  |
-| 4 | 41% | 59% | Median |
-| 5 | 7% | 18% |  |
+| 4 | 40% | 59% | Median |
+| 5 | 7% | 19% |  |
 | 6 | 9% | 11% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |
@@ -395,8 +395,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 62% | 100% | Last Result, Median |
 | 1 | 0% | 38% |  |
 | 2 | 2% | 38% |  |
-| 3 | 28% | 36% |  |
-| 4 | 8% | 8% |  |
+| 3 | 29% | 36% |  |
+| 4 | 7% | 7% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
@@ -414,7 +414,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 18% | 79% |  |
 | 4 | 18% | 61% | Median |
 | 5 | 25% | 43% |  |
-| 6 | 14% | 18% |  |
+| 6 | 15% | 18% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
@@ -456,7 +456,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 23 | 12% | 21–27 | 20–28 | 20–28 | 19–29 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 23 | 13% | 21–27 | 20–28 | 20–28 | 19–29 |
 | Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 16 | 0% | 14–18 | 12–19 | 11–19 | 11–20 |
 | Sojusz Lewicy Demokratycznej (S&D) | 0 | 4 | 0% | 0–6 | 0–6 | 0–7 | 0–7 |
 | Kukiz’15 (*) – Partia Razem (*) | 0 | 4 | 0% | 3–6 | 3–6 | 0–6 | 0–7 |
@@ -494,11 +494,11 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 19% | 79% |  |
 | 23 | 15% | 60% | Median |
 | 24 | 8% | 46% |  |
-| 25 | 11% | 38% |  |
-| 26 | 14% | 27% |  |
-| 27 | 7% | 12% | Majority |
+| 25 | 10% | 38% |  |
+| 26 | 15% | 27% |  |
+| 27 | 8% | 13% | Majority |
 | 28 | 4% | 5% |  |
-| 29 | 1.1% | 1.4% |  |
+| 29 | 1.2% | 1.5% |  |
 | 30 | 0.3% | 0.3% |  |
 | 31 | 0% | 0% |  |
 
@@ -524,11 +524,11 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 3% | 94% |  |
 | 14 | 9% | 91% |  |
 | 15 | 15% | 81% | Median |
-| 16 | 19% | 66% |  |
-| 17 | 20% | 47% |  |
-| 18 | 20% | 27% |  |
-| 19 | 5% | 7% |  |
-| 20 | 1.1% | 1.3% |  |
+| 16 | 20% | 66% |  |
+| 17 | 22% | 46% |  |
+| 18 | 17% | 24% |  |
+| 19 | 6% | 8% |  |
+| 20 | 1.3% | 1.5% |  |
 | 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 
@@ -544,7 +544,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 18% | 79% |  |
 | 4 | 18% | 61% | Median |
 | 5 | 25% | 43% |  |
-| 6 | 14% | 18% |  |
+| 6 | 15% | 18% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
@@ -558,8 +558,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 3% | 100% | Last Result |
 | 1 | 0% | 97% |  |
 | 2 | 0.7% | 97% |  |
-| 3 | 36% | 96% |  |
-| 4 | 41% | 59% | Median |
+| 3 | 37% | 96% |  |
+| 4 | 40% | 59% | Median |
 | 5 | 7% | 19% |  |
 | 6 | 9% | 12% |  |
 | 7 | 2% | 2% |  |
@@ -595,6 +595,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,898,240
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 6,815,744
 + **Error estimate:** 1.89%

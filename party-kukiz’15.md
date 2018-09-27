@@ -10,9 +10,13 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.5–10.6% | 5.2–11.4% | 4.9–12.0% | 4.5–12.9% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.7–10.6% | 5.3–11.4% | 5.0–12.0% | 4.5–12.9% |
+| [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.0–9.2% |
+| [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
+| [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.6–8.7% | 5.2–9.2% |
+| [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.2–9.3% |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 11.0% | 9.8–12.4% | 9.5–12.7% | 9.3–13.1% | 8.7–13.7% |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
@@ -69,12 +73,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.7% | 100% |  |
-| 4.5–5.5% | 11% | 99.3% |  |
-| 5.5–6.5% | 30% | 89% |  |
-| 6.5–7.5% | 30% | 58% | Median |
-| 7.5–8.5% | 12% | 28% |  |
-| 8.5–9.5% | 3% | 16% |  |
+| 3.5–4.5% | 0.5% | 100% |  |
+| 4.5–5.5% | 7% | 99.5% |  |
+| 5.5–6.5% | 24% | 92% |  |
+| 6.5–7.5% | 30% | 68% | Median |
+| 7.5–8.5% | 18% | 38% |  |
+| 8.5–9.5% | 6% | 20% |  |
 | 9.5–10.5% | 4% | 14% |  |
 | 10.5–11.5% | 6% | 10% |  |
 | 11.5–12.5% | 3% | 4% |  |
@@ -91,9 +95,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 0–7 |
+| [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 5 | 5 | 3–5 | 3–5 | 3–5 |
+| [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
@@ -148,13 +156,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 0.7% | 97% |  |
-| 3 | 37% | 96% |  |
-| 4 | 40% | 59% | Median |
-| 5 | 7% | 19% |  |
-| 6 | 9% | 11% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 0% | 98% |  |
+| 2 | 0.7% | 98% |  |
+| 3 | 28% | 97% |  |
+| 4 | 39% | 68% | Median |
+| 5 | 9% | 29% |  |
+| 6 | 18% | 20% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

@@ -131,7 +131,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 24 | 21–27 | 20–28 | 20–28 | 19–29 |
-| [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
+| [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 25–28 | 24–28 | 24–29 |
 | [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 26 | 25–28 | 25–28 | 24–29 | 23–29 |
 | [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 25 | 24–26 | 24–26 | 23–27 | 22–28 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 24–27 | 24–27 | 24–28 | 23–28 |

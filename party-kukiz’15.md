@@ -96,12 +96,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 0–7 |
-| [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 5 | 5 | 3–5 | 3–5 | 3–5 |
+| [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 6 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
@@ -159,10 +159,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 2% | 100% | Last Result |
 | 1 | 0% | 98% |  |
 | 2 | 0.7% | 98% |  |
-| 3 | 28% | 97% |  |
-| 4 | 39% | 68% | Median |
-| 5 | 9% | 29% |  |
-| 6 | 18% | 20% |  |
+| 3 | 29% | 97% |  |
+| 4 | 44% | 68% | Median |
+| 5 | 12% | 24% |  |
+| 6 | 10% | 12% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

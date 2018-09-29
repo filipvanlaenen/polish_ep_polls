@@ -132,8 +132,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25 | 21–27 | 21–27 | 20–28 | 20–29 |
 | [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 25–28 | 24–28 | 24–29 |
-| [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 26 | 25–28 | 25–28 | 24–29 | 23–29 |
-| [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 25 | 24–26 | 24–26 | 23–27 | 22–28 |
+| [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 27 | 25–28 | 25–28 | 24–29 | 23–29 |
+| [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 25 | 24–26 | 23–26 | 23–27 | 22–28 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 24–27 | 24–27 | 24–28 | 23–28 |
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 27 | 25–28 | 25–29 | 24–29 | 24–30 |
 | [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 25 | 23–26 | 23–26 | 22–27 | 21–28 |
@@ -214,13 +214,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 3% | 99.6% |  |
 | 21 | 7% | 97% |  |
 | 22 | 11% | 90% |  |
-| 23 | 11% | 79% |  |
-| 24 | 14% | 68% |  |
-| 25 | 21% | 55% | Median |
-| 26 | 18% | 33% |  |
+| 23 | 12% | 79% |  |
+| 24 | 13% | 68% |  |
+| 25 | 19% | 54% | Median |
+| 26 | 19% | 35% |  |
 | 27 | 11% | 16% | Majority |
 | 28 | 4% | 5% |  |
-| 29 | 0.6% | 0.7% |  |
+| 29 | 0.6% | 0.8% |  |
 | 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 

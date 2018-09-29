@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 4.4–10.7% | 3.9–11.2% | 3.6–11.7% | 3.1–12.5% |
+| N/A | [Poll Average](average.html) | 7.6% | 4.4–10.6% | 3.9–11.2% | 3.6–11.7% | 3.1–12.5% |
 | [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.1% | 7.0–9.3% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
@@ -74,15 +74,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
 | 3.5–4.5% | 9% | 98% |  |
-| 4.5–5.5% | 9% | 89% |  |
+| 4.5–5.5% | 10% | 89% |  |
 | 5.5–6.5% | 15% | 79% |  |
-| 6.5–7.5% | 11% | 64% |  |
-| 7.5–8.5% | 12% | 54% | Median |
-| 8.5–9.5% | 16% | 41% |  |
-| 9.5–10.5% | 14% | 25% |  |
+| 6.5–7.5% | 13% | 64% |  |
+| 7.5–8.5% | 15% | 51% | Median |
+| 8.5–9.5% | 13% | 36% |  |
+| 9.5–10.5% | 12% | 23% |  |
 | 10.5–11.5% | 8% | 11% |  |
 | 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.5% | 0.5% |  |
+| 12.5–13.5% | 0.4% | 0.5% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -100,7 +100,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 0–4 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 0 | 0 | 0–3 | 0–3 | 0–3 |
-| [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
+| [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -157,11 +157,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 15% | 100% | Last Result |
 | 1 | 0% | 85% |  |
-| 2 | 0.2% | 85% |  |
+| 2 | 0.1% | 85% |  |
 | 3 | 21% | 85% |  |
-| 4 | 21% | 64% | Median |
-| 5 | 25% | 43% |  |
-| 6 | 15% | 18% |  |
+| 4 | 25% | 64% | Median |
+| 5 | 22% | 39% |  |
+| 6 | 14% | 17% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |

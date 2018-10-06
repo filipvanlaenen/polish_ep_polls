@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 05 Oct 2018 06:51:50 +0200</pubDate>
+    <pubDate>Sat, 06 Oct 2018 13:37:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 22–23 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-09-23-IBRiS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-09-23-IBRiS.png"
         length="215742"
         type="image/png"/>
-      <pubDate>Fri, 05 Oct 2018 06:51:50 +0200</pubDate>
-      <dc:date>2018-10-05T06:51:50.079275+02:00</dc:date>
+      <pubDate>Sat, 06 Oct 2018 13:37:21 +0200</pubDate>
+      <dc:date>2018-10-06T13:37:21.787857+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 20–21 September 2018 – Seat Projections for the Parties</title>
@@ -1549,6 +1549,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-10-05T06:51:50.079275+02:00</dc:date>
+    <dc:date>2018-10-06T13:37:21.787857+02:00</dc:date>
   </channel>
 </rss>

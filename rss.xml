@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Oct 2018 13:37:21 +0200</pubDate>
+    <pubDate>Sun, 07 Oct 2018 08:52:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet, 22–23 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-09-23-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 18–21 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4–7 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-09-23-IBRiS-seats.png"
+        length="190350"
+        type="image/png"/>
+      <pubDate>Sun, 07 Oct 2018 08:52:00 +0200</pubDate>
+      <dc:date>2018-10-07T08:52:00.177919+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet, 22–23 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-09-23-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-09-23-IBRiS-coalitions-seats.png"
+        length="109954"
+        type="image/png"/>
+      <pubDate>Sun, 07 Oct 2018 08:52:00 +0200</pubDate>
+      <dc:date>2018-10-07T08:52:00.177919+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 22–23 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-09-23-IBRiS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-09-23-IBRiS.png"
         length="215742"
         type="image/png"/>
-      <pubDate>Sat, 06 Oct 2018 13:37:21 +0200</pubDate>
-      <dc:date>2018-10-06T13:37:21.787857+02:00</dc:date>
+      <pubDate>Sun, 07 Oct 2018 08:52:00 +0200</pubDate>
+      <dc:date>2018-10-07T08:52:00.177919+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 20–21 September 2018 – Seat Projections for the Parties</title>
@@ -1549,6 +1569,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-10-06T13:37:21.787857+02:00</dc:date>
+    <dc:date>2018-10-07T08:52:00.177919+02:00</dc:date>
   </channel>
 </rss>

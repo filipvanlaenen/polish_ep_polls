@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 07 Nov 2018 23:03:02 +0100</pubDate>
+    <pubDate>Fri, 09 Nov 2018 14:37:34 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by CBOS, 4–11 October 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-10-11-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 22–26 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4–6 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-10-11-CBOS-seats.png"
+        length="176829"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 14:37:34 +0100</pubDate>
+      <dc:date>2018-11-09T14:37:34.383801+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 4–11 October 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-10-11-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-10-11-CBOS-coalitions-seats.png"
+        length="100195"
+        type="image/png"/>
+      <pubDate>Fri, 09 Nov 2018 14:37:34 +0100</pubDate>
+      <dc:date>2018-11-09T14:37:34.383801+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CBOS, 4–11 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-10-11-CBOS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-10-11-CBOS.png"
         length="199921"
         type="image/png"/>
-      <pubDate>Wed, 07 Nov 2018 23:03:02 +0100</pubDate>
-      <dc:date>2018-11-07T23:03:02.136213+01:00</dc:date>
+      <pubDate>Fri, 09 Nov 2018 14:37:34 +0100</pubDate>
+      <dc:date>2018-11-09T14:37:34.383801+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 22–23 September 2018 – Seat Projections for the Parties</title>
@@ -1579,6 +1599,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-11-07T23:03:02.136213+01:00</dc:date>
+    <dc:date>2018-11-09T14:37:34.383801+01:00</dc:date>
   </channel>
 </rss>

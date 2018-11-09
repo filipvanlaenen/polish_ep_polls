@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [4–11 October 2018](2018-10-11-CBOS.html) | CBOS | 37–43% <br> 22–26 | 17–21% <br> 10–13 | 7–10% <br> 4–5 | 2–4% <br> 0 | 4–6% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [4–11 October 2018](2018-10-11-CBOS.html) | CBOS | 37–43% <br> 22–26 | 17–21% <br> 10–13 | 7–10% <br> 4–6 | 2–4% <br> 0 | 4–6% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [22–23 September 2018](2018-09-23-IBRiS.html) | IBRiS <br> Onet | 30–36% <br> 18–21 | 21–26% <br> 12–15 | 8–12% <br> 4–7 | 1–3% <br> 0 | 5–8% <br> 0–4 | 7–11% <br> 4–6 | 2–5% <br> 0 | 2–3% <br> 0 |
 | [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 42–48% <br> 24–28 | 21–27% <br> 12–15 | 5–9% <br> 3–5 | 3–5% <br> 0–3 | 6–9% <br> 3–5 | 7–10% <br> 3–5 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 40–46% <br> 24–29 | 16–20% <br> 9–13 | 6–9% <br> 3–5 | 2–4% <br> 0 | 3–5% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |

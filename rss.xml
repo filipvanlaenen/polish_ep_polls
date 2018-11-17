@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 09 Nov 2018 14:37:34 +0100</pubDate>
+    <pubDate>Sat, 17 Nov 2018 19:41:20 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 29–30 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-10-30-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 39.4–45.5%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 27.3–32.9%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 5.8–9.1%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 1.2–2.9%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 1.6–3.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-10-30-Estymator.png"
+        length="187388"
+        type="image/png"/>
+      <pubDate>Sat, 17 Nov 2018 19:41:20 +0100</pubDate>
+      <dc:date>2018-11-17T19:41:20.065406+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CBOS, 4–11 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-10-11-CBOS.html#seats</link>
@@ -1599,6 +1609,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-11-09T14:37:34.383801+01:00</dc:date>
+    <dc:date>2018-11-17T19:41:20.065406+01:00</dc:date>
   </channel>
 </rss>

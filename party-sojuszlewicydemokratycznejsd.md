@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 4.2–8.3% | 3.8–8.7% | 3.5–9.1% | 3.1–9.7% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.2–8.5% | 4.7–8.9% | 4.4–9.3% | 3.9–9.9% |
+| [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 8.2% | 7.2–9.3% | 6.9–9.7% | 6.7–10.0% | 6.3–10.5% |
+| [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.3% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.4–9.7% |
+| [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
+| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [8–15 November 2018](2018-11-15-CBOS.html) | CBOS | 5.0% | 4.3–6.0% | 4.1–6.3% | 3.9–6.5% | 3.5–7.0% |
+| [13 November 2018](2018-11-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.9–7.8% | 4.5–8.3% |
 | [8–9 November 2018](2018-11-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.9% | 7.0–9.1% | 6.7–9.4% | 6.4–9.7% | 6.0–10.2% |
 | [29–30 October 2018](2018-10-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.4% | 6.4–8.5% | 6.1–8.9% | 5.9–9.2% | 5.5–9.7% |
 | [12–17 October 2018](2018-10-17-KantarPublic.html) | Kantar Public | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -78,15 +84,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 10% | 97% |  |
-| 4.5–5.5% | 8% | 87% |  |
-| 5.5–6.5% | 19% | 79% |  |
-| 6.5–7.5% | 31% | 60% | Median |
-| 7.5–8.5% | 22% | 29% |  |
-| 8.5–9.5% | 6% | 7% |  |
-| 9.5–10.5% | 0.7% | 0.7% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 10% | 97% |  |
+| 5.5–6.5% | 18% | 86% |  |
+| 6.5–7.5% | 34% | 68% | Median |
+| 7.5–8.5% | 25% | 34% |  |
+| 8.5–9.5% | 8% | 9% |  |
+| 9.5–10.5% | 1.2% | 1.3% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -97,7 +104,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
+| [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [8–15 November 2018](2018-11-15-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [13 November 2018](2018-11-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 2–4 | 0–4 | 0–5 |
 | [8–9 November 2018](2018-11-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [29–30 October 2018](2018-10-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [12–17 October 2018](2018-10-17-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -164,13 +177,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 0% | 83% |  |
-| 2 | 0.5% | 83% |  |
-| 3 | 33% | 83% | Median |
-| 4 | 39% | 50% |  |
-| 5 | 10% | 10% |  |
-| 6 | 0.4% | 0.4% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 0.9% | 92% |  |
+| 3 | 31% | 91% |  |
+| 4 | 44% | 60% | Median |
+| 5 | 15% | 15% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 

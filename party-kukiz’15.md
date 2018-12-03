@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 5.0–9.4% | 4.5–9.8% | 4.2–10.2% | 3.7–10.9% |
+| N/A | [Poll Average](average.html) | 7.9% | 5.2–11.4% | 4.8–12.2% | 4.5–12.7% | 4.1–13.6% |
+| [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.7% | 3.7–7.1% |
+| [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
+| [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
+| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
+| [8–15 November 2018](2018-11-15-CBOS.html) | CBOS | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
+| [13 November 2018](2018-11-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.6% | 4.8–6.6% | 4.6–6.9% | 4.4–7.2% | 4.1–7.7% |
 | [8–9 November 2018](2018-11-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4.8% | 4.1–5.8% | 3.9–6.0% | 3.7–6.3% | 3.4–6.7% |
 | [29–30 October 2018](2018-10-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.3% | 6.3–8.4% | 6.1–8.8% | 5.8–9.1% | 5.4–9.6% |
 | [12–17 October 2018](2018-10-17-KantarPublic.html) | Kantar Public | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
@@ -78,17 +84,20 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 5% | 99.8% |  |
-| 4.5–5.5% | 9% | 95% |  |
-| 5.5–6.5% | 7% | 86% |  |
-| 6.5–7.5% | 20% | 79% |  |
-| 7.5–8.5% | 32% | 59% | Median |
-| 8.5–9.5% | 20% | 27% |  |
-| 9.5–10.5% | 6% | 7% |  |
-| 10.5–11.5% | 1.0% | 1.1% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 13% | 97% |  |
+| 5.5–6.5% | 17% | 84% |  |
+| 6.5–7.5% | 13% | 67% |  |
+| 7.5–8.5% | 13% | 54% | Median |
+| 8.5–9.5% | 15% | 41% |  |
+| 9.5–10.5% | 10% | 26% |  |
+| 10.5–11.5% | 7% | 16% |  |
+| 11.5–12.5% | 6% | 9% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.5% | 0.6% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -99,7 +108,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
+| [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [8–15 November 2018](2018-11-15-CBOS.html) | CBOS | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
+| [13 November 2018](2018-11-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [8–9 November 2018](2018-11-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [29–30 October 2018](2018-10-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [12–17 October 2018](2018-10-17-KantarPublic.html) | Kantar Public | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -166,13 +181,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 0% | 90% |  |
-| 2 | 0.2% | 90% |  |
-| 3 | 14% | 89% |  |
-| 4 | 48% | 76% | Median |
-| 5 | 26% | 28% |  |
-| 6 | 2% | 2% |  |
-| 7 | 0% | 0% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 0.6% | 92% |  |
+| 3 | 27% | 92% |  |
+| 4 | 26% | 65% | Median |
+| 5 | 21% | 39% |  |
+| 6 | 11% | 18% |  |
+| 7 | 6% | 7% |  |
+| 8 | 0.7% | 0.7% |  |
+| 9 | 0% | 0% |  |
 
 

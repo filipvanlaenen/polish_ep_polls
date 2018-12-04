@@ -104,8 +104,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
-| [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -181,9 +181,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 92% |  |
 | 2 | 0.9% | 92% |  |
 | 3 | 32% | 91% |  |
-| 4 | 44% | 59% | Median |
-| 5 | 15% | 15% |  |
-| 6 | 0.3% | 0.3% |  |
+| 4 | 46% | 59% | Median |
+| 5 | 12% | 13% |  |
+| 6 | 0.7% | 0.7% |  |
 | 7 | 0% | 0% |  |
 
 

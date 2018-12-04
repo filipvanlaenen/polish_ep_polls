@@ -106,7 +106,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0–3 | 0–3 | 0–3 |
-| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [8–15 November 2018](2018-11-15-CBOS.html) | CBOS | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [13 November 2018](2018-11-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [8–9 November 2018](2018-11-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0–3 | 0–3 | 0–3 |
@@ -177,8 +177,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 50% | 100% | Last Result |
 | 1 | 0% | 50% |  |
-| 2 | 8% | 50% | Median |
-| 3 | 28% | 42% |  |
+| 2 | 7% | 50% | Median |
+| 3 | 29% | 43% |  |
 | 4 | 12% | 14% |  |
 | 5 | 1.5% | 2% |  |
 | 6 | 0% | 0% |  |

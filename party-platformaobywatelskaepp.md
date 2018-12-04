@@ -130,9 +130,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 12–18 | 12–19 | 11–20 | 11–20 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 18 | 17–20 | 16–20 | 16–20 | 16–21 |
-| [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [8–15 November 2018](2018-11-15-CBOS.html) | CBOS | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [13 November 2018](2018-11-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 17 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [8–9 November 2018](2018-11-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
@@ -214,15 +214,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0.3% | 100% |  |
 | 11 | 3% | 99.7% |  |
 | 12 | 10% | 96% |  |
-| 13 | 13% | 87% |  |
-| 14 | 9% | 74% |  |
-| 15 | 10% | 65% |  |
-| 16 | 17% | 55% | Median |
-| 17 | 19% | 39% |  |
-| 18 | 13% | 19% |  |
-| 19 | 3% | 6% |  |
+| 13 | 11% | 87% |  |
+| 14 | 9% | 76% |  |
+| 15 | 11% | 66% |  |
+| 16 | 16% | 56% | Median |
+| 17 | 19% | 40% |  |
+| 18 | 14% | 21% |  |
+| 19 | 4% | 7% |  |
 | 20 | 3% | 3% |  |
-| 21 | 0.3% | 0.4% |  |
+| 21 | 0.3% | 0.3% |  |
 | 22 | 0% | 0% |  |
 
 

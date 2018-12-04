@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 31–44% <br> 18–26 | 20–33% <br> 11–20 | 4–13% <br> 0–7 | 2–5% <br> 0 | 3–8% <br> 0–4 | 4–9% <br> 0–5 | 0–4% <br> 0 | 1–4% <br> 0 |
-| [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 35–41% <br> 20–25 | 28–33% <br> 16–20 | 4–7% <br> 0–4 | 3–5% <br> 0–3 | 3–6% <br> 0–3 | 7–10% <br> 4–5 | 0–1% <br> 0 | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 31–44% <br> 18–26 | 20–33% <br> 11–19 | 4–13% <br> 0–7 | 2–5% <br> 0 | 3–8% <br> 0–4 | 4–9% <br> 0–5 | 0–4% <br> 0 | 1–4% <br> 0 |
+| [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 35–41% <br> 20–25 | 28–33% <br> 16–20 | 4–7% <br> 0–4 | 3–5% <br> 0–3 | 3–6% <br> 0–3 | 7–10% <br> 4–6 | 0–1% <br> 0 | 1–3% <br> 0 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 38–44% <br> 21–26 | 28–33% <br> 16–19 | 10–14% <br> 5–8 | N/A <br> N/A | 4–6% <br> 0–3 | 6–9% <br> 3–5 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 30–36% <br> 18–22 | 23–29% <br> 14–17 | 6–9% <br> 3–5 | 2–4% <br> 0 | 3–5% <br> 0–3 | 6–9% <br> 3–5 | 1–3% <br> 0 | 2–4% <br> 0 |
 | [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 31–37% <br> 17–21 | 22–27% <br> 12–15 | 7–11% <br> 4–6 | N/A <br> N/A | 4–6% <br> 0–3 | 6–9% <br> 3–5 | 1–3% <br> 0 | 1–3% <br> 0 |

@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 5.2–11.4% | 4.8–12.2% | 4.5–12.7% | 4.1–13.6% |
+| N/A | [Poll Average](average.html) | 6.5% | 4.9–8.9% | 4.6–9.5% | 4.3–10.0% | 3.9–10.8% |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.2–9.2% |
+| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
+| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 5.2% | 4.4–6.1% | 4.2–6.4% | 4.0–6.7% | 3.7–7.1% |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.1–9.3% |
@@ -84,20 +89,17 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 13% | 97% |  |
-| 5.5–6.5% | 17% | 84% |  |
-| 6.5–7.5% | 13% | 67% |  |
-| 7.5–8.5% | 13% | 54% | Median |
-| 8.5–9.5% | 15% | 41% |  |
-| 9.5–10.5% | 10% | 26% |  |
-| 10.5–11.5% | 7% | 16% |  |
-| 11.5–12.5% | 6% | 9% |  |
-| 12.5–13.5% | 3% | 3% |  |
-| 13.5–14.5% | 0.5% | 0.6% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 19% | 96% |  |
+| 5.5–6.5% | 28% | 77% |  |
+| 6.5–7.5% | 23% | 49% | Median |
+| 7.5–8.5% | 13% | 26% |  |
+| 8.5–9.5% | 8% | 13% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.9% | 0.9% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -108,7 +110,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 0–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 5 | 5 | 5–6 | 4–6 |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0–3 | 0–4 |
+| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 3 | 3 | 3 | 3 | 0–3 |
+| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -181,15 +188,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 0.5% | 92% |  |
-| 3 | 27% | 91% |  |
-| 4 | 26% | 64% | Median |
-| 5 | 21% | 38% |  |
-| 6 | 11% | 17% |  |
-| 7 | 6% | 7% |  |
-| 8 | 0.6% | 0.6% |  |
-| 9 | 0% | 0% |  |
+| 0 | 26% | 100% | Last Result |
+| 1 | 0% | 74% |  |
+| 2 | 0% | 74% |  |
+| 3 | 30% | 74% | Median |
+| 4 | 23% | 45% |  |
+| 5 | 21% | 22% |  |
+| 6 | 0.5% | 0.5% |  |
+| 7 | 0% | 0% |  |
 
 

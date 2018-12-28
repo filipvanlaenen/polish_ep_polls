@@ -107,12 +107,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 0–4 | 0–4 | 0–4 |
-| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0–3 |
-| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0–3 | 0–3 | 0–3 |
@@ -185,13 +185,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 50% | 100% | Last Result |
-| 1 | 0% | 50% |  |
-| 2 | 0.4% | 50% | Median |
-| 3 | 19% | 50% |  |
-| 4 | 23% | 31% |  |
-| 5 | 8% | 8% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 0 | 45% | 100% | Last Result |
+| 1 | 0% | 55% |  |
+| 2 | 1.2% | 55% |  |
+| 3 | 38% | 54% | Median |
+| 4 | 14% | 16% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0% | 0% |  |
 
 

@@ -145,12 +145,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 20–25 | 19–25 | 19–26 | 18–27 |
-| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 22–28 | 22–28 | 22–28 | 22–28 |
-| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 23–24 | 23–24 | 23–25 | 23–26 |
-| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 21 | 20–22 | 20–22 | 20–22 | 19–22 |
-| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 23 | 23–24 | 23–24 | 23–24 | 22–26 |
-| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 25 | 21–25 | 21–25 | 21–25 | 19–25 |
+| N/A | [Poll Average](average.html) | 22 | 19–26 | 19–26 | 18–27 | 18–28 |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–27 | 23–28 | 22–28 | 22–28 |
+| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 19 | 18–21 | 18–21 | 18–22 | 17–22 |
+| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
+| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 20–23 | 20–23 | 19–24 | 19–25 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 23 | 21–25 | 21–25 | 20–25 | 20–26 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
@@ -240,18 +240,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.2% | 100% |  |
-| 18 | 1.4% | 99.8% |  |
-| 19 | 4% | 98% |  |
-| 20 | 8% | 94% |  |
-| 21 | 21% | 86% |  |
-| 22 | 9% | 65% |  |
-| 23 | 30% | 57% | Median |
-| 24 | 12% | 26% |  |
-| 25 | 12% | 15% |  |
-| 26 | 2% | 3% |  |
-| 27 | 0.7% | 0.9% | Majority |
-| 28 | 0.1% | 0.1% |  |
+| 17 | 0.4% | 100% |  |
+| 18 | 4% | 99.6% |  |
+| 19 | 10% | 96% |  |
+| 20 | 13% | 86% |  |
+| 21 | 9% | 72% |  |
+| 22 | 13% | 63% | Median |
+| 23 | 13% | 49% |  |
+| 24 | 15% | 36% |  |
+| 25 | 11% | 21% |  |
+| 26 | 7% | 10% |  |
+| 27 | 2% | 3% | Majority |
+| 28 | 1.0% | 1.0% |  |
 | 29 | 0% | 0% |  |
 
 

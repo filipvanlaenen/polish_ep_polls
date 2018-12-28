@@ -111,11 +111,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 5 | 5 | 5–6 | 4–6 |
-| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0–3 | 0–4 |
-| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 3 | 3 | 3 | 3 | 0–3 |
-| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–4 | 0–4 | 0–5 |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
+| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -188,13 +188,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 0% | 74% |  |
-| 2 | 0% | 74% |  |
-| 3 | 30% | 74% | Median |
-| 4 | 23% | 45% |  |
-| 5 | 21% | 22% |  |
-| 6 | 0.5% | 0.5% |  |
+| 0 | 11% | 100% | Last Result |
+| 1 | 0% | 89% |  |
+| 2 | 0.9% | 89% |  |
+| 3 | 42% | 88% | Median |
+| 4 | 32% | 46% |  |
+| 5 | 13% | 14% |  |
+| 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
 
 

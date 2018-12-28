@@ -28,11 +28,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 21 | 20–22 |20–22 |20–22 |19–22 |
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 17 | 16–17 |16–17 |15–17 |14–18 |
-| <a href="#kukiz’15-(*)">Kukiz’15 (*)</a> | 0 | 0 | 0 |0 |0–3 |0–4 |
-| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 0 | 0 |0 |0 |0–3 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 19 | 18–21 |18–21 |18–22 |17–22 |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 16 | 14–17 |14–17 |14–17 |13–18 |
+| <a href="#kukiz’15-(*)">Kukiz’15 (*)</a> | 0 | 3 | 2–4 |0–4 |0–4 |0–4 |
+| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 3 | 3–4 |2–4 |0–4 |0–4 |
+| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 0 | 0 |0–2 |0–3 |0–3 |
 | <a href="#wolność-(efdd)">Wolność (EFDD)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#partia-razem-(*)">Partia Razem (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -61,14 +61,15 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0.1% | 100% |  |
-| 19 | 2% | 99.9% |  |
-| 20 | 13% | 98% |  |
-| 21 | 60% | 85% | Median |
-| 22 | 25% | 25% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 17 | 1.4% | 100% |  |
+| 18 | 14% | 98.6% |  |
+| 19 | 37% | 85% | Median |
+| 20 | 32% | 47% |  |
+| 21 | 12% | 15% |  |
+| 22 | 3% | 3% |  |
+| 23 | 0.3% | 0.4% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 ### Platforma Obywatelska (EPP)
 
@@ -91,13 +92,14 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.7% | 100% |  |
-| 15 | 2% | 99.2% |  |
-| 16 | 34% | 97% |  |
-| 17 | 62% | 63% | Median |
-| 18 | 0.9% | 0.9% |  |
-| 19 | 0% | 0% |  |
+| 13 | 1.3% | 100% |  |
+| 14 | 9% | 98.7% |  |
+| 15 | 22% | 90% |  |
+| 16 | 49% | 68% | Median |
+| 17 | 17% | 18% |  |
+| 18 | 1.0% | 1.1% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 ### Kukiz’15 (*)
 
@@ -107,12 +109,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 1.3% | 3% |  |
-| 4 | 2% | 2% |  |
-| 5 | 0.1% | 0.1% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 2% | 92% |  |
+| 3 | 76% | 89% | Median |
+| 4 | 13% | 13% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Sojusz Lewicy Demokratycznej (S&D)
@@ -123,11 +125,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 0% | 99.8% |  |
-| 2 | 0.2% | 99.8% |  |
-| 3 | 54% | 99.6% | Median |
-| 4 | 46% | 46% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 0% | 95% |  |
+| 2 | 1.5% | 95% |  |
+| 3 | 71% | 94% | Median |
+| 4 | 22% | 22% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
@@ -139,10 +141,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 0% | 2% |  |
-| 2 | 0.3% | 2% |  |
-| 3 | 2% | 2% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 0% | 5% |  |
+| 2 | 1.5% | 5% |  |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 ### Wolność (EFDD)
@@ -174,10 +176,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 21 | 0% | 20–22 | 20–22 | 20–22 | 19–22 |
-| Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 17 | 0% | 16–17 | 16–17 | 15–18 | 15–19 |
-| Sojusz Lewicy Demokratycznej (S&D) | 0 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
-| Kukiz’15 (*) – Partia Razem (*) | 0 | 0 | 0% | 0 | 0 | 0–3 | 0–4 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 19 | 0% | 18–21 | 18–21 | 18–22 | 17–22 |
+| Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 16 | 0% | 15–17 | 14–17 | 14–18 | 13–19 |
+| Kukiz’15 (*) – Partia Razem (*) | 0 | 3 | 0% | 2–4 | 0–4 | 0–4 | 0–4 |
+| Sojusz Lewicy Demokratycznej (S&D) | 0 | 3 | 0% | 3–4 | 2–4 | 0–4 | 0–4 |
 | Wolność (EFDD) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Prawo i Sprawiedliwość (ECR)
@@ -203,14 +205,15 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0.1% | 100% |  |
-| 19 | 2% | 99.9% |  |
-| 20 | 13% | 98% |  |
-| 21 | 60% | 85% | Median |
-| 22 | 25% | 25% |  |
-| 23 | 0% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 17 | 1.4% | 100% |  |
+| 18 | 14% | 98.6% |  |
+| 19 | 37% | 85% | Median |
+| 20 | 32% | 47% |  |
+| 21 | 12% | 15% |  |
+| 22 | 3% | 3% |  |
+| 23 | 0.3% | 0.4% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 ### Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP)
 
@@ -231,28 +234,15 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.5% | 100% |  |
-| 15 | 2% | 99.5% |  |
-| 16 | 33% | 97% |  |
-| 17 | 62% | 65% | Median |
-| 18 | 0.9% | 3% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0% | 0% |  |
-
-### Sojusz Lewicy Demokratycznej (S&D)
-
-![Graph with seats probability mass function not yet produced](2018-12-11-KantarPublic-coalitions-seats-pmf-sld.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 0% | 99.8% |  |
-| 2 | 0.2% | 99.8% |  |
-| 3 | 54% | 99.6% | Median |
-| 4 | 46% | 46% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 13 | 0.9% | 100% |  |
+| 14 | 8% | 99.1% |  |
+| 15 | 20% | 91% |  |
+| 16 | 48% | 71% | Median |
+| 17 | 19% | 23% |  |
+| 18 | 3% | 5% |  |
+| 19 | 1.0% | 1.2% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 ### Kukiz’15 (*) – Partia Razem (*)
 
@@ -260,12 +250,26 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0% | 3% |  |
-| 3 | 1.3% | 3% |  |
-| 4 | 2% | 2% |  |
-| 5 | 0.1% | 0.1% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 2% | 92% |  |
+| 3 | 76% | 89% | Median |
+| 4 | 13% | 13% |  |
+| 5 | 0.2% | 0.2% |  |
+| 6 | 0% | 0% |  |
+
+### Sojusz Lewicy Demokratycznej (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-12-11-KantarPublic-coalitions-seats-pmf-sld.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 5% | 100% | Last Result |
+| 1 | 0% | 95% |  |
+| 2 | 1.5% | 95% |  |
+| 3 | 71% | 94% | Median |
+| 4 | 22% | 22% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Wolność (EFDD)
@@ -288,6 +292,6 @@
 ### Calculations
 
 + **Sample size:** 1028
-+ **Simulations done:** 1,024
-+ **Error estimate:** 0.96%
++ **Simulations done:** 131,072
++ **Error estimate:** 1.48%
 

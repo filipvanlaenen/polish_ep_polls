@@ -135,9 +135,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–19 | 14–19 | 13–20 | 13–21 |
-| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–19 | 16–20 | 15–20 | 15–20 |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
-| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 17–20 | 17–20 | 16–21 | 16–22 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
@@ -227,12 +227,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.3% | 100% |  |
 | 13 | 4% | 99.7% |  |
 | 14 | 10% | 96% |  |
-| 15 | 16% | 85% |  |
-| 16 | 20% | 69% | Median |
-| 17 | 23% | 50% |  |
-| 18 | 16% | 27% |  |
-| 19 | 7% | 11% |  |
-| 20 | 3% | 4% |  |
+| 15 | 19% | 85% |  |
+| 16 | 18% | 66% | Median |
+| 17 | 20% | 48% |  |
+| 18 | 18% | 28% |  |
+| 19 | 7% | 10% |  |
+| 20 | 2% | 3% |  |
 | 21 | 0.5% | 0.7% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |

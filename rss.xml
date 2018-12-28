@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 27 Dec 2018 23:45:26 +0100</pubDate>
+    <pubDate>Fri, 28 Dec 2018 16:07:21 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 13–14 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-14-InstytutBadańPollster.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 22–28 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 15–19 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-14-InstytutBadańPollster-seats.png"
+        length="204845"
+        type="image/png"/>
+      <pubDate>Fri, 28 Dec 2018 16:07:21 +0100</pubDate>
+      <dc:date>2018-12-28T16:07:21.540971+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 13–14 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-14-InstytutBadańPollster.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-14-InstytutBadańPollster-coalitions-seats.png"
+        length="127989"
+        type="image/png"/>
+      <pubDate>Fri, 28 Dec 2018 16:07:21 +0100</pubDate>
+      <dc:date>2018-12-28T16:07:21.540971+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 13–14 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-14-InstytutBadańPollster.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-14-InstytutBadańPollster.png"
         length="207810"
         type="image/png"/>
-      <pubDate>Thu, 27 Dec 2018 20:58:59 +0100</pubDate>
-      <dc:date>2018-12-27T20:58:59.398819+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 16:07:21 +0100</pubDate>
+      <dc:date>2018-12-28T16:07:21.540971+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 12–13 December 2018 – Voting Intentions</title>
@@ -30,14 +50,34 @@
       <dc:date>2018-12-27T23:45:26.317412+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public, 30 November–11 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-11-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 18–22 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 0–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-11-KantarPublic-seats.png"
+        length="188275"
+        type="image/png"/>
+      <pubDate>Fri, 28 Dec 2018 15:45:16 +0100</pubDate>
+      <dc:date>2018-12-28T15:45:16.368345+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public, 30 November–11 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-11-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-11-KantarPublic-coalitions-seats.png"
+        length="127616"
+        type="image/png"/>
+      <pubDate>Fri, 28 Dec 2018 15:45:16 +0100</pubDate>
+      <dc:date>2018-12-28T15:45:16.368345+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Public, 30 November–11 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-11-KantarPublic.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 31.2–37.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 24.4–29.8%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-11-KantarPublic.png"
         length="193040"
         type="image/png"/>
-      <pubDate>Thu, 27 Dec 2018 21:19:12 +0100</pubDate>
-      <dc:date>2018-12-27T21:19:12.12386+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 15:45:16 +0100</pubDate>
+      <dc:date>2018-12-28T15:45:16.368345+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 29 November–9 December 2018 – Voting Intentions</title>
@@ -1949,6 +1989,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-12-27T23:45:26.317412+01:00</dc:date>
+    <dc:date>2018-12-28T16:07:21.540971+01:00</dc:date>
   </channel>
 </rss>

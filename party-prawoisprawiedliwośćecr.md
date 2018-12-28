@@ -145,12 +145,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–26 | 19–26 | 18–27 | 18–28 |
+| N/A | [Poll Average](average.html) | 23 | 19–26 | 19–26 | 18–27 | 18–28 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–27 | 23–27 | 22–28 | 22–28 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
 | [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
-| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 20–23 | 20–23 | 19–24 | 19–25 |
+| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 21–24 | 20–24 | 20–25 | 19–25 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 23 | 21–25 | 21–25 | 20–25 | 20–26 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
@@ -244,10 +244,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 3% | 99.7% |  |
 | 19 | 9% | 97% |  |
 | 20 | 15% | 88% |  |
-| 21 | 9% | 72% |  |
-| 22 | 13% | 63% | Median |
-| 23 | 15% | 50% |  |
-| 24 | 14% | 35% |  |
+| 21 | 11% | 73% |  |
+| 22 | 12% | 62% |  |
+| 23 | 14% | 50% | Median |
+| 24 | 15% | 36% |  |
 | 25 | 10% | 21% |  |
 | 26 | 7% | 11% |  |
 | 27 | 4% | 4% | Majority |

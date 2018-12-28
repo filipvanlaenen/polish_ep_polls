@@ -14,7 +14,7 @@ The table below lists the polls on which the average is based. They are the most
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 39–45% <br> 22–25 | 29–35% <br> 16–20 | 7–11% <br> 4–6 | N/A <br> N/A | 5–8% <br> 2–4 | 5–8% <br> 0–4 | 1–2% <br> 0 | 1–3% <br> 0 |
 | [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 31–37% <br> 18–22 | 24–30% <br> 14–17 | 5–8% <br> 0–4 | N/A <br> N/A | 3–5% <br> 0–3 | 5–8% <br> 0–4 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 38–44% <br> 22–27 | 21–27% <br> 13–16 | 4–7% <br> 0–3 | 1–3% <br> 0 | 6–9% <br> 3–5 | 3–5% <br> 0–3 | 2–4% <br> 0 | 1–2% <br> 0 |
-| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 34–40% <br> 19–24 | 29–34% <br> 16–21 | 4–7% <br> 0–4 | 3–5% <br> 0–3 | 4–7% <br> 0–3 | 5–8% <br> 3–5 | 0–2% <br> 0 | 2–4% <br> 0 |
+| [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 34–40% <br> 20–25 | 29–34% <br> 16–21 | 4–7% <br> 0–4 | 3–5% <br> 0–3 | 4–7% <br> 0–3 | 5–8% <br> 3–5 | 0–2% <br> 0 | 2–4% <br> 0 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 30–36% <br> 18–22 | 23–29% <br> 14–17 | 6–9% <br> 3–5 | 2–4% <br> 0 | 3–5% <br> 0–3 | 6–9% <br> 3–5 | 1–3% <br> 0 | 2–4% <br> 0 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -263,7 +263,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 22 | 19–26 |19–26 | 18–27 | 18–28 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 23 | 19–26 |19–26 | 18–27 | 18–28 |
 | <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 16 | 14–19 |14–19 | 13–20 | 13–21 |
 | <a href="#kukiz’15-(*)">Kukiz’15 (*)</a> | 0 | 3 | 0–5 |0–5 | 0–5 | 0–6 |
 | <a href="#.nowoczesna-(alde)">.Nowoczesna (ALDE)</a> | 0 | 0 | 0–3 |0–3 | 0–3 | 0–3 |
@@ -301,10 +301,10 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 3% | 99.7% |  |
 | 19 | 9% | 97% |  |
 | 20 | 15% | 88% |  |
-| 21 | 9% | 72% |  |
-| 22 | 13% | 63% | Median |
-| 23 | 15% | 50% |  |
-| 24 | 14% | 35% |  |
+| 21 | 11% | 73% |  |
+| 22 | 12% | 62% |  |
+| 23 | 14% | 50% | Median |
+| 24 | 15% | 36% |  |
 | 25 | 10% | 21% |  |
 | 26 | 7% | 11% |  |
 | 27 | 4% | 4% | Majority |
@@ -335,14 +335,14 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0.3% | 100% |  |
 | 13 | 4% | 99.7% |  |
 | 14 | 10% | 96% |  |
-| 15 | 19% | 85% |  |
+| 15 | 20% | 85% |  |
 | 16 | 18% | 66% | Median |
-| 17 | 20% | 48% |  |
-| 18 | 18% | 28% |  |
-| 19 | 7% | 10% |  |
-| 20 | 2% | 3% |  |
-| 21 | 0.5% | 0.7% |  |
-| 22 | 0.2% | 0.2% |  |
+| 17 | 18% | 48% |  |
+| 18 | 17% | 30% |  |
+| 19 | 9% | 13% |  |
+| 20 | 3% | 4% |  |
+| 21 | 0.7% | 0.7% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 ### Kukiz’15 (*)
@@ -355,9 +355,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
 | 1 | 0% | 89% |  |
-| 2 | 0.9% | 89% |  |
+| 2 | 0.7% | 89% |  |
 | 3 | 42% | 88% | Median |
-| 4 | 33% | 46% |  |
+| 4 | 32% | 46% |  |
 | 5 | 13% | 14% |  |
 | 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
@@ -385,11 +385,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 45% | 100% | Last Result |
-| 1 | 0% | 55% |  |
-| 2 | 2% | 55% |  |
-| 3 | 37% | 54% | Median |
-| 4 | 14% | 16% |  |
+| 0 | 47% | 100% | Last Result |
+| 1 | 0% | 53% |  |
+| 2 | 2% | 53% |  |
+| 3 | 35% | 51% | Median |
+| 4 | 15% | 16% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
@@ -404,7 +404,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 18% | 100% | Last Result |
 | 1 | 0% | 82% |  |
 | 2 | 1.1% | 82% |  |
-| 3 | 50% | 80% | Median |
+| 3 | 49% | 80% | Median |
 | 4 | 27% | 31% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
@@ -438,7 +438,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 22 | 4% | 19–26 | 19–26 | 18–27 | 18–28 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 23 | 4% | 19–26 | 19–26 | 18–27 | 18–28 |
 | Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 18 | 0% | 15–21 | 15–22 | 14–22 | 14–23 |
 | Kukiz’15 (*) – Partia Razem (*) | 0 | 3 | 0% | 0–5 | 0–5 | 0–5 | 0–6 |
 | Sojusz Lewicy Demokratycznej (S&D) | 0 | 3 | 0% | 0–4 | 0–4 | 0–5 | 0–5 |
@@ -472,10 +472,10 @@ Only polls for which at least the sample size has been published are included in
 | 18 | 3% | 99.7% |  |
 | 19 | 9% | 97% |  |
 | 20 | 15% | 88% |  |
-| 21 | 9% | 72% |  |
-| 22 | 13% | 63% | Median |
-| 23 | 15% | 50% |  |
-| 24 | 14% | 35% |  |
+| 21 | 11% | 73% |  |
+| 22 | 12% | 62% |  |
+| 23 | 14% | 50% | Median |
+| 24 | 15% | 36% |  |
 | 25 | 10% | 21% |  |
 | 26 | 7% | 11% |  |
 | 27 | 4% | 4% | Majority |
@@ -507,13 +507,13 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 13% | 97% |  |
 | 16 | 14% | 84% |  |
 | 17 | 11% | 70% |  |
-| 18 | 14% | 60% |  |
-| 19 | 11% | 46% | Median |
-| 20 | 14% | 35% |  |
+| 18 | 13% | 59% |  |
+| 19 | 12% | 46% | Median |
+| 20 | 14% | 34% |  |
 | 21 | 13% | 20% |  |
-| 22 | 5% | 7% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.1% | 0.2% |  |
+| 22 | 6% | 7% |  |
+| 23 | 1.3% | 1.5% |  |
+| 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
 ### Kukiz’15 (*) – Partia Razem (*)
@@ -524,9 +524,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
 | 1 | 0% | 89% |  |
-| 2 | 0.9% | 89% |  |
+| 2 | 0.7% | 89% |  |
 | 3 | 42% | 88% | Median |
-| 4 | 33% | 46% |  |
+| 4 | 32% | 46% |  |
 | 5 | 13% | 14% |  |
 | 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
@@ -540,7 +540,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 18% | 100% | Last Result |
 | 1 | 0% | 82% |  |
 | 2 | 1.1% | 82% |  |
-| 3 | 50% | 80% | Median |
+| 3 | 49% | 80% | Median |
 | 4 | 27% | 31% |  |
 | 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
@@ -551,9 +551,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 0% | 10% |  |
-| 2 | 1.4% | 10% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 0% | 9% |  |
+| 2 | 1.3% | 9% |  |
 | 3 | 8% | 8% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
@@ -570,6 +570,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.95%

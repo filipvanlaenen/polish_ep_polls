@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 28 Dec 2018 16:07:21 +0100</pubDate>
+    <pubDate>Fri, 28 Dec 2018 18:17:25 +0100</pubDate>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 13–14 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-14-InstytutBadańPollster.html#seats</link>
@@ -90,14 +90,34 @@
       <dc:date>2018-12-27T23:39:44.523549+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 December 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-08-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 20–25 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 16–21 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-08-IBRiS-seats.png"
+        length="210082"
+        type="image/png"/>
+      <pubDate>Fri, 28 Dec 2018 18:17:25 +0100</pubDate>
+      <dc:date>2018-12-28T18:17:25.486077+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 December 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-08-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-08-IBRiS-coalitions-seats.png"
+        length="123483"
+        type="image/png"/>
+      <pubDate>Fri, 28 Dec 2018 18:17:25 +0100</pubDate>
+      <dc:date>2018-12-28T18:17:25.486077+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-08-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 34.2–40.3%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 28.5–34.2%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4.4–7.3%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 1.6–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-12-08-IBRiS.png"
         length="211366"
         type="image/png"/>
-      <pubDate>Thu, 27 Dec 2018 21:03:15 +0100</pubDate>
-      <dc:date>2018-12-27T21:03:15.705473+01:00</dc:date>
+      <pubDate>Fri, 28 Dec 2018 18:17:25 +0100</pubDate>
+      <dc:date>2018-12-28T18:17:25.486077+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 23–24 November 2018 – Seat Projections for the Parties</title>
@@ -1989,6 +2009,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-12-28T16:07:21.540971+01:00</dc:date>
+    <dc:date>2018-12-28T18:17:25.486077+01:00</dc:date>
   </channel>
 </rss>

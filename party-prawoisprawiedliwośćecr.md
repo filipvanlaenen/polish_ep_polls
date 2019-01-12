@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 38.9% | 32.7–43.0% | 32.0–43.7% | 31.3–44.3% | 30.2–45.3% |
+| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 39.1% | 37.2–41.0% | 36.7–41.5% | 36.2–42.0% | 35.4–42.9% |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 42.0% | 40.1–44.0% | 39.6–44.5% | 39.1–45.0% | 38.2–45.9% |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 41.9% | 39.9–43.9% | 39.4–44.4% | 38.9–44.9% | 38.0–45.9% |
 | [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 34.0% | 32.2–36.0% | 31.7–36.5% | 31.2–37.0% | 30.3–37.9% |
@@ -146,6 +147,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 19–26 | 19–26 | 18–27 | 18–28 |
+| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 21–25 | 20–25 | 20–26 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–27 | 23–27 | 22–28 | 22–28 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 20 | 18–21 | 18–21 | 18–22 | 17–22 |

@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 30 Dec 2018 11:51:24 +0100</pubDate>
+    <pubDate>Sat, 12 Jan 2019 10:14:26 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 4 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 36.2–42.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 23.7–29.0%&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 4.3–7.0%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 5.4–8.4%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0.8–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS.png"
+        length="203130"
+        type="image/png"/>
+      <pubDate>Sat, 12 Jan 2019 10:14:26 +0100</pubDate>
+      <dc:date>2019-01-12T10:14:26.348425+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 13–14 December 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2018-12-14-InstytutBadańPollster.html#seats</link>
@@ -2049,6 +2059,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2018-12-30T11:51:24.32845+01:00</dc:date>
+    <dc:date>2019-01-12T10:14:26.348425+01:00</dc:date>
   </channel>
 </rss>

@@ -147,7 +147,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 19–26 | 19–26 | 18–27 | 18–28 |
-| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 21–25 | 20–25 | 20–26 |
+| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–27 | 23–27 | 22–28 | 22–28 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 20 | 18–21 | 18–21 | 18–22 | 17–22 |

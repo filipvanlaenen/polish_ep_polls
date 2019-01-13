@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 12 Jan 2019 10:14:26 +0100</pubDate>
+    <pubDate>Sun, 13 Jan 2019 15:14:00 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 4 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 20–25 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 13–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (*): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Wolność (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS-seats.png"
+        length="204051"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 15:14:00 +0100</pubDate>
+      <dc:date>2019-01-13T15:14:00.273868+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 4 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS-coalitions-seats.png"
+        length="121608"
+        type="image/png"/>
+      <pubDate>Sun, 13 Jan 2019 15:14:00 +0100</pubDate>
+      <dc:date>2019-01-13T15:14:00.273868+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 4 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS.png"
         length="203130"
         type="image/png"/>
-      <pubDate>Sat, 12 Jan 2019 10:14:26 +0100</pubDate>
-      <dc:date>2019-01-12T10:14:26.348425+01:00</dc:date>
+      <pubDate>Sun, 13 Jan 2019 15:14:00 +0100</pubDate>
+      <dc:date>2019-01-13T15:14:00.273868+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 13–14 December 2018 – Seat Projections for the Parties</title>
@@ -2059,6 +2079,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2019-01-12T10:14:26.348425+01:00</dc:date>
+    <dc:date>2019-01-13T15:14:00.273868+01:00</dc:date>
   </channel>
 </rss>

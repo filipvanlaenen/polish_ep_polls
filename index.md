@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 31–44% <br> 18–27 | 23–34% <br> 13–20 | 4–10% <br> 0–5 | 2–6% <br> 0–3 | 3–8% <br> 0–4 | 4–8% <br> 0–5 | 1–4% <br> 0 | 1–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 31–44% <br> 18–27 | 23–34% <br> 13–19 | 4–10% <br> 0–5 | 1–6% <br> 0–3 | 3–8% <br> 0–4 | 4–8% <br> 0–5 | 1–4% <br> 0 | 1–4% <br> 0 |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 36–42% <br> 20–25 | 24–29% <br> 13–17 | 4–7% <br> 0–4 | 0–2% <br> 0 | 5–8% <br> 3–4 | 4–6% <br> 0–3 | 2–4% <br> 0 | 1–2% <br> 0 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 39–45% <br> 22–28 | 26–32% <br> 15–19 | 6–9% <br> 3–5 | 4–6% <br> 0–3 | 4–6% <br> 0–3 | 5–8% <br> 0–4 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 39–45% <br> 22–25 | 29–35% <br> 16–20 | 7–11% <br> 4–6 | N/A <br> N/A | 5–8% <br> 2–4 | 5–8% <br> 0–4 | 1–2% <br> 0 | 1–3% <br> 0 |

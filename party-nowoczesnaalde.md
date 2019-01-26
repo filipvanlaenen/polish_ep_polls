@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.5% | 1.9–5.3% | 1.7–5.7% | 1.5–6.0% | 1.3–6.5% |
+| N/A | [Poll Average](average.html) | 2.5% | 0.9–5.2% | 0.7–5.6% | 0.6–6.0% | 0.5–6.5% |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% | 0.4–1.9% |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -87,12 +87,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 23% | 97% |  |
-| 2.5–3.5% | 25% | 74% |  |
-| 3.5–4.5% | 24% | 50% | Median |
-| 4.5–5.5% | 19% | 25% |  |
+| 0.0–0.5% | 1.1% | 100% | Last Result |
+| 0.5–1.5% | 26% | 98.9% |  |
+| 1.5–2.5% | 24% | 73% |  |
+| 2.5–3.5% | 20% | 50% | Median |
+| 3.5–4.5% | 10% | 30% |  |
+| 4.5–5.5% | 14% | 20% |  |
 | 5.5–6.5% | 6% | 6% |  |
 | 6.5–7.5% | 0.5% | 0.5% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -185,10 +185,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 86% | 100% | Last Result, Median |
-| 1 | 0% | 14% |  |
-| 2 | 2% | 14% |  |
-| 3 | 12% | 12% |  |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 0% | 13% |  |
+| 2 | 2% | 13% |  |
+| 3 | 11% | 11% |  |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 

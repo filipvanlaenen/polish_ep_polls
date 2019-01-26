@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 4.2–7.5% | 3.8–7.9% | 3.5–8.2% | 3.0–8.8% |
+| N/A | [Poll Average](average.html) | 5.9% | 4.1–7.3% | 3.8–7.7% | 3.5–8.0% | 3.0–8.7% |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6.0% | 5.2–7.0% | 5.0–7.3% | 4.8–7.6% | 4.4–8.1% |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
@@ -91,13 +91,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 10% | 97% |  |
-| 4.5–5.5% | 14% | 87% |  |
-| 5.5–6.5% | 35% | 73% | Median |
-| 6.5–7.5% | 28% | 38% |  |
-| 7.5–8.5% | 8% | 10% |  |
-| 8.5–9.5% | 1.0% | 1.1% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 14% | 97% |  |
+| 4.5–5.5% | 23% | 83% |  |
+| 5.5–6.5% | 33% | 61% | Median |
+| 6.5–7.5% | 21% | 28% |  |
+| 7.5–8.5% | 6% | 7% |  |
+| 8.5–9.5% | 0.7% | 0.8% |  |
+| 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -188,12 +188,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% | Last Result |
-| 1 | 0% | 81% |  |
-| 2 | 1.1% | 81% |  |
-| 3 | 49% | 80% | Median |
-| 4 | 28% | 31% |  |
-| 5 | 4% | 4% |  |
+| 0 | 27% | 100% | Last Result |
+| 1 | 0% | 73% |  |
+| 2 | 2% | 73% |  |
+| 3 | 49% | 71% | Median |
+| 4 | 19% | 22% |  |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 

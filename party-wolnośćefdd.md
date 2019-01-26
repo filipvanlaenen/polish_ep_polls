@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 0.9–3.3% | 0.7–3.6% | 0.6–3.9% | 0.5–4.3% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.2–3.5% | 1.0–3.7% | 0.8–3.9% | 0.6–4.4% |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
@@ -87,11 +87,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% | Last Result |
-| 0.5–1.5% | 33% | 98.9% |  |
-| 1.5–2.5% | 33% | 66% | Median |
-| 2.5–3.5% | 27% | 34% |  |
-| 3.5–4.5% | 6% | 6% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 18% | 99.8% |  |
+| 1.5–2.5% | 36% | 82% | Median |
+| 2.5–3.5% | 38% | 46% |  |
+| 3.5–4.5% | 8% | 8% |  |
 | 4.5–5.5% | 0.2% | 0.2% |  |
 | 5.5–6.5% | 0% | 0% |  |
 

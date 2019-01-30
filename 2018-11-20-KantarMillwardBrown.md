@@ -12,12 +12,12 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Prawo i Sprawiedliwość (ECR) | 0.0% | 33.0% | 31.2–35.0% |30.6–35.5% |30.2–36.0% |29.3–37.0% |
 | Platforma Obywatelska (EPP) | 0.0% | 26.0% | 24.3–27.9% |23.8–28.4% |23.4–28.9% |22.6–29.8% |
-| Kukiz’15 (*) | 0.0% | 7.0% | 6.1–8.1% |5.8–8.5% |5.6–8.7% |5.1–9.3% |
+| Kukiz’15 (EFDD) | 0.0% | 7.0% | 6.1–8.1% |5.8–8.5% |5.6–8.7% |5.1–9.3% |
 | Sojusz Lewicy Demokratycznej (S&D) | 0.0% | 7.0% | 6.1–8.1% |5.8–8.5% |5.6–8.7% |5.1–9.3% |
 | Polskie Stronnictwo Ludowe (EPP) | 0.0% | 4.0% | 3.3–4.9% |3.1–5.2% |2.9–5.4% |2.6–5.9% |
 | .Nowoczesna (ALDE) | 0.0% | 3.0% | 2.4–3.8% |2.2–4.0% |2.1–4.3% |1.8–4.7% |
 | Partia Razem (*) | 0.0% | 3.0% | 2.4–3.8% |2.2–4.0% |2.1–4.3% |1.8–4.7% |
-| Wolność (EFDD) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
+| KORWiN (EFDD) | 0.0% | 2.0% | 1.5–2.7% |1.4–2.9% |1.3–3.1% |1.1–3.4% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -29,14 +29,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 20 | 19–21 |18–22 |18–22 |17–22 |
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 15 | 14–17 |14–17 |14–17 |13–18 |
-| <a href="#kukiz’15-(*)">Kukiz’15 (*)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 20 | 18–21 |18–22 |18–22 |17–23 |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 16 | 14–17 |14–17 |14–17 |13–18 |
+| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
 | <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
-| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 0 | 0 |0–3 |0–3 |0–3 |
+| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 0 | 0–2 |0–3 |0–3 |0–3 |
 | <a href="#.nowoczesna-(alde)">.Nowoczesna (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#partia-razem-(*)">Partia Razem (*)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#wolność-(efdd)">Wolność (EFDD)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#korwin-(efdd)">KORWiN (EFDD)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -63,13 +63,13 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 1.0% | 99.9% |  |
-| 18 | 8% | 98.9% |  |
-| 19 | 21% | 90% |  |
-| 20 | 37% | 69% | Median |
-| 21 | 27% | 32% |  |
-| 22 | 5% | 5% |  |
-| 23 | 0.4% | 0.4% |  |
+| 17 | 2% | 99.9% |  |
+| 18 | 15% | 98% |  |
+| 19 | 27% | 83% |  |
+| 20 | 30% | 56% | Median |
+| 21 | 21% | 26% |  |
+| 22 | 5% | 6% |  |
+| 23 | 0.6% | 0.6% |  |
 | 24 | 0% | 0% |  |
 
 ### Platforma Obywatelska (EPP)
@@ -93,30 +93,30 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 1.3% | 100% |  |
-| 14 | 14% | 98.7% |  |
-| 15 | 40% | 85% | Median |
-| 16 | 31% | 45% |  |
-| 17 | 13% | 14% |  |
-| 18 | 1.4% | 1.4% |  |
+| 13 | 1.1% | 100% |  |
+| 14 | 12% | 98.8% |  |
+| 15 | 36% | 87% |  |
+| 16 | 31% | 50% | Median |
+| 17 | 18% | 20% |  |
+| 18 | 2% | 2% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 
-### Kukiz’15 (*)
+### Kukiz’15 (EFDD)
 
-*For a full overview of the results for this party, see the [Kukiz’15 (*)](party-kukiz’15.html) page.*
+*For a full overview of the results for this party, see the [Kukiz’15 (EFDD)](party-kukiz’15efdd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-11-20-KantarMillwardBrown-seats-pmf-kukiz’15.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-11-20-KantarMillwardBrown-seats-pmf-kukiz’15efdd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
 | 1 | 0% | 99.7% |  |
 | 2 | 0% | 99.7% |  |
-| 3 | 34% | 99.7% |  |
-| 4 | 55% | 66% | Median |
-| 5 | 11% | 11% |  |
-| 6 | 0.1% | 0.1% |  |
+| 3 | 28% | 99.7% |  |
+| 4 | 56% | 72% | Median |
+| 5 | 16% | 16% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 ### Sojusz Lewicy Demokratycznej (S&D)
@@ -127,12 +127,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 24% | 99.7% |  |
-| 4 | 60% | 76% | Median |
-| 5 | 16% | 16% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 0% | 99.5% |  |
+| 2 | 0% | 99.5% |  |
+| 3 | 33% | 99.5% |  |
+| 4 | 52% | 66% | Median |
+| 5 | 14% | 14% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
@@ -144,10 +144,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 0% | 7% |  |
-| 2 | 0.6% | 7% |  |
-| 3 | 6% | 6% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 0% | 11% |  |
+| 2 | 1.2% | 11% |  |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% |  |
 
 ### .Nowoczesna (ALDE)
@@ -175,14 +175,14 @@
 | 0 | 99.8% | 100% | Last Result, Median |
 | 1 | 0% | 0.2% |  |
 | 2 | 0% | 0.2% |  |
-| 3 | 0.1% | 0.1% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
-### Wolność (EFDD)
+### KORWiN (EFDD)
 
-*For a full overview of the results for this party, see the [Wolność (EFDD)](party-wolnośćefdd.html) page.*
+*For a full overview of the results for this party, see the [KORWiN (EFDD)](party-korwinefdd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-11-20-KantarMillwardBrown-seats-pmf-wolnośćefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-11-20-KantarMillwardBrown-seats-pmf-korwinefdd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -197,12 +197,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 20 | 0% | 19–21 | 18–22 | 18–22 | 17–22 |
-| Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 16 | 0% | 14–17 | 14–18 | 14–18 | 13–19 |
-| Kukiz’15 (*) – Partia Razem (*) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 20 | 0% | 18–21 | 18–22 | 18–22 | 17–23 |
+| Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 16 | 0% | 14–17 | 14–18 | 14–19 | 13–19 |
+| Kukiz’15 (EFDD) – KORWiN (EFDD) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
 | Sojusz Lewicy Demokratycznej (S&D) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
 | .Nowoczesna (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Wolność (EFDD) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Partia Razem (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -227,13 +227,13 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 1.0% | 99.9% |  |
-| 18 | 8% | 98.9% |  |
-| 19 | 21% | 90% |  |
-| 20 | 37% | 69% | Median |
-| 21 | 27% | 32% |  |
-| 22 | 5% | 5% |  |
-| 23 | 0.4% | 0.4% |  |
+| 17 | 2% | 99.9% |  |
+| 18 | 15% | 98% |  |
+| 19 | 27% | 83% |  |
+| 20 | 30% | 56% | Median |
+| 21 | 21% | 26% |  |
+| 22 | 5% | 6% |  |
+| 23 | 0.6% | 0.6% |  |
 | 24 | 0% | 0% |  |
 
 ### Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP)
@@ -256,30 +256,29 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.8% | 100% |  |
-| 14 | 12% | 99.2% |  |
-| 15 | 37% | 87% | Median |
-| 16 | 30% | 50% |  |
-| 17 | 14% | 20% |  |
-| 18 | 4% | 6% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.2% | 0.2% |  |
+| 14 | 11% | 99.2% |  |
+| 15 | 31% | 89% |  |
+| 16 | 28% | 58% | Median |
+| 17 | 20% | 29% |  |
+| 18 | 7% | 10% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.3% | 0.3% |  |
 | 21 | 0% | 0% |  |
 
-### Kukiz’15 (*) – Partia Razem (*)
+### Kukiz’15 (EFDD) – KORWiN (EFDD)
 
-![Graph with seats probability mass function not yet produced](2018-11-20-KantarMillwardBrown-coalitions-seats-pmf-k–r.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-11-20-KantarMillwardBrown-coalitions-seats-pmf-k–w.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
 | 1 | 0% | 99.7% |  |
 | 2 | 0% | 99.7% |  |
-| 3 | 33% | 99.7% |  |
-| 4 | 55% | 66% | Median |
-| 5 | 11% | 12% |  |
-| 6 | 0.2% | 0.3% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 3 | 28% | 99.7% |  |
+| 4 | 56% | 72% | Median |
+| 5 | 16% | 16% |  |
+| 6 | 0.2% | 0.2% |  |
+| 7 | 0% | 0% |  |
 
 ### Sojusz Lewicy Demokratycznej (S&D)
 
@@ -287,12 +286,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 0% | 99.7% |  |
-| 2 | 0% | 99.7% |  |
-| 3 | 24% | 99.7% |  |
-| 4 | 60% | 76% | Median |
-| 5 | 16% | 16% |  |
+| 0 | 0.5% | 100% | Last Result |
+| 1 | 0% | 99.5% |  |
+| 2 | 0% | 99.5% |  |
+| 3 | 33% | 99.5% |  |
+| 4 | 52% | 66% | Median |
+| 5 | 14% | 14% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
@@ -308,13 +307,17 @@
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
-### Wolność (EFDD)
+### Partia Razem (*)
 
-![Graph with seats probability mass function not yet produced](2018-11-20-KantarMillwardBrown-coalitions-seats-pmf-w.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-11-20-KantarMillwardBrown-coalitions-seats-pmf-r.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.8% | 100% | Last Result, Median |
+| 1 | 0% | 0.2% |  |
+| 2 | 0% | 0.2% |  |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -328,6 +331,6 @@
 ### Calculations
 
 + **Sample size:** 1002
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.95%
++ **Simulations done:** 524,288
++ **Error estimate:** 2.82%
 

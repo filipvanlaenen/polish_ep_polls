@@ -135,16 +135,16 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 13–19 | 13–20 |
-| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
-| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–19 | 13–19 | 13–20 |
+| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–19 | 16–20 | 15–20 | 15–20 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
-| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [8–15 November 2018](2018-11-15-CBOS.html) | CBOS | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [13 November 2018](2018-11-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 17 | 16–19 | 16–19 | 16–20 | 15–21 |
@@ -228,13 +228,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0.4% | 100% |  |
 | 13 | 4% | 99.6% |  |
-| 14 | 14% | 95% |  |
-| 15 | 26% | 81% |  |
-| 16 | 21% | 55% | Median |
-| 17 | 16% | 33% |  |
-| 18 | 13% | 18% |  |
-| 19 | 4% | 5% |  |
-| 20 | 0.8% | 0.8% |  |
+| 14 | 12% | 95% |  |
+| 15 | 25% | 83% |  |
+| 16 | 23% | 59% | Median |
+| 17 | 19% | 36% |  |
+| 18 | 11% | 17% |  |
+| 19 | 5% | 6% |  |
+| 20 | 1.3% | 1.4% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 

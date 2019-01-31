@@ -303,10 +303,10 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 10% | 96% |  |
 | 20 | 12% | 86% |  |
 | 21 | 8% | 74% |  |
-| 22 | 9% | 66% |  |
-| 23 | 19% | 58% | Median |
-| 24 | 16% | 38% |  |
-| 25 | 12% | 23% |  |
+| 22 | 8% | 66% |  |
+| 23 | 18% | 58% | Median |
+| 24 | 17% | 40% |  |
+| 25 | 13% | 23% |  |
 | 26 | 7% | 10% |  |
 | 27 | 2% | 3% | Majority |
 | 28 | 1.0% | 1.0% |  |
@@ -336,11 +336,11 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 4% | 99.6% |  |
 | 14 | 12% | 95% |  |
 | 15 | 25% | 83% |  |
-| 16 | 23% | 58% | Median |
-| 17 | 18% | 35% |  |
+| 16 | 22% | 58% | Median |
+| 17 | 19% | 35% |  |
 | 18 | 11% | 17% |  |
-| 19 | 5% | 6% |  |
-| 20 | 1.3% | 1.4% |  |
+| 19 | 4% | 6% |  |
+| 20 | 1.3% | 1.3% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
@@ -358,7 +358,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 42% | 86% | Median |
 | 4 | 30% | 44% |  |
 | 5 | 13% | 14% |  |
-| 6 | 1.5% | 1.5% |  |
+| 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
 ### .Nowoczesna (ALDE)
@@ -386,9 +386,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 40% | 100% | Last Result |
 | 1 | 0% | 60% |  |
-| 2 | 0.7% | 60% |  |
-| 3 | 30% | 60% | Median |
-| 4 | 28% | 30% |  |
+| 2 | 0.9% | 60% |  |
+| 3 | 31% | 59% | Median |
+| 4 | 27% | 29% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
@@ -403,8 +403,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 31% | 100% | Last Result |
 | 1 | 0% | 69% |  |
 | 2 | 2% | 69% |  |
-| 3 | 45% | 67% | Median |
-| 4 | 20% | 22% |  |
+| 3 | 45% | 68% | Median |
+| 4 | 19% | 22% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -472,10 +472,10 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 10% | 96% |  |
 | 20 | 12% | 86% |  |
 | 21 | 8% | 74% |  |
-| 22 | 9% | 66% |  |
-| 23 | 19% | 58% | Median |
-| 24 | 16% | 38% |  |
-| 25 | 12% | 23% |  |
+| 22 | 8% | 66% |  |
+| 23 | 18% | 58% | Median |
+| 24 | 17% | 40% |  |
+| 25 | 13% | 23% |  |
 | 26 | 7% | 10% |  |
 | 27 | 2% | 3% | Majority |
 | 28 | 1.0% | 1.0% |  |
@@ -507,9 +507,9 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 13% | 70% |  |
 | 18 | 11% | 57% |  |
 | 19 | 17% | 45% | Median |
-| 20 | 11% | 28% |  |
-| 21 | 11% | 17% |  |
-| 22 | 6% | 6% |  |
+| 20 | 13% | 28% |  |
+| 21 | 10% | 16% |  |
+| 22 | 5% | 5% |  |
 | 23 | 0.7% | 0.8% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
@@ -526,7 +526,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 42% | 86% | Median |
 | 4 | 30% | 44% |  |
 | 5 | 13% | 14% |  |
-| 6 | 1.5% | 1.5% |  |
+| 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
 ### Sojusz Lewicy Demokratycznej (S&D)
@@ -538,8 +538,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 31% | 100% | Last Result |
 | 1 | 0% | 69% |  |
 | 2 | 2% | 69% |  |
-| 3 | 45% | 67% | Median |
-| 4 | 20% | 22% |  |
+| 3 | 45% | 68% | Median |
+| 4 | 19% | 22% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -569,5 +569,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 6
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,621,440
++ **Total number of simulations done in the polls included in this average:** 3,538,944
 + **Error estimate:** 1.95%

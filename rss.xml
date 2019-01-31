@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 31 Jan 2019 15:48:05 +0100</pubDate>
+    <pubDate>Thu, 31 Jan 2019 19:47:23 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 26–27 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-27-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 26.5–32.1%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 3.9–6.6%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4.4–7.3%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0.6–2.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-01-27-IBRiS.png"
+        length="207949"
+        type="image/png"/>
+      <pubDate>Thu, 31 Jan 2019 19:43:20 +0100</pubDate>
+      <dc:date>2019-01-31T19:43:20.756216+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 23–24 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-24-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 39.4–45.5%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 28.3–34.1%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 7.0–10.5%&lt;/li&gt;&lt;li&gt;.Nowoczesna (ALDE): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3.6–6.3%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-01-24-Estymator.png"
+        length="209178"
+        type="image/png"/>
+      <pubDate>Thu, 31 Jan 2019 19:47:23 +0100</pubDate>
+      <dc:date>2019-01-31T19:47:23.070628+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 4 January 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-04-IBRiS.html</link>
@@ -2019,6 +2039,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2019-01-31T15:48:05.649203+01:00</dc:date>
+    <dc:date>2019-01-31T19:47:23.070628+01:00</dc:date>
   </channel>
 </rss>

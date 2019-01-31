@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 4.9–8.9% | 4.5–9.5% | 4.3–10.0% | 3.8–10.8% |
+| N/A | [Poll Average](average.html) | 7.0% | 4.8–9.1% | 4.5–9.6% | 4.2–10.0% | 3.8–10.7% |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
+| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 7.0% | N/A | N/A | N/A | N/A |
+| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 7.0% | N/A | N/A | N/A | N/A |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.0% | N/A | N/A | N/A | N/A |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.5% | 4.7–6.4% | 4.5–6.7% | 4.3–7.0% | 3.9–7.5% |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.7–8.7% | 5.2–9.2% |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 6.9–11.6% |
@@ -90,16 +95,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 21% | 95% |  |
-| 5.5–6.5% | 27% | 74% | Median |
-| 6.5–7.5% | 22% | 48% |  |
-| 7.5–8.5% | 13% | 26% |  |
-| 8.5–9.5% | 8% | 13% |  |
-| 9.5–10.5% | 4% | 5% |  |
-| 10.5–11.5% | 0.9% | 0.9% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 6% | 99.8% |  |
+| 4.5–5.5% | 18% | 94% |  |
+| 5.5–6.5% | 17% | 76% |  |
+| 6.5–7.5% | 20% | 59% | Median |
+| 7.5–8.5% | 20% | 39% |  |
+| 8.5–9.5% | 14% | 19% |  |
+| 9.5–10.5% | 5% | 5% |  |
+| 10.5–11.5% | 0.7% | 0.7% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -111,7 +116,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 2–5 | 2–5 | 2–5 | 2–5 |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 5 | 5 | 5 | 5 |
+| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS |  |  |  |  |  |
+| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -190,13 +200,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 0.7% | 87% |  |
-| 3 | 42% | 86% | Median |
-| 4 | 30% | 44% |  |
-| 5 | 13% | 14% |  |
-| 6 | 1.0% | 1.0% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 0% | 99.7% |  |
+| 2 | 25% | 99.7% |  |
+| 3 | 19% | 74% |  |
+| 4 | 18% | 55% | Median |
+| 5 | 37% | 37% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 

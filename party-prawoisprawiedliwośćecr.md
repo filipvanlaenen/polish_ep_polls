@@ -149,7 +149,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 23 | 19–26 | 19–26 | 18–27 | 18–28 |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 21–25 | 20–25 | 20–26 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–27 | 23–28 | 22–28 | 22–28 |
-| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
+| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 19 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
 | [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 21–24 | 20–24 | 20–25 | 19–25 |
@@ -247,10 +247,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 10% | 96% |  |
 | 20 | 12% | 86% |  |
 | 21 | 8% | 74% |  |
-| 22 | 9% | 66% |  |
-| 23 | 19% | 58% | Median |
-| 24 | 16% | 38% |  |
-| 25 | 12% | 23% |  |
+| 22 | 8% | 66% |  |
+| 23 | 18% | 58% | Median |
+| 24 | 17% | 40% |  |
+| 25 | 13% | 23% |  |
 | 26 | 7% | 10% |  |
 | 27 | 2% | 3% | Majority |
 | 28 | 1.0% | 1.0% |  |

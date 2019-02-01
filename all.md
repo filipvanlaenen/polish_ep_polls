@@ -5,11 +5,11 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 32–38% <br> 18 | 26–32% <br> 17 | 4–7% <br> 2–3 | 1–2% <br> 0 | 5–8% <br> 3–4 | 4–7% <br> 3 | 0–1% <br> 0 | 1–2% <br> 0 |
-| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 39–46% <br> 26 | 28–34% <br> 18 | 7–10% <br> 5 | 1–2% <br> 0 | 5–9% <br> 3 | 4–6% <br> 0 | 1–2% <br> 0 | 1–3% <br> 0 |
-| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
-| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 32–38% <br> 18–22 | 26–32% <br> 14–19 | 4–7% <br> 0–3 | 1–2% <br> 0 | 5–8% <br> 0–4 | 4–7% <br> 0–4 | 0–1% <br> 0 | 1–2% <br> 0 |
+| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 39–46% <br> 22–27 | 28–34% <br> 16–20 | 7–10% <br> 3–6 | 1–2% <br> 0 | 5–9% <br> 3–5 | 4–6% <br> 0–3 | 1–2% <br> 0 | 1–3% <br> 0 |
+| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 36–42% <br> 21–26 | 20–25% <br> 11–15 | 6–9% <br> 3–5 | 1–3% <br> 0 | 4–7% <br> 0–3 | 3–5% <br> 0–3 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 31–37% <br> 18–22 | 23–29% <br> 13–17 | 6–9% <br> 3–5 | 2–4% <br> 0 | 4–7% <br> 0–3 | 4–7% <br> 0–3 | 1–2% <br> 0 | 1–3% <br> 0 |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 37–43% <br> 22–26 | 26–32% <br> 16–19 | 6–9% <br> 3–5 | 2–4% <br> 0 | 6–9% <br> 3–5 | 5–8% <br> 0–4 | 2–4% <br> 0 | 2–4% <br> 0 |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 36–42% <br> 20–25 | 24–29% <br> 13–17 | 4–7% <br> 0–4 | 0–2% <br> 0 | 5–8% <br> 3–4 | 4–6% <br> 0–3 | 2–4% <br> 0 | 1–2% <br> 0 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 39–45% <br> 22–28 | 26–32% <br> 15–20 | 6–9% <br> 3–5 | 4–6% <br> 0–3 | 4–6% <br> 0–3 | 5–8% <br> 0–4 | 2–4% <br> 0 | 1–3% <br> 0 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 39–45% <br> 22–25 | 29–35% <br> 16–20 | 7–11% <br> 4–6 | N/A <br> N/A | 5–8% <br> 2–4 | 5–8% <br> 0–4 | 1–2% <br> 0 | 1–3% <br> 0 |

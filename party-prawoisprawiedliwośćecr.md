@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.3% | 32.2–43.2% | 31.5–44.0% | 30.9–44.7% | 29.9–45.8% |
+| N/A | [Poll Average](average.html) | 37.1% | 32.6–42.3% | 31.9–43.3% | 31.3–44.1% | 30.2–45.4% |
 | [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.4% | 40.4–44.4% | 39.9–45.0% | 39.4–45.5% | 38.4–46.5% |
-| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 39.0% | N/A | N/A | N/A | N/A |
-| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 34.0% | N/A | N/A | N/A | N/A |
-| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 40.0% | N/A | N/A | N/A | N/A |
+| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 39.0% | 37.1–41.1% | 36.5–41.6% | 36.0–42.1% | 35.1–43.1% |
+| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 34.0% | 32.1–36.0% | 31.6–36.6% | 31.2–37.1% | 30.3–38.0% |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 40.0% | 38.1–41.9% | 37.6–42.5% | 37.1–43.0% | 36.3–43.9% |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 39.1% | 37.2–41.0% | 36.7–41.5% | 36.2–42.0% | 35.4–42.9% |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 42.0% | 40.1–44.0% | 39.6–44.5% | 39.1–45.0% | 38.2–45.9% |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 41.9% | 39.9–43.9% | 39.4–44.4% | 38.9–44.9% | 38.0–45.9% |
@@ -121,24 +121,24 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0.2% | 100% |  |
-| 29.5–30.5% | 1.2% | 99.7% |  |
-| 30.5–31.5% | 4% | 98.5% |  |
-| 31.5–32.5% | 8% | 95% |  |
-| 32.5–33.5% | 12% | 86% |  |
-| 33.5–34.5% | 14% | 74% |  |
-| 34.5–35.5% | 12% | 59% | Median |
-| 35.5–36.5% | 8% | 47% |  |
-| 36.5–37.5% | 4% | 39% |  |
-| 37.5–38.5% | 1.5% | 35% |  |
-| 38.5–39.5% | 1.2% | 33% |  |
-| 39.5–40.5% | 3% | 32% |  |
-| 40.5–41.5% | 6% | 30% |  |
-| 41.5–42.5% | 8% | 24% |  |
-| 42.5–43.5% | 8% | 16% |  |
-| 43.5–44.5% | 5% | 8% |  |
-| 44.5–45.5% | 2% | 3% |  |
-| 45.5–46.5% | 0.6% | 0.8% |  |
+| 28.5–29.5% | 0.1% | 100% |  |
+| 29.5–30.5% | 0.7% | 99.8% |  |
+| 30.5–31.5% | 3% | 99.1% |  |
+| 31.5–32.5% | 6% | 97% |  |
+| 32.5–33.5% | 10% | 90% |  |
+| 33.5–34.5% | 12% | 81% |  |
+| 34.5–35.5% | 10% | 69% |  |
+| 35.5–36.5% | 7% | 59% |  |
+| 36.5–37.5% | 5% | 53% | Median |
+| 37.5–38.5% | 6% | 47% |  |
+| 38.5–39.5% | 8% | 41% |  |
+| 39.5–40.5% | 9% | 33% |  |
+| 40.5–41.5% | 8% | 24% |  |
+| 41.5–42.5% | 7% | 15% |  |
+| 42.5–43.5% | 5% | 9% |  |
+| 43.5–44.5% | 3% | 4% |  |
+| 44.5–45.5% | 1.1% | 1.5% |  |
+| 45.5–46.5% | 0.3% | 0.4% |  |
 | 46.5–47.5% | 0.1% | 0.1% |  |
 | 47.5–48.5% | 0% | 0% |  |
 
@@ -151,12 +151,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–26 | 18–26 | 18–26 | 18–26 |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 18 | 18 | 18 | 18–21 |
-| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 26 | 26 | 26 | 26 |
-| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS |  |  |  |  |  |
-| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 22 | 19–25 | 18–25 | 18–26 | 18–27 |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
+| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 25 | 23–26 | 23–26 | 22–27 | 22–27 |
+| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 24 | 22–25 | 21–26 | 21–26 | 21–27 |
+| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 20 | 18–21 | 18–22 | 18–22 | 18–23 |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 23–25 | 22–25 | 22–26 | 22–27 |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 21–25 | 20–25 | 20–26 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–27 | 23–28 | 22–28 | 22–28 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
@@ -252,16 +252,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.3% | 100% |  |
-| 18 | 36% | 99.6% |  |
-| 19 | 7% | 64% |  |
-| 20 | 12% | 57% | Median |
-| 21 | 9% | 45% |  |
-| 22 | 2% | 35% |  |
-| 23 | 0.1% | 33% |  |
-| 24 | 0% | 33% |  |
-| 25 | 0% | 33% |  |
-| 26 | 33% | 33% |  |
-| 27 | 0% | 0% | Majority |
+| 17 | 0.4% | 100% |  |
+| 18 | 5% | 99.6% |  |
+| 19 | 13% | 94% |  |
+| 20 | 17% | 81% |  |
+| 21 | 11% | 64% |  |
+| 22 | 7% | 52% | Median |
+| 23 | 9% | 46% |  |
+| 24 | 14% | 36% |  |
+| 25 | 18% | 22% |  |
+| 26 | 4% | 5% |  |
+| 27 | 1.0% | 1.0% | Majority |
+| 28 | 0% | 0% |  |
 
 

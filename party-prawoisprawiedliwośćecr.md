@@ -151,12 +151,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–25 | 18–25 | 18–26 | 18–27 |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
+| N/A | [Poll Average](average.html) | 22 | 19–25 | 18–26 | 18–26 | 18–27 |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 25 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 24 | 22–25 | 21–26 | 21–26 | 21–27 |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 20 | 18–21 | 18–22 | 18–22 | 18–23 |
-| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 23–25 | 22–25 | 22–26 | 22–27 |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 23–25 | 22–26 | 22–26 | 22–27 |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 21–25 | 20–25 | 20–26 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–27 | 23–28 | 22–28 | 22–28 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
@@ -253,16 +253,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.4% | 100% |  |
-| 18 | 5% | 99.6% |  |
-| 19 | 13% | 94% |  |
-| 20 | 17% | 81% |  |
-| 21 | 11% | 64% |  |
+| 18 | 5% | 99.5% |  |
+| 19 | 14% | 95% |  |
+| 20 | 16% | 81% |  |
+| 21 | 12% | 65% |  |
 | 22 | 7% | 52% | Median |
-| 23 | 9% | 46% |  |
-| 24 | 14% | 36% |  |
-| 25 | 18% | 22% |  |
+| 23 | 10% | 45% |  |
+| 24 | 13% | 35% |  |
+| 25 | 17% | 22% |  |
 | 26 | 4% | 5% |  |
-| 27 | 1.0% | 1.0% | Majority |
-| 28 | 0% | 0% |  |
+| 27 | 1.0% | 1.1% | Majority |
+| 28 | 0% | 0.1% |  |
+| 29 | 0% | 0% |  |
 
 

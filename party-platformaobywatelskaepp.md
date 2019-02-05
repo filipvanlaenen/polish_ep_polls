@@ -145,7 +145,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 15 | 15–17 | 14–17 | 14–17 | 13–18 |

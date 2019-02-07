@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.1% | 32.6–42.3% | 31.9–43.3% | 31.3–44.1% | 30.2–45.4% |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
+| N/A | [Poll Average](average.html) | 37.0% | 32.6–42.3% | 31.9–43.3% | 31.3–44.1% | 30.2–45.4% |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35.0% | 33.2–36.9% | 32.7–37.4% | 32.2–37.9% | 31.4–38.8% |
+| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 36.2% | 34.4–38.1% | 33.8–38.6% | 33.4–39.1% | 32.5–40.0% |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.4% | 40.4–44.4% | 39.9–45.0% | 39.4–45.5% | 38.4–46.5% |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 39.0% | 37.1–41.1% | 36.5–41.6% | 36.0–42.1% | 35.1–43.1% |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 34.0% | 32.1–36.0% | 31.6–36.6% | 31.2–37.1% | 30.3–38.0% |
@@ -125,11 +126,11 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0.7% | 99.8% |  |
 | 30.5–31.5% | 3% | 99.1% |  |
 | 31.5–32.5% | 6% | 97% |  |
-| 32.5–33.5% | 10% | 90% |  |
+| 32.5–33.5% | 10% | 91% |  |
 | 33.5–34.5% | 12% | 81% |  |
 | 34.5–35.5% | 10% | 69% |  |
 | 35.5–36.5% | 7% | 59% |  |
-| 36.5–37.5% | 5% | 53% | Median |
+| 36.5–37.5% | 5% | 52% | Median |
 | 37.5–38.5% | 6% | 47% |  |
 | 38.5–39.5% | 8% | 41% |  |
 | 39.5–40.5% | 9% | 33% |  |
@@ -151,8 +152,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–25 | 19–26 | 18–26 | 17–27 |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
+| N/A | [Poll Average](average.html) | 22 | 19–25 | 19–26 | 18–26 | 18–27 |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 20–21 | 20–21 | 20–21 | 19–22 |
+| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 21 | 20–21 | 20–21 | 20–21 | 20–22 |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 25 | 23–26 | 23–26 | 22–27 | 22–28 |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 23 | 22–25 | 22–26 | 21–26 | 20–27 |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
@@ -252,12 +254,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.5% | 100% |  |
-| 18 | 4% | 99.5% |  |
-| 19 | 13% | 95% |  |
-| 20 | 16% | 82% |  |
-| 21 | 13% | 66% |  |
-| 22 | 8% | 53% | Median |
+| 17 | 0.3% | 100% |  |
+| 18 | 3% | 99.7% |  |
+| 19 | 7% | 97% |  |
+| 20 | 20% | 90% |  |
+| 21 | 18% | 70% |  |
+| 22 | 7% | 52% | Median |
 | 23 | 11% | 45% |  |
 | 24 | 16% | 34% |  |
 | 25 | 12% | 18% |  |

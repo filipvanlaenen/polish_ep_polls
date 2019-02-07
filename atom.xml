@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-02-05T20:57:42.926649+01:00</updated>
+  <updated>2019-02-07T17:57:05.933471+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 32.2–37.9%, 18–22 seats</li><li>Platforma Obywatelska (EPP): 26.6–31.9%, 15–18 seats</li><li>Kukiz’15 (EFDD): 3.9–6.6%, 0–3 seats</li><li>.Nowoczesna (ALDE): 0.8–2.2%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 5.2–8.2%, 3–4 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 4.5–7.3%, 0–4 seats</li><li>KORWiN (EFDD): 0.2–1.2%, 0 seats</li><li>Partia Razem (*): 0.6–1.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-27-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-01-27-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for Rzeczpospolita, 26–27 January 2019</title>
+    <updated>2019-02-07T17:57:05.933471+01:00</updated>
+    <dc:date>2019-02-07T17:57:05.933471+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 39.4–45.5%, 22–27 seats</li><li>Platforma Obywatelska (EPP): 28.3–34.1%, 16–20 seats</li><li>Kukiz’15 (EFDD): 7.0–10.5%, 4–6 seats</li><li>.Nowoczesna (ALDE): 0.8–2.3%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 5.4–8.5%, 3–5 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 3.6–6.3%, 0–3 seats</li><li>KORWiN (EFDD): 0.8–2.3%, 0 seats</li><li>Partia Razem (*): 1.0–2.6%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-24-Estymator.html</id>
@@ -591,5 +599,5 @@
     <updated>2018-04-09T19:30:43.664613+02:00</updated>
     <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
   </entry>
-  <dc:date>2019-02-05T20:57:42.926649+01:00</dc:date>
+  <dc:date>2019-02-07T17:57:05.933471+01:00</dc:date>
 </feed>

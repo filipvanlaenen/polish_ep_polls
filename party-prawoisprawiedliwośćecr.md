@@ -153,8 +153,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 19–25 | 19–26 | 18–26 | 18–27 |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 20–21 | 20–21 | 20–21 | 19–22 |
-| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 21 | 20–21 | 20–21 | 20–21 | 20–22 |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
+| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 22 | 20–24 | 20–24 | 20–24 | 19–25 |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 25 | 23–26 | 23–26 | 22–27 | 22–28 |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 23 | 22–25 | 22–26 | 21–26 | 20–27 |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 20 | 19–22 | 18–22 | 18–22 | 17–23 |
@@ -254,12 +254,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.3% | 100% |  |
-| 18 | 3% | 99.7% |  |
-| 19 | 7% | 97% |  |
-| 20 | 20% | 90% |  |
-| 21 | 18% | 70% |  |
-| 22 | 7% | 52% | Median |
+| 17 | 0.4% | 100% |  |
+| 18 | 4% | 99.6% |  |
+| 19 | 12% | 95% |  |
+| 20 | 17% | 83% |  |
+| 21 | 13% | 66% |  |
+| 22 | 8% | 53% | Median |
 | 23 | 11% | 45% |  |
 | 24 | 16% | 34% |  |
 | 25 | 12% | 18% |  |

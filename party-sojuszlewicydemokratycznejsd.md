@@ -116,7 +116,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 0 | 0–3 | 0–3 | 0–3 | 0–4 |

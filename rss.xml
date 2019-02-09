@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 09 Feb 2019 09:41:08 +0100</pubDate>
+    <pubDate>Sat, 09 Feb 2019 19:31:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown, 4–5 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-02-05-KantarMillwardBrown.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 15–19 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 10–13 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 3–5 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 6–9 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-02-05-KantarMillwardBrown-seats.png"
+        length="224479"
+        type="image/png"/>
+      <pubDate>Sat, 09 Feb 2019 19:31:28 +0100</pubDate>
+      <dc:date>2019-02-09T19:31:28.40895+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown, 4–5 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-02-05-KantarMillwardBrown.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-02-05-KantarMillwardBrown-coalitions-seats.png"
+        length="160615"
+        type="image/png"/>
+      <pubDate>Sat, 09 Feb 2019 19:31:28 +0100</pubDate>
+      <dc:date>2019-02-09T19:31:28.40895+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown, 4–5 February 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-02-05-KantarMillwardBrown.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 26.3–31.9%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17.6–22.6%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 12.0–16.3%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-02-05-KantarMillwardBrown.png"
+        length="222950"
+        type="image/png"/>
+      <pubDate>Sat, 09 Feb 2019 19:31:28 +0100</pubDate>
+      <dc:date>2019-02-09T19:31:28.40895+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 26–27 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-01-27-IBRiS.html#seats</link>
@@ -2259,6 +2289,6 @@
       <pubDate>Mon, 09 Apr 2018 19:30:43 +0200</pubDate>
       <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
     </item>
-    <dc:date>2019-02-09T09:41:08.317119+01:00</dc:date>
+    <dc:date>2019-02-09T19:31:28.40895+01:00</dc:date>
   </channel>
 </rss>

@@ -10,13 +10,10 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Koalicja Europejska (EPP) | 0.0% | 44.1% | 42.1–46.1% |41.5–46.7% |41.1–47.2% |40.1–48.2% |
 | Prawo i Sprawiedliwość (ECR) | 0.0% | 42.4% | 40.4–44.4% |39.9–45.0% |39.4–45.5% |38.4–46.5% |
-| Platforma Obywatelska (EPP) | 0.0% | 31.1% | 29.3–33.1% |28.8–33.6% |28.3–34.1% |27.5–35.0% |
 | Kukiz’15 (EFDD) | 0.0% | 8.6% | 7.5–9.8% |7.2–10.2% |7.0–10.5% |6.5–11.1% |
-| Polskie Stronnictwo Ludowe (EPP) | 0.0% | 6.8% | 5.9–7.9% |5.6–8.2% |5.4–8.5% |5.0–9.1% |
-| Sojusz Lewicy Demokratycznej (S&D) | 0.0% | 4.8% | 4.0–5.8% |3.8–6.1% |3.6–6.3% |3.3–6.8% |
-| Partia Razem (*) | 0.0% | 1.6% | 1.2–2.2% |1.1–2.4% |1.0–2.6% |0.8–2.9% |
-| .Nowoczesna (ALDE) | 0.0% | 1.4% | 1.0–2.0% |0.9–2.2% |0.8–2.3% |0.7–2.7% |
+| Wiosna–Partia Razem (S&D) | 0.0% | 1.6% | 1.2–2.2% |1.1–2.4% |1.0–2.6% |0.8–2.9% |
 | KORWiN (EFDD) | 0.0% | 1.4% | 1.0–2.0% |0.9–2.2% |0.8–2.3% |0.7–2.7% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -29,14 +26,49 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 25 | 23–26 |23–26 |22–27 |22–28 |
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 18 | 17–19 |16–20 |16–20 |16–21 |
-| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 5 | 4–5 |4–6 |4–6 |3–6 |
-| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 4 | 3–4 |3–4 |3–5 |0–5 |
-| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 0 | 0–3 |0–3 |0–3 |0–3 |
-| <a href="#partia-razem-(*)">Partia Razem (*)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#.nowoczesna-(alde)">.Nowoczesna (ALDE)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 25 | 23–26 |23–26 |23–26 |22–26 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 23 | 22–25 |22–25 |22–25 |21–26 |
+| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
+| <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#korwin-(efdd)">KORWiN (EFDD)</a> | 0 | 0 | 0 |0 |0 |0 |
+
+### Koalicja Europejska (EPP)
+
+*For a full overview of the results for this party, see the [Koalicja Europejska (EPP)](party-koalicjaeuropejskaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-seats-pmf-koalicjaeuropejskaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 1.3% | 100% |  |
+| 23 | 14% | 98.6% |  |
+| 24 | 31% | 84% |  |
+| 25 | 22% | 53% | Median |
+| 26 | 31% | 31% |  |
+| 27 | 0.4% | 0.4% | Majority |
+| 28 | 0% | 0% |  |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -67,47 +99,14 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 3% | 99.8% |  |
-| 23 | 12% | 97% |  |
-| 24 | 28% | 85% |  |
-| 25 | 32% | 57% | Median |
-| 26 | 21% | 25% |  |
-| 27 | 4% | 5% | Majority |
-| 28 | 0.6% | 0.6% |  |
-| 29 | 0% | 0% |  |
-
-### Platforma Obywatelska (EPP)
-
-*For a full overview of the results for this party, see the [Platforma Obywatelska (EPP)](party-platformaobywatelskaepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-seats-pmf-platformaobywatelskaepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0.3% | 100% |  |
-| 16 | 7% | 99.6% |  |
-| 17 | 22% | 92% |  |
-| 18 | 36% | 70% | Median |
-| 19 | 27% | 33% |  |
-| 20 | 6% | 7% |  |
-| 21 | 0.9% | 0.9% |  |
-| 22 | 0% | 0% |  |
+| 21 | 0.9% | 100% |  |
+| 22 | 32% | 99.0% |  |
+| 23 | 32% | 67% | Median |
+| 24 | 18% | 35% |  |
+| 25 | 15% | 17% |  |
+| 26 | 1.1% | 1.2% |  |
+| 27 | 0.1% | 0.1% | Majority |
+| 28 | 0% | 0% |  |
 
 ### Kukiz’15 (EFDD)
 
@@ -120,59 +119,17 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 42% | 98% |  |
-| 5 | 50% | 56% | Median |
-| 6 | 6% | 6% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 3 | 10% | 100% |  |
+| 4 | 67% | 90% | Median |
+| 5 | 23% | 23% |  |
+| 6 | 0.2% | 0.2% |  |
+| 7 | 0% | 0% |  |
 
-### Polskie Stronnictwo Ludowe (EPP)
+### Wiosna–Partia Razem (S&D)
 
-*For a full overview of the results for this party, see the [Polskie Stronnictwo Ludowe (EPP)](party-polskiestronnictwoludoweepp.html) page.*
+*For a full overview of the results for this party, see the [Wiosna–Partia Razem (S&D)](party-wiosna–partiarazemsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-seats-pmf-polskiestronnictwoludoweepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 0% | 99.2% |  |
-| 2 | 0.3% | 99.2% |  |
-| 3 | 38% | 98.9% |  |
-| 4 | 58% | 61% | Median |
-| 5 | 3% | 3% |  |
-| 6 | 0% | 0% |  |
-
-### Sojusz Lewicy Demokratycznej (S&D)
-
-*For a full overview of the results for this party, see the [Sojusz Lewicy Demokratycznej (S&D)](party-sojuszlewicydemokratycznejsd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-seats-pmf-sojuszlewicydemokratycznejsd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Last Result, Median |
-| 1 | 0% | 38% |  |
-| 2 | 9% | 38% |  |
-| 3 | 29% | 29% |  |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
-
-### Partia Razem (*)
-
-*For a full overview of the results for this party, see the [Partia Razem (*)](party-partiarazem.html) page.*
-
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-seats-pmf-partiarazem.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### .Nowoczesna (ALDE)
-
-*For a full overview of the results for this party, see the [.Nowoczesna (ALDE)](party-nowoczesnaalde.html) page.*
-
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-seats-pmf-nowoczesnaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-seats-pmf-wiosna–partiarazemsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -197,12 +154,46 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 25 | 5% | 23–26 | 23–26 | 22–27 | 22–28 |
-| Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 22 | 0% | 20–23 | 20–23 | 19–24 | 19–24 |
-| Kukiz’15 (EFDD) – KORWiN (EFDD) | 0 | 5 | 0% | 4–5 | 4–6 | 4–6 | 3–6 |
-| Sojusz Lewicy Demokratycznej (S&D) | 0 | 0 | 0% | 0–3 | 0–3 | 0–3 | 0–3 |
-| .Nowoczesna (ALDE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Partia Razem (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Koalicja Europejska (EPP) | 0 | 25 | 0.4% | 23–26 | 23–26 | 23–26 | 22–26 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 23 | 0.1% | 22–25 | 22–25 | 22–25 | 21–26 |
+| Kukiz’15 (EFDD) – KORWiN (EFDD) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 3–5 |
+| Wiosna–Partia Razem (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Koalicja Europejska (EPP)
+
+![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-coalitions-seats-pmf-ke.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 1.3% | 100% |  |
+| 23 | 14% | 98.6% |  |
+| 24 | 31% | 84% |  |
+| 25 | 22% | 53% | Median |
+| 26 | 31% | 31% |  |
+| 27 | 0.4% | 0.4% | Majority |
+| 28 | 0% | 0% |  |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -231,49 +222,14 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 3% | 99.8% |  |
-| 23 | 12% | 97% |  |
-| 24 | 28% | 85% |  |
-| 25 | 32% | 57% | Median |
-| 26 | 21% | 25% |  |
-| 27 | 4% | 5% | Majority |
-| 28 | 0.6% | 0.6% |  |
-| 29 | 0% | 0% |  |
-
-### Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP)
-
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-coalitions-seats-pmf-po–psl.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0.4% | 100% |  |
-| 19 | 3% | 99.6% |  |
-| 20 | 11% | 97% |  |
-| 21 | 31% | 85% |  |
-| 22 | 29% | 54% | Median |
-| 23 | 22% | 25% |  |
-| 24 | 3% | 4% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% |  |
+| 21 | 0.9% | 100% |  |
+| 22 | 32% | 99.0% |  |
+| 23 | 32% | 67% | Median |
+| 24 | 18% | 35% |  |
+| 25 | 15% | 17% |  |
+| 26 | 1.1% | 1.2% |  |
+| 27 | 0.1% | 0.1% | Majority |
+| 28 | 0% | 0% |  |
 
 ### Kukiz’15 (EFDD) – KORWiN (EFDD)
 
@@ -284,37 +240,15 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 42% | 98% |  |
-| 5 | 50% | 56% | Median |
-| 6 | 6% | 6% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 3 | 10% | 100% |  |
+| 4 | 67% | 90% | Median |
+| 5 | 23% | 23% |  |
+| 6 | 0.2% | 0.2% |  |
+| 7 | 0% | 0% |  |
 
-### Sojusz Lewicy Demokratycznej (S&D)
+### Wiosna–Partia Razem (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-coalitions-seats-pmf-sld.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 62% | 100% | Last Result, Median |
-| 1 | 0% | 38% |  |
-| 2 | 9% | 38% |  |
-| 3 | 29% | 29% |  |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
-
-### .Nowoczesna (ALDE)
-
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-coalitions-seats-pmf-n.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### Partia Razem (*)
-
-![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-coalitions-seats-pmf-r.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-01-24-Estymator-coalitions-seats-pmf-wi–r.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -332,6 +266,6 @@
 ### Calculations
 
 + **Sample size:** 1002
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.57%
++ **Simulations done:** 1,024
++ **Error estimate:** 1.14%
 

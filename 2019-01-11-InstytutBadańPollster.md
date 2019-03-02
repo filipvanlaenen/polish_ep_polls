@@ -26,9 +26,9 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 25 | 25–26 |25–26 |25–26 |24–27 |
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 23 | 22–24 |22–24 |22–24 |21–25 |
-| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 26 | 25–27 |24–27 |24–27 |23–28 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 23 | 22–24 |21–24 |21–24 |21–25 |
+| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 4 | 3–4 |3–4 |3–5 |3–5 |
 | <a href="#korwin-(efdd)">KORWiN (EFDD)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -63,13 +63,14 @@
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
-| 23 | 0% | 100% |  |
-| 24 | 2% | 100% |  |
-| 25 | 56% | 98% | Median |
-| 26 | 41% | 42% |  |
-| 27 | 1.0% | 1.2% | Majority |
-| 28 | 0.2% | 0.2% |  |
-| 29 | 0% | 0% |  |
+| 23 | 0.6% | 100% |  |
+| 24 | 9% | 99.4% |  |
+| 25 | 34% | 91% |  |
+| 26 | 42% | 56% | Median |
+| 27 | 13% | 15% | Majority |
+| 28 | 1.5% | 2% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -99,13 +100,14 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0% | 100% |  |
-| 21 | 1.1% | 100% |  |
-| 22 | 28% | 98.9% |  |
-| 23 | 59% | 71% | Median |
-| 24 | 9% | 11% |  |
+| 20 | 0.4% | 100% |  |
+| 21 | 7% | 99.6% |  |
+| 22 | 31% | 93% |  |
+| 23 | 42% | 61% | Median |
+| 24 | 17% | 19% |  |
 | 25 | 2% | 2% |  |
-| 26 | 0% | 0% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% | Majority |
 
 ### Kukiz’15 (EFDD)
 
@@ -115,12 +117,13 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 24% | 100% |  |
-| 4 | 76% | 76% | Median |
-| 5 | 0% | 0% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0% | 99.8% |  |
+| 2 | 0.2% | 99.8% |  |
+| 3 | 40% | 99.7% |  |
+| 4 | 57% | 60% | Median |
+| 5 | 3% | 3% |  |
+| 6 | 0% | 0% |  |
 
 ### KORWiN (EFDD)
 
@@ -130,7 +133,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Wiosna–Partia Razem (S&D)
 
@@ -140,7 +146,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -151,9 +160,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Koalicja Europejska (EPP) | 0 | 25 | 1.2% | 25–26 | 25–26 | 25–26 | 24–27 |
-| Prawo i Sprawiedliwość (ECR) | 0 | 23 | 0% | 22–24 | 22–24 | 22–24 | 21–25 |
-| Kukiz’15 (EFDD) – KORWiN (EFDD) | 0 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
+| Koalicja Europejska (EPP) | 0 | 26 | 15% | 25–27 | 24–27 | 24–27 | 23–28 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 23 | 0% | 22–24 | 21–24 | 21–24 | 21–25 |
+| Kukiz’15 (EFDD) – KORWiN (EFDD) | 0 | 4 | 0% | 3–4 | 3–4 | 3–5 | 3–5 |
 | Wiosna–Partia Razem (S&D) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Koalicja Europejska (EPP)
@@ -185,13 +194,14 @@
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
-| 23 | 0% | 100% |  |
-| 24 | 2% | 100% |  |
-| 25 | 56% | 98% | Median |
-| 26 | 41% | 42% |  |
-| 27 | 1.0% | 1.2% | Majority |
-| 28 | 0.2% | 0.2% |  |
-| 29 | 0% | 0% |  |
+| 23 | 0.6% | 100% |  |
+| 24 | 9% | 99.4% |  |
+| 25 | 34% | 91% |  |
+| 26 | 42% | 56% | Median |
+| 27 | 13% | 15% | Majority |
+| 28 | 1.5% | 2% |  |
+| 29 | 0.1% | 0.1% |  |
+| 30 | 0% | 0% |  |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -219,13 +229,14 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 0% | 100% |  |
-| 21 | 1.1% | 100% |  |
-| 22 | 28% | 98.9% |  |
-| 23 | 59% | 71% | Median |
-| 24 | 9% | 11% |  |
+| 20 | 0.4% | 100% |  |
+| 21 | 7% | 99.6% |  |
+| 22 | 31% | 93% |  |
+| 23 | 42% | 61% | Median |
+| 24 | 17% | 19% |  |
 | 25 | 2% | 2% |  |
-| 26 | 0% | 0% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% | Majority |
 
 ### Kukiz’15 (EFDD) – KORWiN (EFDD)
 
@@ -233,13 +244,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 24% | 100% |  |
-| 4 | 76% | 76% | Median |
-| 5 | 0% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0% | 99.8% |  |
+| 2 | 0.2% | 99.8% |  |
+| 3 | 40% | 99.7% |  |
+| 4 | 57% | 60% | Median |
+| 5 | 3% | 3% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 ### Wiosna–Partia Razem (S&D)
 
@@ -247,7 +259,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0% | 0.1% |  |
+| 2 | 0% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -261,6 +276,6 @@
 ### Calculations
 
 + **Sample size:** 1097
-+ **Simulations done:** 1,024
-+ **Error estimate:** 1.83%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.47%
 

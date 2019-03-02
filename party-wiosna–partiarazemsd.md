@@ -149,13 +149,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–9 | 5–9 | 4–10 |
+| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–9 | 5–10 | 4–10 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
+| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 9 | 8–9 | 8–10 | 8–10 | 8–11 |
+| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 6 | 6–7 | 6–7 | 6–7 | 6–7 |
 | [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
@@ -165,7 +165,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
-| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0 |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
@@ -263,13 +263,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 1.4% | 100% |  |
-| 5 | 11% | 98.6% |  |
-| 6 | 37% | 87% |  |
-| 7 | 28% | 50% | Median |
-| 8 | 11% | 22% |  |
-| 9 | 10% | 11% |  |
-| 10 | 0.5% | 0.7% |  |
-| 11 | 0.2% | 0.2% |  |
+| 5 | 13% | 98.6% |  |
+| 6 | 35% | 86% |  |
+| 7 | 28% | 51% | Median |
+| 8 | 12% | 24% |  |
+| 9 | 9% | 11% |  |
+| 10 | 2% | 3% |  |
+| 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |
 
 

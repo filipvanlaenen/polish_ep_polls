@@ -143,20 +143,20 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 3 | 2–3 | 2–3 | 2–3 | 0–3 |
+| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP | 3 | 3 | 3 | 3 | 0–4 |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 3 | 2–3 | 2–3 | 2–3 | 0–3 |
 | [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–2 | 0–3 | 0–3 | 0–4 |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0–3 | 0–3 |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0 | 0–2 | 0–2 |
-| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
@@ -230,7 +230,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17 March 2018](2018-03-17-IBRiS.html) | IBRiS <br> Onet | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
-| [1–2 March 2018](2018-03-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [1–2 March 2018](2018-03-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 2–4 | 0–5 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [22 February 2018](2018-02-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -248,12 +248,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 7% | 84% |  |
-| 3 | 60% | 77% | Median |
-| 4 | 17% | 18% |  |
-| 5 | 1.3% | 1.4% |  |
+| 0 | 14% | 100% | Last Result |
+| 1 | 0% | 86% |  |
+| 2 | 10% | 86% |  |
+| 3 | 56% | 76% | Median |
+| 4 | 19% | 20% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 

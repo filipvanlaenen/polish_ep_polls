@@ -178,20 +178,20 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
-| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 16 | 16–17 | 15–17 | 15–17 | 15–19 |
+| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP | 16 | 16–18 | 16–19 | 16–19 | 16–19 |
-| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 17–19 | 17–19 | 16–19 | 16–19 |
+| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 23 | 22–23 | 22–24 | 21–25 | 20–25 |
-| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 25 | 23–26 | 23–26 | 22–26 | 22–26 |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 25 | 23–26 | 23–26 | 23–26 | 22–26 |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 21 | 20–22 | 20–23 | 19–23 | 19–23 |
-| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 17 | 17–18 | 16–18 | 16–18 | 16–19 |
-| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 25–26 | 25–26 | 25–26 | 24–27 |
+| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 26 | 25–27 | 24–27 | 24–27 | 23–28 |
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
@@ -265,7 +265,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [17 March 2018](2018-03-17-IBRiS.html) | IBRiS <br> Onet | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [1–2 March 2018](2018-03-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | 24 | 23–24 | 23–24 | 23–24 | 22–24 |
+| [1–2 March 2018](2018-03-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [22 February 2018](2018-02-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 21 | 20–22 | 19–23 | 19–23 | 19–24 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
@@ -299,10 +299,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 5% | 97% |  |
 | 14 | 3% | 92% |  |
 | 15 | 2% | 89% |  |
-| 16 | 18% | 88% |  |
-| 17 | 15% | 69% |  |
-| 18 | 21% | 54% | Median |
-| 19 | 10% | 33% |  |
+| 16 | 17% | 87% |  |
+| 17 | 19% | 70% |  |
+| 18 | 21% | 51% | Median |
+| 19 | 7% | 31% |  |
 | 20 | 2% | 23% |  |
 | 21 | 3% | 22% |  |
 | 22 | 8% | 18% |  |

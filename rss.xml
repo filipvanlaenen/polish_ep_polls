@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 02 Mar 2019 14:31:46 +0100</pubDate>
+    <pubDate>Sat, 02 Mar 2019 19:37:33 +0100</pubDate>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 20–21 February 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-02-21-Estymator.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-02-11-Ariadna.png"
         length="150881"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 11:14:32 +0100</pubDate>
-      <dc:date>2019-03-02T11:14:32.897307+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 19:03:53 +0100</pubDate>
+      <dc:date>2019-03-02T19:03:53.463799+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 February 2019 – Voting Intentions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-02-06-InstytutBadańSprawNarodowościowych.png"
         length="149574"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 11:24:27 +0100</pubDate>
-      <dc:date>2019-03-02T11:24:27.614155+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 19:35:40 +0100</pubDate>
+      <dc:date>2019-03-02T19:35:40.344431+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown, 4–5 February 2019 – Voting Intentions</title>
@@ -156,8 +156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-01-24-Estymator.png"
         length="141896"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 10:28:15 +0100</pubDate>
-      <dc:date>2019-03-02T10:28:15.827572+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 18:59:20 +0100</pubDate>
+      <dc:date>2019-03-02T18:59:20.504258+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 10–17 January 2019 – Voting Intentions</title>
@@ -696,8 +696,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-10-06-IBRiS.png"
         length="144073"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 10:50:19 +0100</pubDate>
-      <dc:date>2019-03-02T10:50:19.448726+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 18:34:13 +0100</pubDate>
+      <dc:date>2019-03-02T18:34:13.114529+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 1 October 2018 – Seat Projections for the Parties</title>
@@ -1316,8 +1316,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-06-18-InstytutBadańPollster.png"
         length="144023"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 11:32:42 +0100</pubDate>
-      <dc:date>2019-03-02T11:32:42.171878+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 17:23:58 +0100</pubDate>
+      <dc:date>2019-03-02T17:23:58.982324+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 9–17 June 2018 – Seat Projections for the Parties</title>
@@ -1936,8 +1936,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2018-04-07-InstytutBadańPollster.png"
         length="142996"
         type="image/png"/>
-      <pubDate>Sat, 02 Mar 2019 11:38:37 +0100</pubDate>
-      <dc:date>2019-03-02T11:38:37.397675+01:00</dc:date>
+      <pubDate>Sat, 02 Mar 2019 19:37:33 +0100</pubDate>
+      <dc:date>2019-03-02T19:37:33.131545+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Nowa TV, se.pl and Super Express, 4–5 April 2018 – Seat Projections for the Parties</title>
@@ -2399,6 +2399,6 @@
       <pubDate>Sat, 02 Mar 2019 12:02:28 +0100</pubDate>
       <dc:date>2019-03-02T12:02:28.845273+01:00</dc:date>
     </item>
-    <dc:date>2019-03-02T14:31:46.700944+01:00</dc:date>
+    <dc:date>2019-03-02T19:37:33.131545+01:00</dc:date>
   </channel>
 </rss>

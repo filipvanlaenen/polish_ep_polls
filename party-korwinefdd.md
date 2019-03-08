@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.2–5.9% | 1.0–6.5% | 0.8–6.9% | 0.6–7.7% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.3–5.8% | 1.0–6.4% | 0.9–6.9% | 0.6–7.6% |
+| [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.2–5.6% | 2.9–6.1% |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.8–4.6% |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.8% | 4.5–8.4% |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
@@ -117,15 +118,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 19% | 99.7% |  |
-| 1.5–2.5% | 31% | 81% |  |
-| 2.5–3.5% | 20% | 50% | Median |
-| 3.5–4.5% | 8% | 30% |  |
-| 4.5–5.5% | 9% | 22% |  |
-| 5.5–6.5% | 9% | 13% |  |
-| 6.5–7.5% | 4% | 5% |  |
-| 7.5–8.5% | 0.6% | 0.7% |  |
+| 0.0–0.5% | 0.2% | 100% | Last Result |
+| 0.5–1.5% | 17% | 99.8% |  |
+| 1.5–2.5% | 28% | 83% |  |
+| 2.5–3.5% | 19% | 55% | Median |
+| 3.5–4.5% | 13% | 37% |  |
+| 4.5–5.5% | 11% | 24% |  |
+| 5.5–6.5% | 8% | 12% |  |
+| 6.5–7.5% | 3% | 4% |  |
+| 7.5–8.5% | 0.6% | 0.6% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -138,6 +139,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
@@ -249,8 +251,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 81% | 100% | Last Result, Median |
 | 1 | 0% | 19% |  |
 | 2 | 5% | 19% |  |
-| 3 | 13% | 15% |  |
-| 4 | 1.3% | 1.3% |  |
+| 3 | 12% | 13% |  |
+| 4 | 1.2% | 1.2% |  |
 | 5 | 0% | 0% |  |
 
 

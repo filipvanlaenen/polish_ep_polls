@@ -143,10 +143,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
-| [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP | 3 | 2–3 | 0–3 | 0–3 | 0–3 |
+| [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -250,12 +250,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 10% | 87% |  |
-| 3 | 56% | 77% | Median |
-| 4 | 20% | 21% |  |
-| 5 | 1.5% | 2% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 0% | 88% |  |
+| 2 | 10% | 88% |  |
+| 3 | 56% | 78% | Median |
+| 4 | 20% | 22% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 

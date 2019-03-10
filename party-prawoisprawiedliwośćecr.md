@@ -183,10 +183,10 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
-| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
+| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
-| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
+| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
 | [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 22 | 20–23 | 20–23 | 20–24 | 19–24 |
@@ -300,13 +300,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
-| 14 | 1.0% | 99.9% |  |
+| 14 | 0.9% | 99.9% |  |
 | 15 | 4% | 99.0% |  |
 | 16 | 5% | 95% |  |
 | 17 | 6% | 90% |  |
 | 18 | 14% | 84% |  |
 | 19 | 17% | 70% |  |
-| 20 | 16% | 53% | Median |
+| 20 | 15% | 53% | Median |
 | 21 | 14% | 38% |  |
 | 22 | 10% | 24% |  |
 | 23 | 7% | 13% |  |

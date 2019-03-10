@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-03-10T13:50:54.31461+01:00</updated>
+  <updated>2019-03-10T21:13:20.037501+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 39.1–44.9%, 21–26 seats</li><li>Kukiz’15 (EFDD): 4.2–6.9%, 0–3 seats</li><li>KORWiN (EFDD): 3.2–5.6%, 0–3 seats</li><li>Koalicja Europejska (EPP): 37.9–43.7%, 21–25 seats</li><li>Wiosna–Partia Razem (S&amp;D): 6.0–9.2%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-02-28-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-02-28-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for SWG, 27–28 February 2019</title>
+    <updated>2019-03-10T21:13:20.037501+01:00</updated>
+    <dc:date>2019-03-10T21:13:20.037501+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 35.1–41.0%, 19–23 seats</li><li>Kukiz’15 (EFDD): 5.6–8.8%, 3–4 seats</li><li>KORWiN (EFDD): 2.1–4.2%, 0 seats</li><li>Koalicja Europejska (EPP): 30.1–35.9%, 16–20 seats</li><li>Wiosna–Partia Razem (S&amp;D): 8.3–12.0%, 4–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-02-21-Estymator.html</id>
@@ -639,5 +647,5 @@
     <updated>2018-04-09T19:30:43.664613+02:00</updated>
     <dc:date>2018-04-09T19:30:43.664613+02:00</dc:date>
   </entry>
-  <dc:date>2019-03-10T13:50:54.31461+01:00</dc:date>
+  <dc:date>2019-03-10T21:13:20.037501+01:00</dc:date>
 </feed>

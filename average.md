@@ -285,10 +285,10 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 15% | 53% | Median |
 | 21 | 14% | 38% |  |
 | 22 | 10% | 24% |  |
-| 23 | 7% | 13% |  |
+| 23 | 8% | 13% |  |
 | 24 | 4% | 6% |  |
-| 25 | 1.1% | 2% |  |
-| 26 | 0.4% | 0.4% |  |
+| 25 | 1.3% | 2% |  |
+| 26 | 0.3% | 0.3% |  |
 | 27 | 0% | 0% | Majority |
 
 ### Kukiz’15 (EFDD)
@@ -353,9 +353,9 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 2% | 34% |  |
 | 21 | 6% | 32% |  |
 | 22 | 12% | 27% |  |
-| 23 | 9% | 15% |  |
+| 23 | 10% | 15% |  |
 | 24 | 4% | 5% |  |
-| 25 | 0.7% | 0.8% |  |
+| 25 | 0.8% | 0.9% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% | Majority |
 
@@ -372,7 +372,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
 | 4 | 9% | 97% |  |
-| 5 | 15% | 88% |  |
+| 5 | 14% | 88% |  |
 | 6 | 31% | 74% | Median |
 | 7 | 24% | 43% |  |
 | 8 | 14% | 19% |  |
@@ -423,10 +423,10 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 15% | 53% | Median |
 | 21 | 14% | 38% |  |
 | 22 | 10% | 24% |  |
-| 23 | 7% | 13% |  |
+| 23 | 8% | 13% |  |
 | 24 | 4% | 6% |  |
-| 25 | 1.1% | 2% |  |
-| 26 | 0.4% | 0.4% |  |
+| 25 | 1.3% | 2% |  |
+| 26 | 0.3% | 0.3% |  |
 | 27 | 0% | 0% | Majority |
 
 ### Koalicja Europejska (EPP)
@@ -458,9 +458,9 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 2% | 34% |  |
 | 21 | 6% | 32% |  |
 | 22 | 12% | 27% |  |
-| 23 | 9% | 15% |  |
+| 23 | 10% | 15% |  |
 | 24 | 4% | 5% |  |
-| 25 | 0.7% | 0.8% |  |
+| 25 | 0.8% | 0.9% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% | Majority |
 
@@ -475,7 +475,7 @@ Only polls for which at least the sample size has been published are included in
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
 | 4 | 9% | 97% |  |
-| 5 | 15% | 88% |  |
+| 5 | 14% | 88% |  |
 | 6 | 31% | 74% | Median |
 | 7 | 24% | 43% |  |
 | 8 | 14% | 19% |  |
@@ -492,9 +492,9 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 12% | 100% | Last Result |
 | 1 | 0% | 88% |  |
 | 2 | 9% | 88% |  |
-| 3 | 49% | 79% | Median |
+| 3 | 50% | 79% | Median |
 | 4 | 12% | 29% |  |
-| 5 | 3% | 17% |  |
+| 5 | 3% | 18% |  |
 | 6 | 6% | 15% |  |
 | 7 | 7% | 9% |  |
 | 8 | 2% | 2% |  |
@@ -505,6 +505,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 9
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 8,519,680
-+ **Error estimate:** 2.39%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 9,437,184
++ **Error estimate:** 0.94%

@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 35.9% | 30.7–41.3% | 28.8–42.4% | 27.9–43.2% | 26.6–44.6% |
+| [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 35.0% | 33.4–36.6% | 33.0–37.1% | 32.6–37.5% | 31.9–38.2% |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.8% | 38.9–42.7% | 38.4–43.3% | 37.9–43.8% | 37.1–44.7% |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 42.0% | 40.1–43.9% | 39.6–44.5% | 39.1–44.9% | 38.2–45.9% |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.1–41.0% | 34.1–42.0% |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
@@ -177,6 +179,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 17–23 | 16–24 | 15–24 | 14–25 |
+| [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 18 | 17–20 | 17–20 | 17–20 | 17–20 |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 25 | 23–26 | 23–26 | 23–26 | 22–26 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 18 | 17–20 | 17–20 | 17–20 | 16–21 |

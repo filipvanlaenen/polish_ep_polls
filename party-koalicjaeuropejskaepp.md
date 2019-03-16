@@ -178,8 +178,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 14–23 | 13–24 | 12–24 | 12–25 |
-| [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 21 | 20–22 | 19–22 | 19–22 | 18–22 |
-| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 21–23 | 21–23 | 21–23 | 20–24 |
+| [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 20 | 19–21 | 19–21 | 19–22 | 18–22 |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 18 | 17–19 | 16–19 | 16–20 | 16–20 |

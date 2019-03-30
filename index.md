@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 28–43% <br> 15–24 | N/A <br> N/A | 4–9% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 7–17% <br> 3–9 | 23–43% <br> 12–24 |
+| N/A | [Poll Average](average.html) | 32–42% <br> 17–24 | N/A <br> N/A | 4–9% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 7–16% <br> 3–8 | 23–42% <br> 12–24 |
 | [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 33–37% <br> 17–20 | N/A <br> N/A | 7–9% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–7 | 36–40% <br> 19–22 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 38–44% <br> 21–26 | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–5 | 36–42% <br> 20–24 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 35–41% <br> 19–23 | N/A <br> N/A | 6–9% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 4–6 | 30–36% <br> 16–20 |

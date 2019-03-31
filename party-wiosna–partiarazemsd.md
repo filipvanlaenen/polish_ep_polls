@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 8.2–14.5% | 7.1–15.5% | 6.7–16.1% | 6.0–17.2% |
+| N/A | [Poll Average](average.html) | 11.7% | 7.6–14.9% | 6.9–15.7% | 6.5–16.3% | 5.9–17.4% |
 | [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 12.0% | 11.0–13.1% | 10.7–13.5% | 10.4–13.7% | 10.0–14.3% |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.2% | 6.3–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.4% |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 7.5% | 6.5–8.6% | 6.3–8.9% | 6.0–9.2% | 5.6–9.7% |
@@ -126,19 +126,19 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 2% | 99.9% |  |
-| 6.5–7.5% | 5% | 98% |  |
-| 7.5–8.5% | 4% | 93% |  |
-| 8.5–9.5% | 4% | 89% |  |
-| 9.5–10.5% | 9% | 85% |  |
-| 10.5–11.5% | 18% | 75% |  |
-| 11.5–12.5% | 23% | 57% | Median |
-| 12.5–13.5% | 16% | 34% |  |
-| 13.5–14.5% | 8% | 18% |  |
-| 14.5–15.5% | 5% | 10% |  |
-| 15.5–16.5% | 3% | 5% |  |
-| 16.5–17.5% | 1.2% | 1.5% |  |
-| 17.5–18.5% | 0.2% | 0.3% |  |
+| 5.5–6.5% | 3% | 99.9% |  |
+| 6.5–7.5% | 7% | 97% |  |
+| 7.5–8.5% | 5% | 91% |  |
+| 8.5–9.5% | 5% | 86% |  |
+| 9.5–10.5% | 11% | 80% |  |
+| 10.5–11.5% | 17% | 70% |  |
+| 11.5–12.5% | 19% | 53% | Median |
+| 12.5–13.5% | 14% | 34% |  |
+| 13.5–14.5% | 8% | 20% |  |
+| 14.5–15.5% | 6% | 12% |  |
+| 15.5–16.5% | 4% | 6% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.3% | 0.3% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -150,7 +150,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
+| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–9 | 3–9 |
 | [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -265,14 +265,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 4% | 100% |  |
-| 4 | 8% | 96% |  |
-| 5 | 15% | 88% |  |
-| 6 | 38% | 73% | Median |
-| 7 | 23% | 34% |  |
-| 8 | 9% | 11% |  |
-| 9 | 2% | 2% |  |
-| 10 | 0.1% | 0.1% |  |
+| 3 | 5% | 100% |  |
+| 4 | 11% | 95% |  |
+| 5 | 18% | 84% |  |
+| 6 | 35% | 66% | Median |
+| 7 | 18% | 31% |  |
+| 8 | 10% | 13% |  |
+| 9 | 3% | 3% |  |
+| 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
 

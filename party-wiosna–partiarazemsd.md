@@ -152,14 +152,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–7 | 2–7 | 0–7 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 6 | 5–6 | 4–7 | 4–7 | 4–7 |
-| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4 | 4 | 4–5 | 3–5 |
-| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 4 | 2–6 | 0–7 | 0–7 | 0–7 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
@@ -269,15 +269,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 0% | 98% |  |
-| 2 | 2% | 98% |  |
-| 3 | 29% | 96% |  |
-| 4 | 25% | 68% | Median |
-| 5 | 5% | 43% |  |
-| 6 | 29% | 38% |  |
-| 7 | 9% | 9% |  |
-| 8 | 0.3% | 0.3% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 3% | 92% |  |
+| 3 | 23% | 89% |  |
+| 4 | 21% | 66% | Median |
+| 5 | 15% | 44% |  |
+| 6 | 24% | 30% |  |
+| 7 | 6% | 6% |  |
+| 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 
 

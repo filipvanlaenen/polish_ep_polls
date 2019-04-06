@@ -185,14 +185,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–25 | 18–25 | 18–25 | 17–26 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 22 | 22 | 22–24 | 20–24 | 19–24 |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 23 | 22–23 | 21–24 | 21–24 | 20–24 |
-| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 22–25 | 22–25 | 21–25 |
-| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 22 | 22–25 | 22–25 | 22–26 | 21–26 |
-| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 22 | 19–23 | 19–23 | 19–23 | 19–24 |
+| N/A | [Poll Average](average.html) | 22 | 19–25 | 18–25 | 18–26 | 17–27 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 21 | 20–23 | 19–23 | 19–23 | 19–24 |
+| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
+| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
+| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 25 | 23–26 | 23–27 | 22–27 | 22–28 |
+| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
 | [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 19 | 18–19 | 17–20 | 17–20 | 17–20 |
-| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–25 | 21–25 | 21–26 | 21–26 |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–25 | 21–25 | 21–26 | 20–26 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 23 | 22–25 | 22–25 | 21–26 | 21–26 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
@@ -319,16 +319,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.8% | 100% |  |
+| 17 | 0.9% | 100% |  |
 | 18 | 6% | 99.1% |  |
-| 19 | 9% | 93% |  |
-| 20 | 4% | 85% |  |
-| 21 | 3% | 81% |  |
-| 22 | 31% | 78% | Median |
-| 23 | 30% | 47% |  |
-| 24 | 7% | 18% |  |
-| 25 | 9% | 10% |  |
-| 26 | 1.1% | 1.1% |  |
-| 27 | 0% | 0% | Majority |
+| 19 | 7% | 93% |  |
+| 20 | 7% | 86% |  |
+| 21 | 13% | 79% |  |
+| 22 | 19% | 66% | Median |
+| 23 | 20% | 47% |  |
+| 24 | 15% | 27% |  |
+| 25 | 8% | 12% |  |
+| 26 | 3% | 4% |  |
+| 27 | 0.9% | 1.1% | Majority |
+| 28 | 0.1% | 0.1% |  |
+| 29 | 0% | 0% |  |
 
 

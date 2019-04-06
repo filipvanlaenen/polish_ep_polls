@@ -183,12 +183,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 16–23 | 15–24 | 14–24 | 13–25 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 23 | 23–24 | 22–24 | 22–24 | 21–26 |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 20 | 20–21 | 20–21 | 20–22 | 19–23 |
-| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–22 | 21–22 | 21–22 | 19–23 |
-| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 16 | 13–16 | 13–17 | 13–17 | 13–17 |
-| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 17 | 16–20 | 16–20 | 15–20 | 15–21 |
+| N/A | [Poll Average](average.html) | 21 | 16–24 | 16–24 | 15–25 | 14–26 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
+| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
+| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
+| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
+| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 20 | 19–21 | 19–21 | 19–22 | 18–22 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
@@ -313,20 +313,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 2% | 100% |  |
-| 14 | 2% | 98% |  |
-| 15 | 4% | 97% |  |
-| 16 | 10% | 93% |  |
-| 17 | 6% | 83% |  |
-| 18 | 1.5% | 77% |  |
-| 19 | 3% | 75% |  |
-| 20 | 24% | 73% | Median |
-| 21 | 14% | 49% |  |
-| 22 | 17% | 35% |  |
-| 23 | 9% | 18% |  |
-| 24 | 8% | 9% |  |
-| 25 | 0.4% | 0.6% |  |
-| 26 | 0.2% | 0.2% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0.8% | 100% |  |
+| 15 | 4% | 99.1% |  |
+| 16 | 6% | 96% |  |
+| 17 | 8% | 89% |  |
+| 18 | 7% | 82% |  |
+| 19 | 6% | 75% |  |
+| 20 | 14% | 69% |  |
+| 21 | 19% | 55% | Median |
+| 22 | 16% | 36% |  |
+| 23 | 10% | 20% |  |
+| 24 | 7% | 10% |  |
+| 25 | 3% | 4% |  |
+| 26 | 0.6% | 0.6% |  |
 | 27 | 0% | 0% | Majority |
 
 

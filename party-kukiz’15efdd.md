@@ -148,11 +148,11 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 0 | 0 | 0–2 | 0–2 | 0–3 |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 3 | 3 | 3 | 2–4 | 0–4 |
-| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
-| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 3 | 2–3 | 2–3 | 0–3 | 0–4 |
-| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0–3 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
+| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
+| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 0 | 0 | 0–2 | 0–2 | 0–3 |
 | [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -264,12 +264,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 35% | 100% | Last Result |
-| 1 | 0% | 65% |  |
-| 2 | 11% | 65% |  |
-| 3 | 39% | 54% | Median |
-| 4 | 14% | 15% |  |
-| 5 | 0.9% | 0.9% |  |
+| 0 | 37% | 100% | Last Result |
+| 1 | 0% | 63% |  |
+| 2 | 8% | 63% |  |
+| 3 | 38% | 55% | Median |
+| 4 | 15% | 16% |  |
+| 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
 

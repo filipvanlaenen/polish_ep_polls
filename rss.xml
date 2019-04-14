@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Apr 2019 21:01:21 +0200</pubDate>
+    <pubDate>Sun, 14 Apr 2019 13:27:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Spraw Narodowościowych for Radio ZET, 25–27 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 19–23 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0–2 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 22–26 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych-seats.png"
+        length="126424"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 13:27:57 +0200</pubDate>
+      <dc:date>2019-04-14T13:27:57.888787+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Spraw Narodowościowych for Radio ZET, 25–27 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych-coalitions-seats.png"
+        length="102552"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 13:27:57 +0200</pubDate>
+      <dc:date>2019-04-14T13:27:57.888787+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Spraw Narodowościowych for Radio ZET, 25–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.png"
         length="150626"
         type="image/png"/>
-      <pubDate>Sat, 06 Apr 2019 19:42:18 +0200</pubDate>
-      <dc:date>2019-04-06T19:42:18.68835+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 13:27:57 +0200</pubDate>
+      <dc:date>2019-04-14T13:27:57.888787+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBM Indicator for TVP1, 20–22 March 2019 – Voting Intentions</title>
@@ -2679,6 +2699,6 @@
       <pubDate>Sat, 02 Mar 2019 12:02:28 +0100</pubDate>
       <dc:date>2019-03-02T12:02:28.845273+01:00</dc:date>
     </item>
-    <dc:date>2019-04-06T21:01:21.856867+02:00</dc:date>
+    <dc:date>2019-04-14T13:27:57.888787+02:00</dc:date>
   </channel>
 </rss>

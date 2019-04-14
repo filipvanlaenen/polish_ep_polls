@@ -247,7 +247,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#partia-razem-(*)">Partia Razem (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | 4 | 2–6 |0–7 | 0–7 | 0–7 |
-| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 21 | 16–24 |16–24 | 15–25 | 14–26 |
+| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 21 | 16–23 |16–24 | 15–25 | 14–26 |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -279,9 +279,9 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 7% | 93% |  |
 | 20 | 7% | 86% |  |
 | 21 | 13% | 79% |  |
-| 22 | 19% | 66% | Median |
+| 22 | 18% | 66% | Median |
 | 23 | 20% | 47% |  |
-| 24 | 15% | 27% |  |
+| 24 | 15% | 28% |  |
 | 25 | 8% | 12% |  |
 | 26 | 3% | 4% |  |
 | 27 | 0.9% | 1.1% | Majority |
@@ -298,8 +298,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 37% | 100% | Last Result |
 | 1 | 0% | 63% |  |
-| 2 | 8% | 63% |  |
-| 3 | 39% | 55% | Median |
+| 2 | 9% | 63% |  |
+| 3 | 38% | 54% | Median |
 | 4 | 15% | 16% |  |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
@@ -341,7 +341,7 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.8% | 100% |  |
-| 15 | 4% | 99.1% |  |
+| 15 | 4% | 99.2% |  |
 | 16 | 6% | 96% |  |
 | 17 | 8% | 89% |  |
 | 18 | 7% | 82% |  |
@@ -384,7 +384,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Prawo i Sprawiedliwość (ECR) | 0 | 22 | 1.1% | 19–25 | 18–25 | 18–26 | 17–27 |
-| Koalicja Europejska (EPP) | 0 | 21 | 0% | 16–24 | 16–24 | 15–25 | 14–26 |
+| Koalicja Europejska (EPP) | 0 | 21 | 0% | 16–23 | 16–24 | 15–25 | 14–26 |
 | Wiosna–Partia Razem (S&D) | 0 | 4 | 0% | 2–6 | 0–7 | 0–7 | 0–7 |
 | KORWiN (EFDD) – Kukiz’15 (EFDD) | 0 | 3 | 0% | 0–4 | 0–4 | 0–4 | 0–5 |
 
@@ -416,9 +416,9 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 7% | 93% |  |
 | 20 | 7% | 86% |  |
 | 21 | 13% | 79% |  |
-| 22 | 19% | 66% | Median |
+| 22 | 18% | 66% | Median |
 | 23 | 20% | 47% |  |
-| 24 | 15% | 27% |  |
+| 24 | 15% | 28% |  |
 | 25 | 8% | 12% |  |
 | 26 | 3% | 4% |  |
 | 27 | 0.9% | 1.1% | Majority |
@@ -446,7 +446,7 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.8% | 100% |  |
-| 15 | 4% | 99.1% |  |
+| 15 | 4% | 99.2% |  |
 | 16 | 6% | 96% |  |
 | 17 | 8% | 89% |  |
 | 18 | 7% | 82% |  |
@@ -485,7 +485,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 37% | 100% | Last Result |
 | 1 | 0% | 63% |  |
-| 2 | 8% | 63% |  |
+| 2 | 9% | 63% |  |
 | 3 | 39% | 55% | Median |
 | 4 | 15% | 16% |  |
 | 5 | 0.9% | 0.9% |  |
@@ -495,6 +495,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 4,194,304
-+ **Error estimate:** 0.90%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 7,340,032
++ **Error estimate:** 0.64%

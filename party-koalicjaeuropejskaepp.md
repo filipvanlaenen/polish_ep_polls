@@ -183,7 +183,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 16–24 | 16–24 | 15–25 | 14–26 |
+| N/A | [Poll Average](average.html) | 21 | 16–23 | 16–24 | 15–25 | 14–26 |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
@@ -315,7 +315,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.8% | 100% |  |
-| 15 | 4% | 99.1% |  |
+| 15 | 4% | 99.2% |  |
 | 16 | 6% | 96% |  |
 | 17 | 8% | 89% |  |
 | 18 | 7% | 82% |  |

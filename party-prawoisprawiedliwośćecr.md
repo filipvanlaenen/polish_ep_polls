@@ -186,7 +186,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 19–25 | 18–25 | 18–26 | 17–27 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 21 | 20–23 | 19–23 | 19–23 | 19–24 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 25 | 23–26 | 23–27 | 22–27 | 22–28 |

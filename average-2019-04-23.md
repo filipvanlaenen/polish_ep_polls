@@ -299,7 +299,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 37% | 100% | Last Result |
 | 1 | 0% | 63% |  |
 | 2 | 8% | 63% |  |
-| 3 | 38% | 55% | Median |
+| 3 | 39% | 55% | Median |
 | 4 | 15% | 16% |  |
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
@@ -312,10 +312,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Last Result, Median |
-| 1 | 0% | 0.4% |  |
-| 2 | 0.3% | 0.4% |  |
-| 3 | 0.1% | 0.1% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0% | 0.5% |  |
+| 2 | 0.3% | 0.5% |  |
+| 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Koalicja Europejska (EPP)
@@ -350,9 +350,9 @@ Only polls for which at least the sample size has been published are included in
 | 21 | 19% | 55% | Median |
 | 22 | 16% | 36% |  |
 | 23 | 10% | 20% |  |
-| 24 | 7% | 10% |  |
+| 24 | 6% | 10% |  |
 | 25 | 3% | 4% |  |
-| 26 | 0.6% | 0.6% |  |
+| 26 | 0.5% | 0.6% |  |
 | 27 | 0% | 0% | Majority |
 
 ### Wiosna–Partia Razem (S&D)
@@ -369,7 +369,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 23% | 89% |  |
 | 4 | 21% | 66% | Median |
 | 5 | 15% | 44% |  |
-| 6 | 24% | 30% |  |
+| 6 | 23% | 29% |  |
 | 7 | 6% | 6% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
@@ -455,9 +455,9 @@ Only polls for which at least the sample size has been published are included in
 | 21 | 19% | 55% | Median |
 | 22 | 16% | 36% |  |
 | 23 | 10% | 20% |  |
-| 24 | 7% | 10% |  |
+| 24 | 6% | 10% |  |
 | 25 | 3% | 4% |  |
-| 26 | 0.6% | 0.6% |  |
+| 26 | 0.5% | 0.6% |  |
 | 27 | 0% | 0% | Majority |
 
 ### Wiosna–Partia Razem (S&D)
@@ -472,7 +472,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 23% | 89% |  |
 | 4 | 21% | 66% | Median |
 | 5 | 15% | 44% |  |
-| 6 | 24% | 30% |  |
+| 6 | 23% | 29% |  |
 | 7 | 6% | 6% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
@@ -486,7 +486,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 37% | 100% | Last Result |
 | 1 | 0% | 63% |  |
 | 2 | 8% | 63% |  |
-| 3 | 38% | 55% | Median |
+| 3 | 39% | 55% | Median |
 | 4 | 15% | 16% |  |
 | 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
@@ -496,5 +496,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 3,670,016
-+ **Error estimate:** 1.10%
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 0.90%

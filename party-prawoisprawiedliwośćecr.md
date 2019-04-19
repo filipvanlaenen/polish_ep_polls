@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.7% | 35.1–44.2% | 34.3–45.1% | 33.7–45.7% | 32.7–47.0% |
+| N/A | [Poll Average](average.html) | 40.1% | 35.3–44.0% | 34.5–44.9% | 33.8–45.6% | 32.8–46.8% |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 37.7% | 35.7–39.7% | 35.2–40.2% | 34.7–40.7% | 33.8–41.7% |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 40.9% | 38.9–42.9% | 38.4–43.5% | 37.9–44.0% | 36.9–44.9% |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.6% | 40.6–44.6% | 40.0–45.2% | 39.6–45.7% | 38.6–46.6% |
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 44.0% | 42.0–46.0% | 41.5–46.5% | 41.0–47.0% | 40.1–48.0% |
 | [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.1% |
 | [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 35.0% | 33.4–36.6% | 33.0–37.1% | 32.6–37.5% | 31.9–38.2% |
-| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.8% | N/A | N/A | N/A | N/A |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.8% | 38.9–42.7% | 38.4–43.3% | 37.9–43.8% | 37.1–44.7% |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | 42.0% | N/A | N/A | N/A | N/A |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 38.0% | N/A | N/A | N/A | N/A |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 34.0% | N/A | N/A | N/A | N/A |
@@ -158,22 +158,22 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0.3% | 100% |  |
-| 32.5–33.5% | 2% | 99.6% |  |
+| 32.5–33.5% | 1.4% | 99.7% |  |
 | 33.5–34.5% | 4% | 98% |  |
-| 34.5–35.5% | 7% | 94% |  |
-| 35.5–36.5% | 8% | 87% |  |
-| 36.5–37.5% | 9% | 79% |  |
-| 37.5–38.5% | 9% | 69% |  |
-| 38.5–39.5% | 9% | 60% |  |
-| 39.5–40.5% | 8% | 51% | Median |
-| 40.5–41.5% | 9% | 43% |  |
-| 41.5–42.5% | 9% | 34% |  |
-| 42.5–43.5% | 9% | 25% |  |
-| 43.5–44.5% | 8% | 16% |  |
-| 44.5–45.5% | 5% | 8% |  |
+| 34.5–35.5% | 6% | 95% |  |
+| 35.5–36.5% | 7% | 89% |  |
+| 36.5–37.5% | 8% | 82% |  |
+| 37.5–38.5% | 9% | 74% |  |
+| 38.5–39.5% | 10% | 65% |  |
+| 39.5–40.5% | 10% | 55% | Median |
+| 40.5–41.5% | 11% | 45% |  |
+| 41.5–42.5% | 11% | 34% |  |
+| 42.5–43.5% | 9% | 23% |  |
+| 43.5–44.5% | 7% | 14% |  |
+| 44.5–45.5% | 4% | 7% |  |
 | 45.5–46.5% | 2% | 3% |  |
-| 46.5–47.5% | 0.7% | 0.9% |  |
-| 47.5–48.5% | 0.2% | 0.2% |  |
+| 46.5–47.5% | 0.6% | 0.8% |  |
+| 47.5–48.5% | 0.1% | 0.2% |  |
 | 48.5–49.5% | 0% | 0% |  |
 
 
@@ -185,14 +185,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 18–24 | 17–24 | 17–25 | 17–25 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 21 | 21–22 | 21–23 | 20–23 | 19–23 |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 22 | 21–23 | 21–23 | 21–23 | 20–24 |
-| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 22–24 | 22–24 | 22–25 | 21–25 |
-| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 22 | 22–25 | 21–25 | 21–25 | 21–25 |
-| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 22 | 19–23 | 19–23 | 19–23 | 19–23 |
-| [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
-| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 22 | 19–24 | 18–25 | 18–25 | 17–26 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
+| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
+| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
+| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
+| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 21 | 20–22 | 19–22 | 19–23 | 18–24 |
+| [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG |  |  |  |  |  |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press |  |  |  |  |  |
@@ -318,17 +318,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.2% | 100% |  |
-| 17 | 5% | 99.8% |  |
-| 18 | 6% | 95% |  |
-| 19 | 8% | 89% |  |
-| 20 | 4% | 81% |  |
-| 21 | 14% | 77% |  |
-| 22 | 45% | 63% | Median |
-| 23 | 7% | 18% |  |
-| 24 | 7% | 11% |  |
-| 25 | 4% | 4% |  |
-| 26 | 0.1% | 0.1% | Majority |
-| 27 | 0% | 0% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 2% | 99.9% |  |
+| 18 | 8% | 98% |  |
+| 19 | 6% | 90% |  |
+| 20 | 8% | 84% |  |
+| 21 | 16% | 75% |  |
+| 22 | 20% | 59% | Median |
+| 23 | 19% | 39% |  |
+| 24 | 12% | 20% |  |
+| 25 | 5% | 7% |  |
+| 26 | 2% | 2% | Majority |
+| 27 | 0.4% | 0.4% |  |
+| 28 | 0% | 0% |  |
 
 

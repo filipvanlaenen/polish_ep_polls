@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 12 Apr 2019 21:49:14 +0200</pubDate>
+    <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
     <item>
       <title>Opinion Poll by Instytut Badań Spraw Narodowościowych for Radio ZET, 25–27 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.png"
         length="150626"
         type="image/png"/>
-      <pubDate>Thu, 11 Apr 2019 11:47:46 +0200</pubDate>
-      <dc:date>2019-04-11T11:47:46.563223+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 17:38:49 +0200</pubDate>
+      <dc:date>2019-04-19T17:38:49.759847+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBM Indicator for TVP1, 20–22 March 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-22-CBMIndicator.png"
         length="146120"
         type="image/png"/>
-      <pubDate>Thu, 11 Apr 2019 20:54:48 +0200</pubDate>
-      <dc:date>2019-04-11T20:54:48.873745+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 17:41:39 +0200</pubDate>
+      <dc:date>2019-04-19T17:41:39.336287+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 20–21 March 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-21-Estymator.png"
         length="144795"
         type="image/png"/>
-      <pubDate>Thu, 11 Apr 2019 21:49:59 +0200</pubDate>
-      <dc:date>2019-04-11T21:49:59.732635+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 17:44:15 +0200</pubDate>
+      <dc:date>2019-04-19T17:44:15.556426+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 7–14 March 2019 – Voting Intentions</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-14-CBOS.png"
         length="136917"
         type="image/png"/>
-      <pubDate>Fri, 12 Apr 2019 11:47:53 +0200</pubDate>
-      <dc:date>2019-04-12T11:47:53.830077+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 17:47:12 +0200</pubDate>
+      <dc:date>2019-04-19T17:47:12.653157+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 8–13 March 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-13-KantarPublic.png"
         length="144342"
         type="image/png"/>
-      <pubDate>Fri, 12 Apr 2019 11:54:04 +0200</pubDate>
-      <dc:date>2019-04-12T11:54:04.294449+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 17:50:25 +0200</pubDate>
+      <dc:date>2019-04-19T17:50:25.398342+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for Gazeta Wyborcza, 5–11 March 2019 – Voting Intentions</title>
@@ -66,9 +66,19 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-11-KantarMillwardBrown.png"
         length="129980"
         type="image/png"/>
-      <pubDate>Fri, 12 Apr 2019 21:49:14 +0200</pubDate>
-      <dc:date>2019-04-12T21:49:14.876653+02:00</dc:date>
+      <pubDate>Fri, 19 Apr 2019 17:53:06 +0200</pubDate>
+      <dc:date>2019-04-19T17:53:06.33069+02:00</dc:date>
     </item>
-    <dc:date>2019-04-12T21:49:14.876653+02:00</dc:date>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 9–10 March 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-10-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 37.9–43.8%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 3.9–6.6%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 36.0–41.7%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 5.8–8.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-10-IBRiS.png"
+        length="144633"
+        type="image/png"/>
+      <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
+      <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
+    </item>
+    <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
   </channel>
 </rss>

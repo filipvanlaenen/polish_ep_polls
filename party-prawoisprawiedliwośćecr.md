@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 39.3% | 36.4–42.2% | 35.7–42.9% | 35.2–43.5% | 34.2–44.6% |
-| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 38.0% | N/A | N/A | N/A | N/A |
+| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 38.0% | 36.1–40.0% | 35.6–40.6% | 35.1–41.1% | 34.2–42.1% |
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 38.7% | N/A | N/A | N/A | N/A |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.0% | N/A | N/A | N/A | N/A |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 41.0% | N/A | N/A | N/A | N/A |
@@ -190,7 +190,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 20–23 | 20–23 | 19–24 | 18–25 |
-| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 |  |  |  |  |  |
+| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 22 | 19–23 | 19–23 | 19–23 | 18–23 |
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS |  |  |  |  |  |

@@ -1,42 +1,79 @@
-# Opinion Poll by Kantar Millward Brown for TVN and TVN24, 15–16 April 2019
+# Opinion Poll by Estymator for DoRzeczy.pl, 10–11 April 2019
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2019-04-16-KantarMillwardBrown.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2019-04-11-Estymator.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0.0% | 38.0% | 36.1–40.0% |35.6–40.6% |35.1–41.1% |34.2–42.1% |
-| Koalicja Europejska (EPP) | 0.0% | 35.0% | 33.1–36.9% |32.5–37.5% |32.1–38.0% |31.2–38.9% |
-| Wiosna–Partia Razem (S&D) | 0.0% | 12.0% | 10.7–13.4% |10.4–13.8% |10.1–14.1% |9.5–14.8% |
-| Kukiz’15 (EFDD) | 0.0% | 6.0% | 5.1–7.1% |4.9–7.4% |4.7–7.6% |4.3–8.2% |
-| KORWiN (EFDD) | 0.0% | 5.0% | 4.2–6.0% |4.0–6.3% |3.8–6.5% |3.4–7.0% |
+| Prawo i Sprawiedliwość (ECR) | 0.0% | 42.0% | 40.1–44.0% |39.5–44.6% |39.0–45.1% |38.1–46.1% |
+| Koalicja Europejska (EPP) | 0.0% | 37.7% | 35.8–39.7% |35.2–40.2% |34.8–40.7% |33.9–41.7% |
+| Wiosna–Partia Razem (S&D) | 0.0% | 8.8% | 7.7–10.0% |7.4–10.3% |7.2–10.7% |6.7–11.3% |
+| Kukiz’15 (EFDD) | 0.0% | 6.1% | 5.2–7.2% |5.0–7.5% |4.8–7.8% |4.4–8.3% |
+| KORWiN (EFDD) | 0.0% | 3.8% | 3.2–4.7% |3.0–5.0% |2.8–5.2% |2.5–5.7% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2019-04-16-KantarMillwardBrown-seats.png "Seats")
+![Graph with seats not yet produced](2019-04-11-Estymator-seats.png "Seats")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 22 | 20–23 |19–23 |19–23 |18–24 |
-| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 20 | 18–21 |18–21 |17–22 |17–22 |
-| <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | 6 | 6–7 |5–7 |5–7 |5–8 |
-| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 3 | 2–4 |0–4 |0–4 |0–4 |
-| <a href="#korwin-(efdd)">KORWiN (EFDD)</a> | 0 | 0 | 0–3 |0–3 |0–3 |0–3 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 23 | 22–24 |21–25 |21–25 |21–26 |
+| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 21 | 19–22 |19–22 |19–22 |18–23 |
+| <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–6 |
+| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 3 | 2–3 |0–4 |0–4 |0–4 |
+| <a href="#korwin-(efdd)">KORWiN (EFDD)</a> | 0 | 0 | 0 |0 |0–2 |0–3 |
 
 ### Prawo i Sprawiedliwość (ECR)
 
 *For a full overview of the results for this party, see the [Prawo i Sprawiedliwość (ECR)](party-prawoisprawiedliwośćecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-seats-pmf-prawoisprawiedliwośćecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-seats-pmf-prawoisprawiedliwośćecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0.3% | 100% |  |
+| 21 | 5% | 99.7% |  |
+| 22 | 25% | 95% |  |
+| 23 | 41% | 70% | Median |
+| 24 | 22% | 28% |  |
+| 25 | 6% | 6% |  |
+| 26 | 0.7% | 0.7% | Majority |
+| 27 | 0% | 0% |  |
+
+### Koalicja Europejska (EPP)
+
+*For a full overview of the results for this party, see the [Koalicja Europejska (EPP)](party-koalicjaeuropejskaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-seats-pmf-koalicjaeuropejskaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -59,81 +96,44 @@
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 1.0% | 100% |  |
-| 19 | 7% | 99.0% |  |
-| 20 | 13% | 92% |  |
-| 21 | 25% | 79% |  |
-| 22 | 39% | 54% | Median |
-| 23 | 13% | 15% |  |
-| 24 | 2% | 2% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% | Majority |
-
-### Koalicja Europejska (EPP)
-
-*For a full overview of the results for this party, see the [Koalicja Europejska (EPP)](party-koalicjaeuropejskaepp.html) page.*
-
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-seats-pmf-koalicjaeuropejskaepp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 2% | 99.9% |  |
-| 18 | 13% | 97% |  |
-| 19 | 33% | 84% |  |
-| 20 | 36% | 52% | Median |
-| 21 | 13% | 16% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.3% | 0.3% |  |
-| 24 | 0% | 0% |  |
+| 19 | 11% | 98.9% |  |
+| 20 | 32% | 88% |  |
+| 21 | 40% | 56% | Median |
+| 22 | 14% | 16% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.2% | 0.2% |  |
+| 25 | 0% | 0% |  |
 
 ### Wiosna–Partia Razem (S&D)
 
 *For a full overview of the results for this party, see the [Wiosna–Partia Razem (S&D)](party-wiosna–partiarazemsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-seats-pmf-wiosna–partiarazemsd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-seats-pmf-wiosna–partiarazemsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 8% | 99.9% |  |
-| 6 | 55% | 92% | Median |
-| 7 | 35% | 37% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0% | 0% |  |
+| 3 | 2% | 100% |  |
+| 4 | 52% | 98% | Median |
+| 5 | 43% | 45% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% |  |
 
 ### Kukiz’15 (EFDD)
 
 *For a full overview of the results for this party, see the [Kukiz’15 (EFDD)](party-kukiz’15efdd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-seats-pmf-kukiz’15efdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-seats-pmf-kukiz’15efdd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 0% | 93% |  |
-| 2 | 7% | 93% |  |
-| 3 | 76% | 86% | Median |
-| 4 | 10% | 10% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 0% | 94% |  |
+| 2 | 8% | 94% |  |
+| 3 | 77% | 86% | Median |
+| 4 | 9% | 9% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 
@@ -141,34 +141,68 @@
 
 *For a full overview of the results for this party, see the [KORWiN (EFDD)](party-korwinefdd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-seats-pmf-korwinefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-seats-pmf-korwinefdd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 75% | 100% | Last Result, Median |
-| 1 | 0% | 25% |  |
-| 2 | 5% | 25% |  |
-| 3 | 20% | 20% |  |
-| 4 | 0.2% | 0.2% |  |
-| 5 | 0% | 0% |  |
+| 0 | 96% | 100% | Last Result, Median |
+| 1 | 0% | 4% |  |
+| 2 | 4% | 4% |  |
+| 3 | 0.9% | 0.9% |  |
+| 4 | 0% | 0% |  |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2019-04-16-KantarMillwardBrown-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2019-04-11-Estymator-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 22 | 0% | 20–23 | 19–23 | 19–23 | 18–24 |
-| Koalicja Europejska (EPP) | 0 | 20 | 0% | 18–21 | 18–21 | 17–22 | 17–22 |
-| Wiosna–Partia Razem (S&D) | 0 | 6 | 0% | 6–7 | 5–7 | 5–7 | 5–8 |
-| Kukiz’15 (EFDD) – KORWiN (EFDD) | 0 | 3 | 0% | 3–6 | 0–6 | 0–6 | 0–7 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 23 | 0.7% | 22–24 | 21–25 | 21–25 | 21–26 |
+| Koalicja Europejska (EPP) | 0 | 21 | 0% | 19–22 | 19–22 | 19–22 | 18–23 |
+| Wiosna–Partia Razem (S&D) | 0 | 4 | 0% | 4–5 | 4–5 | 4–5 | 3–6 |
+| Kukiz’15 (EFDD) – KORWiN (EFDD) | 0 | 3 | 0% | 2–4 | 0–4 | 0–5 | 0–6 |
 
 ### Prawo i Sprawiedliwość (ECR)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-coalitions-seats-pmf-pis.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-coalitions-seats-pmf-pis.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0.3% | 100% |  |
+| 21 | 5% | 99.7% |  |
+| 22 | 25% | 95% |  |
+| 23 | 41% | 70% | Median |
+| 24 | 22% | 28% |  |
+| 25 | 6% | 6% |  |
+| 26 | 0.7% | 0.7% | Majority |
+| 27 | 0% | 0% |  |
+
+### Koalicja Europejska (EPP)
+
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-coalitions-seats-pmf-ke.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -191,92 +225,56 @@
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 1.0% | 100% |  |
-| 19 | 7% | 99.0% |  |
-| 20 | 13% | 92% |  |
-| 21 | 25% | 79% |  |
-| 22 | 39% | 54% | Median |
-| 23 | 13% | 15% |  |
-| 24 | 2% | 2% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% | Majority |
-
-### Koalicja Europejska (EPP)
-
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-coalitions-seats-pmf-ke.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 2% | 99.9% |  |
-| 18 | 13% | 97% |  |
-| 19 | 33% | 84% |  |
-| 20 | 36% | 52% | Median |
-| 21 | 13% | 16% |  |
-| 22 | 3% | 3% |  |
-| 23 | 0.3% | 0.3% |  |
-| 24 | 0% | 0% |  |
+| 19 | 11% | 98.9% |  |
+| 20 | 32% | 88% |  |
+| 21 | 40% | 56% | Median |
+| 22 | 14% | 16% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.2% | 0.2% |  |
+| 25 | 0% | 0% |  |
 
 ### Wiosna–Partia Razem (S&D)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-coalitions-seats-pmf-wi–r.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-coalitions-seats-pmf-wi–r.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0.1% | 100% |  |
-| 5 | 8% | 99.9% |  |
-| 6 | 55% | 92% | Median |
-| 7 | 35% | 37% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0% | 0% |  |
+| 3 | 2% | 100% |  |
+| 4 | 52% | 98% | Median |
+| 5 | 43% | 45% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% |  |
 
 ### Kukiz’15 (EFDD) – KORWiN (EFDD)
 
-![Graph with seats probability mass function not yet produced](2019-04-16-KantarMillwardBrown-coalitions-seats-pmf-k–w.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-04-11-Estymator-coalitions-seats-pmf-k–w.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 5% | 100% | Last Result |
 | 1 | 0% | 95% |  |
-| 2 | 4% | 95% |  |
-| 3 | 59% | 91% | Median |
-| 4 | 9% | 32% |  |
-| 5 | 7% | 22% |  |
-| 6 | 15% | 16% |  |
-| 7 | 1.1% | 1.2% |  |
-| 8 | 0% | 0% |  |
+| 2 | 8% | 95% |  |
+| 3 | 74% | 87% | Median |
+| 4 | 10% | 13% |  |
+| 5 | 3% | 4% |  |
+| 6 | 0.7% | 0.8% |  |
+| 7 | 0% | 0% |  |
 
 
 ## Technical Information
 
 ### Opinion Poll
 
-+ **Polling firm:** Kantar Millward Brown
-+ **Commissioner(s):** TVN and TVN24
-+ **Fieldwork period:** 15–16 April 2019
++ **Polling firm:** Estymator
++ **Commissioner(s):** DoRzeczy.pl
++ **Fieldwork period:** 10–11 April 2019
 
 ### Calculations
 
-+ **Sample size:** 1004
++ **Sample size:** 1016
 + **Simulations done:** 131,072
-+ **Error estimate:** 1.13%
++ **Error estimate:** 0.79%
 

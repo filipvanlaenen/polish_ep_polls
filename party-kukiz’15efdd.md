@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.3–6.7% | 4.0–7.1% | 3.8–7.4% | 3.4–8.0% |
+| N/A | [Poll Average](average.html) | 5.6% | 3.2–6.7% | 2.8–7.0% | 2.6–7.3% | 2.2–7.9% |
 | [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
-| [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 5.3% | N/A | N/A | N/A | N/A |
-| [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.1% | N/A | N/A | N/A | N/A |
-| [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 3.0% | N/A | N/A | N/A | N/A |
+| [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 5.3% | 4.5–6.2% | 4.3–6.5% | 4.1–6.8% | 3.7–7.3% |
+| [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 4.0% | N/A | N/A | N/A | N/A |
-| [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 6.3% | N/A | N/A | N/A | N/A |
+| [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 6.3% | 5.9–6.7% | 5.8–6.8% | 5.7–6.9% | 5.6–7.1% |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.6–6.3% | 3.3–6.8% |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.3% | 5.4–7.4% | 5.1–7.7% | 4.9–8.0% | 4.5–8.5% |
@@ -133,13 +133,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.9% | 100% |  |
-| 3.5–4.5% | 17% | 99.1% |  |
-| 4.5–5.5% | 37% | 82% | Median |
-| 5.5–6.5% | 32% | 46% |  |
-| 6.5–7.5% | 12% | 14% |  |
-| 7.5–8.5% | 2% | 2% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 11% | 98% |  |
+| 3.5–4.5% | 11% | 86% |  |
+| 4.5–5.5% | 24% | 75% |  |
+| 5.5–6.5% | 37% | 51% | Median |
+| 6.5–7.5% | 13% | 14% |  |
+| 7.5–8.5% | 1.2% | 1.3% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -152,13 +152,13 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
-| [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [4–11 April 2019](2019-04-11-CBOS.html) | CBOS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
+| [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
+| [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
-| [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press |  |  |  |  |  |
+| [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 3 | 3 | 3 | 3 | 3–4 |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
@@ -275,11 +275,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% | Last Result |
-| 1 | 0% | 63% |  |
-| 2 | 15% | 63% | Median |
-| 3 | 44% | 48% |  |
-| 4 | 4% | 4% |  |
+| 0 | 36% | 100% | Last Result |
+| 1 | 0% | 64% |  |
+| 2 | 10% | 64% |  |
+| 3 | 51% | 54% | Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 

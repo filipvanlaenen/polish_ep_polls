@@ -190,8 +190,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 15–23 | 14–24 | 14–24 | 13–25 |
-| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 20 | 18–21 | 18–21 | 17–22 | 17–22 |
-| [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
+| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
+| [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 20 | 19–21 | 18–21 | 18–22 | 17–22 |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
@@ -330,9 +330,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 7% | 94% |  |
 | 16 | 3% | 87% |  |
 | 17 | 0.5% | 84% |  |
-| 18 | 2% | 83% |  |
+| 18 | 1.5% | 83% |  |
 | 19 | 8% | 82% |  |
-| 20 | 17% | 74% |  |
+| 20 | 18% | 74% |  |
 | 21 | 28% | 56% | Median |
 | 22 | 14% | 28% |  |
 | 23 | 7% | 14% |  |

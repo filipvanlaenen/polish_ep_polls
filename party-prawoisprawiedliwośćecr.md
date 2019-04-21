@@ -189,14 +189,14 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
-| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 22 | 20–23 | 19–23 | 19–23 | 18–24 |
+| N/A | [Poll Average](average.html) | 22 | 20–24 | 20–24 | 20–24 | 19–25 |
+| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 21 | 20–23 | 19–23 | 19–23 | 18–24 |
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
-| [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 21–25 | 21–25 | 21–26 |
+| [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
 | [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 23 | 22–23 | 22–23 | 22–23 | 22–24 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 24 | 23–26 | 22–26 | 22–27 | 21–27 |
@@ -332,11 +332,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0.2% | 100% |  |
 | 19 | 2% | 99.8% |  |
-| 20 | 8% | 98% |  |
-| 21 | 18% | 90% |  |
-| 22 | 29% | 72% | Median |
-| 23 | 33% | 43% |  |
-| 24 | 8% | 10% |  |
+| 20 | 9% | 98% |  |
+| 21 | 19% | 89% |  |
+| 22 | 28% | 70% | Median |
+| 23 | 32% | 43% |  |
+| 24 | 9% | 11% |  |
 | 25 | 2% | 2% |  |
 | 26 | 0.2% | 0.2% | Majority |
 | 27 | 0% | 0% |  |

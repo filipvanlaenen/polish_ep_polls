@@ -158,7 +158,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 2–6 | 0–6 | 0–7 | 0–7 |
-| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -282,10 +282,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 7% | 100% | Last Result |
 | 1 | 0% | 93% |  |
-| 2 | 4% | 93% |  |
+| 2 | 3% | 93% |  |
 | 3 | 12% | 89% |  |
-| 4 | 36% | 77% | Median |
-| 5 | 23% | 41% |  |
+| 4 | 37% | 77% | Median |
+| 5 | 22% | 41% |  |
 | 6 | 15% | 18% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.1% | 0.1% |  |

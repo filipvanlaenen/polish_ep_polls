@@ -150,12 +150,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 0 | 0 | 0 | 0–2 | 0–3 |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0–2 | 0–3 |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
-| [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 3 | 2–3 | 2–3 | 0–3 | 0–3 |
+| [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 0 | 0 | 0 | 0 | 0 |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 0 | 0 | 0 | 0–2 | 0–3 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 0 | 0 | 0 | 0 | 0 |
@@ -273,10 +273,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 85% | 100% | Last Result, Median |
-| 1 | 0% | 15% |  |
-| 2 | 3% | 15% |  |
-| 3 | 13% | 13% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 0% | 9% |  |
+| 2 | 5% | 9% |  |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 

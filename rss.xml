@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 29 Apr 2019 14:58:11 +0200</pubDate>
+    <pubDate>Mon, 29 Apr 2019 17:21:27 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 15–16 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown.html</link>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-09-KantarMillwardBrown.png"
         length="146645"
         type="image/png"/>
-      <pubDate>Mon, 29 Apr 2019 14:58:11 +0200</pubDate>
-      <dc:date>2019-04-29T14:58:11.458669+02:00</dc:date>
+      <pubDate>Mon, 29 Apr 2019 17:21:27 +0200</pubDate>
+      <dc:date>2019-04-29T17:21:27.246148+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Polska Press, 5–7 April 2019 – Voting Intentions</title>
@@ -139,6 +139,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-04-29T14:58:11.458669+02:00</dc:date>
+    <dc:date>2019-04-29T17:21:27.246148+02:00</dc:date>
   </channel>
 </rss>

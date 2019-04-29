@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Apr 2019 14:13:37 +0200</pubDate>
+    <pubDate>Mon, 29 Apr 2019 14:58:11 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 15–16 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown.html</link>
@@ -48,6 +48,16 @@
         type="image/png"/>
       <pubDate>Sun, 21 Apr 2019 13:52:41 +0200</pubDate>
       <dc:date>2019-04-21T13:52:41.963826+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for Gazeta Wyborcza, 4–9 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-09-KantarMillwardBrown.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 33.7–38.4%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 3.1–5.1%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 4.0–6.2%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 30.7–35.3%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 17.1–21.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-09-KantarMillwardBrown.png"
+        length="146645"
+        type="image/png"/>
+      <pubDate>Mon, 29 Apr 2019 14:58:11 +0200</pubDate>
+      <dc:date>2019-04-29T14:58:11.458669+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Polska Press, 5–7 April 2019 – Voting Intentions</title>
@@ -129,6 +139,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-04-21T14:13:37.79012+02:00</dc:date>
+    <dc:date>2019-04-29T14:58:11.458669+02:00</dc:date>
   </channel>
 </rss>

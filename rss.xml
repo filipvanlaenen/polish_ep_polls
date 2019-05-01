@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 29 Apr 2019 17:21:27 +0200</pubDate>
+    <pubDate>Wed, 01 May 2019 09:16:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IBSP, 23–26 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-26-IBSP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 37.0–43.0%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 2.9–5.4%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 35.0–41.0%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 10.2–14.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-26-IBSP.png"
+        length="147491"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:02:25 +0200</pubDate>
+      <dc:date>2019-05-01T09:02:25.109573+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 19–24 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-24-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 35.1–41.0%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 8.3–12.0%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 28.3–33.9%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 13.9–18.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-24-SocialChanges.png"
+        length="150346"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:16:44 +0200</pubDate>
+      <dc:date>2019-05-01T09:16:44.262095+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 15–16 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown.html</link>
@@ -139,6 +159,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-04-29T17:21:27.246148+02:00</dc:date>
+    <dc:date>2019-05-01T09:16:44.262095+02:00</dc:date>
   </channel>
 </rss>

@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 01 May 2019 09:16:44 +0200</pubDate>
+    <pubDate>Wed, 01 May 2019 10:18:06 +0200</pubDate>
     <item>
       <title>Opinion Poll by IBSP, 23–26 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-26-IBSP.html</link>
@@ -30,14 +30,54 @@
       <dc:date>2019-05-01T09:16:44.262095+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 15–16 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 19–23 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 0–4 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 17–21 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 5–8 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown-seats.png"
+        length="142672"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:20:47 +0200</pubDate>
+      <dc:date>2019-05-01T09:20:47.902976+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 15–16 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown-coalitions-seats.png"
+        length="125358"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:20:47 +0200</pubDate>
+      <dc:date>2019-05-01T09:20:47.902976+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 15–16 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 35.1–41.1%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 4.7–7.6%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 32.1–38.0%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 10.1–14.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-16-KantarMillwardBrown.png"
         length="151734"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 13:31:48 +0200</pubDate>
-      <dc:date>2019-04-21T13:31:48.744787+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 09:20:47 +0200</pubDate>
+      <dc:date>2019-05-01T09:20:47.902976+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Radio ZET, 12 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-12-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 19–23 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0–2 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 18–22 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-12-IBRiS-seats.png"
+        length="135706"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:31:57 +0200</pubDate>
+      <dc:date>2019-05-01T09:31:57.979032+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Radio ZET, 12 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-12-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-12-IBRiS-coalitions-seats.png"
+        length="111833"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:31:57 +0200</pubDate>
+      <dc:date>2019-05-01T09:31:57.979032+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Radio ZET, 12 April 2019 – Voting Intentions</title>
@@ -46,8 +86,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-12-IBRiS.png"
         length="145170"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 13:39:08 +0200</pubDate>
-      <dc:date>2019-04-21T13:39:08.729202+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 09:31:57 +0200</pubDate>
+      <dc:date>2019-05-01T09:31:57.979032+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 10–11 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-Estymator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 21–25 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 0–4 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0–2 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-Estymator-seats.png"
+        length="130988"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:42:56 +0200</pubDate>
+      <dc:date>2019-05-01T09:42:56.929024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 10–11 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-Estymator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-Estymator-coalitions-seats.png"
+        length="108854"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:42:56 +0200</pubDate>
+      <dc:date>2019-05-01T09:42:56.929024+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 10–11 April 2019 – Voting Intentions</title>
@@ -56,8 +116,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-Estymator.png"
         length="146301"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 13:46:18 +0200</pubDate>
-      <dc:date>2019-04-21T13:46:18.217178+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 09:42:56 +0200</pubDate>
+      <dc:date>2019-05-01T09:42:56.929024+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 4–11 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 21–25 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 13–17 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-CBOS-seats.png"
+        length="122290"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:51:05 +0200</pubDate>
+      <dc:date>2019-05-01T09:51:05.807824+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 4–11 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-CBOS-coalitions-seats.png"
+        length="97051"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 09:51:05 +0200</pubDate>
+      <dc:date>2019-05-01T09:51:05.807824+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 4–11 April 2019 – Voting Intentions</title>
@@ -66,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-11-CBOS.png"
         length="136950"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 13:52:41 +0200</pubDate>
-      <dc:date>2019-04-21T13:52:41.963826+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 09:51:05 +0200</pubDate>
+      <dc:date>2019-05-01T09:51:05.807824+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for Gazeta Wyborcza, 4–9 April 2019 – Voting Intentions</title>
@@ -80,14 +160,54 @@
       <dc:date>2019-04-29T17:21:27.246148+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Polska Press, 5–7 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-07-PolskaPress.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 22–23 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 3 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 21–22 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-07-PolskaPress-seats.png"
+        length="101265"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 10:00:09 +0200</pubDate>
+      <dc:date>2019-05-01T10:00:09.694659+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polska Press, 5–7 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-07-PolskaPress.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-07-PolskaPress-coalitions-seats.png"
+        length="74260"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 10:00:09 +0200</pubDate>
+      <dc:date>2019-05-01T10:00:09.694659+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Polska Press, 5–7 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-07-PolskaPress.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 39.5–41.9%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 5.7–6.9%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 3.5–4.4%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 37.1–39.5%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 6.8–8.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-07-PolskaPress.png"
         length="125737"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 13:59:55 +0200</pubDate>
-      <dc:date>2019-04-21T13:59:55.431827+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 10:00:09 +0200</pubDate>
+      <dc:date>2019-05-01T10:00:09.694659+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Spraw Narodowościowych for Radio ZET, 25–27 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 19–23 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0–2 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 21–25 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych-seats.png"
+        length="126727"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 10:09:16 +0200</pubDate>
+      <dc:date>2019-05-01T10:09:16.596949+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Spraw Narodowościowych for Radio ZET, 25–27 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych-coalitions-seats.png"
+        length="103200"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 10:09:16 +0200</pubDate>
+      <dc:date>2019-05-01T10:09:16.596949+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Spraw Narodowościowych for Radio ZET, 25–27 March 2019 – Voting Intentions</title>
@@ -96,8 +216,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-27-InstytutBadańSprawNarodowościowych.png"
         length="150626"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 14:06:53 +0200</pubDate>
-      <dc:date>2019-04-21T14:06:53.531239+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 10:09:16 +0200</pubDate>
+      <dc:date>2019-05-01T10:09:16.596949+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBM Indicator for TVP1, 20–22 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-22-CBMIndicator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 20–24 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 0–4 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 19–23 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-22-CBMIndicator-seats.png"
+        length="136809"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 10:18:06 +0200</pubDate>
+      <dc:date>2019-05-01T10:18:06.661998+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBM Indicator for TVP1, 20–22 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-03-22-CBMIndicator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-22-CBMIndicator-coalitions-seats.png"
+        length="114585"
+        type="image/png"/>
+      <pubDate>Wed, 01 May 2019 10:18:06 +0200</pubDate>
+      <dc:date>2019-05-01T10:18:06.661998+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBM Indicator for TVP1, 20–22 March 2019 – Voting Intentions</title>
@@ -106,8 +246,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-03-22-CBMIndicator.png"
         length="146120"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 14:13:37 +0200</pubDate>
-      <dc:date>2019-04-21T14:13:37.79012+02:00</dc:date>
+      <pubDate>Wed, 01 May 2019 10:18:06 +0200</pubDate>
+      <dc:date>2019-05-01T10:18:06.661998+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 20–21 March 2019 – Voting Intentions</title>
@@ -159,6 +299,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-05-01T09:16:44.262095+02:00</dc:date>
+    <dc:date>2019-05-01T10:18:06.661998+02:00</dc:date>
   </channel>
 </rss>

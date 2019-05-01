@@ -285,10 +285,10 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 14% | 96% |  |
 | 21 | 21% | 82% |  |
 | 22 | 25% | 62% | Median |
-| 23 | 27% | 37% |  |
-| 24 | 8% | 9% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.1% | 0.1% | Majority |
+| 23 | 28% | 37% |  |
+| 24 | 7% | 9% |  |
+| 25 | 1.5% | 2% |  |
+| 26 | 0.2% | 0.2% | Majority |
 | 27 | 0% | 0% |  |
 
 ### Kukiz’15 (EFDD)
@@ -301,8 +301,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 43% | 100% | Last Result |
 | 1 | 0% | 57% |  |
-| 2 | 9% | 57% | Median |
-| 3 | 44% | 47% |  |
+| 2 | 10% | 57% | Median |
+| 3 | 45% | 47% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -389,7 +389,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 22 | 0.1% | 20–23 | 20–24 | 19–24 | 19–25 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 22 | 0.2% | 20–23 | 20–24 | 19–24 | 19–25 |
 | Koalicja Europejska (EPP) | 0 | 20 | 0.2% | 15–23 | 14–24 | 14–24 | 13–25 |
 | Wiosna–Partia Razem (S&D) | 0 | 4 | 0% | 3–10 | 0–11 | 0–11 | 0–12 |
 | KORWiN (EFDD) – Kukiz’15 (EFDD) | 0 | 3 | 0% | 0–3 | 0–3 | 0–4 | 0–5 |
@@ -423,10 +423,10 @@ Only polls for which at least the sample size has been published are included in
 | 20 | 14% | 96% |  |
 | 21 | 21% | 82% |  |
 | 22 | 25% | 62% | Median |
-| 23 | 27% | 37% |  |
-| 24 | 8% | 9% |  |
-| 25 | 2% | 2% |  |
-| 26 | 0.1% | 0.1% | Majority |
+| 23 | 28% | 37% |  |
+| 24 | 7% | 9% |  |
+| 25 | 1.5% | 2% |  |
+| 26 | 0.2% | 0.2% | Majority |
 | 27 | 0% | 0% |  |
 
 ### Koalicja Europejska (EPP)
@@ -505,5 +505,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 3,276,800
-+ **Error estimate:** 1.10%
++ **Total number of simulations done in the polls included in this average:** 6,422,528
++ **Error estimate:** 0.52%

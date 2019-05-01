@@ -171,7 +171,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 4 | 3–10 | 0–11 | 0–11 | 0–12 |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
-| [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 |  |  |  |  |  |
+| [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |

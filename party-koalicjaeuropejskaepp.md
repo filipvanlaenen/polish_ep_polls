@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 37.3% | 27.7–41.3% | 26.5–42.6% | 25.8–43.4% | 24.6–44.8% |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 38.0% | 36.0–40.0% | 35.5–40.5% | 35.0–41.0% | 34.1–42.0% |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.3–33.9% | 27.5–34.8% |
-| [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 | 38.1% | N/A | N/A | N/A | N/A |
+| [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 | 38.1% | 37.3–38.9% | 37.1–39.1% | 36.9–39.3% | 36.5–39.6% |
 | [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 35.0% | 33.1–36.9% | 32.5–37.5% | 32.1–38.0% | 31.2–38.9% |
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 36.2% | 34.4–38.1% | 33.8–38.6% | 33.4–39.1% | 32.5–40.0% |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 37.7% | 35.8–39.7% | 35.2–40.2% | 34.8–40.7% | 33.9–41.7% |
@@ -193,7 +193,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 15–23 | 14–24 | 14–24 | 13–25 |
-| [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
+| [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 |  |  |  |  |  |
 | [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 19 | 18–21 | 18–21 | 17–21 | 17–22 |

@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | N/A | [Poll Average](average.html) | 8.8% | 5.5–18.5% | 4.9–19.4% | 4.5–20.0% | 4.0–20.8% |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.2% | 9.6–14.9% |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.9–18.4% | 13.3–19.1% |
-| [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 | 9.0% | N/A | N/A | N/A | N/A |
+| [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 | 9.0% | 8.6–9.5% | 8.4–9.6% | 8.3–9.7% | 8.1–10.0% |
 | [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 12.0% | 10.7–13.4% | 10.4–13.8% | 10.1–14.1% | 9.5–14.8% |
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 7.6% | 6.7–8.8% | 6.4–9.1% | 6.2–9.4% | 5.8–9.9% |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.8% | 7.7–10.0% | 7.4–10.3% | 7.2–10.7% | 6.7–11.3% |

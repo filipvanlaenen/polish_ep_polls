@@ -176,7 +176,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 10 | 10–11 | 10–12 | 9–12 | 9–12 |
+| [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 4 | 4 | 3–4 | 3–4 | 3–4 |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |

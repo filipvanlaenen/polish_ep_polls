@@ -200,7 +200,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [12 April 2019](2019-04-12-IBRiS.html) | IBRiS <br> Radio ZET | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
 | [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
-| [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
+| [4–9 April 2019](2019-04-09-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 23 | 22–23 | 22–23 | 22–23 | 22–24 |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
@@ -338,8 +338,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0.3% | 100% |  |
 | 19 | 4% | 99.7% |  |
-| 20 | 14% | 96% |  |
-| 21 | 21% | 82% |  |
+| 20 | 13% | 96% |  |
+| 21 | 21% | 83% |  |
 | 22 | 25% | 62% | Median |
 | 23 | 28% | 37% |  |
 | 24 | 7% | 9% |  |

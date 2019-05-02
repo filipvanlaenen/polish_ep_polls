@@ -282,8 +282,8 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0% | 100% |  |
 | 18 | 0.3% | 100% |  |
 | 19 | 4% | 99.7% |  |
-| 20 | 14% | 96% |  |
-| 21 | 21% | 82% |  |
+| 20 | 13% | 96% |  |
+| 21 | 21% | 83% |  |
 | 22 | 25% | 62% | Median |
 | 23 | 28% | 37% |  |
 | 24 | 7% | 9% |  |
@@ -301,7 +301,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 43% | 100% | Last Result |
 | 1 | 0% | 57% |  |
-| 2 | 10% | 57% | Median |
+| 2 | 9% | 57% | Median |
 | 3 | 45% | 47% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
@@ -316,8 +316,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 91% | 100% | Last Result, Median |
 | 1 | 0% | 9% |  |
-| 2 | 5% | 9% |  |
-| 3 | 4% | 4% |  |
+| 2 | 4% | 9% |  |
+| 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
 ### Koalicja Europejska (EPP)
@@ -420,8 +420,8 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 0% | 100% |  |
 | 18 | 0.3% | 100% |  |
 | 19 | 4% | 99.7% |  |
-| 20 | 14% | 96% |  |
-| 21 | 21% | 82% |  |
+| 20 | 13% | 96% |  |
+| 21 | 21% | 83% |  |
 | 22 | 25% | 62% | Median |
 | 23 | 28% | 37% |  |
 | 24 | 7% | 9% |  |
@@ -493,10 +493,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 35% | 100% | Last Result |
 | 1 | 0% | 65% |  |
-| 2 | 13% | 65% | Median |
-| 3 | 48% | 52% |  |
+| 2 | 12% | 65% | Median |
+| 3 | 49% | 53% |  |
 | 4 | 3% | 4% |  |
-| 5 | 0.8% | 0.9% |  |
+| 5 | 0.7% | 0.9% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
@@ -504,6 +504,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 6,422,528
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 7,340,032
 + **Error estimate:** 0.52%

@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 02 May 2019 16:30:20 +0200</pubDate>
+    <pubDate>Fri, 03 May 2019 12:37:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IBRiS for Radio ZET, 26–27 April 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-27-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 39.1–44.9%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 4.7–7.6%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 3.9–6.5%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 33.2–38.9%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 7.4–10.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-04-27-IBRiS.png"
+        length="144790"
+        type="image/png"/>
+      <pubDate>Fri, 03 May 2019 12:37:25 +0200</pubDate>
+      <dc:date>2019-05-03T12:37:25.658478+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IBSP, 23–26 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-04-26-IBSP.html#seats</link>
@@ -389,6 +399,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-05-02T16:30:20.561326+02:00</dc:date>
+    <dc:date>2019-05-03T12:37:25.658478+02:00</dc:date>
   </channel>
 </rss>

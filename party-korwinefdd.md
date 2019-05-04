@@ -155,7 +155,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–3 | 0–3 |
-| [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 | 0 | 0 | 0 | 0 | 0 |

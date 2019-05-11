@@ -1,18 +1,19 @@
 # Overview
 
-The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 90 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 34–46% <br> 18–26 | N/A <br> N/A | 3–9% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–13% <br> 0–7 | 28–43% <br> 15–25 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 35–41% <br> 19–23 | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 10–13% <br> 5–7 | 39–45% <br> 22–26 |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 38–44% <br> 21–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 4–6 | 35–41% <br> 19–23 |
-| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 40–46% <br> 22–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–5 | 36–42% <br> 20–23 |
-| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 41–47% <br> 22–27 | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–3 | 26–32% <br> 14–18 |
-| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 35–41% <br> 19–23 | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | 29–35% <br> 16–20 |
-| [5–11 March 2019](2019-03-11-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 33–37% <br> 17–20 | N/A <br> N/A | 7–9% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–7 | 36–40% <br> 19–22 |
-| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 38–44% <br> 21–26 | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–5 | 36–42% <br> 20–24 |
+| N/A | [Poll Average](average.html) | 36–44% <br> 20–24 | N/A <br> N/A | 3–11% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 5–17% <br> 0–9 | 26–40% <br> 14–22 |
+| [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 39–45% <br> 21–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 4–6 | 33–39% <br> 18–21 |
+| [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 37–43% <br> 20–24 | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–7 | 35–41% <br> 19–22 |
+| [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 35–41% <br> 19–22 | N/A <br> N/A | 8–12% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 14–18% <br> 7–10 | 28–34% <br> 15–18 |
+| [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 | 40–42% <br> 22–24 | N/A <br> N/A | 5–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–10% <br> 4–5 | 37–39% <br> 20–23 |
+| [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 35–41% <br> 19–23 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–8 | 32–38% <br> 17–21 |
+| [10–11 April 2019](2019-04-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 39–45% <br> 21–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 4–5 | 35–41% <br> 19–22 |
+| [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 38–44% <br> 21–25 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–3 | 24–30% <br> 13–17 |
+| [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 40–42% <br> 22–23 | N/A <br> N/A | 6–7% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 7–8% <br> 3–4 | 37–39% <br> 21–22 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

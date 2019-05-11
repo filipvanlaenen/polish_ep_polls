@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.2% | 5.7–15.1% | 5.0–16.3% | 4.6–17.0% | 4.0–18.1% |
+| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 13.0% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.9% | 7.0–11.4% |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.2% | 9.6–14.9% |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.9–18.4% | 13.3–19.1% |
@@ -167,6 +168,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–8 | 0–9 | 0–9 | 0–10 |
+| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 8 | 8–9 | 7–9 | 7–10 | 7–10 |

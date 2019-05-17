@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40.6% | 37.5–42.7% | 36.7–43.5% | 36.1–44.1% | 35.0–45.2% |
-| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 39.0% | 37.0–41.0% | 36.5–41.5% | 36.0–42.0% | 35.1–43.0% |
+| N/A | [Poll Average](average.html) | 40.7% | 38.0–42.5% | 37.1–43.2% | 36.4–43.8% | 35.2–45.0% |
+| [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 36.0% | 34.1–37.9% | 33.6–38.5% | 33.1–38.9% | 32.3–39.9% |
+| [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 39.1% | 37.1–41.1% | 36.6–41.7% | 36.1–42.2% | 35.2–43.1% |
+| [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 35.1% | 33.2–37.1% | 32.7–37.6% | 32.2–38.1% | 31.3–39.1% |
+| [8–10 May 2019](2019-05-10-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 34.0% | 32.1–35.9% | 31.6–36.5% | 31.1–37.0% | 30.2–37.9% |
+| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 39.1% | N/A | N/A | N/A | N/A |
+| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu | 41.4% | N/A | N/A | N/A | N/A |
+| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 36.7% | N/A | N/A | N/A | N/A |
+| [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | 42.1% | N/A | N/A | N/A | N/A |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 42.0% | 40.1–43.9% | 39.6–44.5% | 39.1–44.9% | 38.2–45.9% |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 40.0% | 38.0–42.0% | 37.4–42.5% | 37.0–43.0% | 36.0–44.0% |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 38.0% | 36.1–39.9% | 35.6–40.5% | 35.1–41.0% | 34.2–41.9% |
@@ -34,7 +41,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 34.0% | N/A | N/A | N/A | N/A |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 40.0% | N/A | N/A | N/A | N/A |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 34.0% | N/A | N/A | N/A | N/A |
-| [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP | 34.9% | N/A | N/A | N/A | N/A |
+| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 34.9% | N/A | N/A | N/A | N/A |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 37.1% | N/A | N/A | N/A | N/A |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 39.7% | N/A | N/A | N/A | N/A |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 35.1% | N/A | N/A | N/A | N/A |
@@ -170,19 +177,19 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
 | 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.2% | 100% |  |
-| 34.5–35.5% | 1.0% | 99.8% |  |
-| 35.5–36.5% | 3% | 98.8% |  |
-| 36.5–37.5% | 6% | 96% |  |
-| 37.5–38.5% | 9% | 90% |  |
-| 38.5–39.5% | 11% | 81% |  |
-| 39.5–40.5% | 19% | 70% |  |
-| 40.5–41.5% | 26% | 52% | Median |
-| 41.5–42.5% | 14% | 26% |  |
-| 42.5–43.5% | 7% | 12% |  |
-| 43.5–44.5% | 3% | 5% |  |
-| 44.5–45.5% | 1.1% | 1.4% |  |
-| 45.5–46.5% | 0.2% | 0.3% |  |
+| 33.5–34.5% | 0.1% | 100% |  |
+| 34.5–35.5% | 0.7% | 99.8% |  |
+| 35.5–36.5% | 2% | 99.2% |  |
+| 36.5–37.5% | 4% | 97% |  |
+| 37.5–38.5% | 7% | 93% |  |
+| 38.5–39.5% | 10% | 86% |  |
+| 39.5–40.5% | 21% | 75% |  |
+| 40.5–41.5% | 31% | 54% | Median |
+| 41.5–42.5% | 14% | 23% |  |
+| 42.5–43.5% | 6% | 9% |  |
+| 43.5–44.5% | 3% | 3% |  |
+| 44.5–45.5% | 0.8% | 0.9% |  |
+| 45.5–46.5% | 0.2% | 0.2% |  |
 | 46.5–47.5% | 0% | 0% |  |
 
 
@@ -194,8 +201,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–24 | 20–24 | 20–24 | 19–25 |
-| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
+| N/A | [Poll Average](average.html) | 23 | 21–24 | 20–24 | 20–24 | 19–25 |
+| [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 21 | 20–23 | 20–23 | 19–24 | 19–24 |
+| [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [8–10 May 2019](2019-05-10-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
+| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP |  |  |  |  |  |
+| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu |  |  |  |  |  |
+| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes |  |  |  |  |  |
+| [29–30 April 2019](2019-04-30-Estymator.html) | Estymator |  |  |  |  |  |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 22 | 20–23 | 20–23 | 20–24 | 19–24 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
@@ -218,7 +232,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press |  |  |  |  |  |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS |  |  |  |  |  |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP |  |  |  |  |  |
+| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP |  |  |  |  |  |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |
@@ -340,13 +354,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 0.2% | 100% |  |
-| 19 | 2% | 99.8% |  |
-| 20 | 9% | 98% |  |
-| 21 | 17% | 89% |  |
-| 22 | 25% | 72% | Median |
-| 23 | 31% | 47% |  |
-| 24 | 14% | 16% |  |
+| 18 | 0.1% | 100% |  |
+| 19 | 1.4% | 99.9% |  |
+| 20 | 6% | 98% |  |
+| 21 | 15% | 92% |  |
+| 22 | 26% | 78% |  |
+| 23 | 35% | 51% | Median |
+| 24 | 14% | 17% |  |
 | 25 | 2% | 2% |  |
 | 26 | 0.2% | 0.2% | Majority |
 | 27 | 0% | 0% |  |

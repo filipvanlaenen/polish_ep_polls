@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 3.3–9.3% | 2.9–10.3% | 2.6–10.8% | 2.2–11.7% |
-| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 5.0% | 4.3–6.1% | 4.0–6.3% | 3.9–6.6% | 3.5–7.1% |
+| N/A | [Poll Average](average.html) | 5.2% | 3.1–6.6% | 2.8–6.9% | 2.5–7.2% | 2.2–7.8% |
+| [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.5% | 3.5–7.0% |
+| [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
+| [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
+| [8–10 May 2019](2019-05-10-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
+| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 4.7% | N/A | N/A | N/A | N/A |
+| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu | 5.1% | N/A | N/A | N/A | N/A |
+| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 8.5% | N/A | N/A | N/A | N/A |
+| [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | 6.0% | N/A | N/A | N/A | N/A |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.3–12.0% | 7.8–12.6% |
@@ -34,7 +41,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 7.9% | N/A | N/A | N/A | N/A |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 5.0% | N/A | N/A | N/A | N/A |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 6.0% | N/A | N/A | N/A | N/A |
-| [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP | 6.0% | N/A | N/A | N/A | N/A |
+| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 6.0% | N/A | N/A | N/A | N/A |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4.7% | N/A | N/A | N/A | N/A |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.4% | N/A | N/A | N/A | N/A |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 5.8% | N/A | N/A | N/A | N/A |
@@ -139,18 +146,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 11% | 98% |  |
-| 3.5–4.5% | 11% | 87% |  |
-| 4.5–5.5% | 22% | 77% |  |
-| 5.5–6.5% | 29% | 54% | Median |
-| 6.5–7.5% | 12% | 25% |  |
-| 7.5–8.5% | 2% | 14% |  |
-| 8.5–9.5% | 3% | 12% |  |
-| 9.5–10.5% | 5% | 9% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.7% | 0.7% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 2.5–3.5% | 14% | 97% |  |
+| 3.5–4.5% | 14% | 83% |  |
+| 4.5–5.5% | 27% | 69% | Median |
+| 5.5–6.5% | 31% | 43% |  |
+| 6.5–7.5% | 11% | 12% |  |
+| 7.5–8.5% | 0.9% | 0.9% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -161,8 +163,15 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
-| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [8–10 May 2019](2019-05-10-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP |  |  |  |  |  |
+| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu |  |  |  |  |  |
+| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes |  |  |  |  |  |
+| [29–30 April 2019](2019-04-30-Estymator.html) | Estymator |  |  |  |  |  |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 0 | 0 | 0–2 | 0–2 | 0–3 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -185,7 +194,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press |  |  |  |  |  |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS |  |  |  |  |  |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [8–11 February 2019](2019-02-11-Ariadna.html) | Ariadna <br> WP |  |  |  |  |  |
+| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP |  |  |  |  |  |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |
@@ -289,14 +298,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 0% | 68% |  |
-| 2 | 9% | 68% |  |
-| 3 | 43% | 59% | Median |
-| 4 | 5% | 16% |  |
-| 5 | 8% | 11% |  |
-| 6 | 3% | 3% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 0 | 42% | 100% | Last Result |
+| 1 | 0% | 58% |  |
+| 2 | 10% | 58% | Median |
+| 3 | 45% | 47% |  |
+| 4 | 3% | 3% |  |
+| 5 | 0% | 0% |  |
 
 

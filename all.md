@@ -5,8 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 30–36% <br> 16–20 | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 4–7 | 41–47% <br> 21–24 |
-| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 34–40% <br> 18–23 | N/A <br> N/A | 7–10% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 14–18% <br> 7–10 | 28–34% <br> 15–19 |
+| [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 30–36% <br> 16–19 | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 5–7 | 41–47% <br> 21–26 |
+| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 34–40% <br> 19–22 | N/A <br> N/A | 7–10% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 14–18% <br> 7–10 | 28–34% <br> 16–19 |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 33–39% <br> 18–21 | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–7 | 29–35% <br> 16–19 |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 36–42% <br> 19–24 | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 8–11% <br> 4–6 | 31–37% <br> 17–21 |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 32–38% <br> 17–20 | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 3–5 | 29–35% <br> 15–19 |

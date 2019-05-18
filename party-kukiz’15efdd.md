@@ -167,7 +167,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 2 | 0–3 | 0–3 | 0–3 | 0–4 |

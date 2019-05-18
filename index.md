@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 60 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 36–44% <br> 20–24 | N/A <br> N/A | 2–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 4–14% <br> 0–7 | 26–40% <br> 14–22 |
+| N/A | [Poll Average](average.html) | 36–44% <br> 20–25 | N/A <br> N/A | 2–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 4–14% <br> 0–7 | 26–40% <br> 14–22 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 39–45% <br> 21–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 4–6 | 33–39% <br> 18–21 |
@@ -13,7 +13,6 @@ The table below lists the most recent polls (less than 60 days old) registered a
 | [1–23 April 2019](2019-04-23-CBMIndicator.html) | CBM Indicator <br> TVP1 | 40–42% <br> 22–24 | N/A <br> N/A | 5–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 8–10% <br> 4–5 | 37–39% <br> 20–23 |
 | [15–16 April 2019](2019-04-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 35–41% <br> 19–23 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–8 | 32–38% <br> 17–21 |
 | [4–11 April 2019](2019-04-11-CBOS.html) | CBOS | 38–44% <br> 21–25 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–3 | 24–30% <br> 13–17 |
-| [5–7 April 2019](2019-04-07-PolskaPress.html) | Polska Press | 40–42% <br> 22–23 | N/A <br> N/A | 6–7% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 7–8% <br> 3–4 | 37–39% <br> 21–22 |
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

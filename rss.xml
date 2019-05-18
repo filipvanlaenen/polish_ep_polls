@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 17 May 2019 20:07:24 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 10:38:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IBSP, 14–16 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 30.1–35.9%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 3.8–6.5%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 40.9–47.0%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 9.2–13.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP.png"
+        length="143881"
+        type="image/png"/>
+      <pubDate>Sat, 18 May 2019 10:17:46 +0200</pubDate>
+      <dc:date>2019-05-18T10:17:46.008696+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 10–15 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-15-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 34.2–40.0%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 6.5–9.8%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 28.3–33.9%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 13.9–18.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-15-SocialChanges.png"
+        length="151900"
+        type="image/png"/>
+      <pubDate>Sat, 18 May 2019 10:38:10 +0200</pubDate>
+      <dc:date>2019-05-18T10:38:10.939368+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by OPB Ariadna for WP, 10–13 May 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-13-OPBAriadna.html#seats</link>
@@ -499,6 +519,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-05-17T20:07:24.698685+02:00</dc:date>
+    <dc:date>2019-05-18T10:38:10.939368+02:00</dc:date>
   </channel>
 </rss>

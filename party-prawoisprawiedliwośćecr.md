@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 40.7% | 38.0–42.5% | 37.1–43.2% | 36.4–43.8% | 35.2–45.0% |
+| [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 32.9% | 31.1–34.9% | 30.5–35.4% | 30.1–35.9% | 29.2–36.8% |
+| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 37.0% | 35.2–39.0% | 34.6–39.5% | 34.2–40.0% | 33.3–41.0% |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 36.0% | 34.1–37.9% | 33.6–38.5% | 33.1–38.9% | 32.3–39.9% |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 39.1% | 37.1–41.1% | 36.6–41.7% | 36.1–42.2% | 35.2–43.1% |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 35.1% | 33.2–37.1% | 32.7–37.6% | 32.2–38.1% | 31.3–39.1% |
@@ -202,6 +204,8 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–24 | 20–24 | 20–24 | 19–25 |
+| [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 18 | 16–18 | 16–20 | 16–20 | 16–20 |
+| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 21 | 19–23 | 18–23 | 18–23 | 18–23 |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 21 | 20–23 | 20–23 | 19–24 | 19–24 |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 18 | 17–20 | 17–20 | 17–20 | 16–21 |

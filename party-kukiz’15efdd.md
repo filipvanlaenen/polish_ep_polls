@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 3.1–6.6% | 2.8–6.9% | 2.5–7.2% | 2.2–7.8% |
+| N/A | [Poll Average](average.html) | 5.0% | 3.0–6.5% | 2.7–6.9% | 2.5–7.2% | 2.1–7.8% |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.5% | 3.5–7.0% |
@@ -147,14 +147,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 14% | 97% |  |
-| 3.5–4.5% | 14% | 83% |  |
-| 4.5–5.5% | 27% | 69% | Median |
-| 5.5–6.5% | 31% | 43% |  |
-| 6.5–7.5% | 11% | 12% |  |
-| 7.5–8.5% | 0.9% | 0.9% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 17% | 97% |  |
+| 3.5–4.5% | 17% | 80% |  |
+| 4.5–5.5% | 32% | 63% | Median |
+| 5.5–6.5% | 21% | 31% |  |
+| 6.5–7.5% | 9% | 10% |  |
+| 7.5–8.5% | 1.1% | 1.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -165,7 +166,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -302,10 +303,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 42% | 100% | Last Result |
-| 1 | 0% | 58% |  |
-| 2 | 10% | 58% | Median |
-| 3 | 45% | 47% |  |
+| 0 | 51% | 100% | Last Result, Median |
+| 1 | 0% | 49% |  |
+| 2 | 12% | 49% |  |
+| 3 | 34% | 37% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 

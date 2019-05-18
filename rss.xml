@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 May 2019 10:38:10 +0200</pubDate>
+    <pubDate>Sat, 18 May 2019 21:32:26 +0200</pubDate>
     <item>
       <title>Opinion Poll by IBSP, 14–16 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP.png"
         length="143881"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 10:17:46 +0200</pubDate>
-      <dc:date>2019-05-18T10:17:46.008696+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 21:04:04 +0200</pubDate>
+      <dc:date>2019-05-18T21:04:04.520347+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 10–15 May 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-15-SocialChanges.png"
         length="151900"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 10:38:10 +0200</pubDate>
-      <dc:date>2019-05-18T10:38:10.939368+02:00</dc:date>
+      <pubDate>Sat, 18 May 2019 21:32:26 +0200</pubDate>
+      <dc:date>2019-05-18T21:32:26.347688+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OPB Ariadna for WP, 10–13 May 2019 – Seat Projections for the Parties</title>
@@ -519,6 +519,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-05-18T10:38:10.939368+02:00</dc:date>
+    <dc:date>2019-05-18T21:32:26.347688+02:00</dc:date>
   </channel>
 </rss>

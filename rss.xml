@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 18 May 2019 21:32:26 +0200</pubDate>
+    <pubDate>Sun, 19 May 2019 20:52:17 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by IBSP, 14–16 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 16–19 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 0–3 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 2–4 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 21–25 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 4–7 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP-seats.png"
+        length="126741"
+        type="image/png"/>
+      <pubDate>Sun, 19 May 2019 18:19:30 +0200</pubDate>
+      <dc:date>2019-05-19T18:19:30.093682+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBSP, 14–16 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP-coalitions-seats.png"
+        length="103739"
+        type="image/png"/>
+      <pubDate>Sun, 19 May 2019 18:19:30 +0200</pubDate>
+      <dc:date>2019-05-19T18:19:30.093682+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IBSP, 14–16 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-IBSP.png"
         length="143881"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 21:04:04 +0200</pubDate>
-      <dc:date>2019-05-18T21:04:04.520347+02:00</dc:date>
+      <pubDate>Sun, 19 May 2019 18:19:30 +0200</pubDate>
+      <dc:date>2019-05-19T18:19:30.093682+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 10–15 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-15-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 19–22 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 3–5 seats&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 0–2 seats&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 16–19 seats&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 7–10 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-15-SocialChanges-seats.png"
+        length="132771"
+        type="image/png"/>
+      <pubDate>Sun, 19 May 2019 20:09:08 +0200</pubDate>
+      <dc:date>2019-05-19T20:09:08.39055+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 10–15 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-15-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-15-SocialChanges-coalitions-seats.png"
+        length="109495"
+        type="image/png"/>
+      <pubDate>Sun, 19 May 2019 20:09:08 +0200</pubDate>
+      <dc:date>2019-05-19T20:09:08.39055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 10–15 May 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-15-SocialChanges.png"
         length="151900"
         type="image/png"/>
-      <pubDate>Sat, 18 May 2019 21:32:26 +0200</pubDate>
-      <dc:date>2019-05-18T21:32:26.347688+02:00</dc:date>
+      <pubDate>Sun, 19 May 2019 20:09:08 +0200</pubDate>
+      <dc:date>2019-05-19T20:09:08.39055+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OPB Ariadna for WP, 10–13 May 2019 – Seat Projections for the Parties</title>
@@ -96,8 +136,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-11-CBMIndicator.png"
         length="133264"
         type="image/png"/>
-      <pubDate>Fri, 17 May 2019 11:21:24 +0200</pubDate>
-      <dc:date>2019-05-17T11:21:24.518991+02:00</dc:date>
+      <pubDate>Sun, 19 May 2019 20:52:17 +0200</pubDate>
+      <dc:date>2019-05-19T20:52:17.922765+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 8–10 May 2019 – Voting Intentions</title>
@@ -519,6 +559,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-05-18T21:32:26.347688+02:00</dc:date>
+    <dc:date>2019-05-19T20:52:17.922765+02:00</dc:date>
   </channel>
 </rss>

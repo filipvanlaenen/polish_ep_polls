@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.4% | 5.1–12.7% | 4.7–13.3% | 4.4–13.7% | 3.9–14.5% |
+| N/A | [Poll Average](average.html) | 10.5% | 5.5–15.0% | 4.9–16.0% | 4.5–16.6% | 4.0–17.7% |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.9–18.4% | 13.3–19.1% |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 12.0% | 10.8–13.3% | 10.4–13.7% | 10.1–14.1% | 9.6–14.8% |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [8–10 May 2019](2019-05-10-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
-| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 12.3% | N/A | N/A | N/A | N/A |
-| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu | 10.6% | N/A | N/A | N/A | N/A |
-| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 15.5% | N/A | N/A | N/A | N/A |
-| [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | 10.6% | N/A | N/A | N/A | N/A |
+| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 12.3% | 11.0–13.7% | 10.7–14.1% | 10.4–14.4% | 9.8–15.2% |
+| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu | 10.6% | 10.3–11.0% | 10.2–11.1% | 10.1–11.2% | 9.9–11.4% |
+| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 15.5% | 14.2–17.0% | 13.8–17.5% | 13.5–17.8% | 12.8–18.6% |
+| [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | 10.6% | 9.5–12.0% | 9.1–12.3% | 8.9–12.7% | 8.3–13.4% |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 9.0% | 8.0–10.2% | 7.7–10.5% | 7.4–10.9% | 7.0–11.4% |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.2% | 9.6–14.9% |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.9–18.4% | 13.3–19.1% |
@@ -149,19 +149,23 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 11% | 96% |  |
-| 5.5–6.5% | 5% | 85% |  |
-| 6.5–7.5% | 1.1% | 81% |  |
-| 7.5–8.5% | 7% | 79% |  |
-| 8.5–9.5% | 26% | 73% | Median |
-| 9.5–10.5% | 8% | 47% |  |
-| 10.5–11.5% | 11% | 38% |  |
-| 11.5–12.5% | 15% | 27% |  |
-| 12.5–13.5% | 9% | 13% |  |
-| 13.5–14.5% | 3% | 3% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 8% | 97% |  |
+| 5.5–6.5% | 4% | 90% |  |
+| 6.5–7.5% | 0.8% | 86% |  |
+| 7.5–8.5% | 5% | 85% |  |
+| 8.5–9.5% | 20% | 80% |  |
+| 9.5–10.5% | 11% | 60% |  |
+| 10.5–11.5% | 13% | 50% | Median |
+| 11.5–12.5% | 13% | 37% |  |
+| 12.5–13.5% | 8% | 24% |  |
+| 13.5–14.5% | 4% | 16% |  |
+| 14.5–15.5% | 5% | 12% |  |
+| 15.5–16.5% | 5% | 7% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.5% | 0.6% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -172,17 +176,17 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–7 | 0–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 3–8 | 0–9 | 0–9 | 0–10 |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [8–10 May 2019](2019-05-10-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP |  |  |  |  |  |
-| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu |  |  |  |  |  |
-| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes |  |  |  |  |  |
-| [29–30 April 2019](2019-04-30-Estymator.html) | Estymator |  |  |  |  |  |
+| [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu | 5 | 5 | 5 | 5 | 5 |
+| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [23–26 April 2019](2019-04-26-IBSP.html) | IBSP | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 8 | 8–9 | 7–9 | 7–10 | 7–10 |
@@ -309,15 +313,17 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 0% | 91% |  |
-| 2 | 4% | 91% |  |
-| 3 | 7% | 87% |  |
-| 4 | 12% | 80% |  |
-| 5 | 31% | 68% | Median |
-| 6 | 24% | 36% |  |
-| 7 | 12% | 13% |  |
-| 8 | 0.9% | 0.9% |  |
-| 9 | 0% | 0% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 0% | 94% |  |
+| 2 | 3% | 94% |  |
+| 3 | 5% | 91% |  |
+| 4 | 9% | 86% |  |
+| 5 | 30% | 76% | Median |
+| 6 | 23% | 47% |  |
+| 7 | 10% | 24% |  |
+| 8 | 8% | 14% |  |
+| 9 | 5% | 5% |  |
+| 10 | 0.6% | 0.6% |  |
+| 11 | 0% | 0% |  |
 
 

@@ -26,11 +26,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 22 | 22 |22 |22 |22–23 |
-| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 20 | 20 |20 |19–20 |19–21 |
-| <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | 5 | 5 |5 |5 |5 |
-| <a href="#korwin-(efdd)">KORWiN (EFDD)</a> | 0 | 2 | 2 |2–3 |2–3 |2–3 |
-| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 2 | 2 |2 |0–2 |0–2 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 22 | 22–23 |22–23 |21–23 |21–24 |
+| <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | 20 | 19–20 |19–20 |19–21 |19–21 |
+| <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | 5 | 5–6 |5–6 |5–6 |5–6 |
+| <a href="#korwin-(efdd)">KORWiN (EFDD)</a> | 0 | 3 | 2–3 |2–3 |2–3 |0–3 |
+| <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 2 | 0–2 |0–2 |0–2 |0–3 |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -61,10 +61,10 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 97% | 99.9% | Median |
-| 23 | 2% | 2% |  |
-| 24 | 0.1% | 0.1% |  |
+| 21 | 4% | 100% |  |
+| 22 | 71% | 96% | Median |
+| 23 | 24% | 25% |  |
+| 24 | 0.9% | 0.9% |  |
 | 25 | 0% | 0% |  |
 
 ### Koalicja Europejska (EPP)
@@ -94,9 +94,9 @@
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 3% | 100% |  |
-| 20 | 97% | 97% | Median |
-| 21 | 0.7% | 0.7% |  |
+| 19 | 39% | 100% |  |
+| 20 | 58% | 61% | Median |
+| 21 | 3% | 3% |  |
 | 22 | 0% | 0% |  |
 
 ### Wiosna–Partia Razem (S&D)
@@ -112,8 +112,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 99.7% | 100% | Median |
-| 6 | 0.3% | 0.3% |  |
+| 5 | 81% | 100% | Median |
+| 6 | 19% | 19% |  |
 | 7 | 0% | 0% |  |
 
 ### KORWiN (EFDD)
@@ -124,10 +124,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 0% | 99.7% |  |
-| 2 | 94% | 99.7% | Median |
-| 3 | 5% | 5% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 0% | 99.3% |  |
+| 2 | 47% | 99.3% |  |
+| 3 | 53% | 53% | Median |
 | 4 | 0% | 0% |  |
 
 ### Kukiz’15 (EFDD)
@@ -138,10 +138,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 97% | 97% | Median |
-| 3 | 0.1% | 0.1% |  |
+| 0 | 30% | 100% | Last Result |
+| 1 | 0% | 70% |  |
+| 2 | 68% | 70% | Median |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -153,10 +153,10 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 22 | 0% | 22 | 22 | 22 | 22–23 |
-| Koalicja Europejska (EPP) | 0 | 20 | 0% | 20 | 20 | 19–20 | 19–21 |
-| Wiosna–Partia Razem (S&D) | 0 | 5 | 0% | 5 | 5 | 5 | 5 |
-| KORWiN (EFDD) – Kukiz’15 (EFDD) | 0 | 4 | 0% | 4 | 4 | 3–5 | 3–5 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 22 | 0% | 22–23 | 22–23 | 21–23 | 21–24 |
+| Koalicja Europejska (EPP) | 0 | 20 | 0% | 19–20 | 19–20 | 19–21 | 19–21 |
+| Wiosna–Partia Razem (S&D) | 0 | 5 | 0% | 5–6 | 5–6 | 5–6 | 5–6 |
+| KORWiN (EFDD) – Kukiz’15 (EFDD) | 0 | 4 | 0% | 3–5 | 2–5 | 2–5 | 2–5 |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -185,10 +185,10 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 97% | 99.9% | Median |
-| 23 | 2% | 2% |  |
-| 24 | 0.1% | 0.1% |  |
+| 21 | 4% | 100% |  |
+| 22 | 71% | 96% | Median |
+| 23 | 24% | 25% |  |
+| 24 | 0.9% | 0.9% |  |
 | 25 | 0% | 0% |  |
 
 ### Koalicja Europejska (EPP)
@@ -216,9 +216,9 @@
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 3% | 100% |  |
-| 20 | 97% | 97% | Median |
-| 21 | 0.7% | 0.7% |  |
+| 19 | 39% | 100% |  |
+| 20 | 58% | 61% | Median |
+| 21 | 3% | 3% |  |
 | 22 | 0% | 0% |  |
 
 ### Wiosna–Partia Razem (S&D)
@@ -232,8 +232,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 99.7% | 100% | Median |
-| 6 | 0.3% | 0.3% |  |
+| 5 | 81% | 100% | Median |
+| 6 | 19% | 19% |  |
 | 7 | 0% | 0% |  |
 
 ### KORWiN (EFDD) – Kukiz’15 (EFDD)
@@ -242,13 +242,14 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0.2% | 99.9% |  |
-| 3 | 3% | 99.7% |  |
-| 4 | 94% | 97% | Median |
-| 5 | 3% | 3% |  |
-| 6 | 0% | 0% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 0% | 99.7% |  |
+| 2 | 8% | 99.7% |  |
+| 3 | 22% | 92% |  |
+| 4 | 37% | 70% |  |
+| 5 | 32% | 33% | Median |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -262,6 +263,6 @@
 ### Calculations
 
 + **Sample size:** 12000
-+ **Simulations done:** 1,024
-+ **Error estimate:** 0.88%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.43%
 

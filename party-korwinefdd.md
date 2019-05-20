@@ -173,7 +173,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 |  |  |  |  |  |
 | [8–10 May 2019](2019-05-10-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [7–9 May 2019](2019-05-09-IBSP.html) | IBSP | 0 | 0 | 0 | 0 | 0 |
-| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [17 April–6 May 2019](2019-05-06-ewyboryeu.html) | ewybory.eu | 3 | 2–3 | 2–3 | 2–3 | 0–3 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | 0 | 0 | 0 | 0–2 | 0–3 |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 2 | 0–3 | 0–3 | 0–3 | 0–3 |

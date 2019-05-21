@@ -5,7 +5,7 @@ The table below lists the most recent polls (less than 60 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 35–44% <br> 19–25 | N/A <br> N/A | 3–9% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 4–17% <br> 0–9 | 26–40% <br> 14–22 |
+| N/A | [Poll Average](average.html) | 35–44% <br> 19–24 | N/A <br> N/A | 3–9% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 4–17% <br> 0–9 | 26–40% <br> 14–22 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 34–40% <br> 19–22 | N/A <br> N/A | 7–10% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 7–10 | 30–35% <br> 16–19 |
 | [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | 39–45% <br> 21–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 4–7 | 34–40% <br> 18–22 |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 39–45% <br> 21–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 4–6 | 33–39% <br> 18–21 |

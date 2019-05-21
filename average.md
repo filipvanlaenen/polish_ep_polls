@@ -9,7 +9,7 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 35–44% <br> 19–25 | N/A <br> N/A | 3–9% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 4–17% <br> 0–9 | 26–40% <br> 14–22 |
+| N/A | Poll Average | 35–44% <br> 19–24 | N/A <br> N/A | 3–9% <br> 0–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 4–17% <br> 0–9 | 26–40% <br> 14–22 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 34–40% <br> 19–22 | N/A <br> N/A | 7–10% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | 13–18% <br> 7–10 | 30–35% <br> 16–19 |
 | [29–30 April 2019](2019-04-30-Estymator.html) | Estymator | 39–45% <br> 21–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 4–7 | 34–40% <br> 18–22 |
 | [26–27 April 2019](2019-04-27-IBRiS.html) | IBRiS <br> Radio ZET | 39–45% <br> 21–25 | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 4–6 | 33–39% <br> 18–21 |
@@ -239,7 +239,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 22 | 20–24 |20–24 | 19–25 | 19–25 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 22 | 20–24 |20–24 | 19–24 | 19–25 |
 | <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#kukiz’15-(efdd)">Kukiz’15 (EFDD)</a> | 0 | 3 | 0–4 |0–5 | 0–5 | 0–5 |
 | <a href="#.nowoczesna-(alde)">.Nowoczesna (ALDE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -284,7 +284,7 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 24% | 66% | Median |
 | 23 | 25% | 42% |  |
 | 24 | 15% | 17% |  |
-| 25 | 2% | 3% |  |
+| 25 | 2% | 2% |  |
 | 26 | 0.2% | 0.2% | Majority |
 | 27 | 0% | 0% |  |
 
@@ -384,7 +384,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 22 | 0.2% | 20–24 | 20–24 | 19–25 | 19–25 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 22 | 0.2% | 20–24 | 20–24 | 19–24 | 19–25 |
 | Koalicja Europejska (EPP) | 0 | 20 | 0% | 15–22 | 14–22 | 14–22 | 13–23 |
 | Wiosna–Partia Razem (S&D) | 0 | 5 | 0% | 3–8 | 0–9 | 0–9 | 0–10 |
 | KORWiN (EFDD) – Kukiz’15 (EFDD) | 0 | 3 | 0% | 0–5 | 0–6 | 0–6 | 0–6 |
@@ -420,7 +420,7 @@ Only polls for which at least the sample size has been published are included in
 | 22 | 24% | 66% | Median |
 | 23 | 25% | 42% |  |
 | 24 | 15% | 17% |  |
-| 25 | 2% | 3% |  |
+| 25 | 2% | 2% |  |
 | 26 | 0.2% | 0.2% | Majority |
 | 27 | 0% | 0% |  |
 
@@ -496,5 +496,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 7
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 5,898,240
++ **Total number of simulations done in the polls included in this average:** 6,422,528
 + **Error estimate:** 0.98%

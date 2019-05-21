@@ -204,7 +204,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–24 | 20–24 | 19–25 | 19–25 |
+| N/A | [Poll Average](average.html) | 22 | 20–24 | 20–24 | 19–24 | 19–25 |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 21 | 20–22 | 19–22 | 19–22 | 18–23 |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -366,7 +366,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 22 | 24% | 66% | Median |
 | 23 | 25% | 42% |  |
 | 24 | 15% | 17% |  |
-| 25 | 2% | 3% |  |
+| 25 | 2% | 2% |  |
 | 26 | 0.2% | 0.2% | Majority |
 | 27 | 0% | 0% |  |
 

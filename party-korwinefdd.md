@@ -11,8 +11,12 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.8% | 2.2–6.0% | 1.9–6.4% | 1.7–6.8% | 1.3–7.5% |
+| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 8.3% | N/A | N/A | N/A | N/A |
+| [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 4.9% | N/A | N/A | N/A | N/A |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
+| [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 4.8% | N/A | N/A | N/A | N/A |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 6.9% | N/A | N/A | N/A | N/A |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 0.0% | N/A | N/A | N/A | N/A |
@@ -166,8 +170,12 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
+| [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [15–16 May 2019](2019-05-16-Estymator.html) | Estymator |  |  |  |  |  |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 0 | 0 | 0–2 | 0–2 | 0–3 |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 0 | 0 | 0 | 0 | 0 |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 |  |  |  |  |  |

@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.5% | 5.5–15.0% | 4.9–16.0% | 4.5–16.6% | 4.0–17.7% |
-| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 11.4% | N/A | N/A | N/A | N/A |
+| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.1–14.3% |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 12.0% | N/A | N/A | N/A | N/A |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 10.7% | N/A | N/A | N/A | N/A |
@@ -181,7 +181,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–8 | 0–9 | 0–9 | 0–10 |
-| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
+| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 5 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator |  |  |  |  |  |

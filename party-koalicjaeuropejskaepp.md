@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 35.9% | 27.7–38.6% | 26.5–39.2% | 25.8–39.7% | 24.6–40.9% |
-| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 37.5% | N/A | N/A | N/A | N/A |
+| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 37.5% | 35.5–39.5% | 35.0–40.0% | 34.5–40.5% | 33.6–41.5% |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 37.1% | N/A | N/A | N/A | N/A |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 43.9% | 42.0–46.0% | 41.4–46.5% | 40.9–47.0% | 40.0–48.0% |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 38.5% | N/A | N/A | N/A | N/A |
@@ -204,7 +204,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 15–22 | 14–22 | 14–22 | 13–23 |
-| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
+| [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 21 | 20–21 | 19–22 | 19–22 | 19–22 |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press |  |  |  |  |  |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator |  |  |  |  |  |

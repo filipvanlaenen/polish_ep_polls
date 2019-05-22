@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 21 May 2019 21:16:43 +0200</pubDate>
+    <pubDate>Wed, 22 May 2019 23:58:14 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for Gazeta Wyborcza, 16–19 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-19-KantarMillwardBrown.html</link>
@@ -16,8 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-19-KantarMillwardBrown.png"
         length="152809"
         type="image/png"/>
-      <pubDate>Tue, 21 May 2019 21:16:43 +0200</pubDate>
-      <dc:date>2019-05-21T21:16:43.689717+02:00</dc:date>
+      <pubDate>Wed, 22 May 2019 23:44:12 +0200</pubDate>
+      <dc:date>2019-05-22T23:44:12.223193+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polska Press, 13–16 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-PolskaPress.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 37.5–39.9%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 5.8–7.0%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 4.4–5.5%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 35.9–38.3%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 11.2–12.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-PolskaPress.png"
+        length="127836"
+        type="image/png"/>
+      <pubDate>Wed, 22 May 2019 23:50:18 +0200</pubDate>
+      <dc:date>2019-05-22T23:50:18.067479+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBSP, 14–16 May 2019 – Seat Projections for the Parties</title>
@@ -48,6 +58,16 @@
         type="image/png"/>
       <pubDate>Sun, 19 May 2019 18:19:30 +0200</pubDate>
       <dc:date>2019-05-19T18:19:30.093682+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator, 15–16 May 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 37.3–43.3%&lt;/li&gt;&lt;li&gt;Kukiz’15 (EFDD): 3.9–6.7%&lt;/li&gt;&lt;li&gt;KORWiN (EFDD): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Koalicja Europejska (EPP): 35.5–41.5%&lt;/li&gt;&lt;li&gt;Wiosna–Partia Razem (S&amp;amp;D): 8.9–12.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-16-Estymator.png"
+        length="148079"
+        type="image/png"/>
+      <pubDate>Wed, 22 May 2019 23:58:14 +0200</pubDate>
+      <dc:date>2019-05-22T23:58:14.287029+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 10–15 May 2019 – Seat Projections for the Parties</title>
@@ -689,6 +709,6 @@
       <pubDate>Fri, 19 Apr 2019 18:01:21 +0200</pubDate>
       <dc:date>2019-04-19T18:01:21.15639+02:00</dc:date>
     </item>
-    <dc:date>2019-05-21T21:16:43.689717+02:00</dc:date>
+    <dc:date>2019-05-22T23:58:14.287029+02:00</dc:date>
   </channel>
 </rss>

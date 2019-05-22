@@ -12,9 +12,9 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.4% | 3.2–8.1% | 2.8–8.9% | 2.6–9.4% | 2.2–10.2% |
 | [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
-| [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 6.4% | 6.0–6.8% | 5.9–7.0% | 5.8–7.0% | 5.6–7.2% |
+| [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 6.4% | 6.0–6.8% | 5.9–6.9% | 5.8–7.0% | 5.7–7.2% |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
-| [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 5.1% | N/A | N/A | N/A | N/A |
+| [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 5.1% | 4.3–6.2% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 5.0% | N/A | N/A | N/A | N/A |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 5.0% | 4.3–6.0% | 4.0–6.3% | 3.9–6.5% | 3.5–7.0% |
@@ -174,9 +174,9 @@ Last result: **0** seats (General Election of 25 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
 | [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0 | 0 | 0 |
-| [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press |  |  |  |  |  |
+| [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 3 | 3 | 3 | 3 | 3–4 |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [15–16 May 2019](2019-05-16-Estymator.html) | Estymator |  |  |  |  |  |
+| [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 2 | 0–3 | 0–3 | 0–3 | 0–3 |

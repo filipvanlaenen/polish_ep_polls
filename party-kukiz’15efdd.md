@@ -12,7 +12,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.4% | 3.2–8.1% | 2.8–8.9% | 2.6–9.4% | 2.2–10.2% |
 | [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
-| [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 6.4% | N/A | N/A | N/A | N/A |
+| [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 6.4% | 6.0–6.8% | 5.9–7.0% | 5.8–7.0% | 5.6–7.2% |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 5.1% | N/A | N/A | N/A | N/A |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |

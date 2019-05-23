@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.8% | 2.2–6.0% | 1.9–6.4% | 1.7–6.8% | 1.3–7.5% |
+| N/A | [Poll Average](average.html) | 5.0% | 2.4–8.0% | 1.9–8.7% | 1.7–9.2% | 1.4–10.0% |
 | [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 8.3% | 7.3–9.6% | 7.0–9.9% | 6.8–10.2% | 6.3–10.9% |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 4.9% | 4.6–5.3% | 4.5–5.4% | 4.4–5.5% | 4.2–5.6% |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 6.9% | 6.0–8.1% | 5.7–8.4% | 5.5–8.7% | 5.1–9.3% |
@@ -150,15 +150,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 14% | 98% |  |
-| 2.5–3.5% | 30% | 84% |  |
-| 3.5–4.5% | 16% | 54% | Median |
-| 4.5–5.5% | 21% | 38% |  |
-| 5.5–6.5% | 13% | 17% |  |
-| 6.5–7.5% | 4% | 4% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 1.3% | 100% |  |
+| 1.5–2.5% | 9% | 98.7% |  |
+| 2.5–3.5% | 6% | 89% |  |
+| 3.5–4.5% | 19% | 83% |  |
+| 4.5–5.5% | 32% | 64% | Median |
+| 5.5–6.5% | 11% | 32% |  |
+| 6.5–7.5% | 8% | 21% |  |
+| 7.5–8.5% | 8% | 14% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 1.2% | 1.3% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -169,7 +172,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
@@ -310,11 +313,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 0% | 28% |  |
-| 2 | 9% | 28% |  |
-| 3 | 18% | 19% |  |
-| 4 | 0.9% | 0.9% |  |
-| 5 | 0% | 0% |  |
+| 0 | 50% | 100% | Last Result, Median |
+| 1 | 0% | 50% |  |
+| 2 | 15% | 50% |  |
+| 3 | 18% | 35% |  |
+| 4 | 12% | 16% |  |
+| 5 | 4% | 4% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 

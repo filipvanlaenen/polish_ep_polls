@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36.3% | 30.9–42.1% | 30.1–44.1% | 29.5–45.1% | 28.5–46.6% |
+| [22–23 May 2019](2019-05-23-IBRiS.html) | IBRiS | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.2–37.0% | 30.3–38.0% |
 | [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 37.5% | 35.5–39.5% | 35.0–40.0% | 34.5–40.5% | 33.6–41.5% |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 37.1% | 36.3–37.8% | 36.1–38.1% | 35.9–38.3% | 35.5–38.6% |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 43.9% | 42.0–46.0% | 41.4–46.5% | 40.9–47.0% | 40.0–48.0% |
@@ -210,6 +211,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–23 | 16–24 | 16–24 | 15–25 |
+| [22–23 May 2019](2019-05-23-IBRiS.html) | IBRiS | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 21 | 20–22 | 19–22 | 19–22 | 18–23 |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 20 | 19–21 | 19–21 | 19–21 | 19–21 |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
@@ -368,9 +370,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 1.3% | 99.9% |  |
 | 16 | 8% | 98.6% |  |
 | 17 | 15% | 91% |  |
-| 18 | 12% | 76% |  |
-| 19 | 14% | 63% | Median |
-| 20 | 21% | 49% |  |
+| 18 | 13% | 76% |  |
+| 19 | 14% | 62% | Median |
+| 20 | 20% | 49% |  |
 | 21 | 13% | 29% |  |
 | 22 | 6% | 16% |  |
 | 23 | 5% | 10% |  |

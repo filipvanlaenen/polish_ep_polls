@@ -286,7 +286,7 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 6% | 98% |  |
 | 18 | 12% | 92% |  |
 | 19 | 16% | 81% |  |
-| 20 | 22% | 65% | Median |
+| 20 | 21% | 64% | Median |
 | 21 | 20% | 43% |  |
 | 22 | 17% | 23% |  |
 | 23 | 6% | 7% |  |
@@ -354,7 +354,7 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 8% | 98.6% |  |
 | 17 | 15% | 91% |  |
 | 18 | 13% | 76% |  |
-| 19 | 14% | 62% | Median |
+| 19 | 14% | 63% | Median |
 | 20 | 20% | 49% |  |
 | 21 | 13% | 29% |  |
 | 22 | 6% | 16% |  |
@@ -378,7 +378,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 1.3% | 100% |  |
 | 4 | 9% | 98.7% |  |
 | 5 | 29% | 90% |  |
-| 6 | 42% | 61% | Median |
+| 6 | 41% | 61% | Median |
 | 7 | 8% | 19% |  |
 | 8 | 4% | 11% |  |
 | 9 | 5% | 7% |  |
@@ -424,7 +424,7 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 8% | 98.6% |  |
 | 17 | 15% | 91% |  |
 | 18 | 13% | 76% |  |
-| 19 | 14% | 62% | Median |
+| 19 | 14% | 63% | Median |
 | 20 | 20% | 49% |  |
 | 21 | 13% | 29% |  |
 | 22 | 6% | 16% |  |
@@ -460,7 +460,7 @@ Only polls for which at least the sample size has been published are included in
 | 17 | 6% | 98% |  |
 | 18 | 12% | 92% |  |
 | 19 | 16% | 81% |  |
-| 20 | 22% | 65% | Median |
+| 20 | 21% | 64% | Median |
 | 21 | 20% | 43% |  |
 | 22 | 17% | 23% |  |
 | 23 | 6% | 7% |  |
@@ -480,7 +480,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 1.3% | 100% |  |
 | 4 | 9% | 98.7% |  |
 | 5 | 29% | 90% |  |
-| 6 | 42% | 61% | Median |
+| 6 | 41% | 61% | Median |
 | 7 | 8% | 19% |  |
 | 8 | 4% | 11% |  |
 | 9 | 5% | 7% |  |
@@ -507,6 +507,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 9
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 8,519,680
-+ **Error estimate:** 0.59%
++ **Lowest number of simulations done in a poll included in this average:** 524,288
++ **Total number of simulations done in the polls included in this average:** 8,912,896
++ **Error estimate:** 0.81%

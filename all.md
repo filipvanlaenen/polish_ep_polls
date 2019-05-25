@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [22–23 May 2019](2019-05-23-IBRiS.html) | IBRiS | 33–39% <br> 18–21 | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 5–7 | 31–37% <br> 17–20 |
 | [16–19 May 2019](2019-05-19-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 34–40% <br> 18–22 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–7 | 35–41% <br> 19–22 |
 | [13–16 May 2019](2019-05-16-PolskaPress.html) | Polska Press | 37–40% <br> 20–22 | N/A <br> N/A | 6–7% <br> 3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 11–13% <br> 6–7 | 36–38% <br> 19–21 |
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 30–36% <br> 16–19 | N/A <br> N/A | 4–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 4–7 | 41–47% <br> 21–25 |

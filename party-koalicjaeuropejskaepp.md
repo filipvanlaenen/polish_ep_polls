@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 43.9% | 42.0–46.0% | 41.4–46.5% | 40.9–47.0% | 40.0–48.0% |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 38.5% | 36.5–40.5% | 36.0–41.0% | 35.5–41.5% | 34.6–42.5% |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.3–33.9% | 27.5–34.8% |
-| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 28.6% | N/A | N/A | N/A | N/A |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 28.6% | 26.8–30.6% | 26.3–31.1% | 25.9–31.6% | 25.0–32.5% |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 32.0% | 30.2–33.9% | 29.7–34.4% | 29.2–34.9% | 28.4–35.8% |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
@@ -217,7 +217,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 21 | 20–22 | 19–23 | 19–23 | 18–24 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 16 | 14–16 | 14–16 | 14–16 | 13–19 |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 17 | 16–18 | 15–18 | 15–19 | 15–19 |

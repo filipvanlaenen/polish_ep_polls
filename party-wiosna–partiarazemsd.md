@@ -17,7 +17,7 @@ Last result: **0.0%** (General Election of 25 May 2014)
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.9–18.4% | 13.3–19.1% |
-| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 12.3% | N/A | N/A | N/A | N/A |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 12.3% | 11.0–13.8% | 10.7–14.2% | 10.4–14.5% | 9.8–15.3% |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 12.0% | 10.8–13.3% | 10.4–13.7% | 10.1–14.1% | 9.6–14.8% |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
@@ -188,7 +188,7 @@ Last result: **0** seats (General Election of 25 May 2014)
 | [14–16 May 2019](2019-05-16-IBSP.html) | IBSP | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [15–16 May 2019](2019-05-16-Estymator.html) | Estymator | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
-| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
 | [10–13 May 2019](2019-05-13-OPBAriadna.html) | OPB Ariadna <br> WP | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [12 May 2019](2019-05-12-IBRiS.html) | IBRiS | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [9–11 May 2019](2019-05-11-CBMIndicator.html) | CBM Indicator <br> TVP1 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |

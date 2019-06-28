@@ -5,10 +5,10 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 38–52% <br> 24–32 | 18–27% <br> 11–16 | 3–11% <br> 0–6 | 1–5% <br> 0–3 | 3–6% <br> 0–3 | 2–7% <br> 0–3 | 1–4% <br> 0 | 0–3% <br> 0 | 7–11% <br> 4–5 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 38–52% <br> 23–32 | 18–27% <br> 10–16 | 3–11% <br> 0–6 | 1–5% <br> 0–3 | 3–6% <br> 0–3 | 2–7% <br> 0–4 | 1–4% <br> 0 | 0–3% <br> 0 | 7–11% <br> 4–6 | N/A <br> N/A | N/A <br> N/A |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 46–52% <br> 29–33 | 22–27% <br> 14–17 | 3–6% <br> 0–3 | 1–2% <br> 0 | 2–5% <br> 0 | 2–3% <br> 0 | 2–5% <br> 0 | 0–1% <br> 0 | 6–10% <br> 4–5 | N/A <br> N/A | N/A <br> N/A |
-| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 38–44% <br> 24–25 | 17–22% <br> 11–12 | 2–5% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0 | 5–8% <br> 3–4 | 1–3% <br> 0 | 1–3% <br> 0 | 7–11% <br> 5 | N/A <br> N/A | N/A <br> N/A |
-| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 39–45% <br> 23–26 | 20–25% <br> 12–15 | 8–11% <br> 4–6 | 3–5% <br> 0–3 | 4–7% <br> 0–3 | 2–4% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | 7–11% <br> 4–5 | N/A <br> N/A | N/A <br> N/A |
+| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 38–44% <br> 22–27 | 17–22% <br> 9–12 | 2–5% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–3 | 5–8% <br> 0–4 | 1–3% <br> 0 | 1–3% <br> 0 | 7–11% <br> 4–6 | N/A <br> N/A | N/A <br> N/A |
+| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 39–45% <br> 23–27 | 20–25% <br> 12–15 | 8–11% <br> 4–6 | 3–5% <br> 0–3 | 4–7% <br> 0–3 | 2–4% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | 7–11% <br> 4–6 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

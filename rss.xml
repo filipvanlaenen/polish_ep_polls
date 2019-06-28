@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 27 Jun 2019 20:06:26 +0200</pubDate>
+    <pubDate>Thu, 27 Jun 2019 23:04:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by CBOS, 6–13 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS.png"
         length="217803"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 19:13:28 +0200</pubDate>
-      <dc:date>2019-06-27T19:13:28.599598+02:00</dc:date>
+      <pubDate>Thu, 27 Jun 2019 23:04:39 +0200</pubDate>
+      <dc:date>2019-06-27T23:04:39.101935+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 31 May–5 June 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-05-SocialChanges.png"
         length="220472"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 19:35:29 +0200</pubDate>
-      <dc:date>2019-06-27T19:35:29.952332+02:00</dc:date>
+      <pubDate>Thu, 27 Jun 2019 22:57:15 +0200</pubDate>
+      <dc:date>2019-06-27T22:57:15.00335+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 24–29 May 2019 – Voting Intentions</title>
@@ -46,9 +46,9 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-29-SocialChanges.png"
         length="223297"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 20:06:26 +0200</pubDate>
-      <dc:date>2019-06-27T20:06:26.157968+02:00</dc:date>
+      <pubDate>Thu, 27 Jun 2019 22:59:28 +0200</pubDate>
+      <dc:date>2019-06-27T22:59:28.574085+02:00</dc:date>
     </item>
-    <dc:date>2019-06-27T20:06:26.157968+02:00</dc:date>
+    <dc:date>2019-06-27T23:04:39.101935+02:00</dc:date>
   </channel>
 </rss>

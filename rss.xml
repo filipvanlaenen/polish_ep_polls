@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 29 Jun 2019 12:45:08 +0200</pubDate>
+    <pubDate>Sat, 29 Jun 2019 20:03:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by CBOS, 6–13 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 28–33 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 13–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 0–3 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS-seats.png"
+        length="172395"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 19:23:24 +0200</pubDate>
+      <dc:date>2019-06-29T19:23:24.272506+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 6–13 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS-coalitions-seats.png"
+        length="102984"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 19:23:24 +0200</pubDate>
+      <dc:date>2019-06-29T19:23:24.272506+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by CBOS, 6–13 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.png"
         length="208987"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 12:18:44 +0200</pubDate>
-      <dc:date>2019-06-29T12:18:44.286123+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 19:23:24 +0200</pubDate>
+      <dc:date>2019-06-29T19:23:24.272506+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 22–27 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 9–13 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 0 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS-seats.png"
+        length="210403"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 19:39:46 +0200</pubDate>
+      <dc:date>2019-06-29T19:39:46.859158+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS-coalitions-seats.png"
+        length="115252"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 19:39:46 +0200</pubDate>
+      <dc:date>2019-06-29T19:39:46.859158+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 June 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS.png"
         length="217803"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 12:31:47 +0200</pubDate>
-      <dc:date>2019-06-29T12:31:47.168682+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 19:39:46 +0200</pubDate>
+      <dc:date>2019-06-29T19:39:46.859158+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 31 May–5 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-05-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 23–28 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 4–6 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-05-SocialChanges-seats.png"
+        length="202716"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 20:03:20 +0200</pubDate>
+      <dc:date>2019-06-29T20:03:20.882752+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 31 May–5 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-05-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-05-SocialChanges-coalitions-seats.png"
+        length="117362"
+        type="image/png"/>
+      <pubDate>Sat, 29 Jun 2019 20:03:20 +0200</pubDate>
+      <dc:date>2019-06-29T20:03:20.882752+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 31 May–5 June 2019 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-05-SocialChanges.png"
         length="220472"
         type="image/png"/>
-      <pubDate>Sat, 29 Jun 2019 12:45:08 +0200</pubDate>
-      <dc:date>2019-06-29T12:45:08.32971+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 20:03:20 +0200</pubDate>
+      <dc:date>2019-06-29T20:03:20.882752+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 24–29 May 2019 – Voting Intentions</title>
@@ -49,6 +109,6 @@
       <pubDate>Thu, 27 Jun 2019 22:59:28 +0200</pubDate>
       <dc:date>2019-06-27T22:59:28.574085+02:00</dc:date>
     </item>
-    <dc:date>2019-06-29T12:45:08.32971+02:00</dc:date>
+    <dc:date>2019-06-29T20:03:20.882752+02:00</dc:date>
   </channel>
 </rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name>Filip van Laenen</name>
+  </author>
+  <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
+  <title>All Registered Polls for the European Parliament</title>
+  <updated>2019-06-29T20:03:20.882752+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 46.4–52.3%, 28–33 seats</li><li>Platforma Obywatelska (EPP): 22.2–27.3%, 13–17 seats</li><li>Kukiz’15 (NI): 3.4–5.9%, 0–3 seats</li><li>.Nowoczesna (RE): 0.6–1.9%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 2.4–4.5%, 0 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 1.5–3.3%, 0 seats</li><li>Wiosna (S&amp;D): 6.4–9.5%, 4–6 seats</li><li>KORWiN (NI): 2.4–4.5%, 0 seats</li><li>Partia Razem (*): 0.1–0.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.html"/>
+    <title>Opinion Poll by CBOS, 6–13 June 2019</title>
+    <updated>2019-06-29T19:23:24.272506+02:00</updated>
+    <dc:date>2019-06-29T19:23:24.272506+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 37.9–43.8%, 22–27 seats</li><li>Platforma Obywatelska (EPP): 16.9–21.5%, 9–13 seats</li><li>Kukiz’15 (NI): 2.4–4.6%, 0 seats</li><li>.Nowoczesna (RE): 1.0–2.6%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 3.9–6.6%, 0–3 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 4.7–7.6%, 0–4 seats</li><li>Wiosna (S&amp;D): 7.3–10.7%, 4–6 seats</li><li>KORWiN (NI): 1.4–3.1%, 0 seats</li><li>Partia Razem (*): 1.1–2.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 June 2019</title>
+    <updated>2019-06-29T19:39:46.859158+02:00</updated>
+    <dc:date>2019-06-29T19:39:46.859158+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 38.5–44.5%, 23–28 seats</li><li>Platforma Obywatelska (EPP): 20.0–25.1%, 12–15 seats</li><li>Kukiz’15 (NI): 7.7–11.2%, 4–6 seats</li><li>.Nowoczesna (RE): 3.0–5.5%, 0–3 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 3.9–6.5%, 0–3 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 2.1–4.2%, 0 seats</li><li>Wiosna (S&amp;D): 7.3–10.8%, 4–6 seats</li><li>KORWiN (NI): 1.2–3.0%, 0 seats</li><li>Partia Razem (*): 1.5–3.3%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-05-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-05-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes, 31 May–5 June 2019</title>
+    <updated>2019-06-29T20:03:20.882752+02:00</updated>
+    <dc:date>2019-06-29T20:03:20.882752+02:00</dc:date>
+  </entry>
+  <dc:date>2019-06-29T20:03:20.882752+02:00</dc:date>
+</feed>

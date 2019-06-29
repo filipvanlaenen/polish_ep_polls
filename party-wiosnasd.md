@@ -46,9 +46,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 5 | 5–6 | 5–6 | 4–6 | 4–6 |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 
@@ -63,9 +63,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.5% | 100% |  |
-| 4 | 33% | 99.5% |  |
-| 5 | 59% | 67% | Median |
+| 3 | 0.6% | 100% |  |
+| 4 | 26% | 99.4% |  |
+| 5 | 65% | 73% | Median |
 | 6 | 8% | 8% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

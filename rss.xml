@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 27 Jun 2019 23:04:39 +0200</pubDate>
+    <pubDate>Sat, 29 Jun 2019 12:31:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by CBOS, 6–13 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-13-CBOS.png"
         length="208987"
         type="image/png"/>
-      <pubDate>Wed, 26 Jun 2019 06:58:06 +0200</pubDate>
-      <dc:date>2019-06-26T06:58:06.557955+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 12:18:44 +0200</pubDate>
+      <dc:date>2019-06-29T12:18:44.286123+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 June 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-06-08-IBRiS.png"
         length="217803"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 23:04:39 +0200</pubDate>
-      <dc:date>2019-06-27T23:04:39.101935+02:00</dc:date>
+      <pubDate>Sat, 29 Jun 2019 12:31:47 +0200</pubDate>
+      <dc:date>2019-06-29T12:31:47.168682+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 31 May–5 June 2019 – Voting Intentions</title>
@@ -49,6 +49,6 @@
       <pubDate>Thu, 27 Jun 2019 22:59:28 +0200</pubDate>
       <dc:date>2019-06-27T22:59:28.574085+02:00</dc:date>
     </item>
-    <dc:date>2019-06-27T23:04:39.101935+02:00</dc:date>
+    <dc:date>2019-06-29T12:31:47.168682+02:00</dc:date>
   </channel>
 </rss>

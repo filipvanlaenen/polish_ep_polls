@@ -73,8 +73,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 14 | 11–16 | 11–16 | 11–17 | 10–17 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 11 | 11–13 | 10–13 | 10–13 | 9–14 |
-| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 15 | 13–16 | 13–17 | 13–17 | 12–18 |
-| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 13 | 13–14 | 13–15 | 12–15 | 12–16 |
+| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
+| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 13–16 | 12–16 | 12–17 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11 | 10–12 | 10–12 | 9–13 | 9–13 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
@@ -101,12 +101,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 2% | 99.9% |  |
 | 11 | 11% | 98% |  |
 | 12 | 9% | 87% |  |
-| 13 | 18% | 78% |  |
-| 14 | 21% | 60% | Median |
-| 15 | 23% | 39% |  |
-| 16 | 13% | 16% |  |
-| 17 | 3% | 4% |  |
-| 18 | 0.3% | 0.4% |  |
+| 13 | 14% | 78% |  |
+| 14 | 22% | 64% | Median |
+| 15 | 24% | 41% |  |
+| 16 | 14% | 18% |  |
+| 17 | 4% | 4% |  |
+| 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
 
 

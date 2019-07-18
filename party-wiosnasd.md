@@ -52,9 +52,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
-| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0–3 |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 3 | 3–4 | 3–4 | 2–4 | 0–5 |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
@@ -72,10 +72,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 0% | 52% |  |
-| 2 | 1.1% | 52% |  |
-| 3 | 29% | 51% | Median |
+| 0 | 46% | 100% | Last Result |
+| 1 | 0% | 54% |  |
+| 2 | 1.5% | 54% |  |
+| 3 | 30% | 52% | Median |
 | 4 | 17% | 22% |  |
 | 5 | 5% | 5% |  |
 | 6 | 0.4% | 0.4% |  |

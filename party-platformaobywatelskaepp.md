@@ -73,10 +73,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–17 | 12–17 | 11–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–17 | 12–18 | 11–18 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
-| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 14–17 | 14–17 | 13–17 | 13–19 |
-| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 13 | 12–13 | 12–14 | 11–14 | 10–15 |
+| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 15–17 | 14–18 | 14–18 | 13–18 |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 11 | 11–13 | 10–13 | 10–13 | 9–14 |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 15 | 13–16 | 13–16 | 13–17 | 12–18 |
@@ -104,17 +104,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.2% | 100% |  |
-| 11 | 0.5% | 99.8% |  |
-| 12 | 7% | 99.3% |  |
-| 13 | 21% | 93% |  |
-| 14 | 16% | 72% |  |
-| 15 | 21% | 56% | Median |
+| 10 | 0.1% | 100% |  |
+| 11 | 1.2% | 99.9% |  |
+| 12 | 8% | 98.7% |  |
+| 13 | 17% | 91% |  |
+| 14 | 17% | 74% |  |
+| 15 | 21% | 57% | Median |
 | 16 | 21% | 36% |  |
-| 17 | 13% | 15% |  |
-| 18 | 2% | 2% |  |
-| 19 | 0.3% | 0.3% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 17 | 12% | 14% |  |
+| 18 | 3% | 3% |  |
+| 19 | 0.2% | 0.2% |  |
+| 20 | 0% | 0% |  |
 
 

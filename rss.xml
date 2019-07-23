@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 18 Jul 2019 15:45:04 +0200</pubDate>
+    <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-15-KantarMillwardBrown.html#seats</link>
@@ -310,15 +310,35 @@
       <dc:date>2019-06-29T20:03:20.882752+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Social Changes, 24–29 May 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-29-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 23–27 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 4–6 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-29-SocialChanges-seats.png"
+        length="198452"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
+      <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 24–29 May 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-29-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-29-SocialChanges-coalitions-seats.png"
+        length="117084"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
+      <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Social Changes, 24–29 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-05-29-SocialChanges.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 37.6–43.6%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 20.4–25.5%&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 7.3–10.8%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 4.3–7.0%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 7.4–10.9%&lt;/li&gt;&lt;li&gt;KORWiN (NI): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-05-29-SocialChanges.png"
         length="223297"
         type="image/png"/>
-      <pubDate>Thu, 27 Jun 2019 22:59:28 +0200</pubDate>
-      <dc:date>2019-06-27T22:59:28.574085+02:00</dc:date>
+      <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
+      <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-07-18T15:45:04.619919+02:00</dc:date>
+    <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
   </channel>
 </rss>

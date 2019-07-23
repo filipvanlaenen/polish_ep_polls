@@ -60,7 +60,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 
 ### Probability Mass Function
 

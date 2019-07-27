@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 27 Jul 2019 16:08:30 +0200</pubDate>
+    <pubDate>Sat, 27 Jul 2019 18:45:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 18–19 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-19-Estymator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 25–32 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 16–21 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-19-Estymator-seats.png"
+        length="197813"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 18:45:42 +0200</pubDate>
+      <dc:date>2019-07-27T18:45:42.986779+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 18–19 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-19-Estymator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-19-Estymator-coalitions-seats.png"
+        length="116268"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 18:45:42 +0200</pubDate>
+      <dc:date>2019-07-27T18:45:42.986779+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 18–19 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-19-Estymator.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-19-Estymator.png"
         length="216467"
         type="image/png"/>
-      <pubDate>Sat, 27 Jul 2019 15:55:42 +0200</pubDate>
-      <dc:date>2019-07-27T15:55:42.327214+02:00</dc:date>
+      <pubDate>Sat, 27 Jul 2019 18:45:42 +0200</pubDate>
+      <dc:date>2019-07-27T18:45:42.986779+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public for Radio ZET, 12–17 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-17-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 22–26 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 14–18 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 0–3 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-17-KantarPublic-seats.png"
+        length="174114"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 18:15:30 +0200</pubDate>
+      <dc:date>2019-07-27T18:15:30.745659+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public for Radio ZET, 12–17 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-17-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-17-KantarPublic-coalitions-seats.png"
+        length="108995"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 18:15:30 +0200</pubDate>
+      <dc:date>2019-07-27T18:15:30.745659+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public for Radio ZET, 12–17 July 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-17-KantarPublic.png"
         length="215510"
         type="image/png"/>
-      <pubDate>Sat, 27 Jul 2019 16:08:30 +0200</pubDate>
-      <dc:date>2019-07-27T16:08:30.905964+02:00</dc:date>
+      <pubDate>Sat, 27 Jul 2019 18:15:30 +0200</pubDate>
+      <dc:date>2019-07-27T18:15:30.745659+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Seat Projections for the Parties</title>
@@ -359,6 +399,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-07-27T16:08:30.905964+02:00</dc:date>
+    <dc:date>2019-07-27T18:45:42.986779+02:00</dc:date>
   </channel>
 </rss>

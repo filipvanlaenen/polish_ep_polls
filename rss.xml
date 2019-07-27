@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
+    <pubDate>Sat, 27 Jul 2019 16:08:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 18–19 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-19-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 42.2–48.4%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 26.2–31.8%&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 3.6–6.3%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.9–6.7%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 2.8–5.1%&lt;/li&gt;&lt;li&gt;KORWiN (NI): 2.0–4.1%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0.9–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-19-Estymator.png"
+        length="216467"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 15:55:42 +0200</pubDate>
+      <dc:date>2019-07-27T15:55:42.327214+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public for Radio ZET, 12–17 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-17-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 36.0–42.1%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 23.3–28.8%&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 2.9–5.4%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 3.8–6.6%&lt;/li&gt;&lt;li&gt;KORWiN (NI): 1.2–3.0%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0.6–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-17-KantarPublic.png"
+        length="215510"
+        type="image/png"/>
+      <pubDate>Sat, 27 Jul 2019 16:08:30 +0200</pubDate>
+      <dc:date>2019-07-27T16:08:30.905964+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-15-KantarMillwardBrown.html#seats</link>
@@ -339,6 +359,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
+    <dc:date>2019-07-27T16:08:30.905964+02:00</dc:date>
   </channel>
 </rss>

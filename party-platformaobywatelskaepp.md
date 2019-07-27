@@ -76,9 +76,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 12–19 | 11–20 |
-| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
-| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 16 | 15–17 | 15–18 | 14–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 12–20 | 11–21 |
+| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–20 | 16–20 | 16–21 | 15–22 |
+| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 16 | 15–18 | 14–18 | 14–18 | 13–18 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 15–17 | 14–18 | 14–18 | 13–18 |
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
@@ -113,14 +113,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0.9% | 99.9% |  |
 | 12 | 6% | 99.0% |  |
 | 13 | 8% | 93% |  |
-| 14 | 8% | 85% |  |
-| 15 | 23% | 77% |  |
-| 16 | 23% | 54% | Median |
-| 17 | 15% | 31% |  |
-| 18 | 8% | 16% |  |
-| 19 | 6% | 7% |  |
-| 20 | 1.1% | 1.3% |  |
-| 21 | 0.2% | 0.2% |  |
-| 22 | 0% | 0% |  |
+| 14 | 9% | 85% |  |
+| 15 | 20% | 77% |  |
+| 16 | 24% | 57% | Median |
+| 17 | 15% | 33% |  |
+| 18 | 10% | 17% |  |
+| 19 | 4% | 7% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.6% | 0.7% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 

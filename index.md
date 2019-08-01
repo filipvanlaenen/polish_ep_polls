@@ -5,13 +5,13 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | Wi–R | KE |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 37–48% <br> 23–31 | 20–31% <br> 12–20 | 2–7% <br> 0–4 | 0–4% <br> 0 | 2–7% <br> 0–4 | 2–7% <br> 0–4 | 2–4% <br> 0 | 1–3% <br> 0 | 3–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 37–48% <br> 23–31 | 20–30% <br> 12–20 | 2–7% <br> 0–4 | 0–4% <br> 0 | 2–7% <br> 0–4 | 2–8% <br> 0–4 | 2–5% <br> 0 | 1–3% <br> 0 | 3–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 43–49% <br> 26–30 | 24–29% <br> 14–17 | 2–4% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0–3 | 5–8% <br> 3–5 | 2–5% <br> 0 | 1–2% <br> 0 | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 42–48% <br> 25–32 | 26–32% <br> 16–21 | 4–6% <br> 0–4 | 1–2% <br> 0 | 4–7% <br> 0–4 | 3–6% <br> 0–3 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 36–42% <br> 22–26 | 23–29% <br> 14–18 | 3–5% <br> 0–3 | 2–4% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 | 4–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 39–45% <br> 23–28 | 24–30% <br> 14–18 | 5–8% <br> 0–4 | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40–46% <br> 24–29 | 24–29% <br> 14–18 | 2–4% <br> 0 | 0–1% <br> 0 | 3–6% <br> 0–3 | 5–7% <br> 0–4 | 3–5% <br> 0 | 1–2% <br> 0 | 3–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 41–47% <br> 25–29 | 19–23% <br> 11–14 | 3–5% <br> 0–3 | 1–2% <br> 0 | 5–8% <br> 0–4 | 2–4% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–3 | N/A <br> N/A | N/A <br> N/A |
-| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 42–48% <br> 23–28 | 25–31% <br> 14–17 | 2–4% <br> 0 | N/A <br> N/A | 4–7% <br> 0–3 | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.

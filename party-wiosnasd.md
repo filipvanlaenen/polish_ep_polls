@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.5–6.3% | 3.3–6.8% | 3.1–7.2% | 2.7–7.9% |
+| N/A | [Poll Average](average.html) | 4.6% | 3.5–6.3% | 3.3–6.7% | 3.1–7.1% | 2.7–7.8% |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.8% | 4.5–8.4% |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.1% | 2.5–5.6% |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 5.0% | 4.2–6.1% | 4.0–6.3% | 3.8–6.6% | 3.5–7.1% |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
@@ -39,8 +40,8 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 30% | 53% | Median |
 | 5.5–6.5% | 16% | 23% |  |
 | 6.5–7.5% | 6% | 7% |  |
-| 7.5–8.5% | 1.0% | 1.1% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0.8% | 0.9% |  |
+| 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -52,7 +53,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -77,9 +79,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 64% | 100% | Last Result, Median |
 | 1 | 0% | 36% |  |
-| 2 | 1.3% | 36% |  |
-| 3 | 31% | 35% |  |
-| 4 | 4% | 4% |  |
-| 5 | 0% | 0% |  |
+| 2 | 0.5% | 36% |  |
+| 3 | 28% | 35% |  |
+| 4 | 8% | 8% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 

@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 2.1–6.1% | 1.8–6.5% | 1.6–6.9% | 1.3–7.5% |
+| N/A | [Poll Average](average.html) | 4.1% | 1.8–6.5% | 1.6–6.8% | 1.5–7.1% | 1.2–7.7% |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 5.9% | 5.1–7.0% | 4.8–7.3% | 4.6–7.6% | 4.3–8.1% |
+| [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.2% | 4.4–6.2% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
+| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.2–3.0% | 1.1–3.4% |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.3% | 1.8–4.7% |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
@@ -33,14 +36,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 15% | 98% |  |
-| 2.5–3.5% | 16% | 83% |  |
-| 3.5–4.5% | 24% | 67% | Median |
-| 4.5–5.5% | 24% | 44% |  |
-| 5.5–6.5% | 15% | 19% |  |
-| 6.5–7.5% | 4% | 5% |  |
-| 7.5–8.5% | 0.4% | 0.4% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 27% | 96% |  |
+| 2.5–3.5% | 15% | 69% |  |
+| 3.5–4.5% | 6% | 53% | Median |
+| 4.5–5.5% | 17% | 47% |  |
+| 5.5–6.5% | 22% | 30% |  |
+| 6.5–7.5% | 8% | 8% |  |
+| 7.5–8.5% | 0.8% | 0.9% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -53,8 +56,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0 | 0 | 0 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0 | 0 | 0 | 0 | 0 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -76,11 +82,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Last Result, Median |
-| 1 | 0% | 32% |  |
-| 2 | 0.2% | 32% |  |
-| 3 | 25% | 32% |  |
-| 4 | 6% | 6% |  |
+| 0 | 61% | 100% | Last Result, Median |
+| 1 | 0% | 39% |  |
+| 2 | 0.1% | 39% |  |
+| 3 | 30% | 39% |  |
+| 4 | 9% | 9% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

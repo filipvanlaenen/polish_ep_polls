@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.5% | 39.3–46.8% | 38.2–47.5% | 37.4–48.2% | 36.1–49.3% |
+| N/A | [Poll Average](average.html) | 44.0% | 39.3–47.1% | 38.2–47.9% | 37.4–48.6% | 36.1–49.8% |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 46.7% | 44.7–48.8% | 44.2–49.3% | 43.7–49.8% | 42.7–50.8% |
+| [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 44.5% | 42.6–46.5% | 42.1–47.0% | 41.6–47.5% | 40.7–48.4% |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 46.3% | 44.4–48.3% | 43.8–48.9% | 43.3–49.4% | 42.4–50.3% |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 45.3% | 43.3–47.3% | 42.7–47.9% | 42.2–48.4% | 41.3–49.4% |
+| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 45.4% | 43.4–47.4% | 42.8–48.0% | 42.4–48.5% | 41.4–49.5% |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 39.0% | 37.0–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.1% |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 42.0% | 40.0–44.0% | 39.5–44.6% | 39.0–45.1% | 38.0–46.1% |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 43.0% | 41.1–44.9% | 40.6–45.5% | 40.1–46.0% | 39.2–46.9% |
@@ -72,18 +75,18 @@ The following table shows the probability mass function per percentage block of 
 | 36.5–37.5% | 2% | 99.1% |  |
 | 37.5–38.5% | 4% | 97% |  |
 | 38.5–39.5% | 5% | 93% |  |
-| 39.5–40.5% | 6% | 88% |  |
-| 40.5–41.5% | 8% | 82% |  |
-| 41.5–42.5% | 11% | 74% |  |
-| 42.5–43.5% | 13% | 63% |  |
-| 43.5–44.5% | 14% | 50% | Median |
-| 44.5–45.5% | 13% | 35% |  |
-| 45.5–46.5% | 10% | 22% |  |
-| 46.5–47.5% | 7% | 12% |  |
-| 47.5–48.5% | 3% | 5% |  |
-| 48.5–49.5% | 1.2% | 2% |  |
-| 49.5–50.5% | 0.3% | 0.4% |  |
-| 50.5–51.5% | 0% | 0.1% |  |
+| 39.5–40.5% | 5% | 89% |  |
+| 40.5–41.5% | 6% | 83% |  |
+| 41.5–42.5% | 9% | 77% |  |
+| 42.5–43.5% | 12% | 68% |  |
+| 43.5–44.5% | 15% | 57% | Median |
+| 44.5–45.5% | 15% | 42% |  |
+| 45.5–46.5% | 12% | 27% |  |
+| 46.5–47.5% | 8% | 15% |  |
+| 47.5–48.5% | 4% | 7% |  |
+| 48.5–49.5% | 2% | 3% |  |
+| 49.5–50.5% | 0.5% | 0.7% |  |
+| 50.5–51.5% | 0.1% | 0.1% |  |
 | 51.5–52.5% | 0% | 0% |  |
 
 
@@ -95,9 +98,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27 | 24–29 | 23–30 | 23–31 | 22–32 |
+| N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 28 | 26–30 | 26–30 | 25–30 | 25–31 |
+| [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 26 | 24–28 | 24–29 | 24–29 | 23–30 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 28 | 27–29 | 26–30 | 26–30 | 25–31 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 27–31 | 26–32 | 25–32 | 25–33 |
+| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 27 | 25–29 | 25–30 | 25–30 | 24–32 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 24 | 23–26 | 22–26 | 22–26 | 21–27 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 25 | 23–27 | 23–27 | 23–28 | 22–28 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 26 | 25–28 | 25–29 | 24–29 | 23–30 |
@@ -143,13 +149,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.2% | 100% |  |
 | 22 | 2% | 99.8% |  |
 | 23 | 5% | 98% |  |
-| 24 | 10% | 93% |  |
-| 25 | 14% | 83% |  |
-| 26 | 16% | 69% | Majority |
-| 27 | 20% | 53% | Median |
-| 28 | 16% | 34% |  |
-| 29 | 11% | 18% |  |
-| 30 | 4% | 7% |  |
+| 24 | 12% | 93% |  |
+| 25 | 15% | 82% |  |
+| 26 | 18% | 67% | Median, Majority |
+| 27 | 14% | 50% |  |
+| 28 | 17% | 36% |  |
+| 29 | 11% | 19% |  |
+| 30 | 5% | 8% |  |
 | 31 | 2% | 3% |  |
 | 32 | 1.0% | 1.2% |  |
 | 33 | 0.2% | 0.2% |  |

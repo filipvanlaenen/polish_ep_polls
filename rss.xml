@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 06 Aug 2019 15:49:40 +0200</pubDate>
+    <pubDate>Tue, 06 Aug 2019 17:41:16 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Social Changes, 26–31 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-31-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 26–30 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 13–17 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 0 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-31-SocialChanges-seats.png"
+        length="210584"
+        type="image/png"/>
+      <pubDate>Tue, 06 Aug 2019 17:41:16 +0200</pubDate>
+      <dc:date>2019-08-06T17:41:16.192685+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 26–31 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-31-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-31-SocialChanges-coalitions-seats.png"
+        length="109490"
+        type="image/png"/>
+      <pubDate>Tue, 06 Aug 2019 17:41:16 +0200</pubDate>
+      <dc:date>2019-08-06T17:41:16.192685+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Social Changes, 26–31 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-31-SocialChanges.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-31-SocialChanges.png"
         length="216472"
         type="image/png"/>
-      <pubDate>Tue, 06 Aug 2019 14:38:53 +0200</pubDate>
-      <dc:date>2019-08-06T14:38:53.953609+02:00</dc:date>
+      <pubDate>Tue, 06 Aug 2019 17:41:16 +0200</pubDate>
+      <dc:date>2019-08-06T17:41:16.192685+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for RMF, 26–27 July 2019 – Seat Projections for the Parties</title>
@@ -499,6 +519,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-08-06T15:49:40.32839+02:00</dc:date>
+    <dc:date>2019-08-06T17:41:16.192685+02:00</dc:date>
   </channel>
 </rss>

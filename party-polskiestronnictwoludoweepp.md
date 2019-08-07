@@ -56,7 +56,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0 | 0 | 0 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -82,11 +82,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 0% | 39% |  |
-| 2 | 0.1% | 39% |  |
-| 3 | 30% | 39% |  |
-| 4 | 9% | 9% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 0% | 40% |  |
+| 2 | 0.1% | 40% |  |
+| 3 | 32% | 40% |  |
+| 4 | 8% | 8% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

@@ -274,6 +274,8 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats not yet produced](average-seats.png "Seats")
 
+![Graph with seating plan not yet produced](average-seating-plan.png "Seating Plan")
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |

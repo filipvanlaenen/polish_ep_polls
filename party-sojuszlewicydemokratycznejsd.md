@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.9% | 2.1–6.3% | 1.8–6.8% | 1.6–7.1% | 1.3–7.8% |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.8–7.5% |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.6% | 5.1–9.2% |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 5.3% | 4.5–6.2% | 4.3–6.5% | 4.1–6.8% | 3.7–7.3% |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.3% | 4.9–8.9% |
@@ -57,6 +60,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 3 | 3 | 3 | 3–4 | 3–4 |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3 | 0–3 | 0–3 | 0–3 |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 4 | 3–4 | 3–4 | 3–5 | 0–5 |

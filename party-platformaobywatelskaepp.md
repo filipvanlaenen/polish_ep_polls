@@ -11,6 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 25.6% | 19.9–29.0% | 19.3–29.9% | 18.8–30.5% | 17.9–31.7% |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 28.9% | 27.1–30.8% | 26.6–31.3% | 26.2–31.8% | 25.4–32.7% |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 24.8% | 23.1–26.6% | 22.6–27.1% | 22.2–27.5% | 21.4–28.4% |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.7–28.6% |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 25.7% | 24.0–27.5% | 23.5–28.0% | 23.1–28.5% | 22.3–29.4% |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 20.2% | 18.7–21.8% | 18.3–22.3% | 17.9–22.7% | 17.2–23.5% |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 26.3% | 24.6–28.1% | 24.2–28.6% | 23.7–29.1% | 23.0–29.9% |
@@ -81,6 +84,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–18 | 11–19 | 11–20 | 10–21 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 19 | 17–19 | 17–19 | 14–19 | 14–19 |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 15 | 15 | 14–15 | 13–15 | 12–15 |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 17 | 15–17 | 15–17 | 15–17 |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 16 | 14–17 | 14–17 | 14–17 | 14–18 |

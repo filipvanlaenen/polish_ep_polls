@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 13 Aug 2019 16:54:49 +0200</pubDate>
+    <pubDate>Mon, 19 Aug 2019 08:05:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-08-Estymator.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-08-Estymator.png"
         length="217404"
         type="image/png"/>
-      <pubDate>Tue, 13 Aug 2019 11:26:48 +0200</pubDate>
-      <dc:date>2019-08-13T11:26:48.699675+02:00</dc:date>
+      <pubDate>Sun, 18 Aug 2019 22:58:19 +0200</pubDate>
+      <dc:date>2019-08-18T22:58:19.865531+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 2–7 August 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges.png"
         length="215641"
         type="image/png"/>
-      <pubDate>Tue, 13 Aug 2019 11:37:25 +0200</pubDate>
-      <dc:date>2019-08-13T11:37:25.140114+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 07:40:20 +0200</pubDate>
+      <dc:date>2019-08-19T07:40:20.662431+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 6–7 August 2019 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-InstytutBadańPollster.png"
         length="220835"
         type="image/png"/>
-      <pubDate>Tue, 13 Aug 2019 16:54:49 +0200</pubDate>
-      <dc:date>2019-08-13T16:54:49.35605+02:00</dc:date>
+      <pubDate>Mon, 19 Aug 2019 08:05:38 +0200</pubDate>
+      <dc:date>2019-08-19T08:05:38.961768+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 26–31 July 2019 – Seat Projections for the Parties</title>
@@ -549,6 +549,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-08-13T16:54:49.35605+02:00</dc:date>
+    <dc:date>2019-08-19T08:05:38.961768+02:00</dc:date>
   </channel>
 </rss>

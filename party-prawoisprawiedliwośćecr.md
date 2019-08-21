@@ -102,7 +102,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 26 | 24–29 | 23–30 | 23–31 | 22–32 |
-| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 27–31 | 26–31 | 26–31 | 25–32 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 27–31 | 26–32 | 26–32 | 25–33 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 26 | 25–28 | 25–28 | 25–29 | 24–29 |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 27 | 25–30 | 24–30 | 23–30 | 23–31 |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 27 | 26–29 | 26–30 | 26–30 | 25–31 |

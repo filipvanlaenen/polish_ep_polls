@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 21 Aug 2019 20:32:52 +0200</pubDate>
+    <pubDate>Sat, 24 Aug 2019 20:26:03 +0200</pubDate>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-08-Estymator.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-08-21T20:32:52.933774+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Social Changes, 2–7 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 25–29 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 12–16 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 0 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0 seats&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges-seats.png"
+        length="188264"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2019 20:07:51 +0200</pubDate>
+      <dc:date>2019-08-24T20:07:51.180763+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 2–7 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges-coalitions-seats.png"
+        length="111720"
+        type="image/png"/>
+      <pubDate>Sat, 24 Aug 2019 20:07:51 +0200</pubDate>
+      <dc:date>2019-08-24T20:07:51.180763+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Social Changes, 2–7 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 42.8–48.9%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 22.2–27.5%&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 2.1–4.3%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.0–2.7%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 5.1–8.1%&lt;/li&gt;&lt;li&gt;KORWiN (NI): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Partia Razem (*): 0.7–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges.png"
         length="215641"
         type="image/png"/>
-      <pubDate>Mon, 19 Aug 2019 07:40:20 +0200</pubDate>
-      <dc:date>2019-08-19T07:40:20.662431+02:00</dc:date>
+      <pubDate>Sat, 24 Aug 2019 20:07:51 +0200</pubDate>
+      <dc:date>2019-08-24T20:07:51.180763+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 6–7 August 2019 – Voting Intentions</title>
@@ -56,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-InstytutBadańPollster.png"
         length="220835"
         type="image/png"/>
-      <pubDate>Mon, 19 Aug 2019 08:05:38 +0200</pubDate>
-      <dc:date>2019-08-19T08:05:38.961768+02:00</dc:date>
+      <pubDate>Sat, 24 Aug 2019 20:26:03 +0200</pubDate>
+      <dc:date>2019-08-24T20:26:03.13872+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 26–31 July 2019 – Seat Projections for the Parties</title>
@@ -569,6 +589,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-08-21T20:32:52.933774+02:00</dc:date>
+    <dc:date>2019-08-24T20:26:03.13872+02:00</dc:date>
   </channel>
 </rss>

@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-08-21T20:32:52.933774+02:00</updated>
+  <updated>2019-08-24T20:07:51.180763+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 42.4–48.5%, 26–32 seats</li><li>Platforma Obywatelska (EPP): 26.2–31.8%, 16–21 seats</li><li>Kukiz’15 (NI): 2.0–4.1%, 0 seats</li><li>.Nowoczesna (RE): 0.8–2.3%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 3.9–6.6%, 0–4 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 4.2–7.0%, 0–4 seats</li><li>Wiosna (S&amp;D): 2.7–5.1%, 0–3 seats</li><li>KORWiN (NI): 1.8–3.8%, 0 seats</li><li>Partia Razem (*): 1.4–3.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-08-Estymator.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019</title>
     <updated>2019-08-21T20:32:52.933774+02:00</updated>
     <dc:date>2019-08-21T20:32:52.933774+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 42.8–48.9%, 25–29 seats</li><li>Platforma Obywatelska (EPP): 22.2–27.5%, 12–16 seats</li><li>Kukiz’15 (NI): 2.1–4.3%, 0 seats</li><li>.Nowoczesna (RE): 1.0–2.7%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 5.2–8.2%, 3–4 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 5.5–8.6%, 3–5 seats</li><li>Wiosna (S&amp;D): 5.1–8.1%, 0–4 seats</li><li>KORWiN (NI): 1.6–3.5%, 0 seats</li><li>Partia Razem (*): 0.7–2.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes, 2–7 August 2019</title>
+    <updated>2019-08-24T20:07:51.180763+02:00</updated>
+    <dc:date>2019-08-24T20:07:51.180763+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 43.7–49.8%, 26–30 seats</li><li>Platforma Obywatelska (EPP): 23.1–28.5%, 13–17 seats</li><li>Kukiz’15 (NI): 2.2–4.4%, 0 seats</li><li>.Nowoczesna (RE): 0.7–2.1%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 4.6–7.6%, 0–4 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 4.9–7.9%, 0–4 seats</li><li>Wiosna (S&amp;D): 4.5–7.3%, 0–4 seats</li><li>KORWiN (NI): 1.4–3.3%, 0 seats</li><li>Partia Razem (*): 0.7–2.2%, 0 seats</li></ul></div></content>
@@ -151,5 +159,5 @@
     <updated>2019-07-21T23:23:00.970878+02:00</updated>
     <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
   </entry>
-  <dc:date>2019-08-21T20:32:52.933774+02:00</dc:date>
+  <dc:date>2019-08-24T20:07:51.180763+02:00</dc:date>
 </feed>

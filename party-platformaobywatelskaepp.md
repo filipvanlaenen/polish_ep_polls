@@ -85,8 +85,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–18 | 11–19 | 11–20 | 10–21 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
-| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–17 | 14–17 | 14–18 | 13–19 |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 15 | 14–16 | 13–16 | 13–17 | 13–18 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 16 | 14–17 | 14–17 | 14–17 | 14–18 |

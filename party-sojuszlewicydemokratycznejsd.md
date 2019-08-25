@@ -62,7 +62,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
-| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 4 | 3–4 | 3–4 | 3–5 | 0–5 |

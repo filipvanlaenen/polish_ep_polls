@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 43.0% | 41.1–45.0% | 40.5–45.5% | 40.0–46.0% | 39.1–46.9% |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 46.7% | 44.7–48.8% | 44.2–49.3% | 43.7–49.8% | 42.7–50.8% |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 44.5% | 42.6–46.5% | 42.1–47.0% | 41.6–47.5% | 40.7–48.4% |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 46.3% | 44.4–48.3% | 43.8–48.9% | 43.3–49.4% | 42.4–50.3% |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 46.4% | 44.4–48.3% | 43.8–48.9% | 43.3–49.4% | 42.4–50.3% |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 45.3% | 43.3–47.3% | 42.7–47.9% | 42.2–48.4% | 41.3–49.4% |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 45.4% | 43.4–47.4% | 42.8–48.0% | 42.4–48.5% | 41.4–49.5% |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 39.0% | 37.0–41.0% | 36.5–41.6% | 36.0–42.1% | 35.1–43.1% |
@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 40.3% | 38.4–42.2% | 37.9–42.7% | 37.4–43.2% | 36.5–44.1% |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 44.0% | 42.0–46.0% | 41.5–46.5% | 41.0–47.0% | 40.0–48.0% |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 47.9% | 45.9–49.9% | 45.3–50.5% | 44.8–51.0% | 43.9–52.0% |
-| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 49.3% | 47.4–51.3% | 46.9–51.8% | 46.4–52.3% | 45.5–53.2% |
+| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 44.0% | 47.4–51.3% | 46.9–51.8% | 46.4–52.3% | 45.5–53.2% |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.8% | 38.9–42.7% | 38.4–43.3% | 37.9–43.8% | 37.1–44.7% |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 41.5% | 39.5–43.5% | 39.0–44.0% | 38.5–44.5% | 37.6–45.5% |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 40.6% | 38.6–42.6% | 38.1–43.1% | 37.6–43.6% | 36.7–44.6% |

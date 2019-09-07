@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 6.3% | 5.4–7.3% | 5.2–7.6% | 5.0–7.9% | 4.6–8.4% |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 7.7% | 6.7–8.8% | 6.4–9.2% | 6.2–9.4% | 5.8–10.0% |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.3% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.4–9.6% |
-| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 7.8% | 6.9–8.9% | 6.6–9.3% | 6.4–9.5% | 5.9–10.1% |
+| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 7.0% | 6.9–8.9% | 6.6–9.3% | 6.4–9.5% | 5.9–10.1% |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 8.8% | 7.8–10.0% | 7.5–10.3% | 7.3–10.7% | 6.8–11.2% |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 8.9% | 7.8–10.1% | 7.6–10.5% | 7.3–10.8% | 6.8–11.4% |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.6% |

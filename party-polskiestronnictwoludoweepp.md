@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 1.8–6.5% | 1.6–6.8% | 1.5–7.1% | 1.2–7.7% |
+| N/A | [Poll Average](average.html) | 4.6% | 1.9–6.7% | 1.7–7.1% | 1.5–7.4% | 1.2–8.1% |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 6.5% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.8% |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
@@ -39,15 +39,16 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 4% | 100% |  |
-| 1.5–2.5% | 27% | 96% |  |
-| 2.5–3.5% | 15% | 69% |  |
-| 3.5–4.5% | 6% | 53% | Median |
-| 4.5–5.5% | 17% | 47% |  |
-| 5.5–6.5% | 22% | 30% |  |
-| 6.5–7.5% | 8% | 8% |  |
-| 7.5–8.5% | 0.8% | 0.9% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 24% | 97% |  |
+| 2.5–3.5% | 13% | 73% |  |
+| 3.5–4.5% | 9% | 60% |  |
+| 4.5–5.5% | 20% | 51% | Median |
+| 5.5–6.5% | 20% | 31% |  |
+| 6.5–7.5% | 9% | 11% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -58,7 +59,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -88,12 +89,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Last Result, Median |
-| 1 | 0% | 40% |  |
-| 2 | 0.1% | 40% |  |
-| 3 | 32% | 40% |  |
-| 4 | 8% | 8% |  |
-| 5 | 0.1% | 0.1% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 0% | 43% |  |
+| 2 | 0.1% | 43% |  |
+| 3 | 33% | 43% |  |
+| 4 | 10% | 11% |  |
+| 5 | 0.5% | 0.5% |  |
 | 6 | 0% | 0% |  |
 
 

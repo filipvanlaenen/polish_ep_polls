@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.2–6.0% | 2.9–6.5% | 2.7–6.9% | 2.3–7.6% |
+| N/A | [Poll Average](average.html) | 4.1% | 2.8–5.9% | 2.5–6.4% | 2.3–6.8% | 2.0–7.5% |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 2.8% | 2.3–3.6% | 2.1–3.9% | 2.0–4.1% | 1.7–4.5% |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
@@ -40,13 +40,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 19% | 98% |  |
-| 3.5–4.5% | 40% | 79% | Median |
-| 4.5–5.5% | 23% | 39% |  |
-| 5.5–6.5% | 11% | 16% |  |
-| 6.5–7.5% | 4% | 4% |  |
-| 7.5–8.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 6% | 100% |  |
+| 2.5–3.5% | 26% | 94% |  |
+| 3.5–4.5% | 33% | 69% | Median |
+| 4.5–5.5% | 20% | 35% |  |
+| 5.5–6.5% | 11% | 15% |  |
+| 6.5–7.5% | 3% | 4% |  |
+| 7.5–8.5% | 0.4% | 0.5% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -90,9 +90,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 75% | 100% | Last Result, Median |
 | 1 | 0% | 25% |  |
-| 2 | 0.6% | 25% |  |
-| 3 | 21% | 25% |  |
-| 4 | 4% | 4% |  |
+| 2 | 0.5% | 25% |  |
+| 3 | 21% | 24% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

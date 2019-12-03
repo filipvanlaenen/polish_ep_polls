@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40.9% | 37.6–46.6% | 37.0–47.5% | 36.5–48.2% | 35.5–49.4% |
+| N/A | [Poll Average](average.html) | 40.5% | 37.5–46.1% | 36.8–48.4% | 36.2–50.8% | 34.9–54.8% |
+| [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45.0% | 38.8–51.4% | 37.1–53.2% | 35.6–54.8% | 32.8–57.8% |
+| [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 40.0% | 38.1–42.0% | 37.5–42.6% | 37.1–43.0% | 36.2–44.0% |
 | [22–23 November 2019](2019-11-23-IBRiS.html) | IBRiS <br> Radio ZET | 39.6% | 37.8–41.5% | 37.2–42.1% | 36.8–42.6% | 35.9–43.5% |
 | [15–19 November 2019](2019-11-19-SocialChanges.html) | Social Changes <br> wpolityce.pl | 40.0% | 38.1–42.0% | 37.6–42.6% | 37.1–43.1% | 36.2–44.0% |
 | [8–12 November 2019](2019-11-12-SocialChanges.html) | Social Changes <br> wpolityce.pl | 42.0% | 40.1–44.0% | 39.5–44.6% | 39.0–45.1% | 38.1–46.0% |
@@ -31,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 46.0% | 44.0–48.0% | 43.4–48.6% | 43.0–49.1% | 42.0–50.1% |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 47.2% | 45.1–49.2% | 44.6–49.8% | 44.1–50.3% | 43.1–51.2% |
 | [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 41.7% | 39.7–43.7% | 39.2–44.3% | 38.7–44.8% | 37.7–45.8% |
-| [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 44.3% | N/A | N/A | N/A | N/A |
+| [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 44.3% | 42.4–46.2% | 41.8–46.8% | 41.4–47.2% | 40.5–48.2% |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 42.0% | N/A | N/A | N/A | N/A |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 45.1% | N/A | N/A | N/A | N/A |
 | [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 49.5% | N/A | N/A | N/A | N/A |
@@ -131,26 +133,34 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.1% | 100% |  |
-| 34.5–35.5% | 0.5% | 99.9% |  |
-| 35.5–36.5% | 2% | 99.5% |  |
-| 36.5–37.5% | 7% | 97% |  |
-| 37.5–38.5% | 11% | 90% |  |
-| 38.5–39.5% | 14% | 79% |  |
-| 39.5–40.5% | 12% | 65% |  |
-| 40.5–41.5% | 9% | 53% | Median |
-| 41.5–42.5% | 6% | 44% |  |
-| 42.5–43.5% | 6% | 38% |  |
-| 43.5–44.5% | 7% | 32% |  |
-| 44.5–45.5% | 8% | 25% |  |
-| 45.5–46.5% | 7% | 18% |  |
-| 46.5–47.5% | 6% | 10% |  |
-| 47.5–48.5% | 3% | 5% |  |
-| 48.5–49.5% | 1.2% | 2% |  |
-| 49.5–50.5% | 0.3% | 0.4% |  |
-| 50.5–51.5% | 0.1% | 0.1% |  |
-| 51.5–52.5% | 0% | 0% |  |
+| 32.5–33.5% | 0.1% | 99.9% |  |
+| 33.5–34.5% | 0.2% | 99.8% |  |
+| 34.5–35.5% | 0.7% | 99.7% |  |
+| 35.5–36.5% | 3% | 99.0% |  |
+| 36.5–37.5% | 7% | 96% |  |
+| 37.5–38.5% | 12% | 89% |  |
+| 38.5–39.5% | 15% | 77% |  |
+| 39.5–40.5% | 13% | 63% |  |
+| 40.5–41.5% | 10% | 49% | Median |
+| 41.5–42.5% | 7% | 39% |  |
+| 42.5–43.5% | 7% | 32% |  |
+| 43.5–44.5% | 7% | 25% |  |
+| 44.5–45.5% | 6% | 18% |  |
+| 45.5–46.5% | 4% | 12% |  |
+| 46.5–47.5% | 2% | 9% |  |
+| 47.5–48.5% | 2% | 6% |  |
+| 48.5–49.5% | 1.2% | 5% |  |
+| 49.5–50.5% | 1.0% | 4% |  |
+| 50.5–51.5% | 0.8% | 3% |  |
+| 51.5–52.5% | 0.6% | 2% |  |
+| 52.5–53.5% | 0.4% | 1.3% |  |
+| 53.5–54.5% | 0.3% | 0.9% |  |
+| 54.5–55.5% | 0.2% | 0.6% |  |
+| 55.5–56.5% | 0.1% | 0.3% |  |
+| 56.5–57.5% | 0.1% | 0.2% |  |
+| 57.5–58.5% | 0.1% | 0.1% |  |
+| 58.5–59.5% | 0% | 0.1% |  |
+| 59.5–60.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -161,7 +171,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 20–25 | 20–25 | 19–26 | 19–27 |
+| N/A | [Poll Average](average.html) | 21 | 20–24 | 19–25 | 19–26 | 18–28 |
+| [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 23 | 20–26 | 19–27 | 18–28 | 17–30 |
+| [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [22–23 November 2019](2019-11-23-IBRiS.html) | IBRiS <br> Radio ZET | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
 | [15–19 November 2019](2019-11-19-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
 | [8–12 November 2019](2019-11-12-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
@@ -182,7 +194,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 25 | 24–26 | 23–27 | 23–27 | 22–28 |
 | [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
-| [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
+| [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM |  |  |  |  |  |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
 | [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
@@ -267,19 +279,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0.3% | 100% |  |
-| 19 | 4% | 99.7% |  |
-| 20 | 18% | 95% |  |
-| 21 | 25% | 77% |  |
-| 22 | 16% | 52% | Median |
-| 23 | 12% | 37% |  |
-| 24 | 12% | 25% |  |
-| 25 | 9% | 13% |  |
-| 26 | 3% | 4% | Majority |
-| 27 | 0.7% | 0.8% |  |
-| 28 | 0.1% | 0.1% |  |
-| 29 | 0% | 0% |  |
+| 16 | 0.1% | 100% |  |
+| 17 | 0.2% | 99.9% |  |
+| 18 | 0.7% | 99.7% |  |
+| 19 | 5% | 99.0% |  |
+| 20 | 19% | 94% |  |
+| 21 | 26% | 75% | Median |
+| 22 | 19% | 49% |  |
+| 23 | 14% | 30% |  |
+| 24 | 9% | 16% |  |
+| 25 | 3% | 7% |  |
+| 26 | 2% | 4% | Majority |
+| 27 | 0.9% | 2% |  |
+| 28 | 0.5% | 1.0% |  |
+| 29 | 0.3% | 0.4% |  |
+| 30 | 0.1% | 0.2% |  |
+| 31 | 0% | 0.1% |  |
+| 32 | 0% | 0% |  |
 
 

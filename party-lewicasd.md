@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
-| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 13.1% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 13.8% | 12.6–15.2% | 12.2–15.6% | 11.9–16.0% | 11.3–16.7% |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 13.0% | N/A | N/A | N/A | N/A |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 12.6% | N/A | N/A | N/A | N/A |
@@ -74,12 +74,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 10.0% | N/A | N/A | N/A | N/A |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 10.9% | N/A | N/A | N/A | N/A |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11.6% | N/A | N/A | N/A | N/A |
-| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.8% |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 14.9% | 13.6–16.4% | 13.2–16.9% | 12.9–17.2% | 12.2–18.0% |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | 9.0–11.4% | 8.7–11.8% | 8.4–12.1% | 7.9–12.8% |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | 13.6–16.4% | 13.2–16.9% | 12.9–17.2% | 12.2–18.0% |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 11.0% | N/A | N/A | N/A | N/A |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 10.6% | N/A | N/A | N/A | N/A |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
@@ -158,7 +158,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM |  |  |  |  |  |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |

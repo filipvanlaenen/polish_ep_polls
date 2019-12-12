@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 06 Dec 2019 14:19:48 +0100</pubDate>
+    <pubDate>Thu, 12 Dec 2019 21:14:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar Public for PO, 29–30 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-11-30-KantarPublic.html#seats</link>
@@ -730,6 +730,306 @@
       <dc:date>2019-12-03T19:18:36.709787+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar Public for TVN, 25–26 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-26-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 37.0–43.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 25.3–30.8%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 8.3–12.1%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 5.5–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-26-KantarPublic.png"
+        length="172652"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 07:15:31 +0100</pubDate>
+      <dc:date>2019-12-12T07:15:31.32292+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 20–25 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 43.9–50.0%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 25.1–30.6%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 10.7–14.8%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.4–8.6%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 4.6–7.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-SocialChanges.png"
+        length="168156"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 17:24:07 +0100</pubDate>
+      <dc:date>2019-12-12T17:24:07.792863+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 24–25 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.0–47.9%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 23.5–28.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 12.1–16.2%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.9–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-InstytutBadańPollster.png"
+        length="168843"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 17:29:28 +0100</pubDate>
+      <dc:date>2019-12-12T17:29:28.645584+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBM Indicator for TVP, 23–25 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-CBMIndicator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 41.2–47.4%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 23.5–28.9%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 10.0–14.1%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.8–7.8%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.0–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-CBMIndicator.png"
+        length="170035"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 17:34:25 +0100</pubDate>
+      <dc:date>2019-12-12T17:34:25.161692+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for RMF, 20–21 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-21-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 41.6–47.5%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 21.5–26.5%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 12.1–16.3%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.3–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-21-IBRiS.png"
+        length="167725"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 17:46:02 +0100</pubDate>
+      <dc:date>2019-12-12T17:46:02.261024+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 17–19 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-19-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 45.1–51.2%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 25.2–30.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.3–15.4%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.8–7.7%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-19-Estymator.png"
+        length="167809"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 17:51:11 +0100</pubDate>
+      <dc:date>2019-12-12T17:51:11.249816+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 12–19 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-19-CBOS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.9–49.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 20.5–25.8%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 3.8–6.6%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-19-CBOS.png"
+        length="161306"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 17:56:19 +0100</pubDate>
+      <dc:date>2019-12-12T17:56:19.874493+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 13–18 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-18-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 44.1–50.3%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 23.4–28.9%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 10.5–14.6%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 6.0–9.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-18-SocialChanges.png"
+        length="167003"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 18:01:40 +0100</pubDate>
+      <dc:date>2019-12-12T18:01:40.875458+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for Gazeta Wyborcza, 13–17 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-17-KantarMillwardBrown.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 40.0–46.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 27.2–32.9%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-17-KantarMillwardBrown.png"
+        length="171286"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 18:06:33 +0100</pubDate>
+      <dc:date>2019-12-12T18:06:33.559603+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBSP, 12–14 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-14-IBSP.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.5–48.7%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 28.1–33.8%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 10.4–14.4%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 5.0–8.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-14-IBSP.png"
+        length="167328"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 18:19:56 +0100</pubDate>
+      <dc:date>2019-12-12T18:19:56.062059+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 12–13 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-13-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.1–48.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 23.4–28.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 12.0–16.2%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 6.5–9.8%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-13-InstytutBadańPollster.png"
+        length="170624"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 18:25:00 +0100</pubDate>
+      <dc:date>2019-12-12T18:25:00.382816+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 6–11 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-11-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.6–48.7%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 23.9–29.3%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.9–16.2%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 8.1–11.8%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.1–5.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-11-SocialChanges.png"
+        length="172973"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 18:42:21 +0100</pubDate>
+      <dc:date>2019-12-12T18:42:21.652148+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public for TVN, 6–11 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-11-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 37.0–43.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 21.4–26.8%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 9.2–13.1%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 1.3–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-11-KantarPublic.png"
+        length="169413"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 18:47:34 +0100</pubDate>
+      <dc:date>2019-12-12T18:47:34.376891+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 6–7 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 39.4–45.5%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 20.2–25.4%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.1–15.3%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0.3–1.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS.png"
+        length="189039"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 19:03:51 +0100</pubDate>
+      <dc:date>2019-12-12T19:03:51.711676+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 4–6 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-06-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.0–47.9%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 25.4–30.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 12.1–16.2%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.7–8.7%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.0–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-06-InstytutBadańPollster.png"
+        length="169980"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 19:09:14 +0100</pubDate>
+      <dc:date>2019-12-12T19:09:14.904588+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 4–5 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-05-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 44.2–50.3%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 24.7–30.2%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.0–15.2%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-05-Estymator.png"
+        length="189916"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 19:14:56 +0100</pubDate>
+      <dc:date>2019-12-12T19:14:56.686044+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 30 August–4 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 40.5–46.5%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 26.4–32.0%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.9–16.1%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 7.0–10.4%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-SocialChanges.png"
+        length="174816"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 19:20:20 +0100</pubDate>
+      <dc:date>2019-12-12T19:20:20.075006+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet, 24 August–4 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.4–44.6%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 20.4–22.2%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 13.4–15.0%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.2–6.3%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 4.4–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-IBRiS.png"
+        length="144630"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 19:38:00 +0100</pubDate>
+      <dc:date>2019-12-12T19:38:00.224587+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Dobra Opinia for PPG, 23–29 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-DobraOpinia.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 43.9–46.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 29.0–31.0%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 10.3–11.7%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.5–6.6%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.6–4.5%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 2.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-DobraOpinia.png"
+        length="162345"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 19:58:20 +0100</pubDate>
+      <dc:date>2019-12-12T19:58:20.706577+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 22–29 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-CBOS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 51.0–57.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 19.4–24.5%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 8.6–12.3%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 2.5–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-CBOS.png"
+        length="183000"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:03:59 +0100</pubDate>
+      <dc:date>2019-12-12T20:03:59.716023+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 23–28 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-28-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 41.5–47.7%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 27.8–33.5%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 8.7–12.5%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 4.0–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-28-SocialChanges.png"
+        length="173707"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:09:23 +0100</pubDate>
+      <dc:date>2019-12-12T20:09:23.269038+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for OKO, 26–28 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-28-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 38.0–44.0%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 25.3–30.9%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.1–15.3%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-28-Ipsos.png"
+        length="191632"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:16:16 +0100</pubDate>
+      <dc:date>2019-12-12T20:16:16.392541+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet, 26 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-26-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 38.7–44.5%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 24.1–29.3%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 10.4–14.3%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.8–8.9%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.6–6.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-26-IBRiS.png"
+        length="170530"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:22:12 +0100</pubDate>
+      <dc:date>2019-12-12T20:22:12.75046+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBM Indicator for TVP, 24–26 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-26-CBMIndicator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 38.3–44.4%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 25.8–31.4%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 9.5–13.4%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.4–7.3%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-26-CBMIndicator.png"
+        length="172512"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:29:34 +0100</pubDate>
+      <dc:date>2019-12-12T20:29:34.66276+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for RMF, 23–24 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-24-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 38.4–44.2%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 22.5–27.6%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.4–15.4%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.6–7.4%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 4.1–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-24-IBRiS.png"
+        length="170340"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:36:07 +0100</pubDate>
+      <dc:date>2019-12-12T20:36:07.705738+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public for TVN, 22 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-22-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 36.1–42.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 27.3–32.9%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 9.2–13.0%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-22-KantarPublic.png"
+        length="192893"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:43:59 +0100</pubDate>
+      <dc:date>2019-12-12T20:43:59.394979+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 21–22 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-22-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 41.9–48.0%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 27.7–33.3%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 8.2–11.8%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 1.5–3.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-22-Estymator.png"
+        length="191347"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 20:52:52 +0100</pubDate>
+      <dc:date>2019-12-12T20:52:52.613882+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 16–21 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-21-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 39.9–46.0%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 28.0–33.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.4–15.6%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.4–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-21-SocialChanges.png"
+        length="174351"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 21:00:17 +0100</pubDate>
+      <dc:date>2019-12-12T21:00:17.038283+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ariadna, 16–20 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-20-Ariadna.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.0–48.0%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 24.4–29.8%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 8.4–12.0%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.7–7.6%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.9–5.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-20-Ariadna.png"
+        length="166337"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 21:06:39 +0100</pubDate>
+      <dc:date>2019-12-12T21:06:39.556951+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public for TVN, 13 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-13-KantarPublic.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 40.5–46.7%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 24.1–29.6%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 9.1–13.0%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0.5–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-13-KantarPublic.png"
+        length="187510"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 21:14:11 +0100</pubDate>
+      <dc:date>2019-12-12T21:14:11.741455+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-08-Estymator.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.8–49.0%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 27.5–33.1%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 8.4–12.1%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.1–6.9%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.1–5.5%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 2.4–4.6%&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1209,6 +1509,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-12-06T14:19:48.61813+01:00</dc:date>
+    <dc:date>2019-12-12T21:14:11.741455+01:00</dc:date>
   </channel>
 </rss>

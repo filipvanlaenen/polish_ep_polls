@@ -43,37 +43,37 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 47.2% | N/A | N/A | N/A | N/A |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 43.4% | N/A | N/A | N/A | N/A |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 42.4% | N/A | N/A | N/A | N/A |
-| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 40.0% | N/A | N/A | N/A | N/A |
-| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 46.9% | N/A | N/A | N/A | N/A |
-| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45.0% | N/A | N/A | N/A | N/A |
-| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 44.3% | N/A | N/A | N/A | N/A |
-| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 44.5% | N/A | N/A | N/A | N/A |
-| [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 48.1% | N/A | N/A | N/A | N/A |
-| [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 46.0% | N/A | N/A | N/A | N/A |
-| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 47.2% | N/A | N/A | N/A | N/A |
-| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 43.0% | N/A | N/A | N/A | N/A |
-| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 45.6% | N/A | N/A | N/A | N/A |
-| [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45.0% | N/A | N/A | N/A | N/A |
-| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 45.6% | N/A | N/A | N/A | N/A |
-| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 40.0% | N/A | N/A | N/A | N/A |
-| [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 42.4% | N/A | N/A | N/A | N/A |
-| [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45.0% | N/A | N/A | N/A | N/A |
-| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 47.2% | N/A | N/A | N/A | N/A |
-| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 43.5% | N/A | N/A | N/A | N/A |
-| [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 43.5% | N/A | N/A | N/A | N/A |
-| [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 45.0% | N/A | N/A | N/A | N/A |
-| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 54.0% | N/A | N/A | N/A | N/A |
-| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 44.6% | N/A | N/A | N/A | N/A |
-| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 41.0% | N/A | N/A | N/A | N/A |
-| [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 41.5% | N/A | N/A | N/A | N/A |
-| [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 41.3% | N/A | N/A | N/A | N/A |
-| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 41.3% | N/A | N/A | N/A | N/A |
-| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 39.0% | N/A | N/A | N/A | N/A |
-| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 44.9% | N/A | N/A | N/A | N/A |
-| [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 42.9% | N/A | N/A | N/A | N/A |
-| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 45.0% | N/A | N/A | N/A | N/A |
-| [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 43.6% | N/A | N/A | N/A | N/A |
-| [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 41.3% | N/A | N/A | N/A | N/A |
+| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
+| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 46.9% | 44.9–48.9% | 44.4–49.5% | 43.9–50.0% | 42.9–51.0% |
+| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45.0% | 43.0–46.9% | 42.5–47.4% | 42.0–47.9% | 41.1–48.8% |
+| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 44.3% | 42.3–46.3% | 41.7–46.9% | 41.2–47.4% | 40.3–48.4% |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 44.5% | 42.6–46.5% | 42.1–47.0% | 41.6–47.5% | 40.7–48.4% |
+| [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 48.1% | 46.1–50.2% | 45.6–50.7% | 45.1–51.2% | 44.1–52.2% |
+| [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 46.0% | 43.9–48.0% | 43.4–48.6% | 42.9–49.1% | 41.9–50.1% |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 47.2% | 45.1–49.2% | 44.6–49.8% | 44.1–50.3% | 43.1–51.2% |
+| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 43.0% | 41.0–45.0% | 40.4–45.6% | 40.0–46.1% | 39.0–47.1% |
+| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 45.6% | 43.6–47.6% | 43.0–48.2% | 42.5–48.7% | 41.6–49.7% |
+| [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45.0% | 43.1–47.0% | 42.5–47.6% | 42.1–48.1% | 41.1–49.0% |
+| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 45.6% | 43.6–47.6% | 43.0–48.2% | 42.6–48.7% | 41.6–49.6% |
+| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 40.0% | 38.0–42.0% | 37.4–42.6% | 37.0–43.1% | 36.0–44.1% |
+| [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 42.4% | 40.4–44.4% | 39.9–45.0% | 39.4–45.5% | 38.4–46.5% |
+| [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45.0% | 43.1–46.9% | 42.5–47.5% | 42.0–47.9% | 41.1–48.9% |
+| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 47.2% | 45.2–49.3% | 44.7–49.8% | 44.2–50.3% | 43.2–51.3% |
+| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 43.5% | 41.5–45.5% | 41.0–46.0% | 40.5–46.5% | 39.6–47.5% |
+| [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 43.5% | 42.8–44.2% | 42.6–44.4% | 42.4–44.6% | 42.1–44.9% |
+| [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 45.0% | 44.3–45.7% | 44.1–45.9% | 43.9–46.1% | 43.6–46.4% |
+| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 54.0% | 52.0–56.0% | 51.5–56.6% | 51.0–57.1% | 50.0–58.0% |
+| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 44.6% | 42.6–46.6% | 42.0–47.2% | 41.5–47.7% | 40.6–48.7% |
+| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 41.0% | 39.0–43.0% | 38.4–43.5% | 38.0–44.0% | 37.0–45.0% |
+| [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 41.5% | 39.7–43.5% | 39.1–44.0% | 38.7–44.5% | 37.8–45.4% |
+| [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 41.3% | 39.3–43.3% | 38.8–43.9% | 38.3–44.4% | 37.3–45.4% |
+| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 41.3% | 39.4–43.2% | 38.9–43.7% | 38.4–44.2% | 37.5–45.1% |
+| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 39.0% | 37.1–41.0% | 36.5–41.6% | 36.1–42.1% | 35.1–43.0% |
+| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 44.9% | 43.0–46.9% | 42.4–47.5% | 41.9–48.0% | 41.0–48.9% |
+| [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 42.9% | 41.0–44.9% | 40.4–45.5% | 39.9–46.0% | 39.0–46.9% |
+| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 45.0% | 43.0–47.0% | 42.4–47.5% | 42.0–48.0% | 41.0–49.0% |
+| [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 43.6% | 41.6–45.6% | 41.0–46.2% | 40.5–46.7% | 39.6–47.6% |
+| [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 41.3% | 39.4–43.2% | 38.8–43.8% | 38.4–44.2% | 37.5–45.2% |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | 43.9–47.9% | 43.3–48.5% | 42.8–49.0% | 41.9–49.9% |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | 43.0–46.9% | 42.4–47.5% | 41.9–48.0% | 41.0–49.0% |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
@@ -195,36 +195,36 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
-| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN |  |  |  |  |  |
-| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
-| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
-| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
-| [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [12–19 September 2019](2019-09-19-CBOS.html) | CBOS |  |  |  |  |  |
-| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
-| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
-| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP |  |  |  |  |  |
-| [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
-| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN |  |  |  |  |  |
-| [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
-| [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
-| [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG |  |  |  |  |  |
-| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS |  |  |  |  |  |
-| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
-| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO |  |  |  |  |  |
-| [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
-| [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
-| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
-| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN |  |  |  |  |  |
-| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes |  |  |  |  |  |
-| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna |  |  |  |  |  |
-| [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN |  |  |  |  |  |
+| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 21 | 21 | 21 | 21 | 21 |
+| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 23–26 | 23–26 | 23–27 | 22–27 |
+| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–26 | 23–26 | 23–27 | 22–27 |
+| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
+| [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–27 | 25–28 | 24–28 | 24–29 |
+| [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 25 | 24–27 | 24–27 | 23–27 | 23–28 |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 24–26 | 23–26 | 23–26 | 23–27 |
+| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
+| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 25 | 24–26 | 23–26 | 23–27 | 22–27 |
+| [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
+| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
+| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
+| [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
+| [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 24–26 | 23–26 | 23–26 | 22–27 |
+| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 25–28 | 24–28 | 24–29 |
+| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
+| [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 24 | 23–24 | 23–25 | 23–25 | 22–25 |
+| [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 25 | 25–26 | 25–26 | 25–26 | 25–26 |
+| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 30 | 29–31 | 29–32 | 28–32 | 28–33 |
+| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 22–25 | 22–25 | 22–26 | 21–26 |
+| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
+| [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 22 | 21–24 | 21–24 | 20–24 | 20–25 |
+| [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 22 | 21–24 | 21–24 | 21–24 | 20–25 |
+| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
+| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
+| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 25 | 24–26 | 24–27 | 24–27 | 23–28 |
+| [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 23 | 22–24 | 21–25 | 21–25 | 21–25 |
+| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
+| [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 25–28 | 24–29 | 23–29 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 24 | 23–25 | 23–26 | 22–26 | 22–26 |

@@ -159,7 +159,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
-| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0 | 0 | 0 |
+| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
@@ -189,7 +189,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0–2 | 0–3 | 0–3 |
-| [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |

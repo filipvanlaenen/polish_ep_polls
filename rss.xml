@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 12 Dec 2019 21:14:11 +0100</pubDate>
+    <pubDate>Thu, 12 Dec 2019 21:26:37 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar Public for PO, 29–30 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-11-30-KantarPublic.html#seats</link>
@@ -736,8 +736,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-26-KantarPublic.png"
         length="172652"
         type="image/png"/>
-      <pubDate>Thu, 12 Dec 2019 07:15:31 +0100</pubDate>
-      <dc:date>2019-12-12T07:15:31.32292+01:00</dc:date>
+      <pubDate>Thu, 12 Dec 2019 21:26:37 +0100</pubDate>
+      <dc:date>2019-12-12T21:26:37.582143+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes for wpolityce.pl, 20–25 September 2019 – Voting Intentions</title>
@@ -1028,6 +1028,16 @@
         type="image/png"/>
       <pubDate>Thu, 12 Dec 2019 21:14:11 +0100</pubDate>
       <dc:date>2019-12-12T21:14:11.741455+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 9–10 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-10-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 38.4–44.2%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 24.4–29.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 9.9–13.7%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 1.2–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-10-IBRiS.png"
+        length="190446"
+        type="image/png"/>
+      <pubDate>Thu, 12 Dec 2019 21:22:02 +0100</pubDate>
+      <dc:date>2019-12-12T21:22:02.234495+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Voting Intentions</title>
@@ -1509,6 +1519,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-12-12T21:14:11.741455+01:00</dc:date>
+    <dc:date>2019-12-12T21:26:37.582143+01:00</dc:date>
   </channel>
 </rss>

@@ -11,6 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.5% | 12.5–18.1% | 12.0–18.9% | 11.7–19.5% | 11.0–20.5% |
+| [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 19.0% | N/A | N/A | N/A | N/A |
+| [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 13.3% | N/A | N/A | N/A | N/A |
+| [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 12.2% | N/A | N/A | N/A | N/A |
+| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16.1% | N/A | N/A | N/A | N/A |
 | [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 18.0% | 16.6–19.6% | 16.2–20.1% | 15.8–20.5% | 15.1–21.3% |
@@ -136,6 +140,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–9 | 6–10 | 6–10 | 5–11 |
+| [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
+| [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS |  |  |  |  |  |
+| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9 | 9–10 | 8–10 | 8–11 | 8–11 |

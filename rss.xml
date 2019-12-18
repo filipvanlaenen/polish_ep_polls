@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 16 Dec 2019 17:25:44 +0100</pubDate>
+    <pubDate>Wed, 18 Dec 2019 17:51:58 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 28 November–3 December 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-03-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 20–23 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 7–10 seats&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-12-03-SocialChanges-seats.png"
+        length="126622"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 17:51:58 +0100</pubDate>
+      <dc:date>2019-12-18T17:51:58.438002+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 28 November–3 December 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-03-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-12-03-SocialChanges-coalitions-seats.png"
+        length="132939"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 17:51:58 +0100</pubDate>
+      <dc:date>2019-12-18T17:51:58.438002+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 28 November–3 December 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-03-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 37.4–43.4%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 21.7–26.9%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 14.0–18.5%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 7.4–11.0%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 7.4–11.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-12-03-SocialChanges.png"
+        length="177047"
+        type="image/png"/>
+      <pubDate>Wed, 18 Dec 2019 17:51:58 +0100</pubDate>
+      <dc:date>2019-12-18T17:51:58.438002+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar Public for PO, 29–30 November 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-11-30-KantarPublic.html#seats</link>
@@ -1759,6 +1789,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-12-16T17:25:44.073637+01:00</dc:date>
+    <dc:date>2019-12-18T17:51:58.438002+01:00</dc:date>
   </channel>
 </rss>

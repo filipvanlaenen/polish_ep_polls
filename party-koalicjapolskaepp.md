@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 10.0% | N/A | N/A | N/A | N/A |
 | [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 6.1% | N/A | N/A | N/A | N/A |
 | [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 6.7% | N/A | N/A | N/A | N/A |
-| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9.0% | N/A | N/A | N/A | N/A |
+| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.6% |
 | [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
 | [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -134,7 +134,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS |  |  |  |  |  |
-| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |

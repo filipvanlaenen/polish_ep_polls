@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 40.0% | N/A | N/A | N/A | N/A |
 | [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 42.2% | N/A | N/A | N/A | N/A |
 | [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 49.9% | N/A | N/A | N/A | N/A |
-| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 40.4% | N/A | N/A | N/A | N/A |
+| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 40.4% | 38.4–42.4% | 37.9–42.9% | 37.4–43.4% | 36.5–44.4% |
 | [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 44.6% | 42.6–46.6% | 42.0–47.2% | 41.5–47.7% | 40.6–48.7% |
 | [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 40.0% | 38.1–42.0% | 37.5–42.6% | 37.1–43.0% | 36.2–44.0% |
@@ -170,7 +170,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS |  |  |  |  |  |
-| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 20–23 | 20–23 | 19–23 |
 | [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |

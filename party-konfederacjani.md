@@ -11,9 +11,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.9% | 5.5–12.0% | 5.2–12.7% | 5.0–13.3% | 4.5–14.2% |
-| [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
-| [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 8.4% | N/A | N/A | N/A | N/A |
-| [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 6.7% | N/A | N/A | N/A | N/A |
+| [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
+| [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 8.4% | 7.4–9.5% | 7.1–9.9% | 6.9–10.2% | 6.4–10.7% |
+| [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.5% | 4.9–9.0% |
 | [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.6% |
 | [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
@@ -133,9 +133,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–6 | 2–6 | 0–7 | 0–7 |
-| [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
-| [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
-| [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS |  |  |  |  |  |
+| [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
 | [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–5 | 3–5 | 3–5 | 3–5 |

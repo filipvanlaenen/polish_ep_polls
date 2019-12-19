@@ -6,7 +6,31 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2019-12-18T17:51:58.438002+01:00</updated>
+  <updated>2019-12-19T07:27:24.743825+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 37.1–43.0%, 19–23 seats</li><li>Koalicja Obywatelska (EPP): 19.6–24.6%, 10–13 seats</li><li>Lewica (S&amp;D): 16.7–21.5%, 8–11 seats</li><li>Koalicja Polska (EPP): 8.3–12.0%, 4–6 seats</li><li>Konfederacja (NI): 6.5–9.8%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-10-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-12-10-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes for wpolityce.pl, 6–10 December 2019</title>
+    <updated>2019-12-19T07:27:24.743825+01:00</updated>
+    <dc:date>2019-12-19T07:27:24.743825+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 39.3–45.1%, 20–24 seats</li><li>Koalicja Obywatelska (EPP): 27.5–32.9%, 14–17 seats</li><li>Lewica (S&amp;D): 11.4–15.4%, 6–8 seats</li><li>Koalicja Polska (EPP): 4.8–7.7%, 0–4 seats</li><li>Konfederacja (NI): 6.9–10.2%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-07-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-12-07-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for Radio ZET, 6–7 December 2019</title>
+    <updated>2019-12-19T07:27:22.835768+01:00</updated>
+    <dc:date>2019-12-19T07:27:22.835768+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 46.8–53.1%, 24–28 seats</li><li>Koalicja Obywatelska (EPP): 21.8–27.2%, 11–14 seats</li><li>Lewica (S&amp;D): 10.2–14.4%, 5–7 seats</li><li>Koalicja Polska (EPP): 5.3–8.5%, 2–4 seats</li><li>Konfederacja (NI): 5.3–8.5%, 2–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-05-CBOS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-12-05-CBOS.html"/>
+    <title>Opinion Poll by CBOS, 28 November–5 December 2019</title>
+    <updated>2019-12-19T07:27:20.391695+01:00</updated>
+    <dc:date>2019-12-19T07:27:20.391695+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 37.4–43.4%, 20–23 seats</li><li>Koalicja Obywatelska (EPP): 21.7–26.9%, 11–14 seats</li><li>Lewica (S&amp;D): 14.0–18.5%, 7–10 seats</li><li>Koalicja Polska (EPP): 7.4–11.0%, 3–5 seats</li><li>Konfederacja (NI): 7.4–11.0%, 4–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-03-SocialChanges.html</id>
@@ -383,5 +407,5 @@
     <updated>2019-07-21T23:23:00.970878+02:00</updated>
     <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
   </entry>
-  <dc:date>2019-12-18T17:51:58.438002+01:00</dc:date>
+  <dc:date>2019-12-19T07:27:24.743825+01:00</dc:date>
 </feed>

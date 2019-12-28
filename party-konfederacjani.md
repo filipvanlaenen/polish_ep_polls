@@ -11,6 +11,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 6.9% | 5.5–12.0% | 5.2–12.7% | 5.0–13.3% | 4.5–14.2% |
+| [22 December 2019](2019-12-22-IBSP.html) | IBSP | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
+| [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 6.8% | 5.9–7.9% | 5.7–8.2% | 5.5–8.5% | 5.1–9.0% |
+| [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.6% | 5.5–8.0% | 5.2–8.4% | 4.9–8.8% | 4.5–9.5% |
+| [17–18 December 2019](2019-12-18-KantarPublic.html) | Kantar Public <br> TVN | 6.9% | 5.7–8.5% | 5.4–8.9% | 5.2–9.3% | 4.6–10.0% |
+| [13–17 December 2019](2019-12-17-SocialChanges.html) | Social Changes <br> wpolityce.pl | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
+| [6–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public <br> WO | 7.0% | 5.9–8.5% | 5.5–8.9% | 5.3–9.3% | 4.8–10.0% |
 | [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 8.4% | 7.4–9.5% | 7.1–9.9% | 6.9–10.2% | 6.4–10.7% |
 | [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.5% | 4.9–9.0% |
@@ -133,6 +139,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–6 | 2–6 | 0–7 | 0–7 |
+| [22 December 2019](2019-12-22-IBSP.html) | IBSP | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–4 | 2–4 | 0–4 | 0–5 |
+| [17–18 December 2019](2019-12-18-KantarPublic.html) | Kantar Public <br> TVN | 3 | 3–4 | 2–4 | 2–4 | 0–5 |
+| [13–17 December 2019](2019-12-17-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [6–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public <br> WO | 3 | 3–4 | 2–4 | 2–4 | 0–5 |
 | [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 3 | 3–4 | 2–4 | 2–4 | 0–4 |

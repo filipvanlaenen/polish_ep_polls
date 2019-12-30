@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 6.0–10.4% | 5.6–10.9% | 5.3–11.3% | 4.7–12.0% |
+| N/A | [Poll Average](average.html) | 7.9% | 6.3–10.0% | 5.9–10.6% | 5.6–11.1% | 5.1–11.9% |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 8.3% | 7.3–9.4% | 7.0–9.8% | 6.8–10.1% | 6.3–10.6% |
 | [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.7% | 7.5–10.3% | 7.1–10.8% | 6.8–11.2% | 6.2–11.9% |
@@ -115,15 +115,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.2% | 100% |  |
-| 4.5–5.5% | 4% | 99.8% |  |
-| 5.5–6.5% | 11% | 95% |  |
-| 6.5–7.5% | 12% | 84% |  |
-| 7.5–8.5% | 21% | 71% |  |
-| 8.5–9.5% | 25% | 50% | Median |
-| 9.5–10.5% | 17% | 25% |  |
-| 10.5–11.5% | 7% | 8% |  |
-| 11.5–12.5% | 1.3% | 1.5% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 13% | 98% |  |
+| 6.5–7.5% | 26% | 85% |  |
+| 7.5–8.5% | 26% | 59% | Median |
+| 8.5–9.5% | 17% | 33% |  |
+| 9.5–10.5% | 10% | 16% |  |
+| 10.5–11.5% | 4% | 5% |  |
+| 11.5–12.5% | 1.0% | 1.1% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -136,7 +136,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–5 | 2–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 2–6 |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
@@ -239,14 +239,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.3% | 100% | Last Result |
-| 1 | 0% | 98.7% |  |
-| 2 | 4% | 98.7% |  |
-| 3 | 22% | 95% |  |
-| 4 | 41% | 73% | Median |
-| 5 | 29% | 33% |  |
-| 6 | 4% | 4% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 0% | 99.6% |  |
+| 2 | 0.9% | 99.6% |  |
+| 3 | 36% | 98.7% |  |
+| 4 | 43% | 63% | Median |
+| 5 | 17% | 20% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0% | 0% |  |
 
 

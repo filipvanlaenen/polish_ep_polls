@@ -233,10 +233,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
-| [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
+| [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 24–26 | 23–26 | 23–26 | 22–27 |
 | [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 25–28 | 24–28 | 24–29 |
-| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
+| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 24 | 23–24 | 23–25 | 23–25 | 22–25 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 25 | 25–26 | 25–26 | 25–26 | 25–26 |
 | [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 30 | 29–31 | 29–32 | 28–32 | 28–33 |

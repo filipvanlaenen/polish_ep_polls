@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 29 Dec 2019 19:07:57 +0100</pubDate>
+    <pubDate>Tue, 31 Dec 2019 12:11:32 +0100</pubDate>
     <item>
       <title>Opinion Poll by IBSP, 22 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-22-IBSP.html#seats</link>
@@ -1400,14 +1400,34 @@
       <dc:date>2019-12-12T18:47:34.376891+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 6–7 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 21–25 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 0 seats&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS-seats.png"
+        length="139577"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 21:56:12 +0100</pubDate>
+      <dc:date>2019-12-30T21:56:12.72614+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 6–7 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS-coalitions-seats.png"
+        length="128437"
+        type="image/png"/>
+      <pubDate>Mon, 30 Dec 2019 21:56:12 +0100</pubDate>
+      <dc:date>2019-12-30T21:56:12.72614+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 6–7 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 39.4–45.5%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 20.2–25.4%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.1–15.3%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0.3–1.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS.png"
         length="189039"
         type="image/png"/>
-      <pubDate>Thu, 12 Dec 2019 19:03:51 +0100</pubDate>
-      <dc:date>2019-12-12T19:03:51.711676+01:00</dc:date>
+      <pubDate>Mon, 30 Dec 2019 21:56:12 +0100</pubDate>
+      <dc:date>2019-12-30T21:56:12.72614+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 4–6 September 2019 – Voting Intentions</title>
@@ -1430,14 +1450,34 @@
       <dc:date>2019-12-12T19:14:56.686044+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 30 August–4 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 21–25 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 14–17 seats&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 3–5 seats&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-SocialChanges-seats.png"
+        length="124673"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 12:11:32 +0100</pubDate>
+      <dc:date>2019-12-31T12:11:32.34222+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 30 August–4 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-SocialChanges-coalitions-seats.png"
+        length="134593"
+        type="image/png"/>
+      <pubDate>Tue, 31 Dec 2019 12:11:32 +0100</pubDate>
+      <dc:date>2019-12-31T12:11:32.34222+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Social Changes for wpolityce.pl, 30 August–4 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-SocialChanges.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 40.5–46.5%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 26.4–32.0%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.9–16.1%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 7.0–10.4%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-04-SocialChanges.png"
         length="174816"
         type="image/png"/>
-      <pubDate>Thu, 12 Dec 2019 19:20:20 +0100</pubDate>
-      <dc:date>2019-12-12T19:20:20.075006+01:00</dc:date>
+      <pubDate>Tue, 31 Dec 2019 12:11:32 +0100</pubDate>
+      <dc:date>2019-12-31T12:11:32.34222+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 24 August–4 September 2019 – Voting Intentions</title>
@@ -2119,6 +2159,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2019-12-29T19:07:57.175946+01:00</dc:date>
+    <dc:date>2019-12-31T12:11:32.34222+01:00</dc:date>
   </channel>
 </rss>

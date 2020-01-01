@@ -10,12 +10,15 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Zjednoczona Prawica (ECR) | 0.0% | 45.9% | 43.9–47.9% |43.3–48.5% |42.8–49.0% |41.9–49.9% |
-| Koalicja Obywatelska (EPP) | 0.0% | 30.2% | 28.4–32.1% |27.9–32.6% |27.5–33.1% |26.6–34.0% |
-| Lewica (S&D) | 0.0% | 10.1% | 9.0–11.4% |8.7–11.8% |8.4–12.1% |7.9–12.8% |
-| Koalicja Polska (EPP) | 0.0% | 5.3% | 4.5–6.3% |4.3–6.6% |4.1–6.9% |3.7–7.4% |
-| Konfederacja (NI) | 0.0% | 4.1% | 3.4–5.0% |3.2–5.3% |3.1–5.5% |2.8–6.0% |
-| Bezpartyjni Samorządowcy (*) | 0.0% | 3.3% | 2.7–4.2% |2.5–4.4% |2.4–4.6% |2.1–5.1% |
+| Prawo i Sprawiedliwość (ECR) | 0.0% | 45.4% | N/A |N/A |N/A |N/A |
+| Platforma Obywatelska (EPP) | 0.0% | 28.9% | N/A |N/A |N/A |N/A |
+| Sojusz Lewicy Demokratycznej (S&D) | 0.0% | 5.4% | N/A |N/A |N/A |N/A |
+| Polskie Stronnictwo Ludowe (EPP) | 0.0% | 5.1% | N/A |N/A |N/A |N/A |
+| Wiosna (S&D) | 0.0% | 3.7% | N/A |N/A |N/A |N/A |
+| Kukiz’15 (NI) | 0.0% | 2.8% | N/A |N/A |N/A |N/A |
+| KORWiN (NI) | 0.0% | 2.6% | N/A |N/A |N/A |N/A |
+| Lewica Razem (S&D) | 0.0% | 2.2% | N/A |N/A |N/A |N/A |
+| .Nowoczesna (RE) | 0.0% | 1.4% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -29,12 +32,15 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 26 | 25–28 |25–28 |24–29 |23–29 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 17 | 16–18 |16–19 |15–19 |15–20 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 5 | 5–6 |5–6 |4–7 |4–7 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 0–3 |0–3 |0–3 |0–4 |
-| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0–2 |0–3 |0–3 |0–3 |
-| <a href="#bezpartyjni-samorządowcy-(*)">Bezpartyjni Samorządowcy (*)</a> | 0 | 0 | 0 |0 |0 |0–2 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#kukiz’15-(ni)">Kukiz’15 (NI)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#korwin-(ni)">KORWiN (NI)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#lewica-razem-(s&d)">Lewica Razem (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#.nowoczesna-(re)">.Nowoczesna (RE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 
 ### Zjednoczona Prawica (ECR)
 
@@ -67,14 +73,14 @@
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
-| 23 | 0.6% | 99.9% |  |
-| 24 | 4% | 99.4% |  |
-| 25 | 25% | 95% |  |
-| 26 | 34% | 70% | Median, Majority |
-| 27 | 23% | 36% |  |
-| 28 | 10% | 13% |  |
-| 29 | 2% | 3% |  |
-| 30 | 0.2% | 0.2% |  |
+| 23 | 0.7% | 100% |  |
+| 24 | 5% | 99.3% |  |
+| 25 | 22% | 94% |  |
+| 26 | 34% | 72% | Median, Majority |
+| 27 | 23% | 38% |  |
+| 28 | 12% | 15% |  |
+| 29 | 3% | 4% |  |
+| 30 | 0.3% | 0.3% |  |
 | 31 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
@@ -101,13 +107,12 @@
 | 13 | 0% | 100% |  |
 | 14 | 0.2% | 100% |  |
 | 15 | 4% | 99.8% |  |
-| 16 | 24% | 96% |  |
-| 17 | 40% | 72% | Median |
-| 18 | 23% | 32% |  |
-| 19 | 8% | 9% |  |
-| 20 | 0.7% | 0.8% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 16 | 22% | 95% |  |
+| 17 | 41% | 73% | Median |
+| 18 | 24% | 33% |  |
+| 19 | 7% | 8% |  |
+| 20 | 1.0% | 1.0% |  |
+| 21 | 0% | 0% |  |
 
 ### Lewica (S&D)
 
@@ -121,10 +126,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 4% | 100% |  |
-| 5 | 52% | 96% | Median |
-| 6 | 41% | 44% |  |
-| 7 | 3% | 3% |  |
+| 4 | 5% | 100% |  |
+| 5 | 52% | 95% | Median |
+| 6 | 39% | 43% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
@@ -136,10 +141,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 29% | 100% | Last Result |
-| 1 | 0% | 71% |  |
-| 2 | 10% | 71% |  |
-| 3 | 59% | 61% | Median |
+| 0 | 31% | 100% | Last Result |
+| 1 | 0% | 69% |  |
+| 2 | 10% | 69% |  |
+| 3 | 57% | 59% | Median |
 | 4 | 2% | 2% |  |
 | 5 | 0% | 0% |  |
 
@@ -151,9 +156,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 89% | 100% | Last Result, Median |
-| 1 | 0% | 11% |  |
-| 2 | 6% | 11% |  |
+| 0 | 90% | 100% | Last Result, Median |
+| 1 | 0% | 10% |  |
+| 2 | 5% | 10% |  |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 
@@ -165,9 +170,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0% | 0.5% |  |
-| 2 | 0.3% | 0.5% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0% | 0.6% |  |
+| 2 | 0.3% | 0.6% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
@@ -180,19 +185,15 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Bezpartyjni Samorządowcy (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0–2 |
+| .Nowoczesna (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
-### Bezpartyjni Samorządowcy (*)
+### .Nowoczesna (RE)
 
-![Graph with seats probability mass function not yet produced](2019-08-08-Estymator-coalitions-seats-pmf-x.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-08-08-Estymator-coalitions-seats-pmf-n.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0% | 0.5% |  |
-| 2 | 0.3% | 0.5% |  |
-| 3 | 0.2% | 0.2% |  |
-| 4 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
@@ -206,6 +207,6 @@
 ### Calculations
 
 + **Sample size:** 1020
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.69%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.61%
 

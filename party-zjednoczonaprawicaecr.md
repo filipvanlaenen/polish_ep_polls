@@ -251,7 +251,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 21–24 | 21–25 | 21–25 |
-| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 25–28 | 24–29 | 23–29 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 24–28 | 24–29 | 23–29 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 24 | 23–25 | 23–26 | 22–26 | 22–26 |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes |  |  |  |  |  |

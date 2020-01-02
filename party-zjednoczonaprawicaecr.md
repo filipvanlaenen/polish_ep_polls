@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.7% | 38.9–49.2% | 38.1–50.6% | 37.4–51.4% | 36.2–52.9% |
+| N/A | [Poll Average](average.html) | 43.7% | 39.3–49.2% | 38.3–50.6% | 37.6–51.4% | 36.3–52.9% |
+| [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.1–43.0% | 38.5–43.5% | 38.0–44.0% | 37.1–45.0% |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 39.1% | 37.1–41.1% | 36.6–41.7% | 36.1–42.2% | 35.2–43.1% |
 | [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 44.1% | 42.2–46.0% | 41.6–46.6% | 41.2–47.1% | 40.3–48.0% |
 | [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 44.3% | 41.8–46.8% | 41.1–47.5% | 40.5–48.1% | 39.3–49.3% |
@@ -147,14 +148,14 @@ The following table shows the probability mass function per percentage block of 
 | 32.5–33.5% | 0% | 100% |  |
 | 33.5–34.5% | 0% | 100% |  |
 | 34.5–35.5% | 0.1% | 100% |  |
-| 35.5–36.5% | 0.7% | 99.8% |  |
-| 36.5–37.5% | 2% | 99.2% |  |
-| 37.5–38.5% | 5% | 97% |  |
-| 38.5–39.5% | 7% | 93% |  |
-| 39.5–40.5% | 8% | 86% |  |
-| 40.5–41.5% | 7% | 78% |  |
-| 41.5–42.5% | 8% | 71% |  |
-| 42.5–43.5% | 11% | 63% |  |
+| 35.5–36.5% | 0.6% | 99.9% |  |
+| 36.5–37.5% | 2% | 99.3% |  |
+| 37.5–38.5% | 4% | 98% |  |
+| 38.5–39.5% | 6% | 94% |  |
+| 39.5–40.5% | 7% | 89% |  |
+| 40.5–41.5% | 8% | 82% |  |
+| 41.5–42.5% | 9% | 74% |  |
+| 42.5–43.5% | 12% | 64% |  |
 | 43.5–44.5% | 13% | 52% | Median |
 | 44.5–45.5% | 12% | 39% |  |
 | 45.5–46.5% | 8% | 27% |  |
@@ -177,7 +178,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 20–26 | 20–27 | 20–27 | 19–28 |
+| N/A | [Poll Average](average.html) | 23 | 21–26 | 20–27 | 20–27 | 19–28 |
+| [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 23 | 22–24 | 22–24 | 21–25 | 21–25 |
 | [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
@@ -230,7 +232,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 24–26 | 23–26 | 23–26 | 23–27 |
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 25 | 24–26 | 23–26 | 23–27 | 22–27 |
-| [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
+| [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
@@ -300,11 +302,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0.2% | 100% |  |
 | 19 | 2% | 99.8% |  |
-| 20 | 8% | 98% |  |
-| 21 | 14% | 89% |  |
-| 22 | 17% | 76% |  |
-| 23 | 23% | 59% | Median |
-| 24 | 16% | 36% |  |
+| 20 | 7% | 98% |  |
+| 21 | 12% | 91% |  |
+| 22 | 19% | 79% |  |
+| 23 | 25% | 61% | Median |
+| 24 | 17% | 36% |  |
 | 25 | 7% | 19% |  |
 | 26 | 6% | 12% | Majority |
 | 27 | 4% | 6% |  |

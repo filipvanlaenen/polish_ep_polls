@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.7% | 22.5–30.3% | 21.9–31.1% | 21.4–31.7% | 20.5–32.9% |
+| N/A | [Poll Average](average.html) | 26.7% | 22.5–30.3% | 21.9–31.1% | 21.4–31.7% | 20.4–32.9% |
+| [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23.0% | 21.4–24.7% | 20.9–25.2% | 20.5–25.7% | 19.8–26.5% |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 27.9% | 26.1–29.8% | 25.6–30.3% | 25.2–30.8% | 24.4–31.7% |
 | [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 29.7% | 28.0–31.6% | 27.5–32.1% | 27.1–32.5% | 26.3–33.4% |
 | [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 27.9% | 25.7–30.2% | 25.1–30.9% | 24.6–31.4% | 23.5–32.6% |
@@ -158,6 +159,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14 | 12–16 | 11–16 | 11–16 | 11–17 |
+| [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -272,8 +274,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0.4% | 100% |  |
 | 11 | 7% | 99.6% |  |
-| 12 | 20% | 93% |  |
-| 13 | 18% | 73% |  |
+| 12 | 21% | 93% |  |
+| 13 | 17% | 72% |  |
 | 14 | 19% | 55% | Median |
 | 15 | 22% | 35% |  |
 | 16 | 11% | 14% |  |

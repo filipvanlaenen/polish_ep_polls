@@ -199,7 +199,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 3 | 3 | 3 | 3 | 3 |
-| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0–2 | 0–3 | 0–3 |
-| [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
+| [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |

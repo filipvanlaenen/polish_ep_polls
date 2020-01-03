@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 02 Jan 2020 20:24:11 +0100</pubDate>
+    <pubDate>Fri, 03 Jan 2020 20:34:05 +0100</pubDate>
     <item>
       <title>Opinion Poll by Social Changes for wpolityce.pl, 20–24 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-24-SocialChanges.html#seats</link>
@@ -1320,14 +1320,34 @@
       <dc:date>2019-12-12T17:24:07.792863+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 24–25 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-InstytutBadańPollster.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 23–27 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 13–16 seats&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 6–9 seats&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-InstytutBadańPollster-seats.png"
+        length="126683"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jan 2020 20:16:51 +0100</pubDate>
+      <dc:date>2020-01-03T20:16:51.312347+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 24–25 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-InstytutBadańPollster.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-InstytutBadańPollster-coalitions-seats.png"
+        length="138545"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jan 2020 20:16:51 +0100</pubDate>
+      <dc:date>2020-01-03T20:16:51.312347+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 24–25 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-InstytutBadańPollster.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.0–47.9%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 23.5–28.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 12.1–16.2%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.6–8.7%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3.9–6.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-InstytutBadańPollster.png"
-        length="168843"
+        length="168931"
         type="image/png"/>
-      <pubDate>Thu, 12 Dec 2019 17:29:28 +0100</pubDate>
-      <dc:date>2019-12-12T17:29:28.645584+01:00</dc:date>
+      <pubDate>Fri, 03 Jan 2020 20:16:51 +0100</pubDate>
+      <dc:date>2020-01-03T20:16:51.312347+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBM Indicator for TVP, 23–25 September 2019 – Voting Intentions</title>
@@ -1364,10 +1384,10 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-19-CBOS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 42.9–49.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 20.5–25.8%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 3.8–6.6%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 6.4–9.8%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.1–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-19-CBOS.png"
-        length="161306"
+        length="161387"
         type="image/png"/>
-      <pubDate>Thu, 12 Dec 2019 17:56:19 +0100</pubDate>
-      <dc:date>2019-12-12T17:56:19.874493+01:00</dc:date>
+      <pubDate>Fri, 03 Jan 2020 10:59:56 +0100</pubDate>
+      <dc:date>2020-01-03T10:59:56.32639+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes for wpolityce.pl, 13–18 September 2019 – Voting Intentions</title>
@@ -1570,14 +1590,34 @@
       <dc:date>2019-12-12T19:58:20.706577+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by CBOS, 22–29 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 28–32 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 11–13 seats&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 0 seats&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-CBOS-seats.png"
+        length="121240"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jan 2020 15:43:48 +0100</pubDate>
+      <dc:date>2020-01-03T15:43:48.493896+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 22–29 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-CBOS-coalitions-seats.png"
+        length="110985"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jan 2020 15:43:48 +0100</pubDate>
+      <dc:date>2020-01-03T15:43:48.493896+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by CBOS, 22–29 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-CBOS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 51.0–57.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 19.4–24.5%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 8.6–12.3%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 1.6–3.5%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 2.5–4.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-29-CBOS.png"
-        length="183000"
+        length="183064"
         type="image/png"/>
-      <pubDate>Thu, 12 Dec 2019 20:03:59 +0100</pubDate>
-      <dc:date>2019-12-12T20:03:59.716023+01:00</dc:date>
+      <pubDate>Fri, 03 Jan 2020 15:43:48 +0100</pubDate>
+      <dc:date>2020-01-03T15:43:48.493896+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes for wpolityce.pl, 23–28 August 2019 – Voting Intentions</title>
@@ -1680,14 +1720,34 @@
       <dc:date>2019-12-12T21:14:11.741455+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 9–10 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-10-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 21–24 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 13–16 seats&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 5–7 seats&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 0 seats&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-10-IBRiS-seats.png"
+        length="137319"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jan 2020 20:34:05 +0100</pubDate>
+      <dc:date>2020-01-03T20:34:05.168581+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 9–10 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-10-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-10-IBRiS-coalitions-seats.png"
+        length="122830"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jan 2020 20:34:05 +0100</pubDate>
+      <dc:date>2020-01-03T20:34:05.168581+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 9–10 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-10-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 38.4–44.2%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 24.4–29.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 9.9–13.7%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 1.2–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-10-IBRiS.png"
-        length="190446"
+        length="190503"
         type="image/png"/>
-      <pubDate>Thu, 12 Dec 2019 21:22:02 +0100</pubDate>
-      <dc:date>2019-12-12T21:22:02.234495+01:00</dc:date>
+      <pubDate>Fri, 03 Jan 2020 20:34:05 +0100</pubDate>
+      <dc:date>2020-01-03T20:34:05.168581+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Seat Projections for the Parties</title>
@@ -1730,14 +1790,34 @@
       <dc:date>2019-12-01T09:35:17.834534+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 6–7 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-InstytutBadańPollster.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 24–31 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 14–18 seats&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;KORWiN (NI): 0–3 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (S&amp;amp;D): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-InstytutBadańPollster-seats.png"
+        length="221718"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jan 2020 17:39:46 +0100</pubDate>
+      <dc:date>2020-01-03T17:39:46.763638+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for Super Express, 6–7 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-InstytutBadańPollster.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-InstytutBadańPollster-coalitions-seats.png"
+        length="171676"
+        type="image/png"/>
+      <pubDate>Fri, 03 Jan 2020 17:39:46 +0100</pubDate>
+      <dc:date>2020-01-03T17:39:46.763638+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 6–7 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-InstytutBadańPollster.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość (ECR): 40.0–46.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 22.5–27.7%&lt;/li&gt;&lt;li&gt;Kukiz’15 (NI): 3.8–6.5%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.3–3.0%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Wiosna (S&amp;amp;D): 4.7–7.6%&lt;/li&gt;&lt;li&gt;KORWiN (NI): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Lewica Razem (S&amp;amp;D): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-07-InstytutBadańPollster.png"
-        length="223175"
+        length="223229"
         type="image/png"/>
-      <pubDate>Sun, 01 Dec 2019 09:43:37 +0100</pubDate>
-      <dc:date>2019-12-01T09:43:37.179636+01:00</dc:date>
+      <pubDate>Fri, 03 Jan 2020 17:39:46 +0100</pubDate>
+      <dc:date>2020-01-03T17:39:46.763638+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 26–31 July 2019 – Seat Projections for the Parties</title>
@@ -2249,6 +2329,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2020-01-02T20:24:11.562049+01:00</dc:date>
+    <dc:date>2020-01-03T20:34:05.168581+01:00</dc:date>
   </channel>
 </rss>

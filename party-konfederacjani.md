@@ -194,7 +194,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0 | 0 | 0 |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–2 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0–2 | 0–2 | 0–3 |

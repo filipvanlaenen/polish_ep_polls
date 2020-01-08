@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 07 Jan 2020 19:36:10 +0100</pubDate>
+    <pubDate>Wed, 08 Jan 2020 18:01:24 +0100</pubDate>
     <item>
       <title>Opinion Poll by Social Changes for wpolityce.pl, 20–24 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-12-24-SocialChanges.html#seats</link>
@@ -1750,14 +1750,34 @@
       <dc:date>2019-12-12T20:29:34.66276+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IBRiS for RMF, 23–24 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-24-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 20–24 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 12–15 seats&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 6–8 seats&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-24-IBRiS-seats.png"
+        length="142127"
+        type="image/png"/>
+      <pubDate>Wed, 08 Jan 2020 18:01:24 +0100</pubDate>
+      <dc:date>2020-01-08T18:01:24.595145+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for RMF, 23–24 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-24-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-24-IBRiS-coalitions-seats.png"
+        length="150363"
+        type="image/png"/>
+      <pubDate>Wed, 08 Jan 2020 18:01:24 +0100</pubDate>
+      <dc:date>2020-01-08T18:01:24.595145+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS for RMF, 23–24 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-24-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 38.4–44.2%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 22.5–27.6%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 11.4–15.4%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4.6–7.4%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 4.1–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-24-IBRiS.png"
-        length="170340"
+        length="170396"
         type="image/png"/>
-      <pubDate>Thu, 12 Dec 2019 20:36:07 +0100</pubDate>
-      <dc:date>2019-12-12T20:36:07.705738+01:00</dc:date>
+      <pubDate>Wed, 08 Jan 2020 18:01:24 +0100</pubDate>
+      <dc:date>2020-01-08T18:01:24.595145+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public for TVN, 22 August 2019 – Voting Intentions</title>
@@ -2439,6 +2459,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2020-01-07T19:36:10.542453+01:00</dc:date>
+    <dc:date>2020-01-08T18:01:24.595145+01:00</dc:date>
   </channel>
 </rss>

@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.2–9.3% | 5.8–9.8% | 5.6–10.2% | 5.0–11.1% |
-| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.8% | 6.3–9.3% | 5.9–9.7% | 5.6–10.1% | 5.1–11.0% |
+| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8.0% | 7.1–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–9.9% | 6.2–10.5% |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
@@ -120,12 +120,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 15% | 98% |  |
-| 6.5–7.5% | 29% | 83% |  |
-| 7.5–8.5% | 30% | 54% | Median |
-| 8.5–9.5% | 18% | 24% |  |
-| 9.5–10.5% | 5% | 7% |  |
-| 10.5–11.5% | 1.2% | 1.4% |  |
+| 5.5–6.5% | 13% | 98% |  |
+| 6.5–7.5% | 28% | 85% |  |
+| 7.5–8.5% | 32% | 57% | Median |
+| 8.5–9.5% | 18% | 25% |  |
+| 9.5–10.5% | 5% | 6% |  |
+| 10.5–11.5% | 1.0% | 1.2% |  |
 | 11.5–12.5% | 0.2% | 0.2% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -139,7 +139,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
-| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 3 | 2–3 | 2–3 | 0–4 | 0–4 |
-| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0–2 | 0–3 | 0–3 |
@@ -244,13 +244,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 0% | 99.5% |  |
-| 2 | 1.0% | 99.5% |  |
-| 3 | 40% | 98% |  |
-| 4 | 49% | 59% | Median |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 0% | 99.6% |  |
+| 2 | 0.9% | 99.6% |  |
+| 3 | 37% | 98.7% |  |
+| 4 | 52% | 62% | Median |
 | 5 | 9% | 10% |  |
-| 6 | 0.5% | 0.5% |  |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 

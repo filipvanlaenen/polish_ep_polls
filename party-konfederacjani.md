@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 5.9–9.7% | 5.6–10.4% | 5.3–10.9% | 4.8–11.7% |
-| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 7.6% | 6.0–9.9% | 5.7–10.4% | 5.4–10.9% | 4.8–11.7% |
+| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 9.8% | 8.7–11.1% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
@@ -120,12 +120,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 4% | 99.8% |  |
-| 5.5–6.5% | 21% | 96% |  |
-| 6.5–7.5% | 31% | 74% | Median |
-| 7.5–8.5% | 21% | 44% |  |
-| 8.5–9.5% | 11% | 23% |  |
-| 9.5–10.5% | 8% | 12% |  |
-| 10.5–11.5% | 3% | 4% |  |
+| 5.5–6.5% | 18% | 96% |  |
+| 6.5–7.5% | 27% | 78% |  |
+| 7.5–8.5% | 21% | 51% | Median |
+| 8.5–9.5% | 16% | 30% |  |
+| 9.5–10.5% | 10% | 14% |  |
+| 10.5–11.5% | 4% | 4% |  |
 | 11.5–12.5% | 0.6% | 0.7% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -139,8 +139,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–5 | 2–5 | 2–5 | 0–6 |
-| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–5 | 0–6 |
+| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -245,13 +245,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% | Last Result |
-| 1 | 0% | 98.9% |  |
-| 2 | 4% | 98.9% |  |
-| 3 | 50% | 95% | Median |
-| 4 | 31% | 44% |  |
-| 5 | 12% | 13% |  |
-| 6 | 1.4% | 1.4% |  |
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 0% | 99.0% |  |
+| 2 | 4% | 99.0% |  |
+| 3 | 43% | 95% |  |
+| 4 | 34% | 52% | Median |
+| 5 | 16% | 18% |  |
+| 6 | 1.4% | 1.5% |  |
 | 7 | 0% | 0% |  |
 
 

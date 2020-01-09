@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 24.2–30.5% | 23.4–31.2% | 22.9–31.8% | 21.9–33.0% |
-| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 26.9% | 23.1–30.3% | 22.3–31.1% | 21.7–31.7% | 20.7–32.9% |
+| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23.0% | 21.4–24.8% | 21.0–25.3% | 20.6–25.7% | 19.8–26.5% |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23.0% | 21.4–24.7% | 20.9–25.2% | 20.5–25.7% | 19.8–26.5% |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.2% | 22.2–29.1% |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 27.9% | 26.1–29.8% | 25.6–30.3% | 25.2–30.8% | 24.4–31.7% |
@@ -134,21 +134,21 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0.2% | 100% |  |
-| 21.5–22.5% | 1.3% | 99.7% |  |
-| 22.5–23.5% | 4% | 98% |  |
-| 23.5–24.5% | 8% | 94% |  |
-| 24.5–25.5% | 11% | 87% |  |
-| 25.5–26.5% | 12% | 76% |  |
-| 26.5–27.5% | 14% | 63% |  |
-| 27.5–28.5% | 15% | 50% | Median |
-| 28.5–29.5% | 14% | 35% |  |
-| 29.5–30.5% | 11% | 21% |  |
-| 30.5–31.5% | 6% | 10% |  |
-| 31.5–32.5% | 3% | 3% |  |
-| 32.5–33.5% | 0.7% | 1.0% |  |
-| 33.5–34.5% | 0.2% | 0.2% |  |
+| 19.5–20.5% | 0.3% | 100% |  |
+| 20.5–21.5% | 2% | 99.6% |  |
+| 21.5–22.5% | 4% | 98% |  |
+| 22.5–23.5% | 8% | 94% |  |
+| 23.5–24.5% | 10% | 86% |  |
+| 24.5–25.5% | 11% | 76% |  |
+| 25.5–26.5% | 11% | 65% |  |
+| 26.5–27.5% | 12% | 54% | Median |
+| 27.5–28.5% | 13% | 43% |  |
+| 28.5–29.5% | 12% | 30% |  |
+| 29.5–30.5% | 9% | 18% |  |
+| 30.5–31.5% | 5% | 8% |  |
+| 31.5–32.5% | 2% | 3% |  |
+| 32.5–33.5% | 0.6% | 0.8% |  |
+| 33.5–34.5% | 0.1% | 0.2% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -160,8 +160,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 12–17 | 11–17 |
-| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 14 | 12–16 | 12–16 | 11–16 | 11–17 |
+| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
@@ -213,7 +213,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
-| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 12–14 | 12–15 | 12–15 | 12–15 |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
@@ -234,7 +234,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
 | [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
@@ -276,14 +276,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 1.3% | 100% |  |
-| 12 | 9% | 98.7% |  |
-| 13 | 21% | 89% |  |
-| 14 | 27% | 69% | Median |
-| 15 | 26% | 42% |  |
-| 16 | 13% | 16% |  |
-| 17 | 3% | 3% |  |
+| 10 | 0.2% | 100% |  |
+| 11 | 4% | 99.8% |  |
+| 12 | 15% | 96% |  |
+| 13 | 21% | 80% |  |
+| 14 | 23% | 59% | Median |
+| 15 | 22% | 36% |  |
+| 16 | 11% | 14% |  |
+| 17 | 2% | 2% |  |
 | 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 

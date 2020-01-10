@@ -230,7 +230,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
-| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 24 | 23–25 | 23–26 | 22–26 | 22–27 |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–27 | 25–28 | 24–28 | 24–29 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 25 | 24–27 | 24–27 | 23–27 | 23–28 |
 | [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 24–26 | 23–26 | 23–26 | 22–27 |

@@ -224,7 +224,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 8 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |

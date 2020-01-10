@@ -207,10 +207,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
-| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
+| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
 | [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
@@ -238,7 +238,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |

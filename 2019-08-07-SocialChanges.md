@@ -10,11 +10,15 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Zjednoczona Prawica (ECR) | 0.0% | 44.9% | 43.0–46.9% |42.4–47.5% |41.9–48.0% |41.0–49.0% |
-| Koalicja Obywatelska (EPP) | 0.0% | 26.9% | 25.2–28.7% |24.7–29.2% |24.3–29.7% |23.5–30.6% |
-| Lewica (S&D) | 0.0% | 14.9% | 13.6–16.4% |13.2–16.9% |12.9–17.2% |12.2–18.0% |
-| Koalicja Polska (EPP) | 0.0% | 9.3% | 8.2–10.5% |7.9–10.9% |7.6–11.2% |7.1–11.8% |
-| Konfederacja (NI) | 0.0% | 4.0% | 3.3–4.9% |3.1–5.2% |3.0–5.4% |2.7–5.9% |
+| Prawo i Sprawiedliwość (ECR) | 0.0% | 45.8% | N/A |N/A |N/A |N/A |
+| Platforma Obywatelska (EPP) | 0.0% | 24.8% | N/A |N/A |N/A |N/A |
+| Sojusz Lewicy Demokratycznej (S&D) | 0.0% | 6.9% | N/A |N/A |N/A |N/A |
+| Polskie Stronnictwo Ludowe (EPP) | 0.0% | 6.5% | N/A |N/A |N/A |N/A |
+| Wiosna (S&D) | 0.0% | 6.4% | N/A |N/A |N/A |N/A |
+| Kukiz’15 (NI) | 0.0% | 3.0% | N/A |N/A |N/A |N/A |
+| KORWiN (NI) | 0.0% | 2.3% | N/A |N/A |N/A |N/A |
+| .Nowoczesna (RE) | 0.0% | 1.7% | N/A |N/A |N/A |N/A |
+| Lewica Razem (S&D) | 0.0% | 1.3% | N/A |N/A |N/A |N/A |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -28,11 +32,15 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 24 | 23–25 |23–26 |22–26 |22–26 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 14 | 13–15 |13–15 |13–16 |12–16 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 8 | 7–8 |7–9 |7–9 |6–9 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 5 | 4–5 |4–5 |4–6 |3–6 |
-| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0 |0–2 |0–2 |0–3 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#kukiz’15-(ni)">Kukiz’15 (NI)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#korwin-(ni)">KORWiN (NI)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#.nowoczesna-(re)">.Nowoczesna (RE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
+| <a href="#lewica-razem-(s&d)">Lewica Razem (S&D)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 
 ### Zjednoczona Prawica (ECR)
 
@@ -65,11 +73,11 @@
 | 20 | 0% | 100% |  |
 | 21 | 0.2% | 100% |  |
 | 22 | 3% | 99.8% |  |
-| 23 | 19% | 97% |  |
-| 24 | 44% | 77% | Median |
-| 25 | 27% | 33% |  |
-| 26 | 6% | 6% | Majority |
-| 27 | 0.4% | 0.4% |  |
+| 23 | 18% | 97% |  |
+| 24 | 43% | 79% | Median |
+| 25 | 28% | 36% |  |
+| 26 | 7% | 7% | Majority |
+| 27 | 0.4% | 0.5% |  |
 | 28 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
@@ -92,12 +100,12 @@
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 1.2% | 100% |  |
-| 13 | 10% | 98.8% |  |
-| 14 | 45% | 88% | Median |
-| 15 | 39% | 43% |  |
-| 16 | 4% | 5% |  |
-| 17 | 0.4% | 0.4% |  |
+| 12 | 0.9% | 100% |  |
+| 13 | 13% | 99.1% |  |
+| 14 | 49% | 87% | Median |
+| 15 | 32% | 38% |  |
+| 16 | 6% | 6% |  |
+| 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -115,10 +123,10 @@
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
-| 7 | 37% | 98% |  |
-| 8 | 52% | 61% | Median |
-| 9 | 9% | 9% |  |
-| 10 | 0.2% | 0.2% |  |
+| 7 | 33% | 98% |  |
+| 8 | 54% | 65% | Median |
+| 9 | 11% | 11% |  |
+| 10 | 0.3% | 0.3% |  |
 | 11 | 0% | 0% |  |
 
 ### Koalicja Polska (EPP)
@@ -133,9 +141,9 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.8% | 100% |  |
-| 4 | 40% | 99.2% |  |
-| 5 | 55% | 59% | Median |
-| 6 | 5% | 5% |  |
+| 4 | 41% | 99.2% |  |
+| 5 | 54% | 59% | Median |
+| 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
 ### Konfederacja (NI)
@@ -146,9 +154,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 0% | 9% |  |
-| 2 | 8% | 9% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 6% | 7% |  |
 | 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
@@ -161,6 +169,15 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| .Nowoczesna (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### .Nowoczesna (RE)
+
+![Graph with seats probability mass function not yet produced](2019-08-07-SocialChanges-coalitions-seats-pmf-n.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Technical Information
@@ -174,6 +191,6 @@
 ### Calculations
 
 + **Sample size:** 1026
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.90%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.61%
 

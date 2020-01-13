@@ -204,7 +204,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 3 | 3 | 3 | 3 | 3 |
 | [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 3 | 0–3 | 0–3 | 0–4 | 0–4 |

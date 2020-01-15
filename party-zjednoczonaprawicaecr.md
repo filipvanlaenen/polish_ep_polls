@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.4% | 39.3–49.2% | 38.3–50.6% | 37.6–51.4% | 36.3–52.9% |
+| N/A | [Poll Average](average.html) | 42.8% | 39.1–46.1% | 38.2–47.0% | 37.5–47.8% | 36.2–49.3% |
+| [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 43.0% | 41.1–44.9% | 40.5–45.4% | 40.1–45.9% | 39.2–46.8% |
+| [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 45.5% | 43.0–48.0% | 42.3–48.7% | 41.7–49.3% | 40.5–50.5% |
 | [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.0–43.0% | 38.5–43.5% | 38.0–44.0% | 37.1–44.9% |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.1–43.0% | 38.5–43.5% | 38.0–44.0% | 37.1–45.0% |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 43.5% | 41.5–45.5% | 41.0–46.0% | 40.5–46.5% | 39.6–47.4% |
@@ -150,26 +152,23 @@ The following table shows the probability mass function per percentage block of 
 | 32.5–33.5% | 0% | 100% |  |
 | 33.5–34.5% | 0% | 100% |  |
 | 34.5–35.5% | 0.1% | 100% |  |
-| 35.5–36.5% | 0.6% | 99.9% |  |
-| 36.5–37.5% | 2% | 99.3% |  |
-| 37.5–38.5% | 4% | 98% |  |
-| 38.5–39.5% | 6% | 94% |  |
-| 39.5–40.5% | 7% | 88% |  |
-| 40.5–41.5% | 9% | 81% |  |
-| 41.5–42.5% | 11% | 72% |  |
-| 42.5–43.5% | 13% | 62% | Median |
-| 43.5–44.5% | 13% | 49% |  |
-| 44.5–45.5% | 11% | 35% |  |
-| 45.5–46.5% | 6% | 25% |  |
-| 46.5–47.5% | 4% | 18% |  |
-| 47.5–48.5% | 3% | 15% |  |
-| 48.5–49.5% | 3% | 12% |  |
-| 49.5–50.5% | 4% | 9% |  |
-| 50.5–51.5% | 3% | 5% |  |
-| 51.5–52.5% | 2% | 2% |  |
-| 52.5–53.5% | 0.6% | 0.7% |  |
-| 53.5–54.5% | 0.1% | 0.2% |  |
-| 54.5–55.5% | 0% | 0% |  |
+| 35.5–36.5% | 0.6% | 99.8% |  |
+| 36.5–37.5% | 2% | 99.2% |  |
+| 37.5–38.5% | 4% | 97% |  |
+| 38.5–39.5% | 7% | 93% |  |
+| 39.5–40.5% | 9% | 86% |  |
+| 40.5–41.5% | 11% | 78% |  |
+| 41.5–42.5% | 14% | 67% |  |
+| 42.5–43.5% | 15% | 53% | Median |
+| 43.5–44.5% | 14% | 38% |  |
+| 44.5–45.5% | 11% | 24% |  |
+| 45.5–46.5% | 7% | 14% |  |
+| 46.5–47.5% | 4% | 7% |  |
+| 47.5–48.5% | 2% | 3% |  |
+| 48.5–49.5% | 0.8% | 1.2% |  |
+| 49.5–50.5% | 0.3% | 0.3% |  |
+| 50.5–51.5% | 0.1% | 0.1% |  |
+| 51.5–52.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -180,7 +179,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 21–26 | 20–27 | 20–27 | 19–28 |
+| N/A | [Poll Average](average.html) | 22 | 20–24 | 20–25 | 20–25 | 19–26 |
+| [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
+| [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 23 | 22–24 | 21–24 | 21–25 | 21–25 |
@@ -247,11 +248,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 25 | 25–26 | 25–26 | 25–26 | 25–26 |
 | [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 30 | 29–31 | 29–32 | 28–32 | 28–33 |
 | [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
-| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 23 | 21–24 | 21–25 | 20–25 | 20–26 |
+| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 23 | 21–24 | 21–25 | 21–25 | 20–27 |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 22 | 21–24 | 21–24 | 20–24 | 20–25 |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 22 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
-| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
+| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 19–22 | 19–23 | 19–24 |
 | [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 25 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 23 | 22–24 | 21–25 | 21–25 | 21–25 |
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
@@ -306,16 +307,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0.2% | 100% |  |
 | 19 | 2% | 99.8% |  |
-| 20 | 7% | 98% |  |
-| 21 | 12% | 91% |  |
-| 22 | 22% | 79% |  |
-| 23 | 26% | 57% | Median |
-| 24 | 14% | 31% |  |
-| 25 | 6% | 18% |  |
-| 26 | 6% | 12% | Majority |
-| 27 | 4% | 6% |  |
-| 28 | 1.2% | 1.4% |  |
-| 29 | 0.1% | 0.1% |  |
-| 30 | 0% | 0% |  |
+| 20 | 8% | 98% |  |
+| 21 | 15% | 89% |  |
+| 22 | 24% | 74% | Median |
+| 23 | 27% | 50% |  |
+| 24 | 15% | 23% |  |
+| 25 | 6% | 8% |  |
+| 26 | 1.4% | 2% | Majority |
+| 27 | 0.3% | 0.3% |  |
+| 28 | 0% | 0% |  |
 
 

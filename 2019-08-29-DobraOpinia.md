@@ -31,7 +31,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 25 | 25–26 |25–26 |25–26 |25–26 |
 | <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 17 | 16–17 |16–17 |16–17 |16–17 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 6 |5–6 |5–6 |5–6 |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 6 |6 |5–6 |5–6 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 3 |3 |3 |3 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#bezpartyjni-samorządowcy-(*)">Bezpartyjni Samorządowcy (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -68,9 +68,9 @@
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
-| 24 | 0.1% | 100% |  |
-| 25 | 75% | 99.9% | Median |
-| 26 | 25% | 25% | Majority |
+| 24 | 0.2% | 100% |  |
+| 25 | 74% | 99.8% | Median |
+| 26 | 26% | 26% | Majority |
 | 27 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
@@ -97,9 +97,9 @@
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 20% | 100% |  |
-| 17 | 80% | 80% | Median |
-| 18 | 0.3% | 0.3% |  |
+| 16 | 21% | 100% |  |
+| 17 | 78% | 79% | Median |
+| 18 | 0.4% | 0.4% |  |
 | 19 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -185,6 +185,6 @@
 ### Calculations
 
 + **Sample size:** 8000
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.69%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.44%
 

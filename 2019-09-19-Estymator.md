@@ -29,7 +29,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 26 | 25–27 |25–28 |24–28 |24–29 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 15 | 14–16 |14–17 |13–17 |13–17 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 15 | 14–16 |14–16 |13–17 |13–17 |
 | <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 7 | 6–8 |6–8 |6–8 |5–9 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 2–3 |0–4 |0–4 |0–4 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0 |0 |0 |0–2 |
@@ -67,12 +67,12 @@
 | 22 | 0% | 100% |  |
 | 23 | 0.1% | 100% |  |
 | 24 | 3% | 99.9% |  |
-| 25 | 17% | 97% |  |
-| 26 | 42% | 80% | Median, Majority |
+| 25 | 18% | 97% |  |
+| 26 | 41% | 79% | Median, Majority |
 | 27 | 29% | 38% |  |
-| 28 | 7% | 9% |  |
-| 29 | 2% | 2% |  |
-| 30 | 0.1% | 0.1% |  |
+| 28 | 8% | 9% |  |
+| 29 | 1.4% | 2% |  |
+| 30 | 0.2% | 0.2% |  |
 | 31 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
@@ -97,11 +97,11 @@
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
 | 13 | 3% | 99.9% |  |
-| 14 | 20% | 97% |  |
-| 15 | 53% | 77% | Median |
-| 16 | 18% | 24% |  |
-| 17 | 5% | 5% |  |
-| 18 | 0.1% | 0.1% |  |
+| 14 | 23% | 97% |  |
+| 15 | 48% | 74% | Median |
+| 16 | 22% | 26% |  |
+| 17 | 4% | 4% |  |
+| 18 | 0.2% | 0.2% |  |
 | 19 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -119,8 +119,8 @@
 | 4 | 0% | 100% |  |
 | 5 | 0.7% | 100% |  |
 | 6 | 26% | 99.3% |  |
-| 7 | 59% | 74% | Median |
-| 8 | 13% | 14% |  |
+| 7 | 58% | 73% | Median |
+| 8 | 14% | 15% |  |
 | 9 | 0.5% | 0.5% |  |
 | 10 | 0% | 0% |  |
 
@@ -135,7 +135,7 @@
 | 0 | 6% | 100% | Last Result |
 | 1 | 0% | 94% |  |
 | 2 | 11% | 94% |  |
-| 3 | 76% | 83% | Median |
+| 3 | 75% | 83% | Median |
 | 4 | 8% | 8% |  |
 | 5 | 0% | 0% |  |
 
@@ -175,6 +175,6 @@
 ### Calculations
 
 + **Sample size:** 1022
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.62%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.49%
 

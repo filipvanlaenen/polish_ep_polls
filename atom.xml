@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-01-16T20:24:00.056501+01:00</updated>
+  <updated>2020-01-17T18:12:28.950549+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 40.1–45.9%, 21–25 seats</li><li>Koalicja Obywatelska (EPP): 28.3–33.8%, 15–18 seats</li><li>Lewica (S&amp;D): 12.9–17.1%, 6–9 seats</li><li>Koalicja Polska (EPP): 4.2–6.9%, 0–3 seats</li><li>Konfederacja (NI): 4.6–7.4%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-01-11-IBRiS.html</id>
@@ -408,12 +408,28 @@
     <dc:date>2020-01-03T20:16:51.312347+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 41.2–47.4%, 22–26 seats</li><li>Koalicja Obywatelska (EPP): 23.5–28.9%, 12–16 seats</li><li>Lewica (S&amp;D): 10.0–14.1%, 5–7 seats</li><li>Koalicja Polska (EPP): 4.8–7.8%, 0–4 seats</li><li>Konfederacja (NI): 3.0–5.5%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-CBMIndicator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-25-CBMIndicator.html"/>
+    <title>Opinion Poll by CBM Indicator for TVP, 23–25 September 2019</title>
+    <updated>2020-01-16T21:04:05.867851+01:00</updated>
+    <dc:date>2020-01-16T21:04:05.867851+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 41.6–47.5%, 22–26 seats</li><li>Koalicja Obywatelska (EPP): 21.5–26.5%, 11–14 seats</li><li>Lewica (S&amp;D): 12.1–16.3%, 6–9 seats</li><li>Koalicja Polska (EPP): 4.7–7.6%, 0–4 seats</li><li>Konfederacja (NI): 3.3–5.7%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-21-IBRiS.html</id>
     <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-21-IBRiS.html"/>
     <title>Opinion Poll by IBRiS for RMF, 20–21 September 2019</title>
     <updated>2020-01-10T18:57:18.9996+01:00</updated>
     <dc:date>2020-01-10T18:57:18.9996+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 45.1–51.2%, 24–28 seats</li><li>Koalicja Obywatelska (EPP): 25.2–30.7%, 13–17 seats</li><li>Lewica (S&amp;D): 11.3–15.4%, 6–8 seats</li><li>Koalicja Polska (EPP): 4.8–7.7%, 0–4 seats</li><li>Konfederacja (NI): 2.6–5.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-19-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-19-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 17–19 September 2019</title>
+    <updated>2020-01-17T18:12:28.950549+01:00</updated>
+    <dc:date>2020-01-17T18:12:28.950549+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 44.1–50.3%, 23–26 seats</li><li>Koalicja Obywatelska (EPP): 23.4–28.9%, 12–15 seats</li><li>Lewica (S&amp;D): 10.5–14.6%, 5–7 seats</li><li>Koalicja Polska (EPP): 5.4–8.5%, 2–4 seats</li><li>Konfederacja (NI): 6.0–9.3%, 3–4 seats</li></ul></div></content>
@@ -470,6 +486,14 @@
     <title>Opinion Poll by Instytut Badań Pollster for Super Express, 4–6 September 2019</title>
     <updated>2020-01-06T18:04:38.047685+01:00</updated>
     <dc:date>2020-01-06T18:04:38.047685+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 44.2–50.3%, 24–28 seats</li><li>Koalicja Obywatelska (EPP): 24.7–30.2%, 13–17 seats</li><li>Lewica (S&amp;D): 11.0–15.2%, 6–8 seats</li><li>Koalicja Polska (EPP): 4.7–7.7%, 0–4 seats</li><li>Konfederacja (NI): 2.8–5.2%, 0–2 seats</li><li>Bezpartyjni Samorządowcy (*): 1.0–2.6%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-05-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-05-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 4–5 September 2019</title>
+    <updated>2020-01-16T21:23:18.648165+01:00</updated>
+    <dc:date>2020-01-16T21:23:18.648165+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 40.5–46.5%, 21–25 seats</li><li>Koalicja Obywatelska (EPP): 26.4–32.0%, 14–17 seats</li><li>Lewica (S&amp;D): 11.9–16.1%, 6–8 seats</li><li>Koalicja Polska (EPP): 7.0–10.4%, 3–5 seats</li><li>Konfederacja (NI): 3.8–6.5%, 0–3 seats</li></ul></div></content>
@@ -727,5 +751,5 @@
     <updated>2019-07-21T23:23:00.970878+02:00</updated>
     <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
   </entry>
-  <dc:date>2020-01-16T20:24:00.056501+01:00</dc:date>
+  <dc:date>2020-01-17T18:12:28.950549+01:00</dc:date>
 </feed>

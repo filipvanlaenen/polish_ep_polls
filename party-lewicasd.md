@@ -208,7 +208,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–8 | 5–9 |

@@ -239,7 +239,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 25 | 24–26 | 23–26 | 23–27 | 22–27 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 24 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 23–26 | 23–26 | 23–26 | 22–27 |
-| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
+| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 24–26 | 23–26 | 23–26 | 22–27 |
 | [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–27 | 25–28 | 24–28 | 24–29 |
@@ -256,7 +256,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 25 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 23 | 22–24 | 21–25 | 21–25 | 21–25 |
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
-| [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 24 | 23–26 | 23–26 | 22–26 | 22–27 |
+| [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 24 | 23–26 | 23–26 | 22–27 | 22–27 |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 22–24 | 21–24 | 21–24 | 20–25 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 24–28 | 24–29 | 23–29 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 24 | 23–25 | 23–26 | 22–26 | 22–26 |

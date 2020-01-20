@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-01-17T18:12:28.950549+01:00</updated>
+  <updated>2020-01-17T23:37:51.081277+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 40.1–45.9%, 21–25 seats</li><li>Koalicja Obywatelska (EPP): 28.3–33.8%, 15–18 seats</li><li>Lewica (S&amp;D): 12.9–17.1%, 6–9 seats</li><li>Koalicja Polska (EPP): 4.2–6.9%, 0–3 seats</li><li>Konfederacja (NI): 4.6–7.4%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-01-11-IBRiS.html</id>
@@ -472,6 +472,14 @@
     <dc:date>2020-01-07T19:36:10.542453+01:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 37.0–43.1%, 20–23 seats</li><li>Koalicja Obywatelska (EPP): 21.4–26.8%, 11–14 seats</li><li>Lewica (S&amp;D): 9.2–13.1%, 4–7 seats</li><li>Koalicja Polska (EPP): 4.7–7.7%, 0–4 seats</li><li>Konfederacja (NI): 1.3–3.2%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-11-KantarPublic.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-11-KantarPublic.html"/>
+    <title>Opinion Poll by Kantar Public for TVN, 6–11 September 2019</title>
+    <updated>2020-01-17T21:20:52.983375+01:00</updated>
+    <dc:date>2020-01-17T21:20:52.983375+01:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 39.4–45.5%, 21–25 seats</li><li>Koalicja Obywatelska (EPP): 20.2–25.4%, 11–14 seats</li><li>Lewica (S&amp;D): 11.1–15.3%, 6–8 seats</li><li>Koalicja Polska (EPP): 4.3–7.2%, 0–3 seats</li><li>Konfederacja (NI): 2.4–4.7%, 0 seats</li><li>Bezpartyjni Samorządowcy (*): 0.3–1.3%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS.html</id>
     <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-09-07-IBRiS.html"/>
@@ -582,6 +590,14 @@
     <title>Opinion Poll by Ariadna, 16–20 August 2019</title>
     <updated>2020-01-09T19:26:30.308174+01:00</updated>
     <dc:date>2020-01-09T19:26:30.308174+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 40.5–46.7%, 22–27 seats</li><li>Koalicja Obywatelska (EPP): 24.1–29.6%, 13–17 seats</li><li>Lewica (S&amp;D): 9.1–13.0%, 5–7 seats</li><li>Koalicja Polska (EPP): 2.9–5.4%, 0–2 seats</li><li>Konfederacja (NI): 3.8–6.5%, 0–3 seats</li><li>Bezpartyjni Samorządowcy (*): 0.5–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-08-13-KantarPublic.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-08-13-KantarPublic.html"/>
+    <title>Opinion Poll by Kantar Public for TVN, 13 August 2019</title>
+    <updated>2020-01-17T23:37:51.081277+01:00</updated>
+    <dc:date>2020-01-17T23:37:51.081277+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 38.4–44.2%, 21–24 seats</li><li>Koalicja Obywatelska (EPP): 24.4–29.7%, 13–16 seats</li><li>Lewica (S&amp;D): 9.9–13.7%, 5–7 seats</li><li>Koalicja Polska (EPP): 5.2–8.2%, 2–4 seats</li><li>Konfederacja (NI): 2.0–4.0%, 0 seats</li><li>Bezpartyjni Samorządowcy (*): 1.2–2.8%, 0 seats</li></ul></div></content>
@@ -751,5 +767,5 @@
     <updated>2019-07-21T23:23:00.970878+02:00</updated>
     <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
   </entry>
-  <dc:date>2020-01-17T18:12:28.950549+01:00</dc:date>
+  <dc:date>2020-01-17T23:37:51.081277+01:00</dc:date>
 </feed>

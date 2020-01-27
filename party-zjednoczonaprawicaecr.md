@@ -17,6 +17,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 42.1% | 39.7–44.5% | 39.0–45.2% | 38.4–45.8% | 37.3–46.9% |
 | [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 43.0% | 41.1–44.9% | 40.5–45.4% | 40.1–45.9% | 39.2–46.8% |
 | [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 45.5% | 43.0–48.0% | 42.3–48.7% | 41.7–49.3% | 40.5–50.5% |
+| [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.1–43.0% | 38.5–43.6% | 38.1–44.1% | 37.2–45.0% |
 | [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.0–43.0% | 38.5–43.5% | 38.0–44.0% | 37.1–44.9% |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.1–43.0% | 38.5–43.5% | 38.0–44.0% | 37.1–45.0% |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 43.5% | 41.5–45.5% | 41.0–46.0% | 40.5–46.5% | 39.6–47.4% |
@@ -160,7 +161,7 @@ The following table shows the probability mass function per percentage block of 
 | 36.5–37.5% | 4% | 97% |  |
 | 37.5–38.5% | 5% | 93% |  |
 | 38.5–39.5% | 7% | 88% |  |
-| 39.5–40.5% | 10% | 82% |  |
+| 39.5–40.5% | 9% | 82% |  |
 | 40.5–41.5% | 12% | 72% |  |
 | 41.5–42.5% | 13% | 60% | Median |
 | 42.5–43.5% | 11% | 47% |  |
@@ -186,13 +187,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 20–26 | 19–26 | 19–27 | 18–28 |
+| N/A | [Poll Average](average.html) | 22 | 20–26 | 19–26 | 19–27 | 18–28 |
 | [14–16 January 2020](2020-01-16-Pollster.html) | Pollster | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 20 | 19–21 | 18–21 | 18–21 | 18–22 |
 | [9–16 January 2020](2020-01-16-CBOS.html) | CBOS | 26 | 25–27 | 24–28 | 24–28 | 23–29 |
 | [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 23 | 22–24 | 21–25 | 21–25 | 20–26 |
 | [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 23 | 21–24 | 21–25 | 21–25 | 20–26 |
 | [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
+| [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 23 | 22–24 | 21–24 | 21–25 | 21–25 |
@@ -318,10 +320,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0.9% | 100% |  |
 | 19 | 5% | 99.1% |  |
-| 20 | 8% | 94% |  |
-| 21 | 15% | 86% |  |
-| 22 | 20% | 71% |  |
-| 23 | 19% | 51% | Median |
+| 20 | 9% | 94% |  |
+| 21 | 16% | 86% |  |
+| 22 | 20% | 70% | Median |
+| 23 | 18% | 50% |  |
 | 24 | 12% | 32% |  |
 | 25 | 9% | 20% |  |
 | 26 | 6% | 11% | Majority |

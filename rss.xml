@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Jan 2020 06:46:32 +0100</pubDate>
+    <pubDate>Sun, 26 Jan 2020 09:24:59 +0100</pubDate>
     <item>
       <title>Opinion Poll by Pollster, 14–16 January 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-01-16-Pollster.html#seats</link>
@@ -188,6 +188,36 @@
         type="image/png"/>
       <pubDate>Wed, 15 Jan 2020 06:43:31 +0100</pubDate>
       <dc:date>2020-01-15T06:43:31.818371+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 3–7 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-01-07-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 20–23 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 11–14 seats&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 7–9 seats&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 4–6 seats&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 3–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-01-07-SocialChanges-seats.png"
+        length="129428"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jan 2020 09:24:59 +0100</pubDate>
+      <dc:date>2020-01-26T09:24:59.772385+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 3–7 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-01-07-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-01-07-SocialChanges-coalitions-seats.png"
+        length="133316"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jan 2020 09:24:59 +0100</pubDate>
+      <dc:date>2020-01-26T09:24:59.772385+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wpolityce.pl, 3–7 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-01-07-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 38.1–44.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 21.5–26.7%&lt;/li&gt;&lt;li&gt;Lewica (S&amp;amp;D): 13.9–18.3%&lt;/li&gt;&lt;li&gt;Koalicja Polska (EPP): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Konfederacja (NI): 6.5–9.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-01-07-SocialChanges.png"
+        length="176362"
+        type="image/png"/>
+      <pubDate>Sun, 26 Jan 2020 09:24:59 +0100</pubDate>
+      <dc:date>2020-01-26T09:24:59.772385+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes for wpolityce.pl, 27–31 December 2019 – Seat Projections for the Parties</title>
@@ -3009,6 +3039,6 @@
       <pubDate>Sun, 21 Jul 2019 23:23:00 +0200</pubDate>
       <dc:date>2019-07-21T23:23:00.970878+02:00</dc:date>
     </item>
-    <dc:date>2020-01-24T06:46:32.815455+01:00</dc:date>
+    <dc:date>2020-01-26T09:24:59.772385+01:00</dc:date>
   </channel>
 </rss>

@@ -10,11 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.8% | 10.5–16.2% | 9.9–16.8% | 9.4–17.3% | 8.6–18.2% |
+| N/A | [Poll Average](average.html) | 14.1% | 11.1–17.7% | 10.5–18.6% | 10.1–19.2% | 9.3–20.2% |
+| [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 16.3% | 14.9–17.8% | 14.5–18.2% | 14.2–18.6% | 13.6–19.3% |
+| [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 11.9% | 10.4–13.6% | 10.0–14.1% | 9.6–14.6% | 8.9–15.5% |
+| [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 14.7% | 13.4–16.1% | 13.0–16.5% | 12.7–16.9% | 12.1–17.6% |
 | [14–16 January 2020](2020-01-16-Pollster.html) | Pollster | 14.5% | 13.2–16.0% | 12.8–16.4% | 12.5–16.8% | 11.9–17.5% |
 | [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.5% | 10.7–16.3% |
 | [9–16 January 2020](2020-01-16-CBOS.html) | CBOS | 11.3% | 10.0–12.8% | 9.6–13.2% | 9.3–13.6% | 8.7–14.4% |
 | [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 14.0% | 12.5–15.8% | 12.0–16.4% | 11.6–16.8% | 10.9–17.7% |
+| [10–14 January 2020](2020-01-14-SocialChanges.html) | Social Changes <br> wpolityce.pl | 18.0% | 16.5–19.6% | 16.1–20.0% | 15.8–20.4% | 15.1–21.2% |
 | [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 14.9% | 13.6–16.4% | 13.2–16.8% | 12.9–17.1% | 12.3–17.8% |
 | [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 10.6% | 9.2–12.3% | 8.8–12.7% | 8.4–13.2% | 7.8–14.0% |
 | [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16.0% | 14.6–17.5% | 14.2–18.0% | 13.9–18.3% | 13.2–19.1% |
@@ -129,19 +133,21 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 3% | 99.5% |  |
-| 9.5–10.5% | 7% | 97% |  |
-| 10.5–11.5% | 10% | 90% |  |
-| 11.5–12.5% | 11% | 80% |  |
-| 12.5–13.5% | 14% | 69% |  |
-| 13.5–14.5% | 19% | 55% | Median |
-| 14.5–15.5% | 18% | 36% |  |
-| 15.5–16.5% | 12% | 19% |  |
-| 16.5–17.5% | 5% | 7% |  |
-| 17.5–18.5% | 1.4% | 2% |  |
-| 18.5–19.5% | 0.2% | 0.3% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.1% | 100% |  |
+| 8.5–9.5% | 0.9% | 99.9% |  |
+| 9.5–10.5% | 4% | 99.1% |  |
+| 10.5–11.5% | 9% | 95% |  |
+| 11.5–12.5% | 12% | 85% |  |
+| 12.5–13.5% | 15% | 73% |  |
+| 13.5–14.5% | 15% | 58% | Median |
+| 14.5–15.5% | 13% | 43% |  |
+| 15.5–16.5% | 10% | 30% |  |
+| 16.5–17.5% | 8% | 20% |  |
+| 17.5–18.5% | 6% | 12% |  |
+| 18.5–19.5% | 4% | 5% |  |
+| 19.5–20.5% | 1.2% | 1.5% |  |
+| 20.5–21.5% | 0.2% | 0.3% |  |
+| 21.5–22.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -152,11 +158,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 5–9 | 4–9 |
+| N/A | [Poll Average](average.html) | 7 | 5–9 | 5–10 | 5–10 | 4–10 |
+| [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
+| [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [14–16 January 2020](2020-01-16-Pollster.html) | Pollster | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [9–16 January 2020](2020-01-16-CBOS.html) | CBOS | 6 | 5–6 | 5–7 | 4–7 | 4–7 |
 | [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 7 | 6–8 | 6–9 | 6–9 | 6–9 |
+| [10–14 January 2020](2020-01-14-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -269,13 +279,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 13% | 98% |  |
-| 6 | 20% | 85% |  |
-| 7 | 32% | 64% | Median |
-| 8 | 26% | 33% |  |
-| 9 | 6% | 6% |  |
-| 10 | 0.3% | 0.3% |  |
-| 11 | 0% | 0% |  |
+| 4 | 0.6% | 100% |  |
+| 5 | 10% | 99.4% |  |
+| 6 | 22% | 90% |  |
+| 7 | 26% | 67% | Median |
+| 8 | 23% | 41% |  |
+| 9 | 13% | 19% |  |
+| 10 | 5% | 5% |  |
+| 11 | 0.4% | 0.4% |  |
+| 12 | 0% | 0% |  |
 
 

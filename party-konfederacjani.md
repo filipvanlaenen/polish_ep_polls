@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 3.5–9.6% | 2.8–10.2% | 2.5–10.7% | 2.0–11.5% |
+| N/A | [Poll Average](average.html) | 6.5% | 3.3–9.7% | 2.8–10.3% | 2.5–10.8% | 2.0–11.6% |
+| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 7.0% | N/A | N/A | N/A | N/A |
 | [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 6.5% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.7% |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.9% | 4.9–7.3% | 4.6–7.7% | 4.4–8.0% | 3.9–8.7% |
 | [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 8.5% | 7.5–9.7% | 7.2–10.0% | 7.0–10.3% | 6.6–10.9% |
@@ -128,17 +129,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 8% | 97% |  |
-| 3.5–4.5% | 5% | 89% |  |
-| 4.5–5.5% | 10% | 85% |  |
-| 5.5–6.5% | 18% | 74% |  |
-| 6.5–7.5% | 16% | 56% | Median |
-| 7.5–8.5% | 16% | 40% |  |
-| 8.5–9.5% | 14% | 25% |  |
-| 9.5–10.5% | 8% | 11% |  |
-| 10.5–11.5% | 3% | 3% |  |
-| 11.5–12.5% | 0.4% | 0.5% |  |
+| 2.5–3.5% | 9% | 97% |  |
+| 3.5–4.5% | 6% | 87% |  |
+| 4.5–5.5% | 12% | 82% |  |
+| 5.5–6.5% | 21% | 70% |  |
+| 6.5–7.5% | 15% | 49% | Median |
+| 7.5–8.5% | 11% | 35% |  |
+| 8.5–9.5% | 12% | 24% |  |
+| 9.5–10.5% | 8% | 12% |  |
+| 10.5–11.5% | 3% | 4% |  |
+| 11.5–12.5% | 0.5% | 0.6% |  |
 | 12.5–13.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -150,6 +152,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -266,13 +269,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% | Last Result |
-| 1 | 0% | 81% |  |
-| 2 | 8% | 81% |  |
-| 3 | 31% | 73% | Median |
-| 4 | 28% | 42% |  |
-| 5 | 13% | 14% |  |
-| 6 | 1.1% | 1.1% |  |
+| 0 | 22% | 100% | Last Result |
+| 1 | 0% | 78% |  |
+| 2 | 9% | 78% |  |
+| 3 | 33% | 69% | Median |
+| 4 | 21% | 36% |  |
+| 5 | 13% | 15% |  |
+| 6 | 1.2% | 1.2% |  |
 | 7 | 0% | 0% |  |
 
 

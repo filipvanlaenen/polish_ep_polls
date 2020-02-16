@@ -28,11 +28,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 24 | 23–25 |22–26 |22–26 |22–27 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 14 | 13–15 |13–15 |12–16 |12–16 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 5–7 |5–7 |5–7 |5–8 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 2–3 |0–4 |0–4 |0–4 |
-| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0–2 |0–2 |0–2 |0–3 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 25 | 23–26 |23–26 |23–27 |22–27 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 14 | 13–15 |13–16 |13–16 |12–17 |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 6–7 |5–7 |5–8 |5–8 |
+| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 2–4 |0–4 |0–4 |0–4 |
+| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0–2 |0–2 |0–3 |0–3 |
 
 ### Zjednoczona Prawica (ECR)
 
@@ -63,14 +63,14 @@
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.4% | 100% |  |
-| 22 | 5% | 99.6% |  |
-| 23 | 23% | 95% |  |
-| 24 | 39% | 72% | Median |
-| 25 | 26% | 33% |  |
-| 26 | 7% | 8% | Majority |
-| 27 | 1.0% | 1.1% |  |
-| 28 | 0.1% | 0.1% |  |
+| 21 | 0.1% | 100% |  |
+| 22 | 2% | 99.9% |  |
+| 23 | 15% | 98% |  |
+| 24 | 32% | 83% |  |
+| 25 | 33% | 51% | Median |
+| 26 | 14% | 17% |  |
+| 27 | 3% | 3% | Majority |
+| 28 | 0.3% | 0.4% |  |
 | 29 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
@@ -92,13 +92,13 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.1% | 100% |  |
-| 12 | 3% | 99.9% |  |
-| 13 | 24% | 97% |  |
-| 14 | 46% | 73% | Median |
-| 15 | 23% | 27% |  |
-| 16 | 3% | 4% |  |
-| 17 | 0.2% | 0.2% |  |
+| 11 | 0% | 100% |  |
+| 12 | 2% | 100% |  |
+| 13 | 16% | 98% |  |
+| 14 | 45% | 82% | Median |
+| 15 | 28% | 37% |  |
+| 16 | 8% | 9% |  |
+| 17 | 0.7% | 0.7% |  |
 | 18 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -114,10 +114,10 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0.1% | 100% |  |
-| 5 | 13% | 99.9% |  |
-| 6 | 60% | 87% | Median |
-| 7 | 25% | 27% |  |
-| 8 | 1.3% | 1.4% |  |
+| 5 | 10% | 99.9% |  |
+| 6 | 53% | 90% | Median |
+| 7 | 34% | 37% |  |
+| 8 | 3% | 3% |  |
 | 9 | 0% | 0% |  |
 
 ### Koalicja Polska (EPP)
@@ -130,10 +130,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% | Last Result |
 | 1 | 0% | 94% |  |
-| 2 | 10% | 94% |  |
-| 3 | 75% | 84% | Median |
-| 4 | 9% | 9% |  |
-| 5 | 0% | 0% |  |
+| 2 | 7% | 94% |  |
+| 3 | 75% | 87% | Median |
+| 4 | 12% | 12% |  |
+| 5 | 0.1% | 0.1% |  |
+| 6 | 0% | 0% |  |
 
 ### Konfederacja (NI)
 
@@ -143,10 +144,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 90% | 100% | Last Result, Median |
-| 1 | 0% | 10% |  |
-| 2 | 8% | 10% |  |
-| 3 | 2% | 2% |  |
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 0% | 11% |  |
+| 2 | 7% | 11% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -171,6 +172,6 @@
 ### Calculations
 
 + **Sample size:** 1000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.52%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.67%
 

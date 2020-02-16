@@ -29,9 +29,9 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 25 | 25–26 |25–26 |25–26 |25–26 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 17 | 16–17 |16–17 |16–17 |16–17 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 6 |6 |5–6 |5–6 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 26 | 26 |25–26 |25–26 |25–27 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 17 | 17 |17–18 |17–18 |16–18 |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 6 |6 |6 |5–7 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 3 |3 |3 |3 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#bezpartyjni-samorządowcy-(*)">Bezpartyjni Samorządowcy (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -68,10 +68,11 @@
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
-| 24 | 0.2% | 100% |  |
-| 25 | 74% | 99.8% | Median |
-| 26 | 26% | 26% | Majority |
-| 27 | 0% | 0% |  |
+| 24 | 0% | 100% |  |
+| 25 | 9% | 100% |  |
+| 26 | 89% | 91% | Median |
+| 27 | 2% | 2% | Majority |
+| 28 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
 
@@ -97,9 +98,9 @@
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 21% | 100% |  |
-| 17 | 78% | 79% | Median |
-| 18 | 0.4% | 0.4% |  |
+| 16 | 2% | 100% |  |
+| 17 | 89% | 98% | Median |
+| 18 | 9% | 9% |  |
 | 19 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -115,9 +116,9 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 5% | 100% |  |
-| 6 | 95% | 95% | Median |
-| 7 | 0.1% | 0.1% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 98% | 99.1% | Median |
+| 7 | 0.6% | 0.6% |  |
 | 8 | 0% | 0% |  |
 
 ### Koalicja Polska (EPP)
@@ -130,9 +131,10 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 99.9% | 99.9% | Median |
-| 4 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 99.9% | 100% | Median |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Konfederacja (NI)
 
@@ -185,6 +187,6 @@
 ### Calculations
 
 + **Sample size:** 8000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.44%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.69%
 

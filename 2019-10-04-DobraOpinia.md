@@ -28,10 +28,10 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 27 | 26–27 |26–27 |26–27 |26–27 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 15 | 15 |15–16 |14–16 |14–16 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 6–7 |6–7 |6–7 |6–7 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 3 |3 |3 |3–4 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 27 | 27–28 |26–28 |26–28 |26–28 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 15 | 15–16 |15–16 |15–16 |15–16 |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 7 | 6–7 |6–7 |6–7 |6–7 |
+| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 3 |3 |3–4 |3–4 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Zjednoczona Prawica (ECR)
@@ -67,10 +67,10 @@
 | 22 | 0% | 100% |  |
 | 23 | 0% | 100% |  |
 | 24 | 0% | 100% |  |
-| 25 | 0.2% | 100% |  |
-| 26 | 39% | 99.8% | Majority |
-| 27 | 61% | 61% | Median |
-| 28 | 0.2% | 0.2% |  |
+| 25 | 0% | 100% |  |
+| 26 | 5% | 100% |  |
+| 27 | 84% | 95% | Median, Majority |
+| 28 | 11% | 11% |  |
 | 29 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
@@ -95,9 +95,9 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 4% | 100% |  |
-| 15 | 90% | 96% | Median |
-| 16 | 6% | 6% |  |
+| 14 | 0.4% | 100% |  |
+| 15 | 75% | 99.6% | Median |
+| 16 | 25% | 25% |  |
 | 17 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -114,8 +114,8 @@
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 64% | 100% | Median |
-| 7 | 36% | 36% |  |
+| 6 | 33% | 100% |  |
+| 7 | 67% | 67% | Median |
 | 8 | 0% | 0% |  |
 
 ### Koalicja Polska (EPP)
@@ -129,8 +129,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 98.8% | 100% | Median |
-| 4 | 1.2% | 1.2% |  |
+| 3 | 97% | 100% | Median |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 ### Konfederacja (NI)
@@ -165,6 +165,6 @@
 ### Calculations
 
 + **Sample size:** 8000
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.12%
++ **Simulations done:** 131,072
++ **Error estimate:** 0.17%
 

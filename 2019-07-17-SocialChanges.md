@@ -17,7 +17,7 @@
 | Sojusz Lewicy Demokratycznej (S&D) | 0.0% | 5.3% | 4.5–6.3% |4.2–6.6% |4.1–6.8% |3.7–7.4% |
 | KORWiN (NI) | 0.0% | 3.8% | 3.1–4.7% |2.9–4.9% |2.8–5.2% |2.5–5.6% |
 | Kukiz’15 (NI) | 0.0% | 3.1% | 2.5–3.9% |2.3–4.1% |2.2–4.4% |1.9–4.8% |
-| Partia Razem (*) | 0.0% | 1.2% | 0.9–1.8% |0.8–1.9% |0.7–2.1% |0.5–2.4% |
+| Lewica Razem (S&D) | 0.0% | 1.2% | 0.9–1.8% |0.8–1.9% |0.7–2.1% |0.5–2.4% |
 | .Nowoczesna (RE) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -32,14 +32,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 27 | 25–29 |25–30 |25–30 |24–32 |
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 16 | 15–18 |15–18 |14–18 |14–19 |
-| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 3 | 2–4 |0–4 |0–4 |0–4 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 28 | 26–30 |26–30 |25–31 |25–32 |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 16 | 15–18 |14–18 |14–19 |14–19 |
+| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 3 | 0–4 |0–4 |0–4 |0–4 |
 | <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0 | 3 | 0–4 |0–4 |0–4 |0–4 |
 | <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 3 | 0–3 |0–4 |0–4 |0–4 |
-| <a href="#korwin-(ni)">KORWiN (NI)</a> | 0 | 0 | 0 |0 |0–3 |0–3 |
+| <a href="#korwin-(ni)">KORWiN (NI)</a> | 0 | 0 | 0 |0 |0 |0–3 |
 | <a href="#kukiz’15-(ni)">Kukiz’15 (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#partia-razem-(*)">Partia Razem (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#lewica-razem-(s&d)">Lewica Razem (S&D)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#.nowoczesna-(re)">.Nowoczesna (RE)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Prawo i Sprawiedliwość (ECR)
@@ -73,17 +73,17 @@
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
 | 22 | 0% | 100% |  |
-| 23 | 0.1% | 100% |  |
-| 24 | 2% | 99.9% |  |
-| 25 | 13% | 98% |  |
-| 26 | 16% | 86% | Majority |
-| 27 | 38% | 69% | Median |
-| 28 | 16% | 32% |  |
-| 29 | 8% | 16% |  |
-| 30 | 6% | 8% |  |
-| 31 | 1.5% | 2% |  |
-| 32 | 0.5% | 0.5% |  |
-| 33 | 0.1% | 0.1% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0.1% | 100% |  |
+| 25 | 5% | 99.8% |  |
+| 26 | 7% | 95% |  |
+| 27 | 20% | 88% | Majority |
+| 28 | 46% | 67% | Median |
+| 29 | 10% | 21% |  |
+| 30 | 8% | 11% |  |
+| 31 | 3% | 3% |  |
+| 32 | 0.2% | 0.7% |  |
+| 33 | 0.5% | 0.5% |  |
 | 34 | 0% | 0% |  |
 
 ### Platforma Obywatelska (EPP)
@@ -108,15 +108,14 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0.2% | 100% |  |
-| 14 | 5% | 99.7% |  |
-| 15 | 30% | 95% |  |
-| 16 | 31% | 65% | Median |
-| 17 | 22% | 33% |  |
-| 18 | 10% | 12% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0.2% | 0.3% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 14 | 6% | 99.8% |  |
+| 15 | 29% | 94% |  |
+| 16 | 18% | 64% | Median |
+| 17 | 27% | 46% |  |
+| 18 | 16% | 19% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.3% | 0.4% |  |
+| 21 | 0% | 0% |  |
 
 ### Polskie Stronnictwo Ludowe (EPP)
 
@@ -126,12 +125,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 0% | 90% |  |
-| 2 | 0.6% | 90% |  |
-| 3 | 72% | 90% | Median |
+| 0 | 12% | 100% | Last Result |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 69% | 88% | Median |
 | 4 | 18% | 18% |  |
-| 5 | 0.3% | 0.3% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Wiosna (S&D)
@@ -142,12 +141,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 0.1% | 87% |  |
-| 3 | 70% | 87% | Median |
-| 4 | 17% | 17% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 0% | 85% |  |
+| 2 | 0% | 85% |  |
+| 3 | 63% | 84% | Median |
+| 4 | 21% | 22% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 ### Sojusz Lewicy Demokratycznej (S&D)
@@ -158,11 +157,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 33% | 100% | Last Result |
-| 1 | 0% | 67% |  |
-| 2 | 3% | 67% |  |
-| 3 | 59% | 64% | Median |
-| 4 | 5% | 5% |  |
+| 0 | 28% | 100% | Last Result |
+| 1 | 0% | 72% |  |
+| 2 | 0% | 72% |  |
+| 3 | 67% | 72% | Median |
+| 4 | 6% | 6% |  |
 | 5 | 0% | 0% |  |
 
 ### KORWiN (NI)
@@ -173,10 +172,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0.4% | 3% |  |
-| 3 | 3% | 3% |  |
+| 0 | 98% | 100% | Last Result, Median |
+| 1 | 0% | 2% |  |
+| 2 | 0% | 2% |  |
+| 3 | 2% | 2% |  |
 | 4 | 0% | 0% |  |
 
 ### Kukiz’15 (NI)
@@ -193,11 +192,11 @@
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% |  |
 
-### Partia Razem (*)
+### Lewica Razem (S&D)
 
-*For a full overview of the results for this party, see the [Partia Razem (*)](party-partiarazem.html) page.*
+*For a full overview of the results for this party, see the [Lewica Razem (S&D)](party-lewicarazemsd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-07-17-SocialChanges-seats-pmf-partiarazem.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-07-17-SocialChanges-seats-pmf-lewicarazemsd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -222,76 +221,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 27 | 86% | 25–29 | 25–30 | 25–30 | 24–32 |
-| KORWiN (NI) – Kukiz’15 (NI) | 0 | 0 | 0% | 0 | 0 | 0–3 | 0–3 |
 | .Nowoczesna (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-| Partia Razem (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
-
-### Prawo i Sprawiedliwość (ECR)
-
-![Graph with seats probability mass function not yet produced](2019-07-17-SocialChanges-coalitions-seats-pmf-pis.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0% | 100% |  |
-| 18 | 0% | 100% |  |
-| 19 | 0% | 100% |  |
-| 20 | 0% | 100% |  |
-| 21 | 0% | 100% |  |
-| 22 | 0% | 100% |  |
-| 23 | 0.1% | 100% |  |
-| 24 | 2% | 99.9% |  |
-| 25 | 13% | 98% |  |
-| 26 | 16% | 86% | Majority |
-| 27 | 38% | 69% | Median |
-| 28 | 16% | 32% |  |
-| 29 | 8% | 16% |  |
-| 30 | 6% | 8% |  |
-| 31 | 1.5% | 2% |  |
-| 32 | 0.5% | 0.5% |  |
-| 33 | 0.1% | 0.1% |  |
-| 34 | 0% | 0% |  |
-
-### KORWiN (NI) – Kukiz’15 (NI)
-
-![Graph with seats probability mass function not yet produced](2019-07-17-SocialChanges-coalitions-seats-pmf-w–k.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Last Result, Median |
-| 1 | 0% | 3% |  |
-| 2 | 0.4% | 3% |  |
-| 3 | 3% | 3% |  |
-| 4 | 0% | 0% |  |
 
 ### .Nowoczesna (RE)
 
 ![Graph with seats probability mass function not yet produced](2019-07-17-SocialChanges-coalitions-seats-pmf-n.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
-
-### Partia Razem (*)
-
-![Graph with seats probability mass function not yet produced](2019-07-17-SocialChanges-coalitions-seats-pmf-r.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -309,6 +243,6 @@
 ### Calculations
 
 + **Sample size:** 1004
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.98%
++ **Simulations done:** 131,072
++ **Error estimate:** 3.28%
 

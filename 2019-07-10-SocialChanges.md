@@ -23,15 +23,17 @@
 
 ![Graph with seats not yet produced](2019-07-10-SocialChanges-seats.png "Seats")
 
+![Graph with seating plan not yet produced](2019-07-10-SocialChanges-seating-plan.png "Seating Plan")
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 25 | 24–27 |23–27 |23–28 |22–29 |
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 15 | 14–17 |14–17 |14–17 |13–18 |
-| <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0 | 3 | 3–4 |2–4 |0–4 |0–4 |
-| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 3 | 2–4 |0–4 |0–4 |0–4 |
-| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 2 | 0–3 |0–3 |0–3 |0–3 |
+| <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | 27 | 24–27 |24–27 |24–27 |23–28 |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 16 | 15–16 |15–16 |15–17 |15–17 |
+| <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0 | 3 | 3–4 |3–4 |3–4 |2–4 |
+| <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | 3 | 3 |3 |3 |3 |
+| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 0 | 0–3 |0–3 |0–3 |0–3 |
 | <a href="#kukiz’15-(ni)">Kukiz’15 (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Prawo i Sprawiedliwość (ECR)
@@ -64,16 +66,18 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.6% | 100% |  |
-| 23 | 6% | 99.4% |  |
-| 24 | 21% | 93% |  |
-| 25 | 31% | 73% | Median |
-| 26 | 27% | 42% | Majority |
-| 27 | 11% | 15% |  |
-| 28 | 3% | 4% |  |
-| 29 | 0.7% | 0.8% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 22 | 0% | 100% |  |
+| 23 | 2% | 100% |  |
+| 24 | 19% | 98% |  |
+| 25 | 0.6% | 79% |  |
+| 26 | 14% | 78% |  |
+| 27 | 64% | 65% | Median, Majority |
+| 28 | 0.8% | 1.2% |  |
+| 29 | 0.3% | 0.4% |  |
+| 30 | 0% | 0.1% |  |
+| 31 | 0% | 0.1% |  |
+| 32 | 0.1% | 0.1% |  |
+| 33 | 0% | 0% |  |
 
 ### Platforma Obywatelska (EPP)
 
@@ -96,14 +100,13 @@
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 2% | 100% |  |
-| 14 | 18% | 98% |  |
-| 15 | 39% | 80% | Median |
-| 16 | 30% | 41% |  |
-| 17 | 9% | 11% |  |
-| 18 | 1.3% | 1.5% |  |
-| 19 | 0.1% | 0.1% |  |
-| 20 | 0% | 0% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0% | 99.9% |  |
+| 15 | 19% | 99.9% |  |
+| 16 | 78% | 81% | Median |
+| 17 | 3% | 3% |  |
+| 18 | 0.1% | 0.1% |  |
+| 19 | 0% | 0% |  |
 
 ### Wiosna (S&D)
 
@@ -113,13 +116,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 5% | 97% |  |
-| 3 | 74% | 92% | Median |
-| 4 | 18% | 18% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 0% | 99.7% |  |
+| 2 | 0.5% | 99.7% |  |
+| 3 | 87% | 99.1% | Median |
+| 4 | 12% | 12% |  |
+| 5 | 0% | 0% |  |
 
 ### Sojusz Lewicy Demokratycznej (S&D)
 
@@ -129,13 +131,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 0% | 93% |  |
-| 2 | 8% | 93% |  |
-| 3 | 74% | 84% | Median |
-| 4 | 10% | 10% |  |
-| 5 | 0.1% | 0.1% |  |
-| 6 | 0% | 0% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 0% | 99.7% |  |
+| 2 | 0% | 99.7% |  |
+| 3 | 99.6% | 99.7% | Median |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Polskie Stronnictwo Ludowe (EPP)
 
@@ -145,12 +146,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 0% | 52% |  |
-| 2 | 20% | 52% | Median |
-| 3 | 31% | 32% |  |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 0% | 22% |  |
+| 2 | 0.1% | 22% |  |
+| 3 | 22% | 22% |  |
+| 4 | 0% | 0% |  |
 
 ### Kukiz’15 (NI)
 
@@ -160,10 +160,7 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0% | 0.2% |  |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
 ## Coalitions
@@ -174,7 +171,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Prawo i Sprawiedliwość (ECR) | 0 | 25 | 42% | 24–27 | 23–27 | 23–28 | 22–29 |
+| Prawo i Sprawiedliwość (ECR) | 0 | 27 | 65% | 24–27 | 24–27 | 24–27 | 23–28 |
 
 ### Prawo i Sprawiedliwość (ECR)
 
@@ -204,16 +201,18 @@
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
 | 21 | 0% | 100% |  |
-| 22 | 0.6% | 100% |  |
-| 23 | 6% | 99.4% |  |
-| 24 | 21% | 93% |  |
-| 25 | 31% | 73% | Median |
-| 26 | 27% | 42% | Majority |
-| 27 | 11% | 15% |  |
-| 28 | 3% | 4% |  |
-| 29 | 0.7% | 0.8% |  |
-| 30 | 0.1% | 0.1% |  |
-| 31 | 0% | 0% |  |
+| 22 | 0% | 100% |  |
+| 23 | 2% | 100% |  |
+| 24 | 19% | 98% |  |
+| 25 | 0.6% | 79% |  |
+| 26 | 14% | 78% |  |
+| 27 | 64% | 65% | Median, Majority |
+| 28 | 0.8% | 1.2% |  |
+| 29 | 0.3% | 0.4% |  |
+| 30 | 0% | 0.1% |  |
+| 31 | 0% | 0.1% |  |
+| 32 | 0.1% | 0.1% |  |
+| 33 | 0% | 0% |  |
 
 
 ## Technical Information
@@ -227,6 +226,6 @@
 ### Calculations
 
 + **Sample size:** 1022
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 0.73%
++ **Simulations done:** 1,024
++ **Error estimate:** 2.99%
 

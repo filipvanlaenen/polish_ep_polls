@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.2% | 25.6–32.5% | 24.8–33.2% | 24.2–33.8% | 23.0–34.9% |
-| [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 29.6% | N/A | N/A | N/A | N/A |
-| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 32.7% | N/A | N/A | N/A | N/A |
-| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 27.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 29.4% | 25.9–32.9% | 25.1–33.8% | 24.5–34.6% | 23.3–36.1% |
+| [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 29.6% | 27.9–31.5% | 27.4–32.0% | 27.0–32.4% | 26.2–33.3% |
+| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 32.7% | 30.4–35.2% | 29.7–35.8% | 29.2–36.5% | 28.1–37.6% |
+| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 27.0% | 25.3–28.8% | 24.8–29.3% | 24.4–29.8% | 23.6–30.7% |
 | [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 28.3% | 26.6–30.1% | 26.1–30.6% | 25.7–31.0% | 24.9–31.9% |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 29.7% | 27.5–32.0% | 26.8–32.7% | 26.3–33.3% | 25.3–34.4% |
 | [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 27.4% | 25.7–29.2% | 25.2–29.7% | 24.8–30.1% | 24.1–31.0% |
@@ -60,7 +60,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 25.3% | 23.6–27.1% | 23.1–27.7% | 22.7–28.1% | 21.9–29.0% |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 19.0% | 17.4–20.6% | 17.0–21.1% | 16.7–21.5% | 16.0–22.3% |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 27.0% | 25.2–28.8% | 24.7–29.4% | 24.3–29.8% | 23.5–30.7% |
-| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 22.5% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 22.5% | 21.0–24.2% | 20.5–24.7% | 20.2–25.1% | 19.4–25.9% |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 22.7% | 21.2–24.4% | 20.7–24.9% | 20.3–25.3% | 19.6–26.1% |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 29.0% | 27.2–30.8% | 26.7–31.4% | 26.2–31.8% | 25.4–32.8% |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 24.6% | 23.0–26.4% | 22.6–26.9% | 22.2–27.3% | 21.4–28.1% |
@@ -101,8 +101,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.8% | 23.6–30.7% |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.6% | 23.3–30.5% |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 27.0% | 25.3–28.8% | 24.9–29.3% | 24.4–29.7% | 23.7–30.6% |
-| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | 28.4–32.1% | 27.9–32.6% | 27.5–33.1% | 26.6–34.0% |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | 25.2–28.7% | 24.7–29.2% | 24.3–29.7% | 23.5–30.6% |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
@@ -150,22 +150,24 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 0.9% | 99.8% |  |
-| 23.5–24.5% | 3% | 98.9% |  |
-| 24.5–25.5% | 6% | 96% |  |
-| 25.5–26.5% | 9% | 90% |  |
-| 26.5–27.5% | 11% | 81% |  |
-| 27.5–28.5% | 12% | 70% |  |
-| 28.5–29.5% | 12% | 58% | Median |
-| 29.5–30.5% | 13% | 46% |  |
-| 30.5–31.5% | 13% | 33% |  |
-| 31.5–32.5% | 11% | 20% |  |
-| 32.5–33.5% | 6% | 9% |  |
-| 33.5–34.5% | 2% | 3% |  |
-| 34.5–35.5% | 0.7% | 0.9% |  |
-| 35.5–36.5% | 0.2% | 0.2% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 21.5–22.5% | 0.1% | 100% |  |
+| 22.5–23.5% | 0.6% | 99.9% |  |
+| 23.5–24.5% | 2% | 99.3% |  |
+| 24.5–25.5% | 5% | 97% |  |
+| 25.5–26.5% | 9% | 92% |  |
+| 26.5–27.5% | 11% | 84% |  |
+| 27.5–28.5% | 12% | 72% |  |
+| 28.5–29.5% | 12% | 60% | Median |
+| 29.5–30.5% | 13% | 48% |  |
+| 30.5–31.5% | 12% | 35% |  |
+| 31.5–32.5% | 10% | 23% |  |
+| 32.5–33.5% | 6% | 13% |  |
+| 33.5–34.5% | 4% | 6% |  |
+| 34.5–35.5% | 2% | 3% |  |
+| 35.5–36.5% | 0.7% | 1.0% |  |
+| 36.5–37.5% | 0.2% | 0.3% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -176,99 +178,99 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–18 | 12–18 | 12–19 |
-| [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl |  |  |  |  |  |
-| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN |  |  |  |  |  |
-| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
-| [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [14–16 January 2020](2020-01-16-Pollster.html) | Pollster | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
-| [9–16 January 2020](2020-01-16-CBOS.html) | CBOS | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
-| [10–14 January 2020](2020-01-14-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
-| [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
-| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [22 December 2019](2019-12-22-IBSP.html) | IBSP | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [17–18 December 2019](2019-12-18-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 13–17 | 13–17 | 12–18 |
-| [13–17 December 2019](2019-12-17-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [6–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public <br> WO | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
-| [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
-| [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
-| [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [22–23 November 2019](2019-11-23-IBRiS.html) | IBRiS <br> Radio ZET | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [15–19 November 2019](2019-11-19-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [8–12 November 2019](2019-11-12-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [5–12 November 2019](2019-11-12-KantarPublic.html) | Kantar Public <br> TVN | 14 | 13–15 | 13–16 | 13–16 | 13–16 |
-| [5–6 November 2019](2019-11-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [1–5 November 2019](2019-11-05-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
-| [31 October–4 November 2019](2019-11-04-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [25–30 October 2019](2019-10-30-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [21–23 October 2019](2019-10-23-Ipsos.html) | Ipsos <br> OKO | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
-| [18–19 October 2019](2019-10-19-IBRiS.html) | IBRiS <br> Radio ZET | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
-| [11–16 October 2019](2019-10-16-KantarPublic.html) | Kantar Public <br> TVN | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [11 October 2019](2019-10-11-IBRiS.html) | IBRiS <br> RMF | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
+| N/A | [Poll Average](average.html) | 16 | 14–18 | 13–18 | 13–19 | 12–19 |
+| [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [14–16 January 2020](2020-01-16-Pollster.html) | Pollster | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
+| [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [9–16 January 2020](2020-01-16-CBOS.html) | CBOS | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
+| [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
+| [10–14 January 2020](2020-01-14-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 13–17 | 13–17 | 13–18 |
+| [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [20–22 December 2019](2019-12-22-Pollster.html) | Pollster | 13 | 13–14 | 12–15 | 12–15 | 12–15 |
+| [22 December 2019](2019-12-22-IBSP.html) | IBSP | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 13–16 | 13–17 | 12–17 |
+| [17–18 December 2019](2019-12-18-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
+| [13–17 December 2019](2019-12-17-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [6–11 December 2019](2019-12-11-KantarPublic.html) | Kantar Public <br> WO | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [6–10 December 2019](2019-12-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
+| [6–7 December 2019](2019-12-07-IBRiS.html) | IBRiS <br> Radio ZET | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [28 November–5 December 2019](2019-12-05-CBOS.html) | CBOS | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [28 November–3 December 2019](2019-12-03-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [29–30 November 2019](2019-11-30-KantarPublic.html) | Kantar Public <br> PO | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [27 November 2019](2019-11-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [22–26 November 2019](2019-11-26-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [22–23 November 2019](2019-11-23-IBRiS.html) | IBRiS <br> Radio ZET | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [15–19 November 2019](2019-11-19-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [8–12 November 2019](2019-11-12-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [5–12 November 2019](2019-11-12-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [5–6 November 2019](2019-11-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [1–5 November 2019](2019-11-05-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [31 October–4 November 2019](2019-11-04-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [25–30 October 2019](2019-10-30-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [21–23 October 2019](2019-10-23-Ipsos.html) | Ipsos <br> OKO | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [18–19 October 2019](2019-10-19-IBRiS.html) | IBRiS <br> Radio ZET | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
+| [11–16 October 2019](2019-10-16-KantarPublic.html) | Kantar Public <br> TVN | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [11 October 2019](2019-10-11-IBRiS.html) | IBRiS <br> RMF | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 13 | 13–14 | 13–15 | 12–15 | 12–15 |
-| [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
-| [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
-| [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
-| [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
-| [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 15 | 15 | 15–16 | 14–16 | 14–16 |
-| [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
-| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
-| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
-| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
-| [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 12 | 11–13 | 11–14 | 11–14 | 10–15 |
-| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
-| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
-| [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
-| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
-| [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 11 | 11–12 | 11–12 | 11–12 | 10–12 |
-| [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 17 | 16–17 | 16–17 | 16–17 | 16–17 |
-| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
-| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
-| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
-| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
-| [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
+| [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
+| [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
+| [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
+| [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 15 | 15–16 | 15–16 | 15–16 | 15–16 |
+| [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
+| [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
+| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
+| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
+| [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
+| [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 17 | 17 | 17–18 | 17–18 | 16–18 |
+| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
+| [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 13 | 12–15 | 12–15 | 12–15 | 12–16 |
+| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
+| [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
@@ -307,16 +309,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.2% | 100% |  |
-| 12 | 3% | 99.8% |  |
-| 13 | 12% | 97% |  |
-| 14 | 19% | 85% |  |
-| 15 | 20% | 66% | Median |
-| 16 | 22% | 46% |  |
-| 17 | 17% | 24% |  |
-| 18 | 6% | 8% |  |
-| 19 | 1.2% | 1.3% |  |
-| 20 | 0.1% | 0.1% |  |
+| 11 | 0.1% | 100% |  |
+| 12 | 1.1% | 99.9% |  |
+| 13 | 7% | 98.9% |  |
+| 14 | 17% | 92% |  |
+| 15 | 22% | 75% |  |
+| 16 | 22% | 53% | Median |
+| 17 | 18% | 31% |  |
+| 18 | 9% | 13% |  |
+| 19 | 3% | 3% |  |
+| 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 3.7–9.5% | 2.9–10.2% | 2.6–10.6% | 2.1–11.5% |
+| N/A | [Poll Average](average.html) | 7.3% | 5.8–9.0% | 5.4–9.5% | 5.0–9.9% | 4.4–10.6% |
+| [18–20 February 2020](2020-02-20-IBSP.html) | IBSP | 9.0% | N/A | N/A | N/A | N/A |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.5–8.6% | 5.2–9.1% |
 | [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 7.9% | 6.7–9.4% | 6.3–9.9% | 6.0–10.3% | 5.5–11.1% |
 | [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
@@ -130,17 +131,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 7% | 98% |  |
-| 3.5–4.5% | 4% | 91% |  |
-| 4.5–5.5% | 9% | 86% |  |
-| 5.5–6.5% | 18% | 78% |  |
-| 6.5–7.5% | 21% | 60% | Median |
-| 7.5–8.5% | 17% | 39% |  |
-| 8.5–9.5% | 12% | 22% |  |
-| 9.5–10.5% | 7% | 10% |  |
-| 10.5–11.5% | 2% | 3% |  |
-| 11.5–12.5% | 0.4% | 0.4% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.8% | 100% |  |
+| 4.5–5.5% | 6% | 99.1% |  |
+| 5.5–6.5% | 20% | 93% |  |
+| 6.5–7.5% | 31% | 73% | Median |
+| 7.5–8.5% | 25% | 42% |  |
+| 8.5–9.5% | 13% | 18% |  |
+| 9.5–10.5% | 4% | 4% |  |
+| 10.5–11.5% | 0.5% | 0.6% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -152,7 +153,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–5 | 0–5 | 0–5 |
+| [18–20 February 2020](2020-02-20-IBSP.html) | IBSP |  |  |  |  |  |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -272,13 +274,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 5% | 84% |  |
-| 3 | 35% | 78% | Median |
-| 4 | 29% | 43% |  |
-| 5 | 13% | 14% |  |
-| 6 | 1.4% | 1.4% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 0% | 97% |  |
+| 2 | 4% | 97% |  |
+| 3 | 45% | 93% | Median |
+| 4 | 41% | 49% |  |
+| 5 | 8% | 8% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

@@ -10,20 +10,37 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.2% | 36.6–43.2% | 35.8–44.6% | 35.2–45.5% | 33.9–47.2% |
-| [18–20 February 2020](2020-02-20-IBSP.html) | IBSP | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.0% |
+| N/A | [Poll Average](average.html) | 43.0% | 39.5–49.5% | 38.8–50.3% | 38.1–51.0% | 37.0–52.2% |
+| [17–18 March 2020](2020-03-18-Pollster.html) | Pollster <br> SE.pl | 41.9% | 40.0–43.8% | 39.4–44.4% | 39.0–44.9% | 38.0–45.8% |
+| [13–17 March 2020](2020-03-17-SocialChanges.html) | Social Changes <br> wpolityce.pl | 39.9% | 38.0–41.9% | 37.5–42.4% | 37.0–42.9% | 36.1–43.8% |
+| [5–15 March 2020](2020-03-15-CBOS.html) | CBOS | 49.0% | 46.9–51.1% | 46.3–51.7% | 45.7–52.2% | 44.7–53.2% |
+| [10–13 March 2020](2020-03-13-IBSP.html) | IBSP <br> wp.pl | 47.6% | 45.6–49.6% | 45.0–50.2% | 44.5–50.7% | 43.6–51.7% |
+| [12–13 March 2020](2020-03-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.0% | 40.1–44.0% | 39.5–44.6% | 39.0–45.1% | 38.1–46.0% |
+| [6–10 March 2020](2020-03-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 44.9% | 42.9–46.9% | 42.4–47.4% | 41.9–47.9% | 41.0–48.8% |
+| [28 February–2 March 2020](2020-03-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 40.9% | N/A | N/A | N/A | N/A |
+| [27–28 February 2020](2020-02-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 41.7% | N/A | N/A | N/A | N/A |
+| [24–26 February 2020](2020-02-26-Pollster.html) | Pollster <br> SE.pl | 41.4% | N/A | N/A | N/A | N/A |
+| [21–24 February 2020](2020-02-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | N/A | N/A | N/A | N/A |
+| [18–20 February 2020](2020-02-20-IBSP.html) | IBSP <br> wp.pl | 38.4% | N/A | N/A | N/A | N/A |
+| [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 38.9% | N/A | N/A | N/A | N/A |
+| [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 39.9–48.1% |
+| [12–13 February 2020](2020-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 40.6% | 38.7–42.6% | 38.1–43.2% | 37.6–43.7% | 36.7–44.7% |
+| [7–12 February 2020](2020-02-12-KantarMB.html) | Kantar MB <br> TVN | 41.0% | 38.7–43.2% | 38.3–43.6% | 37.9–44.4% | 36.6–45.3% |
+| [7–11 February 2020](2020-02-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 42.0% | N/A | N/A | N/A | N/A |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 38.5% | 36.7–40.5% | 36.2–41.0% | 35.7–41.5% | 34.8–42.4% |
-| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 37.6% | 35.2–40.1% | 34.5–40.8% | 33.9–41.4% | 32.8–42.7% |
-| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 39.0% | 37.1–40.9% | 36.5–41.5% | 36.1–42.0% | 35.2–42.9% |
-| [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 41.3% | 39.4–43.2% | 38.9–43.7% | 38.4–44.2% | 37.5–45.1% |
+| [1–4 February 2020](2020-02-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 39.0% | N/A | N/A | N/A | N/A |
+| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 35.0% | N/A | N/A | N/A | N/A |
+| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 39.0% | N/A | N/A | N/A | N/A |
+| [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 38.0% | 36.1–39.9% | 35.6–40.5% | 35.2–40.9% | 34.3–41.8% |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 43.5% | 41.1–46.0% | 40.4–46.7% | 39.8–47.4% | 38.6–48.6% |
-| [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 40.4% | 38.5–42.4% | 38.0–42.9% | 37.5–43.4% | 36.6–44.3% |
-| [14–16 January 2020](2020-01-16-Pollster.html) | Pollster | 41.1% | 39.2–43.1% | 38.7–43.6% | 38.2–44.1% | 37.3–45.0% |
+| [22–23 January 2020](2020-01-23-Pollster.html) | Pollster <br> SE.pl | 40.4% | 38.5–42.4% | 38.0–42.9% | 37.5–43.4% | 36.6–44.3% |
+| [17–21 January 2020](2020-01-21-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.1–43.0% | 38.5–43.5% | 38.0–44.0% | 37.1–44.9% |
+| [14–16 January 2020](2020-01-16-Pollster.html) | Pollster <br> SE.pl | 41.1% | 39.2–43.1% | 38.7–43.6% | 38.2–44.1% | 37.3–45.0% |
 | [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 37.8% | 35.8–39.8% | 35.3–40.3% | 34.8–40.8% | 33.9–41.8% |
 | [9–16 January 2020](2020-01-16-CBOS.html) | CBOS | 49.3% | 47.1–51.5% | 46.4–52.1% | 45.9–52.7% | 44.8–53.7% |
-| [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 42.1% | 39.7–44.5% | 39.0–45.2% | 38.4–45.8% | 37.3–46.9% |
+| [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 38.1% | 35.7–40.5% | 35.1–41.1% | 34.5–41.7% | 33.4–42.9% |
 | [10–14 January 2020](2020-01-14-SocialChanges.html) | Social Changes <br> wpolityce.pl | 42.0% | 40.1–44.0% | 39.5–44.5% | 39.1–45.0% | 38.1–46.0% |
-| [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 43.0% | 41.1–44.9% | 40.5–45.4% | 40.1–45.9% | 39.2–46.8% |
+| [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 37.3% | 35.4–39.2% | 34.9–39.7% | 34.5–40.2% | 33.6–41.1% |
 | [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 45.5% | 43.0–48.0% | 42.3–48.7% | 41.7–49.3% | 40.5–50.5% |
 | [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.1–43.0% | 38.5–43.6% | 38.1–44.1% | 37.2–45.0% |
 | [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.0–43.0% | 38.5–43.5% | 38.0–44.0% | 37.1–44.9% |
@@ -161,25 +178,30 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0.1% | 100% |  |
-| 32.5–33.5% | 0.2% | 99.9% |  |
-| 33.5–34.5% | 0.8% | 99.7% |  |
-| 34.5–35.5% | 3% | 98.9% |  |
-| 35.5–36.5% | 6% | 96% |  |
-| 36.5–37.5% | 12% | 90% |  |
-| 37.5–38.5% | 17% | 78% |  |
-| 38.5–39.5% | 18% | 62% | Median |
-| 39.5–40.5% | 14% | 44% |  |
-| 40.5–41.5% | 10% | 30% |  |
-| 41.5–42.5% | 6% | 20% |  |
-| 42.5–43.5% | 5% | 13% |  |
-| 43.5–44.5% | 4% | 9% |  |
-| 44.5–45.5% | 3% | 5% |  |
-| 45.5–46.5% | 1.5% | 2% |  |
-| 46.5–47.5% | 0.7% | 1.0% |  |
-| 47.5–48.5% | 0.2% | 0.3% |  |
-| 48.5–49.5% | 0.1% | 0.1% |  |
-| 49.5–50.5% | 0% | 0% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0% | 100% |  |
+| 33.5–34.5% | 0% | 100% |  |
+| 34.5–35.5% | 0% | 100% |  |
+| 35.5–36.5% | 0.2% | 100% |  |
+| 36.5–37.5% | 1.0% | 99.8% |  |
+| 37.5–38.5% | 3% | 98.8% |  |
+| 38.5–39.5% | 6% | 96% |  |
+| 39.5–40.5% | 10% | 90% |  |
+| 40.5–41.5% | 13% | 80% |  |
+| 41.5–42.5% | 12% | 67% |  |
+| 42.5–43.5% | 9% | 55% | Median |
+| 43.5–44.5% | 5% | 46% |  |
+| 44.5–45.5% | 3% | 41% |  |
+| 45.5–46.5% | 4% | 38% |  |
+| 46.5–47.5% | 7% | 34% |  |
+| 47.5–48.5% | 9% | 26% |  |
+| 48.5–49.5% | 8% | 18% |  |
+| 49.5–50.5% | 5% | 9% |  |
+| 50.5–51.5% | 3% | 4% |  |
+| 51.5–52.5% | 1.0% | 1.3% |  |
+| 52.5–53.5% | 0.3% | 0.3% |  |
+| 53.5–54.5% | 0% | 0.1% |  |
+| 54.5–55.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -190,20 +212,37 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–24 | 19–25 | 18–26 |
-| [18–20 February 2020](2020-02-20-IBSP.html) | IBSP | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
+| N/A | [Poll Average](average.html) | 23 | 21–26 | 21–27 | 20–27 | 20–28 |
+| [17–18 March 2020](2020-03-18-Pollster.html) | Pollster <br> SE.pl | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
+| [13–17 March 2020](2020-03-17-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 20–23 | 20–23 | 19–23 |
+| [5–15 March 2020](2020-03-15-CBOS.html) | CBOS | 26 | 25–27 | 25–28 | 24–28 | 24–29 |
+| [10–13 March 2020](2020-03-13-IBSP.html) | IBSP <br> wp.pl | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
+| [12–13 March 2020](2020-03-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
+| [6–10 March 2020](2020-03-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 24 | 23–25 | 23–25 | 22–26 | 22–26 |
+| [28 February–2 March 2020](2020-03-02-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [27–28 February 2020](2020-02-28-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [24–26 February 2020](2020-02-26-Pollster.html) | Pollster <br> SE.pl |  |  |  |  |  |
+| [21–24 February 2020](2020-02-24-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [18–20 February 2020](2020-02-20-IBSP.html) | IBSP <br> wp.pl |  |  |  |  |  |
+| [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 24 | 23–26 | 22–26 | 22–26 | 21–27 |
+| [12–13 February 2020](2020-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
+| [7–12 February 2020](2020-02-12-KantarMB.html) | Kantar MB <br> TVN |  |  |  |  |  |
+| [7–11 February 2020](2020-02-11-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
-| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
-| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
-| [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
+| [1–4 February 2020](2020-02-04-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN |  |  |  |  |  |
+| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
-| [22–23 January 2020](2020-01-23-Pollster.html) | Pollster | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
-| [14–16 January 2020](2020-01-16-Pollster.html) | Pollster | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
+| [22–23 January 2020](2020-01-23-Pollster.html) | Pollster <br> SE.pl | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
+| [17–21 January 2020](2020-01-21-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
+| [14–16 January 2020](2020-01-16-Pollster.html) | Pollster <br> SE.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
 | [9–16 January 2020](2020-01-16-CBOS.html) | CBOS | 26 | 25–28 | 25–28 | 24–29 | 24–29 |
-| [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 24 | 22–25 | 22–25 | 21–26 | 21–26 |
+| [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
 | [10–14 January 2020](2020-01-14-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 22–24 | 21–24 | 21–24 | 20–25 |
-| [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
+| [10–11 January 2020](2020-01-11-IBRiS.html) | IBRiS <br> Radio ZET | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
 | [9–10 January 2020](2020-01-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–26 | 23–26 | 22–27 | 22–28 |
 | [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
@@ -328,17 +367,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.2% | 100% |  |
-| 18 | 2% | 99.8% |  |
-| 19 | 9% | 98% |  |
-| 20 | 25% | 89% |  |
-| 21 | 30% | 64% | Median |
-| 22 | 18% | 34% |  |
-| 23 | 9% | 16% |  |
-| 24 | 5% | 7% |  |
-| 25 | 2% | 3% |  |
-| 26 | 0.5% | 0.6% |  |
-| 27 | 0.1% | 0.1% | Majority |
-| 28 | 0% | 0% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 4% | 99.7% |  |
+| 21 | 13% | 96% |  |
+| 22 | 22% | 83% |  |
+| 23 | 16% | 61% | Median |
+| 24 | 8% | 44% |  |
+| 25 | 12% | 37% |  |
+| 26 | 15% | 25% |  |
+| 27 | 8% | 10% | Majority |
+| 28 | 2% | 2% |  |
+| 29 | 0.2% | 0.2% |  |
+| 30 | 0% | 0% |  |
 
 

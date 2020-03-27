@@ -1,44 +1,44 @@
-# Opinion Poll by IBSP for wp.pl, 18–20 February 2020
+# Opinion Poll by Social Changes for wpolityce.pl, 21–24 February 2020
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2020-02-20-IBSP.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2020-02-24-SocialChanges.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Zjednoczona Prawica (ECR) | 0.0% | 38.4% | 36.5–40.4% |35.9–41.0% |35.4–41.5% |34.5–42.4% |
-| Koalicja Obywatelska (EPP) | 0.0% | 30.9% | 29.1–32.8% |28.5–33.4% |28.1–33.8% |27.3–34.8% |
-| Lewica (S&D) | 0.0% | 13.4% | 12.1–14.9% |11.7–15.3% |11.4–15.7% |10.8–16.4% |
-| Konfederacja (NI) | 0.0% | 9.0% | 7.9–10.3% |7.6–10.6% |7.4–10.9% |6.9–11.6% |
-| Koalicja Polska (EPP) | 0.0% | 7.9% | 6.9–9.1% |6.6–9.4% |6.4–9.7% |5.9–10.3% |
+| Zjednoczona Prawica (ECR) | 0.0% | 41.0% | 39.1–43.0% |38.6–43.5% |38.1–44.0% |37.2–44.9% |
+| Koalicja Obywatelska (EPP) | 0.0% | 25.0% | 23.4–26.8% |23.0–27.3% |22.6–27.7% |21.8–28.6% |
+| Lewica (S&D) | 0.0% | 16.0% | 14.6–17.5% |14.2–17.9% |13.9–18.3% |13.3–19.0% |
+| Konfederacja (NI) | 0.0% | 9.0% | 8.0–10.2% |7.7–10.5% |7.4–10.9% |7.0–11.4% |
+| Koalicja Polska (EPP) | 0.0% | 8.0% | 7.0–9.1% |6.7–9.5% |6.5–9.8% |6.1–10.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2020-02-20-IBSP-seats.png "Seats")
+![Graph with seats not yet produced](2020-02-24-SocialChanges-seats.png "Seats")
 
-![Graph with seating plan not yet produced](2020-02-20-IBSP-seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](2020-02-24-SocialChanges-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 20 | 19–22 |19–22 |19–22 |18–23 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 16 | 15–17 |15–18 |15–18 |14–19 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 7 | 6–8 |6–8 |6–8 |5–8 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 22 | 21–23 |21–23 |20–24 |20–24 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 13 | 12–14 |12–15 |12–15 |11–15 |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 8 | 8–9 |7–9 |7–10 |7–10 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–6 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 4 | 3–4 |3–5 |3–5 |3–5 |
+| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
 
 ### Zjednoczona Prawica (ECR)
 
 *For a full overview of the results for this party, see the [Zjednoczona Prawica (ECR)](party-zjednoczonaprawicaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-02-20-IBSP-seats-pmf-zjednoczonaprawicaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-02-24-SocialChanges-seats-pmf-zjednoczonaprawicaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -60,19 +60,21 @@
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
-| 18 | 1.0% | 100% |  |
-| 19 | 12% | 98.9% |  |
-| 20 | 38% | 87% | Median |
-| 21 | 37% | 48% |  |
-| 22 | 11% | 12% |  |
-| 23 | 0.9% | 1.0% |  |
-| 24 | 0% | 0% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.1% | 100% |  |
+| 20 | 3% | 99.9% |  |
+| 21 | 24% | 97% |  |
+| 22 | 44% | 73% | Median |
+| 23 | 25% | 29% |  |
+| 24 | 4% | 4% |  |
+| 25 | 0.2% | 0.2% |  |
+| 26 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
 
 *For a full overview of the results for this party, see the [Koalicja Obywatelska (EPP)](party-koalicjaobywatelskaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-02-20-IBSP-seats-pmf-koalicjaobywatelskaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-02-24-SocialChanges-seats-pmf-koalicjaobywatelskaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -87,22 +89,19 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 0.9% | 100% |  |
-| 15 | 14% | 99.1% |  |
-| 16 | 41% | 85% | Median |
-| 17 | 36% | 44% |  |
-| 18 | 8% | 8% |  |
-| 19 | 0.5% | 0.5% |  |
-| 20 | 0% | 0% |  |
+| 11 | 0.6% | 100% |  |
+| 12 | 14% | 99.4% |  |
+| 13 | 48% | 85% | Median |
+| 14 | 33% | 38% |  |
+| 15 | 5% | 5% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0% |  |
 
 ### Lewica (S&D)
 
 *For a full overview of the results for this party, see the [Lewica (S&D)](party-lewicasd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-02-20-IBSP-seats-pmf-lewicasd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-02-24-SocialChanges-seats-pmf-lewicasd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -111,18 +110,19 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 0.9% | 100% |  |
-| 6 | 27% | 99.1% |  |
-| 7 | 58% | 72% | Median |
-| 8 | 13% | 14% |  |
-| 9 | 0.4% | 0.4% |  |
-| 10 | 0% | 0% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0.1% | 100% |  |
+| 7 | 9% | 99.9% |  |
+| 8 | 54% | 91% | Median |
+| 9 | 34% | 37% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0% | 0% |  |
 
 ### Konfederacja (NI)
 
 *For a full overview of the results for this party, see the [Konfederacja (NI)](party-konfederacjani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-02-20-IBSP-seats-pmf-konfederacjani.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-02-24-SocialChanges-seats-pmf-konfederacjani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -130,8 +130,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 53% | 98% | Median |
-| 5 | 42% | 44% |  |
+| 4 | 52% | 98% | Median |
+| 5 | 45% | 47% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -139,23 +139,23 @@
 
 *For a full overview of the results for this party, see the [Koalicja Polska (EPP)](party-koalicjapolskaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2020-02-20-IBSP-seats-pmf-koalicjapolskaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2020-02-24-SocialChanges-seats-pmf-koalicjapolskaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 23% | 99.9% |  |
-| 4 | 68% | 77% | Median |
-| 5 | 9% | 9% |  |
+| 2 | 0% | 100% |  |
+| 3 | 17% | 100% |  |
+| 4 | 72% | 83% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2020-02-20-IBSP-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2020-02-24-SocialChanges-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
@@ -167,13 +167,13 @@
 
 ### Opinion Poll
 
-+ **Polling firm:** IBSP
-+ **Commissioner(s):** wp.pl
-+ **Fieldwork period:** 18–20 February 2020
++ **Polling firm:** Social Changes
++ **Commissioner(s):** wpolityce.pl
++ **Fieldwork period:** 21–24 February 2020
 
 ### Calculations
 
-+ **Sample size:** 1000
++ **Sample size:** 1090
 + **Simulations done:** 1,048,576
-+ **Error estimate:** 0.40%
++ **Error estimate:** 0.46%
 

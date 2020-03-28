@@ -29,8 +29,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [7–11 February 2020](2020-02-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.3% | 12.4–18.0% |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 16.8% | 15.4–18.4% | 15.0–18.8% | 14.7–19.2% | 14.1–19.9% |
 | [1–4 February 2020](2020-02-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.3% | 12.4–18.0% |
-| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 12.9% | N/A | N/A | N/A | N/A |
-| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 17.0% | N/A | N/A | N/A | N/A |
+| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 12.9% | 11.4–14.8% | 10.9–15.3% | 10.5–15.8% | 9.8–16.7% |
+| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 17.0% | 15.6–18.6% | 15.2–19.1% | 14.9–19.4% | 14.3–20.2% |
 | [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.2% | 12.4–18.0% |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 11.9% | 10.4–13.6% | 10.0–14.1% | 9.6–14.6% | 8.9–15.5% |
 | [22–23 January 2020](2020-01-23-Pollster.html) | Pollster <br> SE.pl | 14.7% | 13.4–16.1% | 13.0–16.5% | 12.7–16.9% | 12.1–17.6% |
@@ -197,8 +197,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [7–11 February 2020](2020-02-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 9 | 8–9 | 8–10 | 8–10 | 7–10 |
 | [1–4 February 2020](2020-02-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
-| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN |  |  |  |  |  |
-| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [29–30 January 2020](2020-01-30-KantarMB.html) | Kantar MB <br> TVN | 7 | 6–8 | 5–8 | 5–8 | 5–9 |
+| [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 8 | 7–9 | 7–9 | 7–9 | 6–9 |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [22–23 January 2020](2020-01-23-Pollster.html) | Pollster <br> SE.pl | 8 | 7–8 | 7–9 | 6–9 | 6–9 |

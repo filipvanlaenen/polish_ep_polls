@@ -278,3 +278,341 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#bezpartyjni-samorządowcy-(*)">Bezpartyjni Samorządowcy (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 23 | 21–26 |21–27 | 20–27 | 20–28 |
 
+### Prawo i Sprawiedliwość (ECR)
+
+*For a full overview of the results for this party, see the [Prawo i Sprawiedliwość (ECR)](party-prawoisprawiedliwośćecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-prawoisprawiedliwośćecr.png "Seats Probability Mass Function")
+
+### Platforma Obywatelska (EPP)
+
+*For a full overview of the results for this party, see the [Platforma Obywatelska (EPP)](party-platformaobywatelskaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-platformaobywatelskaepp.png "Seats Probability Mass Function")
+
+### Kukiz’15 (NI)
+
+*For a full overview of the results for this party, see the [Kukiz’15 (NI)](party-kukiz’15ni.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-kukiz’15ni.png "Seats Probability Mass Function")
+
+### .Nowoczesna (RE)
+
+*For a full overview of the results for this party, see the [.Nowoczesna (RE)](party-nowoczesnare.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-nowoczesnare.png "Seats Probability Mass Function")
+
+### Polskie Stronnictwo Ludowe (EPP)
+
+*For a full overview of the results for this party, see the [Polskie Stronnictwo Ludowe (EPP)](party-polskiestronnictwoludoweepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-polskiestronnictwoludoweepp.png "Seats Probability Mass Function")
+
+### Sojusz Lewicy Demokratycznej (S&D)
+
+*For a full overview of the results for this party, see the [Sojusz Lewicy Demokratycznej (S&D)](party-sojuszlewicydemokratycznejsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-sojuszlewicydemokratycznejsd.png "Seats Probability Mass Function")
+
+### KORWiN (NI)
+
+*For a full overview of the results for this party, see the [KORWiN (NI)](party-korwinni.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-korwinni.png "Seats Probability Mass Function")
+
+### Lewica Razem (S&D)
+
+*For a full overview of the results for this party, see the [Lewica Razem (S&D)](party-lewicarazemsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-lewicarazemsd.png "Seats Probability Mass Function")
+
+### Wiosna (S&D)
+
+*For a full overview of the results for this party, see the [Wiosna (S&D)](party-wiosnasd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-wiosnasd.png "Seats Probability Mass Function")
+
+### Wiosna–Partia Razem (S&D)
+
+*For a full overview of the results for this party, see the [Wiosna–Partia Razem (S&D)](party-wiosna–partiarazemsd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-wiosna–partiarazemsd.png "Seats Probability Mass Function")
+
+### Koalicja Europejska (EPP)
+
+*For a full overview of the results for this party, see the [Koalicja Europejska (EPP)](party-koalicjaeuropejskaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-koalicjaeuropejskaepp.png "Seats Probability Mass Function")
+
+### Konfederacja (NI)
+
+*For a full overview of the results for this party, see the [Konfederacja (NI)](party-konfederacjani.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-konfederacjani.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 0% | 99.6% |  |
+| 2 | 2% | 99.6% |  |
+| 3 | 43% | 98% |  |
+| 4 | 36% | 55% | Median |
+| 5 | 16% | 18% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% |  |
+
+### Koalicja Obywatelska (EPP)
+
+*For a full overview of the results for this party, see the [Koalicja Obywatelska (EPP)](party-koalicjaobywatelskaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-koalicjaobywatelskaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0.4% | 100% |  |
+| 10 | 7% | 99.5% |  |
+| 11 | 21% | 93% |  |
+| 12 | 24% | 72% | Median |
+| 13 | 27% | 48% |  |
+| 14 | 18% | 22% |  |
+| 15 | 4% | 4% |  |
+| 16 | 0.2% | 0.2% |  |
+| 17 | 0% | 0% |  |
+
+### Koalicja Polska (EPP)
+
+*For a full overview of the results for this party, see the [Koalicja Polska (EPP)](party-koalicjapolskaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-koalicjapolskaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 12% | 100% |  |
+| 4 | 33% | 88% |  |
+| 5 | 43% | 56% | Median |
+| 6 | 13% | 13% |  |
+| 7 | 0.3% | 0.3% |  |
+| 8 | 0% | 0% |  |
+
+### Lewica (S&D)
+
+*For a full overview of the results for this party, see the [Lewica (S&D)](party-lewicasd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-lewicasd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 4% | 100% |  |
+| 4 | 14% | 96% |  |
+| 5 | 4% | 83% |  |
+| 6 | 12% | 78% |  |
+| 7 | 17% | 67% | Median |
+| 8 | 30% | 50% |  |
+| 9 | 17% | 20% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
+
+### Bezpartyjni Samorządowcy (*)
+
+*For a full overview of the results for this party, see the [Bezpartyjni Samorządowcy (*)](party-bezpartyjnisamorządowcy.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-bezpartyjnisamorządowcy.png "Seats Probability Mass Function")
+
+### Zjednoczona Prawica (ECR)
+
+*For a full overview of the results for this party, see the [Zjednoczona Prawica (ECR)](party-zjednoczonaprawicaecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-zjednoczonaprawicaecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 4% | 99.7% |  |
+| 21 | 13% | 96% |  |
+| 22 | 22% | 83% |  |
+| 23 | 16% | 61% | Median |
+| 24 | 8% | 44% |  |
+| 25 | 12% | 37% |  |
+| 26 | 15% | 25% |  |
+| 27 | 8% | 10% | Majority |
+| 28 | 2% | 2% |  |
+| 29 | 0.2% | 0.2% |  |
+| 30 | 0% | 0% |  |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Prawo i Sprawiedliwość (ECR) – Zjednoczona Prawica (ECR) | 0 | 23 | 10% | 21–26 | 21–27 | 20–27 | 20–28 |
+| Koalicja Europejska (EPP) – Koalicja Obywatelska (EPP) – Koalicja Polska (EPP) – Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) | 0 | 17 | 0% | 14–19 | 14–20 | 14–20 | 13–21 |
+| Lewica (S&D) – Lewica Razem (S&D) – Sojusz Lewicy Demokratycznej (S&D) – Wiosna (S&D) – Wiosna–Partia Razem (S&D) | 0 | 7 | 0% | 4–9 | 4–9 | 3–10 | 3–10 |
+| KORWiN (NI) – Konfederacja (NI) – Kukiz’15 (NI) | 0 | 4 | 0% | 3–5 | 3–5 | 3–5 | 2–6 |
+| .Nowoczesna (RE) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Bezpartyjni Samorządowcy (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+
+### Prawo i Sprawiedliwość (ECR) – Zjednoczona Prawica (ECR)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-pis–x.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0.3% | 100% |  |
+| 20 | 4% | 99.7% |  |
+| 21 | 13% | 96% |  |
+| 22 | 22% | 83% |  |
+| 23 | 16% | 61% | Median |
+| 24 | 8% | 44% |  |
+| 25 | 12% | 37% |  |
+| 26 | 15% | 25% |  |
+| 27 | 8% | 10% | Majority |
+| 28 | 2% | 2% |  |
+| 29 | 0.2% | 0.2% |  |
+| 30 | 0% | 0% |  |
+
+### Koalicja Europejska (EPP) – Koalicja Obywatelska (EPP) – Koalicja Polska (EPP) – Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-x–x–x–po–psl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 2% | 99.8% |  |
+| 14 | 9% | 98% |  |
+| 15 | 17% | 88% |  |
+| 16 | 11% | 72% |  |
+| 17 | 13% | 60% | Median |
+| 18 | 23% | 47% |  |
+| 19 | 19% | 25% |  |
+| 20 | 5% | 6% |  |
+| 21 | 0.5% | 0.5% |  |
+| 22 | 0% | 0% |  |
+
+### Lewica (S&D) – Lewica Razem (S&D) – Sojusz Lewicy Demokratycznej (S&D) – Wiosna (S&D) – Wiosna–Partia Razem (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-x–r–sld–wi–x.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 4% | 100% |  |
+| 4 | 14% | 96% |  |
+| 5 | 4% | 83% |  |
+| 6 | 12% | 78% |  |
+| 7 | 17% | 67% | Median |
+| 8 | 30% | 50% |  |
+| 9 | 17% | 20% |  |
+| 10 | 3% | 3% |  |
+| 11 | 0.1% | 0.1% |  |
+| 12 | 0% | 0% |  |
+
+### KORWiN (NI) – Konfederacja (NI) – Kukiz’15 (NI)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-w–x–k.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 0% | 99.6% |  |
+| 2 | 2% | 99.6% |  |
+| 3 | 43% | 98% |  |
+| 4 | 36% | 55% | Median |
+| 5 | 16% | 18% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% |  |
+
+### .Nowoczesna (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-n.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+### Bezpartyjni Samorządowcy (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-x.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
+
+## Technical Information
+
++ **Number of polls included in this average:** 5
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
++ **Error estimate:** 0.90%

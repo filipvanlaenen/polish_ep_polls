@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-03-28T08:47:15.549549+01:00</updated>
+  <updated>2020-03-30T07:47:21.583418+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 41.3–47.3%, 22–26 seats</li><li>Koalicja Obywatelska (EPP): 20.4–25.5%, 11–14 seats</li><li>Lewica (S&amp;D): 13.0–17.3%, 7–9 seats</li><li>Koalicja Polska (EPP): 10.4–14.5%, 5–8 seats</li><li>Konfederacja (NI): 4.0–6.8%, 0–3 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-03-26-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2020-03-26-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 25–26 March 2020</title>
+    <updated>2020-03-30T07:47:21.583418+02:00</updated>
+    <dc:date>2020-03-30T07:47:21.583418+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 40.9–46.9%, 22–25 seats</li><li>Koalicja Obywatelska (EPP): 21.5–26.7%, 11–14 seats</li><li>Lewica (S&amp;D): 13.8–18.3%, 7–9 seats</li><li>Koalicja Polska (EPP): 6.5–9.8%, 3–5 seats</li><li>Konfederacja (NI): 6.5–9.8%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-03-23-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2020-03-23-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes for wpolityce.pl, 20–23 March 2020</title>
+    <updated>2020-03-30T07:47:17.359363+02:00</updated>
+    <dc:date>2020-03-30T07:47:17.359363+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 39.0–44.9%, 21–24 seats</li><li>Koalicja Obywatelska (EPP): 21.3–26.4%, 11–14 seats</li><li>Lewica (S&amp;D): 13.4–17.7%, 7–9 seats</li><li>Koalicja Polska (EPP): 8.5–12.2%, 4–6 seats</li><li>Konfederacja (NI): 6.7–10.0%, 3–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-03-18-Pollster.html</id>
@@ -511,5 +527,5 @@
     <updated>2020-03-23T18:19:37.802903+01:00</updated>
     <dc:date>2020-03-23T18:19:37.802903+01:00</dc:date>
   </entry>
-  <dc:date>2020-03-28T08:47:15.549549+01:00</dc:date>
+  <dc:date>2020-03-30T07:47:21.583418+02:00</dc:date>
 </feed>

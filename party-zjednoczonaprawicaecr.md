@@ -219,11 +219,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–27 | 22–27 | 22–28 | 22–28 |
+| N/A | [Poll Average](average.html) | 25 | 23–27 | 22–27 | 22–28 | 21–28 |
 | [8–9 April 2020](2020-04-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [6–7 April 2020](2020-04-07-Pollster.html) | Pollster <br> SE.pl | 24 | 23–25 | 22–25 | 22–26 | 22–26 |
 | [3–6 April 2020](2020-04-06-SocialChanges.html) | Social Changes <br> wpolityce.pl | 26 | 25–27 | 25–28 | 24–28 | 24–28 |
-| [31 March–2 April 2020](2020-04-02-IBSP.html) | IBSP <br> wp.pl | 23 | 22–24 | 22–25 | 21–25 | 21–25 |
+| [31 March–2 April 2020](2020-04-02-IBSP.html) | IBSP <br> wp.pl | 23 | 22–24 | 22–24 | 21–25 | 21–25 |
 | [27–30 March 2020](2020-03-30-SocialChanges.html) | Social Changes <br> wpolityce.pl | 28 | 26–29 | 26–29 | 26–29 | 25–30 |
 | [25–26 March 2020](2020-03-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–25 | 22–26 | 22–26 | 21–27 |
 | [20–23 March 2020](2020-03-23-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
@@ -385,11 +385,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
 | 20 | 0% | 100% |  |
-| 21 | 0.1% | 100% |  |
-| 22 | 6% | 99.9% |  |
-| 23 | 24% | 94% |  |
-| 24 | 17% | 69% |  |
-| 25 | 18% | 52% | Median |
+| 21 | 0.9% | 100% |  |
+| 22 | 6% | 99.0% |  |
+| 23 | 18% | 93% |  |
+| 24 | 22% | 75% |  |
+| 25 | 19% | 53% | Median |
 | 26 | 20% | 35% |  |
 | 27 | 12% | 15% | Majority |
 | 28 | 3% | 3% |  |

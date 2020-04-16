@@ -188,7 +188,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–9 April 2020](2020-04-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
 | [6–7 April 2020](2020-04-07-Pollster.html) | Pollster <br> SE.pl | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [3–6 April 2020](2020-04-06-SocialChanges.html) | Social Changes <br> wpolityce.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
-| [31 March–2 April 2020](2020-04-02-IBSP.html) | IBSP <br> wp.pl | 6 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [31 March–2 April 2020](2020-04-02-IBSP.html) | IBSP <br> wp.pl | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
 | [27–30 March 2020](2020-03-30-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [25–26 March 2020](2020-03-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [20–23 March 2020](2020-03-23-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
@@ -335,9 +335,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 4% | 100% |  |
 | 4 | 14% | 96% |  |
 | 5 | 3% | 83% |  |
-| 6 | 7% | 80% |  |
-| 7 | 33% | 73% | Median |
-| 8 | 27% | 41% |  |
+| 6 | 12% | 79% |  |
+| 7 | 26% | 68% | Median |
+| 8 | 28% | 42% |  |
 | 9 | 13% | 14% |  |
 | 10 | 1.2% | 1.3% |  |
 | 11 | 0% | 0% |  |

@@ -177,11 +177,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–5 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 2–5 | 0–5 | 0–5 | 0–6 |
 | [8–9 April 2020](2020-04-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [6–7 April 2020](2020-04-07-Pollster.html) | Pollster <br> SE.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [3–6 April 2020](2020-04-06-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [31 March–2 April 2020](2020-04-02-IBSP.html) | IBSP <br> wp.pl | 4 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [31 March–2 April 2020](2020-04-02-IBSP.html) | IBSP <br> wp.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [27–30 March 2020](2020-03-30-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [25–26 March 2020](2020-03-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [20–23 March 2020](2020-03-23-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -325,10 +325,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 6% | 100% | Last Result |
 | 1 | 0% | 94% |  |
 | 2 | 6% | 94% |  |
-| 3 | 27% | 89% |  |
-| 4 | 41% | 61% | Median |
-| 5 | 20% | 20% |  |
-| 6 | 0.4% | 0.4% |  |
+| 3 | 28% | 89% |  |
+| 4 | 42% | 61% | Median |
+| 5 | 18% | 19% |  |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 

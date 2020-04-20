@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 45.8% | 42.5–50.0% | 41.8–50.7% | 41.2–51.4% | 40.0–52.5% |
+| N/A | [Poll Average](average.html) | 45.9% | 42.5–52.1% | 41.8–53.0% | 41.2–53.7% | 40.0–55.0% |
+| [10–13 April 2020](2020-04-13-SocialChanges.html) | Social Changes <br> wpolityce.pl | 52.0% | 50.0–54.0% | 49.4–54.5% | 49.0–55.0% | 48.0–55.9% |
 | [8–9 April 2020](2020-04-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 45.4% | 43.4–47.4% | 42.8–47.9% | 42.3–48.4% | 41.4–49.4% |
 | [6–7 April 2020](2020-04-07-Pollster.html) | Pollster <br> SE.pl | 44.0% | 42.1–46.0% | 41.5–46.6% | 41.0–47.1% | 40.1–48.0% |
 | [3–6 April 2020](2020-04-06-SocialChanges.html) | Social Changes <br> wpolityce.pl | 48.9% | 46.9–50.8% | 46.3–51.4% | 45.9–51.9% | 44.9–52.8% |
@@ -199,16 +200,18 @@ The following table shows the probability mass function per percentage block of 
 | 42.5–43.5% | 11% | 89% |  |
 | 43.5–44.5% | 13% | 78% |  |
 | 44.5–45.5% | 12% | 65% |  |
-| 45.5–46.5% | 10% | 53% | Median |
-| 46.5–47.5% | 9% | 43% |  |
-| 47.5–48.5% | 10% | 34% |  |
-| 48.5–49.5% | 10% | 24% |  |
-| 49.5–50.5% | 8% | 14% |  |
-| 50.5–51.5% | 4% | 6% |  |
-| 51.5–52.5% | 2% | 2% |  |
-| 52.5–53.5% | 0.4% | 0.5% |  |
-| 53.5–54.5% | 0.1% | 0.1% |  |
-| 54.5–55.5% | 0% | 0% |  |
+| 45.5–46.5% | 9% | 53% | Median |
+| 46.5–47.5% | 6% | 44% |  |
+| 47.5–48.5% | 6% | 38% |  |
+| 48.5–49.5% | 6% | 32% |  |
+| 49.5–50.5% | 6% | 26% |  |
+| 50.5–51.5% | 6% | 20% |  |
+| 51.5–52.5% | 6% | 13% |  |
+| 52.5–53.5% | 4% | 7% |  |
+| 53.5–54.5% | 2% | 3% |  |
+| 54.5–55.5% | 0.7% | 0.9% |  |
+| 55.5–56.5% | 0.2% | 0.2% |  |
+| 56.5–57.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -219,7 +222,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 25 | 23–27 | 22–27 | 22–28 | 21–28 |
+| N/A | [Poll Average](average.html) | 25 | 23–29 | 22–29 | 22–30 | 21–30 |
+| [10–13 April 2020](2020-04-13-SocialChanges.html) | Social Changes <br> wpolityce.pl | 29 | 27–30 | 27–30 | 27–30 | 26–31 |
 | [8–9 April 2020](2020-04-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–26 | 23–26 | 23–27 | 22–27 |
 | [6–7 April 2020](2020-04-07-Pollster.html) | Pollster <br> SE.pl | 24 | 23–25 | 22–25 | 22–26 | 22–26 |
 | [3–6 April 2020](2020-04-06-SocialChanges.html) | Social Changes <br> wpolityce.pl | 26 | 25–27 | 25–28 | 24–28 | 24–28 |
@@ -388,12 +392,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 21 | 0.9% | 100% |  |
 | 22 | 6% | 99.0% |  |
 | 23 | 18% | 93% |  |
-| 24 | 22% | 75% |  |
-| 25 | 19% | 53% | Median |
-| 26 | 20% | 35% |  |
-| 27 | 12% | 15% | Majority |
-| 28 | 3% | 3% |  |
-| 29 | 0.2% | 0.2% |  |
-| 30 | 0% | 0% |  |
+| 24 | 21% | 75% |  |
+| 25 | 14% | 54% | Median |
+| 26 | 12% | 39% |  |
+| 27 | 8% | 28% | Majority |
+| 28 | 8% | 20% |  |
+| 29 | 8% | 12% |  |
+| 30 | 3% | 4% |  |
+| 31 | 0.4% | 0.4% |  |
+| 32 | 0% | 0% |  |
 
 

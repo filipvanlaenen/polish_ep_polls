@@ -216,7 +216,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–30 March 2020](2020-03-30-SocialChanges.html) | Social Changes <br> wpolityce.pl | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [25–26 March 2020](2020-03-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [20–23 March 2020](2020-03-23-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [17–18 March 2020](2020-03-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 12 | 12–13 | 11–14 | 11–14 | 11–14 |
+| [17–18 March 2020](2020-03-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 13 | 12–13 | 11–14 | 11–14 | 11–14 |
 | [13–17 March 2020](2020-03-17-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [5–15 March 2020](2020-03-15-CBOS.html) | CBOS | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [10–13 March 2020](2020-03-13-IBSP.html) | IBSP <br> wp.pl | 11 | 11–12 | 10–13 | 10–13 | 10–13 |

@@ -246,7 +246,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–15 March 2020](2020-03-15-CBOS.html) | CBOS | 26 | 25–27 | 25–28 | 24–28 | 24–29 |
 | [10–13 March 2020](2020-03-13-IBSP.html) | IBSP <br> wp.pl | 25 | 24–27 | 24–27 | 24–27 | 23–28 |
 | [12–13 March 2020](2020-03-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
-| [6–11 March 2020](2020-03-11-KantarPublic.html) | Kantar Public | 24 | 23–24 | 23–25 | 22–25 | 19–25 |
+| [6–11 March 2020](2020-03-11-KantarPublic.html) | Kantar Public | 22 | 21–24 | 21–24 | 20–24 | 20–25 |
 | [6–10 March 2020](2020-03-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 24 | 23–25 | 23–25 | 22–26 | 22–26 |
 | [28 February–2 March 2020](2020-03-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [27–28 February 2020](2020-02-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
@@ -256,7 +256,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
 | [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 24 | 23–26 | 22–26 | 22–26 | 21–27 |
 | [12–13 February 2020](2020-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
-| [7–12 February 2020](2020-02-12-KantarPublic.html) | Kantar Public <br> TVN | 23 | 22–24 | 21–24 | 21–24 | 20–25 |
+| [7–12 February 2020](2020-02-12-KantarPublic.html) | Kantar Public <br> TVN | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [7–11 February 2020](2020-02-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [1–4 February 2020](2020-02-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 20–23 | 19–23 | 19–23 |
@@ -264,7 +264,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
 | [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–25 | 21–25 | 21–26 | 20–27 |
-| [22–23 January 2020](2020-01-23-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
+| [22–23 January 2020](2020-01-23-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [17–21 January 2020](2020-01-21-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [14–16 January 2020](2020-01-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 20 | 19–21 | 19–22 | 18–22 | 18–22 |

@@ -28,11 +28,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 23 | 22–24 |21–24 |21–24 |20–25 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 14 | 13–15 |13–15 |13–16 |12–16 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 23 | 21–24 |21–24 |21–24 |20–25 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 14 | 13–15 |13–16 |13–16 |12–16 |
 | <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 5 | 5–6 |4–6 |4–6 |4–7 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 4 | 3–4 |3–4 |3–4 |2–5 |
-| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0 |0–2 |0–2 |0–3 |
+| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 3–4 |3–4 |3–4 |2–5 |
+| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 0 | 0 |0–2 |0–3 |0–3 |
 
 ### Zjednoczona Prawica (ECR)
 
@@ -62,12 +62,12 @@
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
 | 19 | 0% | 100% |  |
-| 20 | 1.3% | 100% |  |
-| 21 | 8% | 98.7% |  |
-| 22 | 33% | 90% |  |
-| 23 | 40% | 58% | Median |
-| 24 | 16% | 18% |  |
-| 25 | 1.5% | 2% |  |
+| 20 | 1.5% | 100% |  |
+| 21 | 10% | 98% |  |
+| 22 | 32% | 89% |  |
+| 23 | 41% | 57% | Median |
+| 24 | 15% | 16% |  |
+| 25 | 2% | 2% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% | Majority |
 
@@ -93,9 +93,9 @@
 | 11 | 0% | 100% |  |
 | 12 | 2% | 100% |  |
 | 13 | 18% | 98% |  |
-| 14 | 49% | 80% | Median |
-| 15 | 27% | 32% |  |
-| 16 | 5% | 5% |  |
+| 14 | 45% | 80% | Median |
+| 15 | 30% | 35% |  |
+| 16 | 5% | 6% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |
 
@@ -112,8 +112,8 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 10% | 100% |  |
-| 5 | 62% | 90% | Median |
-| 6 | 27% | 28% |  |
+| 5 | 61% | 90% | Median |
+| 6 | 27% | 29% |  |
 | 7 | 1.2% | 1.2% |  |
 | 8 | 0% | 0% |  |
 
@@ -127,9 +127,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
 | 1 | 0% | 99.7% |  |
-| 2 | 0.6% | 99.7% |  |
-| 3 | 46% | 99.1% |  |
-| 4 | 52% | 53% | Median |
+| 2 | 0.7% | 99.7% |  |
+| 3 | 49% | 99.1% | Median |
+| 4 | 48% | 50% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
@@ -141,10 +141,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0% | 6% |  |
-| 2 | 4% | 6% |  |
-| 3 | 2% | 2% |  |
+| 0 | 93% | 100% | Last Result, Median |
+| 1 | 0% | 7% |  |
+| 2 | 5% | 7% |  |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 
@@ -169,6 +169,6 @@
 ### Calculations
 
 + **Sample size:** 969
-+ **Simulations done:** 131,072
-+ **Error estimate:** 0.94%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.15%
 

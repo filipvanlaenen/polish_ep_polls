@@ -202,7 +202,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–15 March 2020](2020-03-15-CBOS.html) | CBOS | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [10–13 March 2020](2020-03-13-IBSP.html) | IBSP <br> wp.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [12–13 March 2020](2020-03-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
-| [6–11 March 2020](2020-03-11-KantarPublic.html) | Kantar Public | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
+| [6–11 March 2020](2020-03-11-KantarPublic.html) | Kantar Public | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [6–10 March 2020](2020-03-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [28 February–2 March 2020](2020-03-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [27–28 February 2020](2020-02-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
@@ -212,11 +212,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [12–13 February 2020](2020-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
-| [7–12 February 2020](2020-02-12-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0–2 | 0–2 | 0–3 |
+| [7–12 February 2020](2020-02-12-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [7–11 February 2020](2020-02-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–4 February 2020](2020-02-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [29–30 January 2020](2020-01-30-KantarPublic.html) | Kantar Public <br> TVN | 4 | 3–4 | 2–4 | 0–4 | 0–5 |
+| [29–30 January 2020](2020-01-30-KantarPublic.html) | Kantar Public <br> TVN | 4 | 3–4 | 2–4 | 2–5 | 0–5 |
 | [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–4 | 0–4 | 0–4 |

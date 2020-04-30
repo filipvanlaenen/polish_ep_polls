@@ -218,11 +218,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
 | [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [12–13 February 2020](2020-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [7–12 February 2020](2020-02-12-KantarPublic.html) | Kantar Public <br> TVN | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [7–12 February 2020](2020-02-12-KantarPublic.html) | Kantar Public <br> TVN | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [7–11 February 2020](2020-02-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [1–4 February 2020](2020-02-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [29–30 January 2020](2020-01-30-KantarPublic.html) | Kantar Public <br> TVN | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| [29–30 January 2020](2020-01-30-KantarPublic.html) | Kantar Public <br> TVN | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | [23–27 January 2020](2020-01-27-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [24–25 January 2020](2020-01-25-IBRiS.html) | IBRiS <br> Radio ZET | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 3–5 | 3–6 | 3–6 |

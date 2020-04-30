@@ -221,7 +221,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5–15 March 2020](2020-03-15-CBOS.html) | CBOS | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [10–13 March 2020](2020-03-13-IBSP.html) | IBSP <br> wp.pl | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
 | [12–13 March 2020](2020-03-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
-| [6–11 March 2020](2020-03-11-KantarPublic.html) | Kantar Public | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
+| [6–11 March 2020](2020-03-11-KantarPublic.html) | Kantar Public | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [6–10 March 2020](2020-03-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–14 |
 | [28 February–2 March 2020](2020-03-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [27–28 February 2020](2020-02-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
@@ -231,7 +231,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [12–13 February 2020](2020-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [7–12 February 2020](2020-02-12-KantarPublic.html) | Kantar Public <br> TVN | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
+| [7–12 February 2020](2020-02-12-KantarPublic.html) | Kantar Public <br> TVN | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [7–11 February 2020](2020-02-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [7–8 February 2020](2020-02-08-IBRiS.html) | IBRiS <br> DoRzeczy.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [1–4 February 2020](2020-02-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
@@ -241,7 +241,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–24 January 2020](2020-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [22–23 January 2020](2020-01-23-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [17–21 January 2020](2020-01-21-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
-| [14–16 January 2020](2020-01-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 15 | 14–15 | 13–16 | 13–16 | 13–16 |
+| [14–16 January 2020](2020-01-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
 | [14–16 January 2020](2020-01-16-IBSP.html) | IBSP <br> wpolityce.pl | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [9–16 January 2020](2020-01-16-CBOS.html) | CBOS | 14 | 13–15 | 12–15 | 12–16 | 12–16 |
 | [9–15 January 2020](2020-01-15-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–17 | 14–17 | 13–17 | 13–18 |

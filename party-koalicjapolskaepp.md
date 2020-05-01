@@ -272,7 +272,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 2–4 | 0–5 |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 0 | 0 | 0–2 | 0–3 | 0–3 |

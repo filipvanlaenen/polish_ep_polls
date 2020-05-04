@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 6.5–15.9% | 6.2–16.6% | 5.9–17.2% | 5.4–18.2% |
+| N/A | [Poll Average](average.html) | 9.1% | 6.9–15.9% | 6.5–16.6% | 6.2–17.2% | 5.6–18.2% |
+| [24–27 April 2020](2020-04-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.4% | 6.5–9.7% | 6.1–10.3% |
 | [23–24 April 2020](2020-04-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 15.8% | 14.4–17.4% | 14.0–17.8% | 13.7–18.2% | 13.1–19.0% |
 | [17–20 April 2020](2020-04-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [16–17 April 2020](2020-04-17-KantarPublic.html) | Kantar Public | 11.9% | 10.7–13.4% | 10.3–13.8% | 10.0–14.2% | 9.5–14.9% |
@@ -165,12 +166,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.8% | 100% |  |
-| 5.5–6.5% | 9% | 99.2% |  |
-| 6.5–7.5% | 20% | 90% |  |
-| 7.5–8.5% | 16% | 70% |  |
-| 8.5–9.5% | 10% | 54% | Median |
-| 9.5–10.5% | 5% | 44% |  |
+| 4.5–5.5% | 0.3% | 100% |  |
+| 5.5–6.5% | 5% | 99.7% |  |
+| 6.5–7.5% | 16% | 95% |  |
+| 7.5–8.5% | 21% | 79% |  |
+| 8.5–9.5% | 14% | 58% | Median |
+| 9.5–10.5% | 5% | 45% |  |
 | 10.5–11.5% | 6% | 39% |  |
 | 11.5–12.5% | 7% | 33% |  |
 | 12.5–13.5% | 5% | 26% |  |
@@ -191,7 +192,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–8 | 3–9 | 3–9 | 2–9 |
+| N/A | [Poll Average](average.html) | 5 | 3–8 | 3–9 | 3–9 | 3–9 |
+| [24–27 April 2020](2020-04-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [23–24 April 2020](2020-04-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 8 | 7–9 | 7–9 | 7–9 | 7–10 |
 | [17–20 April 2020](2020-04-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [16–17 April 2020](2020-04-17-KantarPublic.html) | Kantar Public | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -343,12 +345,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0.5% | 99.9% |  |
-| 3 | 25% | 99.4% |  |
-| 4 | 27% | 75% | Median |
-| 5 | 11% | 48% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 16% | 99.7% |  |
+| 4 | 34% | 84% |  |
+| 5 | 13% | 50% | Median |
 | 6 | 13% | 37% |  |
 | 7 | 7% | 25% |  |
 | 8 | 12% | 17% |  |

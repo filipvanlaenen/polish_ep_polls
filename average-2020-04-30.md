@@ -366,7 +366,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 21% | 99.7% |  |
 | 4 | 56% | 78% | Median |
 | 5 | 21% | 22% |  |
-| 6 | 1.0% | 1.0% |  |
+| 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
@@ -385,9 +385,9 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0.2% | 100% |  |
-| 8 | 4% | 99.8% |  |
-| 9 | 15% | 95% |  |
-| 10 | 18% | 81% |  |
+| 8 | 5% | 99.8% |  |
+| 9 | 14% | 95% |  |
+| 10 | 19% | 81% |  |
 | 11 | 23% | 62% | Median |
 | 12 | 15% | 40% |  |
 | 13 | 5% | 24% |  |
@@ -484,7 +484,7 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 8% | 17% |  |
 | 29 | 7% | 9% |  |
 | 30 | 2% | 2% |  |
-| 31 | 0.2% | 0.2% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 
@@ -540,7 +540,7 @@ Only polls for which at least the sample size has been published are included in
 | 28 | 8% | 17% |  |
 | 29 | 7% | 9% |  |
 | 30 | 2% | 2% |  |
-| 31 | 0.2% | 0.2% |  |
+| 31 | 0.1% | 0.1% |  |
 | 32 | 0% | 0% |  |
 
 ### Koalicja Europejska (EPP) – Koalicja Obywatelska (EPP) – Koalicja Polska (EPP) – Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP)
@@ -560,10 +560,10 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.5% | 100% |  |
+| 11 | 0.6% | 100% |  |
 | 12 | 5% | 99.4% |  |
-| 13 | 11% | 95% |  |
-| 14 | 4% | 84% |  |
+| 13 | 10% | 94% |  |
+| 14 | 4% | 85% |  |
 | 15 | 4% | 80% |  |
 | 16 | 14% | 76% | Median |
 | 17 | 22% | 61% |  |
@@ -604,7 +604,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 21% | 99.7% |  |
 | 4 | 56% | 78% | Median |
 | 5 | 21% | 22% |  |
-| 6 | 1.0% | 1.0% |  |
+| 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 
 ### .Nowoczesna (RE)
@@ -627,6 +627,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.10%

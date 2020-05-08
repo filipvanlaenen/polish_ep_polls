@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-05-07T17:12:37.178667+02:00</updated>
+  <updated>2020-05-08T18:42:38.904152+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 49.0–55.0%, 27–30 seats</li><li>Koalicja Obywatelska (EPP): 14.9–19.4%, 8–10 seats</li><li>Lewica (S&amp;D): 10.2–14.1%, 5–7 seats</li><li>Koalicja Polska (EPP): 6.5–9.7%, 3–5 seats</li><li>Konfederacja (NI): 7.4–10.8%, 4–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-04-27-SocialChanges.html</id>
@@ -584,6 +584,14 @@
     <dc:date>2020-05-01T19:47:30.779721+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 46.4–52.5%, 26–29 seats</li><li>Koalicja Obywatelska (EPP): 23.8–29.2%, 13–16 seats</li><li>Lewica (S&amp;D): 11.2–15.3%, 6–8 seats</li><li>Koalicja Polska (EPP): 5.0–8.1%, 2–4 seats</li><li>Konfederacja (NI): 2.7–5.1%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-10-04-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-10-04-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 3–4 October 2019</title>
+    <updated>2020-05-08T18:42:38.904152+02:00</updated>
+    <dc:date>2020-05-08T18:42:38.904152+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość (ECR): 43.7–49.8%, 26–31 seats</li><li>Platforma Obywatelska (EPP): 23.1–28.5%, 14–17 seats</li><li>Kukiz’15 (NI): 2.2–4.4%, 0 seats</li><li>.Nowoczesna (RE): 0.7–2.1%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 4.6–7.6%, 0–4 seats</li><li>Sojusz Lewicy Demokratycznej (S&amp;D): 4.9–7.9%, 0–4 seats</li><li>Wiosna (S&amp;D): 4.5–7.3%, 0–4 seats</li><li>KORWiN (NI): 1.4–3.3%, 0 seats</li><li>Lewica Razem (S&amp;D): 0.7–2.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-07-31-SocialChanges.html</id>
     <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-07-31-SocialChanges.html"/>
@@ -639,5 +647,5 @@
     <updated>2020-03-23T18:19:37.802903+01:00</updated>
     <dc:date>2020-03-23T18:19:37.802903+01:00</dc:date>
   </entry>
-  <dc:date>2020-05-07T17:12:37.178667+02:00</dc:date>
+  <dc:date>2020-05-08T18:42:38.904152+02:00</dc:date>
 </feed>

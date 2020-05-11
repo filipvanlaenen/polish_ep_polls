@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 43.3% | 36.0–52.0% | 34.9–53.0% | 34.2–53.7% | 33.0–55.0% |
+| N/A | [Poll Average](average.html) | 41.1% | 36.0–52.0% | 34.9–53.0% | 34.2–53.7% | 33.0–55.0% |
+| [30 April–4 May 2020](2020-05-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 40.2% | 38.3–42.1% | 37.8–42.7% | 37.4–43.1% | 36.5–44.1% |
+| [4 May 2020](2020-05-04-IBRiS.html) | IBRiS <br> ZET | 40.5% | 38.7–42.5% | 38.1–43.0% | 37.7–43.5% | 36.8–44.4% |
+| [27–29 April 2020](2020-04-29-IPSOS.html) | IPSOS <br> OKO | 38.0% | N/A | N/A | N/A | N/A |
 | [24–27 April 2020](2020-04-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 52.0% | 50.0–53.9% | 49.5–54.5% | 49.0–55.0% | 48.1–55.9% |
 | [23–24 April 2020](2020-04-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.7% | 40.8–44.7% | 40.2–45.3% | 39.7–45.8% | 38.8–46.8% |
 | [17–20 April 2020](2020-04-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 53.0% | 51.0–54.9% | 50.4–55.5% | 49.9–56.0% | 49.0–56.9% |
@@ -34,6 +37,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27–28 February 2020](2020-02-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 41.7% | 39.8–43.7% | 39.2–44.3% | 38.7–44.7% | 37.8–45.7% |
 | [24–26 February 2020](2020-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 41.4% | 39.5–43.3% | 39.0–43.9% | 38.5–44.3% | 37.6–45.3% |
 | [21–24 February 2020](2020-02-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 41.0% | 39.1–43.0% | 38.6–43.5% | 38.1–44.0% | 37.2–44.9% |
+| [20–22 February 2020](2020-02-22-IPSOS.html) | IPSOS <br> OKO | 38.0% | N/A | N/A | N/A | N/A |
 | [18–20 February 2020](2020-02-20-IBSP.html) | IBSP <br> wp.pl | 38.4% | 36.5–40.4% | 35.9–41.0% | 35.4–41.5% | 34.5–42.4% |
 | [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 38.9% | 37.0–40.9% | 36.5–41.4% | 36.0–41.9% | 35.1–42.9% |
 | [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 44.0% | 42.0–46.0% | 41.4–46.6% | 40.9–47.1% | 39.9–48.1% |
@@ -198,18 +202,18 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 2% | 98.9% |  |
 | 34.5–35.5% | 4% | 96% |  |
 | 35.5–36.5% | 5% | 92% |  |
-| 36.5–37.5% | 4% | 87% |  |
-| 37.5–38.5% | 2% | 83% |  |
-| 38.5–39.5% | 1.3% | 81% |  |
-| 39.5–40.5% | 2% | 80% |  |
-| 40.5–41.5% | 6% | 77% |  |
-| 41.5–42.5% | 11% | 72% |  |
-| 42.5–43.5% | 14% | 61% | Median |
-| 43.5–44.5% | 13% | 47% |  |
-| 44.5–45.5% | 8% | 34% |  |
-| 45.5–46.5% | 4% | 25% |  |
-| 46.5–47.5% | 1.2% | 21% |  |
-| 47.5–48.5% | 0.5% | 20% |  |
+| 36.5–37.5% | 5% | 87% |  |
+| 37.5–38.5% | 5% | 82% |  |
+| 38.5–39.5% | 8% | 77% |  |
+| 39.5–40.5% | 12% | 68% |  |
+| 40.5–41.5% | 13% | 57% | Median |
+| 41.5–42.5% | 10% | 44% |  |
+| 42.5–43.5% | 7% | 34% |  |
+| 43.5–44.5% | 4% | 27% |  |
+| 44.5–45.5% | 2% | 23% |  |
+| 45.5–46.5% | 0.6% | 21% |  |
+| 46.5–47.5% | 0.2% | 20% |  |
+| 47.5–48.5% | 0.2% | 20% |  |
 | 48.5–49.5% | 0.9% | 20% |  |
 | 49.5–50.5% | 2% | 19% |  |
 | 50.5–51.5% | 4% | 17% |  |
@@ -229,7 +233,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 19–28 | 19–29 | 18–29 | 18–30 |
+| N/A | [Poll Average](average.html) | 22 | 19–28 | 19–29 | 18–29 | 18–30 |
+| [30 April–4 May 2020](2020-05-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
+| [4 May 2020](2020-05-04-IBRiS.html) | IBRiS <br> ZET | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
+| [27–29 April 2020](2020-04-29-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
 | [24–27 April 2020](2020-04-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 28 | 27–29 | 27–30 | 27–30 | 26–31 |
 | [23–24 April 2020](2020-04-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [17–20 April 2020](2020-04-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 29 | 27–30 | 27–30 | 27–30 | 26–31 |
@@ -253,6 +260,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–28 February 2020](2020-02-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
 | [24–26 February 2020](2020-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
 | [21–24 February 2020](2020-02-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
+| [20–22 February 2020](2020-02-22-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
 | [18–20 February 2020](2020-02-20-IBSP.html) | IBSP <br> wp.pl | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
 | [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 24 | 23–26 | 22–26 | 22–26 | 21–27 |
@@ -402,13 +410,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0.5% | 100% |  |
 | 18 | 4% | 99.5% |  |
 | 19 | 8% | 96% |  |
-| 20 | 6% | 87% |  |
-| 21 | 4% | 81% |  |
-| 22 | 12% | 78% |  |
-| 23 | 23% | 66% | Median |
-| 24 | 17% | 42% |  |
-| 25 | 5% | 25% |  |
-| 26 | 0.9% | 21% |  |
+| 20 | 9% | 87% |  |
+| 21 | 16% | 78% |  |
+| 22 | 23% | 62% | Median |
+| 23 | 14% | 39% |  |
+| 24 | 4% | 25% |  |
+| 25 | 0.5% | 20% |  |
+| 26 | 0.3% | 20% |  |
 | 27 | 3% | 20% | Majority |
 | 28 | 8% | 17% |  |
 | 29 | 7% | 9% |  |

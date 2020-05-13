@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 39.4% | 35.8–51.6% | 34.9–52.8% | 34.3–53.6% | 33.1–54.9% |
+| N/A | [Poll Average](average.html) | 40.0% | 36.9–51.6% | 36.3–52.8% | 35.7–53.6% | 34.7–54.9% |
 | [8–9 May 2020](2020-05-09-IBRiS.html) | IBRiS <br> Onet | 37.7% | 35.9–39.6% | 35.4–40.2% | 34.9–40.6% | 34.0–41.5% |
+| [8 May 2020](2020-05-08-KantarPublic.html) | Kantar Public <br> KO | 39.3% | 37.3–41.3% | 36.8–41.9% | 36.3–42.4% | 35.4–43.3% |
 | [6–7 May 2020](2020-05-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 52.0% | 50.0–54.0% | 49.5–54.5% | 49.0–55.0% | 48.1–55.9% |
 | [30 April–4 May 2020](2020-05-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 40.2% | 38.3–42.1% | 37.8–42.7% | 37.4–43.1% | 36.5–44.1% |
 | [4 May 2020](2020-05-04-IBRiS.html) | IBRiS <br> ZET | 40.5% | 38.7–42.5% | 38.1–43.0% | 37.7–43.5% | 36.8–44.4% |
@@ -199,17 +200,17 @@ The following table shows the probability mass function per percentage block of 
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0.2% | 100% |  |
-| 32.5–33.5% | 0.8% | 99.8% |  |
-| 33.5–34.5% | 2% | 99.0% |  |
-| 34.5–35.5% | 5% | 97% |  |
-| 35.5–36.5% | 9% | 92% |  |
-| 36.5–37.5% | 11% | 83% |  |
-| 37.5–38.5% | 12% | 71% |  |
-| 38.5–39.5% | 11% | 60% | Median |
-| 39.5–40.5% | 9% | 49% |  |
-| 40.5–41.5% | 7% | 40% |  |
-| 41.5–42.5% | 6% | 33% |  |
+| 31.5–32.5% | 0% | 100% |  |
+| 32.5–33.5% | 0% | 100% |  |
+| 33.5–34.5% | 0.4% | 99.9% |  |
+| 34.5–35.5% | 2% | 99.6% |  |
+| 35.5–36.5% | 5% | 98% |  |
+| 36.5–37.5% | 10% | 93% |  |
+| 37.5–38.5% | 13% | 83% |  |
+| 38.5–39.5% | 14% | 70% |  |
+| 39.5–40.5% | 12% | 56% | Median |
+| 40.5–41.5% | 10% | 44% |  |
+| 41.5–42.5% | 7% | 34% |  |
 | 42.5–43.5% | 5% | 27% |  |
 | 43.5–44.5% | 3% | 22% |  |
 | 44.5–45.5% | 1.5% | 19% |  |
@@ -235,8 +236,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–28 | 19–28 | 18–29 | 18–30 |
+| N/A | [Poll Average](average.html) | 21 | 20–28 | 19–28 | 19–29 | 18–30 |
 | [8–9 May 2020](2020-05-09-IBRiS.html) | IBRiS <br> Onet | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
+| [8 May 2020](2020-05-08-KantarPublic.html) | Kantar Public <br> KO | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
 | [6–7 May 2020](2020-05-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 28 | 27–29 | 27–29 | 26–30 | 26–30 |
 | [30 April–4 May 2020](2020-05-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [4 May 2020](2020-05-04-IBRiS.html) | IBRiS <br> ZET | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
@@ -264,7 +266,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27–28 February 2020](2020-02-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
 | [24–26 February 2020](2020-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–24 | 21–24 | 20–24 |
 | [21–24 February 2020](2020-02-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
-| [20–22 February 2020](2020-02-22-IPSOS.html) | IPSOS <br> OKO | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [20–22 February 2020](2020-02-22-IPSOS.html) | IPSOS <br> OKO | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [18–20 February 2020](2020-02-20-IBSP.html) | IBSP <br> wp.pl | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [14–18 February 2020](2020-02-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
 | [6–16 February 2020](2020-02-16-CBOS.html) | CBOS | 24 | 23–26 | 22–26 | 22–26 | 21–27 |
@@ -411,13 +413,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.4% | 100% |  |
-| 18 | 4% | 99.6% |  |
-| 19 | 12% | 96% |  |
-| 20 | 21% | 84% |  |
-| 21 | 19% | 63% | Median |
-| 22 | 15% | 44% |  |
-| 23 | 9% | 29% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0.5% | 100% |  |
+| 19 | 6% | 99.5% |  |
+| 20 | 19% | 93% |  |
+| 21 | 25% | 74% | Median |
+| 22 | 19% | 49% |  |
+| 23 | 10% | 30% |  |
 | 24 | 3% | 20% |  |
 | 25 | 0.4% | 17% |  |
 | 26 | 0.6% | 17% |  |

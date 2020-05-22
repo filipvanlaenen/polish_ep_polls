@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-05-17T19:27:12.940165+02:00</updated>
+  <updated>2020-05-22T19:01:19.001243+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 42.7–48.8%, 23–26 seats</li><li>Koalicja Obywatelska (EPP): 15.1–19.7%, 8–10 seats</li><li>Lewica (S&amp;D): 10.9–15.0%, 5–8 seats</li><li>Koalicja Polska (EPP): 12.1–16.4%, 6–9 seats</li><li>Konfederacja (NI): 7.3–10.8%, 4–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-05-15-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2020-05-15-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 14–15 May 2020</title>
+    <updated>2020-05-21T20:54:51.187572+02:00</updated>
+    <dc:date>2020-05-21T20:54:51.187572+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 44.0–50.0%, 24–28 seats</li><li>Koalicja Obywatelska (EPP): 15.8–20.5%, 8–11 seats</li><li>Lewica (S&amp;D): 10.2–14.1%, 5–7 seats</li><li>Koalicja Polska (EPP): 9.3–13.1%, 5–7 seats</li><li>Konfederacja (NI): 7.4–10.8%, 4–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-05-14-SocialChanges.html</id>
@@ -14,6 +22,14 @@
     <title>Opinion Poll by Social Changes for wPolityce.pl, 12–14 May 2020</title>
     <updated>2020-05-17T19:27:12.940165+02:00</updated>
     <dc:date>2020-05-17T19:27:12.940165+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 38.1–44.2%, 20–24 seats</li><li>Koalicja Obywatelska (EPP): 26.9–32.6%, 14–17 seats</li><li>Lewica (S&amp;D): 8.6–12.3%, 4–6 seats</li><li>Koalicja Polska (EPP): 6.5–9.9%, 3–5 seats</li><li>Konfederacja (NI): 8.0–11.7%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-05-14-KantarPublic.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2020-05-14-KantarPublic.html"/>
+    <title>Opinion Poll by Kantar Public for KO, 14 May 2020</title>
+    <updated>2020-05-22T19:01:19.001243+02:00</updated>
+    <dc:date>2020-05-22T19:01:19.001243+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 34.9–40.6%, 19–22 seats</li><li>Koalicja Obywatelska (EPP): 13.6–17.9%, 7–9 seats</li><li>Lewica (S&amp;D): 6.7–10.0%, 3–5 seats</li><li>Koalicja Polska (EPP): 11.0–14.9%, 6–8 seats</li><li>Konfederacja (NI): 7.2–10.5%, 3–5 seats</li></ul></div></content>
@@ -727,5 +743,5 @@
     <updated>2020-03-23T18:19:37.802903+01:00</updated>
     <dc:date>2020-03-23T18:19:37.802903+01:00</dc:date>
   </entry>
-  <dc:date>2020-05-17T19:27:12.940165+02:00</dc:date>
+  <dc:date>2020-05-22T19:01:19.001243+02:00</dc:date>
 </feed>

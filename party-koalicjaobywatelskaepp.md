@@ -10,12 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.5% | 16.1–26.2% | 15.3–27.0% | 14.8–27.7% | 13.9–28.8% |
+| N/A | [Poll Average](average.html) | 23.1% | 16.4–26.2% | 15.5–27.0% | 14.9–27.6% | 14.0–28.7% |
 | [22–23 May 2020](2020-05-23-IBRiS.html) | IBRiS <br> WP.pl | 23.4% | 21.8–25.1% | 21.3–25.5% | 21.0–26.0% | 20.2–26.8% |
 | [21–22 May 2020](2020-05-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 26.1% | 24.4–27.8% | 24.0–28.3% | 23.6–28.8% | 22.8–29.6% |
 | [18–19 May 2020](2020-05-19-KantarPublic.html) | Kantar Public | 23.0% | 21.3–24.8% | 20.8–25.3% | 20.4–25.7% | 19.6–26.6% |
 | [11–18 May 2020](2020-05-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.7–23.6% | 17.9–24.4% |
-| [15–17 May 2020](2020-05-17-InstytutBadańPollster.html) | Instytut Badań Pollster | 24.5% | N/A | N/A | N/A | N/A |
+| [15–17 May 2020](2020-05-17-InstytutBadańPollster.html) | Instytut Badań Pollster | 24.5% | 22.9–26.2% | 22.4–26.7% | 22.1–27.2% | 21.3–28.0% |
 | [14–15 May 2020](2020-05-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 17.3% | 15.8–18.9% | 15.4–19.3% | 15.1–19.7% | 14.4–20.5% |
 | [12–14 May 2020](2020-05-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 18.0% | 16.6–19.6% | 16.2–20.1% | 15.8–20.5% | 15.2–21.2% |
 | [14 May 2020](2020-05-14-KantarPublic.html) | Kantar Public <br> KO | 29.7% | 27.9–31.6% | 27.4–32.1% | 26.9–32.6% | 26.1–33.5% |
@@ -190,22 +190,22 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.2% | 100% |  |
-| 13.5–14.5% | 2% | 99.8% |  |
-| 14.5–15.5% | 5% | 98% |  |
-| 15.5–16.5% | 7% | 94% |  |
-| 16.5–17.5% | 5% | 87% |  |
-| 17.5–18.5% | 2% | 82% |  |
-| 18.5–19.5% | 2% | 80% |  |
-| 19.5–20.5% | 5% | 78% |  |
-| 20.5–21.5% | 10% | 72% |  |
-| 21.5–22.5% | 13% | 63% |  |
-| 22.5–23.5% | 14% | 50% | Median |
-| 23.5–24.5% | 12% | 36% |  |
-| 24.5–25.5% | 9% | 24% |  |
-| 25.5–26.5% | 7% | 15% |  |
+| 13.5–14.5% | 1.3% | 99.8% |  |
+| 14.5–15.5% | 4% | 98.6% |  |
+| 15.5–16.5% | 6% | 95% |  |
+| 16.5–17.5% | 4% | 89% |  |
+| 17.5–18.5% | 2% | 85% |  |
+| 18.5–19.5% | 2% | 83% |  |
+| 19.5–20.5% | 5% | 81% |  |
+| 20.5–21.5% | 8% | 77% |  |
+| 21.5–22.5% | 12% | 69% |  |
+| 22.5–23.5% | 14% | 57% | Median |
+| 23.5–24.5% | 15% | 43% |  |
+| 24.5–25.5% | 12% | 28% |  |
+| 25.5–26.5% | 9% | 16% |  |
 | 26.5–27.5% | 5% | 8% |  |
 | 27.5–28.5% | 2% | 3% |  |
-| 28.5–29.5% | 0.6% | 0.7% |  |
+| 28.5–29.5% | 0.5% | 0.6% |  |
 | 29.5–30.5% | 0.1% | 0.1% |  |
 | 30.5–31.5% | 0% | 0% |  |
 
@@ -218,12 +218,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 8–14 | 8–15 | 8–15 | 7–15 |
+| N/A | [Poll Average](average.html) | 12 | 9–14 | 8–14 | 8–15 | 7–15 |
 | [22–23 May 2020](2020-05-23-IBRiS.html) | IBRiS <br> WP.pl | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [21–22 May 2020](2020-05-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
 | [18–19 May 2020](2020-05-19-KantarPublic.html) | Kantar Public | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [11–18 May 2020](2020-05-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
-| [15–17 May 2020](2020-05-17-InstytutBadańPollster.html) | Instytut Badań Pollster |  |  |  |  |  |
+| [15–17 May 2020](2020-05-17-InstytutBadańPollster.html) | Instytut Badań Pollster | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [14–15 May 2020](2020-05-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [12–14 May 2020](2020-05-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
 | [14 May 2020](2020-05-14-KantarPublic.html) | Kantar Public <br> KO | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
@@ -393,15 +393,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 2% | 100% |  |
-| 8 | 10% | 98% |  |
-| 9 | 7% | 88% |  |
-| 10 | 4% | 81% |  |
-| 11 | 16% | 77% |  |
-| 12 | 26% | 61% | Median |
-| 13 | 18% | 35% |  |
-| 14 | 11% | 16% |  |
-| 15 | 5% | 5% |  |
+| 7 | 1.4% | 100% |  |
+| 8 | 8% | 98.6% |  |
+| 9 | 6% | 90% |  |
+| 10 | 3% | 84% |  |
+| 11 | 14% | 81% |  |
+| 12 | 25% | 67% | Median |
+| 13 | 23% | 42% |  |
+| 14 | 14% | 19% |  |
+| 15 | 4% | 5% |  |
 | 16 | 0.4% | 0.4% |  |
 | 17 | 0% | 0% |  |
 

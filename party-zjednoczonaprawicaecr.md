@@ -363,7 +363,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 24 | 22–25 | 22–25 | 22–26 | 21–27 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 24–26 | 24–27 | 23–27 | 23–27 |
 | [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 27 | 25–28 | 25–29 | 25–29 | 24–30 |
-| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 22–25 | 22–25 | 21–25 | 21–26 |
+| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 24 | 23–25 | 23–25 | 23–25 | 23–25 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 26 | 26 | 25–26 | 25–26 | 25–27 |
 | [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 31 | 30–32 | 29–32 | 29–33 | 28–33 |

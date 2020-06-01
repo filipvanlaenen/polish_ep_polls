@@ -301,11 +301,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 6 | 6–7 | 5–7 | 5–7 | 5–7 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
-| [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
-| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 7 | 6–7 | 6–7 | 6–7 | 6–7 |

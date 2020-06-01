@@ -318,7 +318,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
-| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 16 | 15–18 | 15–18 | 14–18 | 14–19 |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 15 | 15–16 | 15–16 | 15–16 | 15–16 |
@@ -342,7 +342,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 15–17 | 14–17 | 14–18 | 13–18 |
+| [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 17 | 17 | 17–18 | 17–18 | 16–18 |
 | [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 12 | 11–13 | 11–13 | 11–14 | 10–14 |

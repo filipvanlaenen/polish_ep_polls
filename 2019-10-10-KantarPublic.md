@@ -29,10 +29,10 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 22 | 21–23 |20–23 |20–23 |19–23 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 21 | 20–22 |20–23 |20–23 |20–23 |
 | <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 14 | 13–15 |13–15 |13–15 |12–15 |
 | <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 6–7 |5–7 |5–7 |5–7 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 3–4 |3–4 |3–4 |2–4 |
+| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#bezpartyjni-samorządowcy-(*)">Bezpartyjni Samorządowcy (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -63,12 +63,12 @@
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0% | 100% |  |
-| 19 | 0.6% | 100% |  |
-| 20 | 6% | 99.4% |  |
-| 21 | 42% | 93% |  |
-| 22 | 36% | 51% | Median |
-| 23 | 15% | 16% |  |
-| 24 | 0.2% | 0.2% |  |
+| 19 | 0.4% | 100% |  |
+| 20 | 10% | 99.6% |  |
+| 21 | 44% | 90% | Median |
+| 22 | 37% | 46% |  |
+| 23 | 8% | 9% |  |
+| 24 | 0.3% | 0.3% |  |
 | 25 | 0% | 0% |  |
 
 ### Koalicja Obywatelska (EPP)
@@ -111,9 +111,9 @@
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
-| 5 | 9% | 100% |  |
-| 6 | 74% | 91% | Median |
-| 7 | 16% | 17% |  |
+| 5 | 10% | 100% |  |
+| 6 | 71% | 90% | Median |
+| 7 | 19% | 19% |  |
 | 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
@@ -127,9 +127,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.6% | 100% |  |
-| 3 | 59% | 99.4% | Median |
-| 4 | 41% | 41% |  |
+| 2 | 0.4% | 100% |  |
+| 3 | 58% | 99.6% | Median |
+| 4 | 42% | 42% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
@@ -143,10 +143,10 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.4% | 100% |  |
-| 3 | 75% | 99.6% | Median |
-| 4 | 25% | 25% |  |
-| 5 | 0.1% | 0.1% |  |
+| 2 | 0.3% | 100% |  |
+| 3 | 59% | 99.7% | Median |
+| 4 | 40% | 41% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Bezpartyjni Samorządowcy (*)
@@ -190,6 +190,6 @@
 ### Calculations
 
 + **Sample size:** 1503
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.75%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.66%
 

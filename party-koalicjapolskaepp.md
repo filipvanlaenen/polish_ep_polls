@@ -325,7 +325,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
-| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0–2 | 0–2 | 0–3 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |

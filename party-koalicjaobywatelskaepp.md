@@ -226,9 +226,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 12–14 | 11–15 | 11–15 | 11–16 |
-| [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [3–4 June 2020](2020-06-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
-| [22 May–4 June 2020](2020-06-04-CBOS.html) | CBOS | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
+| [22 May–4 June 2020](2020-06-04-CBOS.html) | CBOS | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [29 May–2 June 2020](2020-06-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [29 May 2020](2020-05-29-IBRiS.html) | IBRiS <br> Rzeczpospolita | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [26–27 May 2020](2020-05-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |

@@ -244,8 +244,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
-| [3–4 June 2020](2020-06-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 21–24 | 21–25 | 21–25 |
-| [22 May–4 June 2020](2020-06-04-CBOS.html) | CBOS | 25 | 24–27 | 24–28 | 23–28 | 23–29 |
+| [3–4 June 2020](2020-06-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–24 | 21–25 | 21–25 |
+| [22 May–4 June 2020](2020-06-04-CBOS.html) | CBOS | 26 | 24–27 | 24–28 | 23–28 | 23–29 |
 | [29 May–2 June 2020](2020-06-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [29 May 2020](2020-05-29-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [26–27 May 2020](2020-05-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |

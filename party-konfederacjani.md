@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.8% | 6.5–11.2% | 6.1–11.8% | 5.8–12.3% | 5.3–13.2% |
+| [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.7% | 8.6–11.0% | 8.4–11.3% | 8.1–11.6% | 7.6–12.3% |
+| [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.1–9.2% | 6.8–9.5% | 6.6–9.8% | 6.1–10.4% |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [3–4 June 2020](2020-06-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.4–9.6% |
 | [22 May–4 June 2020](2020-06-04-CBOS.html) | CBOS | 6.0% | 5.2–6.9% | 5.0–7.2% | 4.8–7.4% | 4.5–7.8% |
@@ -210,6 +212,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–6 | 2–7 |
+| [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [3–4 June 2020](2020-06-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [22 May–4 June 2020](2020-06-04-CBOS.html) | CBOS | 3 | 2–3 | 0–4 | 0–4 | 0–4 |

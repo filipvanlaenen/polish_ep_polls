@@ -11,6 +11,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 40.7% | 36.9–43.2% | 35.9–43.9% | 35.2–44.4% | 34.0–45.4% |
+| [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 42.2% | 40.3–44.1% | 39.7–44.6% | 39.3–45.1% | 38.3–46.1% |
+| [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.0% | 40.1–44.0% | 39.5–44.5% | 39.1–45.0% | 38.2–45.9% |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
 | [3–4 June 2020](2020-06-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.6% | 40.6–44.6% | 40.0–45.1% | 39.6–45.6% | 38.6–46.6% |
 | [22 May–4 June 2020](2020-06-04-CBOS.html) | CBOS | 46.0% | 44.3–47.8% | 43.8–48.3% | 43.3–48.7% | 42.5–49.6% |
@@ -243,6 +245,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 20–23 | 19–24 | 19–24 | 18–25 |
+| [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
+| [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [3–4 June 2020](2020-06-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–24 | 21–25 | 21–25 |
 | [22 May–4 June 2020](2020-06-04-CBOS.html) | CBOS | 26 | 24–27 | 24–28 | 23–28 | 23–29 |

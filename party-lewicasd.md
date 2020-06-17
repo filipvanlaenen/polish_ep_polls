@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.7% | 7.9–14.8% | 7.4–15.4% | 7.0–15.8% | 6.4–16.6% |
+| N/A | [Poll Average](average.html) | 9.6% | 5.2–13.0% | 4.7–13.6% | 4.4–14.2% | 4.0–15.1% |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 11.4% | 10.2–12.7% | 9.9–13.1% | 9.6–13.4% | 9.1–14.1% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13.0% | 11.8–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -188,23 +188,21 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.7% | 100% |  |
-| 6.5–7.5% | 6% | 99.2% |  |
-| 7.5–8.5% | 14% | 94% |  |
-| 8.5–9.5% | 14% | 80% |  |
-| 9.5–10.5% | 8% | 66% |  |
-| 10.5–11.5% | 8% | 59% |  |
-| 11.5–12.5% | 10% | 51% | Median |
-| 12.5–13.5% | 13% | 41% |  |
-| 13.5–14.5% | 15% | 28% |  |
-| 14.5–15.5% | 10% | 13% |  |
-| 15.5–16.5% | 3% | 4% |  |
-| 16.5–17.5% | 0.5% | 0.6% |  |
-| 17.5–18.5% | 0% | 0% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 10% | 96% |  |
+| 5.5–6.5% | 4% | 87% |  |
+| 6.5–7.5% | 5% | 83% |  |
+| 7.5–8.5% | 12% | 78% |  |
+| 8.5–9.5% | 15% | 66% |  |
+| 9.5–10.5% | 14% | 51% | Median |
+| 10.5–11.5% | 12% | 37% |  |
+| 11.5–12.5% | 10% | 24% |  |
+| 12.5–13.5% | 8% | 14% |  |
+| 13.5–14.5% | 4% | 6% |  |
+| 14.5–15.5% | 1.1% | 1.3% |  |
+| 15.5–16.5% | 0.2% | 0.2% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -215,7 +213,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 4–8 | 4–8 | 3–8 | 3–9 |
+| N/A | [Poll Average](average.html) | 5 | 3–7 | 0–7 | 0–7 | 0–8 |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -392,16 +390,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 4% | 100% |  |
-| 4 | 24% | 96% |  |
-| 5 | 15% | 72% |  |
-| 6 | 17% | 57% | Median |
-| 7 | 25% | 40% |  |
-| 8 | 14% | 15% |  |
-| 9 | 1.0% | 1.0% |  |
-| 10 | 0% | 0% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 0% | 93% |  |
+| 2 | 1.1% | 93% |  |
+| 3 | 12% | 92% |  |
+| 4 | 22% | 81% |  |
+| 5 | 26% | 58% | Median |
+| 6 | 20% | 32% |  |
+| 7 | 11% | 13% |  |
+| 8 | 2% | 2% |  |
+| 9 | 0% | 0% |  |
 
 

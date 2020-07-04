@@ -10,7 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.1% | 20.3–29.2% | 19.5–30.0% | 18.9–30.6% | 18.0–31.8% |
+| N/A | [Poll Average](average.html) | 25.6% | 23.3–31.7% | 22.7–32.4% | 22.3–33.0% | 21.5–34.1% |
+| [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.7% | 21.7–28.6% |
+| [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 31.0% | 29.2–32.8% | 28.7–33.3% | 28.3–33.8% | 27.5–34.7% |
+| [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 24.0% | N/A | N/A | N/A | N/A |
+| [19–23 June 2020](2020-06-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 30.0% | N/A | N/A | N/A | N/A |
+| [22–23 June 2020](2020-06-23-IPSOS.html) | IPSOS <br> OKO | 22.8% | N/A | N/A | N/A | N/A |
+| [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 28.7% | N/A | N/A | N/A | N/A |
+| [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 29.6% | N/A | N/A | N/A | N/A |
+| [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 28.0% | N/A | N/A | N/A | N/A |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 24.0% | N/A | N/A | N/A | N/A |
+| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 31.3% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 26.5% | 24.8–28.3% | 24.4–28.8% | 23.9–29.2% | 23.2–30.1% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 26.0% | 24.3–27.8% | 23.9–28.3% | 23.5–28.7% | 22.7–29.6% |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
@@ -202,24 +212,26 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 1.2% | 99.8% |  |
-| 18.5–19.5% | 4% | 98.6% |  |
-| 19.5–20.5% | 6% | 95% |  |
-| 20.5–21.5% | 4% | 89% |  |
-| 21.5–22.5% | 3% | 85% |  |
-| 22.5–23.5% | 4% | 82% |  |
-| 23.5–24.5% | 8% | 78% |  |
-| 24.5–25.5% | 12% | 70% |  |
-| 25.5–26.5% | 15% | 58% | Median |
-| 26.5–27.5% | 15% | 43% |  |
-| 27.5–28.5% | 12% | 28% |  |
-| 28.5–29.5% | 8% | 16% |  |
-| 29.5–30.5% | 5% | 7% |  |
-| 30.5–31.5% | 2% | 3% |  |
-| 31.5–32.5% | 0.6% | 0.7% |  |
-| 32.5–33.5% | 0.1% | 0.1% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0.6% | 100% |  |
+| 21.5–22.5% | 3% | 99.4% |  |
+| 22.5–23.5% | 10% | 96% |  |
+| 23.5–24.5% | 18% | 86% |  |
+| 24.5–25.5% | 18% | 69% |  |
+| 25.5–26.5% | 11% | 51% | Median |
+| 26.5–27.5% | 5% | 39% |  |
+| 27.5–28.5% | 2% | 34% |  |
+| 28.5–29.5% | 4% | 32% |  |
+| 29.5–30.5% | 8% | 28% |  |
+| 30.5–31.5% | 9% | 21% |  |
+| 31.5–32.5% | 7% | 11% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 1.0% | 1.2% |  |
+| 34.5–35.5% | 0.2% | 0.2% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -230,7 +242,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 11–16 | 10–16 | 10–17 | 10–17 |
+| N/A | [Poll Average](average.html) | 14 | 12–17 | 12–17 | 12–18 | 11–18 |
+| [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
+| [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [15–25 June 2020](2020-06-25-CBOS.html) | CBOS |  |  |  |  |  |
+| [19–23 June 2020](2020-06-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [22–23 June 2020](2020-06-23-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
+| [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
+| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
@@ -319,7 +341,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–23 November 2019](2019-11-23-IBRiS.html) | IBRiS <br> Radio ZET | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [15–20 November 2019](2019-11-20-KantarPublic.html) | Kantar Public | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [15–19 November 2019](2019-11-19-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
-| [7–17 November 2019](2019-11-17-CBOS.html) | CBOS | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| [7–17 November 2019](2019-11-17-CBOS.html) | CBOS | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [8–12 November 2019](2019-11-12-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [5–12 November 2019](2019-11-12-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [5–6 November 2019](2019-11-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
@@ -358,10 +380,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
-| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
+| [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 12 | 11–14 | 11–14 | 11–14 | 10–15 |
-| [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 15–17 | 14–17 | 14–17 | 13–18 |
+| [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 15–17 | 14–17 | 14–17 | 13–18 |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
@@ -371,13 +393,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 13 | 12–15 | 12–15 | 12–15 | 12–16 |
+| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 15 | 14–16 | 13–16 | 13–17 | 13–17 |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
-| [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
+| [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
@@ -416,16 +438,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.4% | 100% |  |
-| 10 | 5% | 99.6% |  |
-| 11 | 9% | 95% |  |
-| 12 | 9% | 86% |  |
-| 13 | 18% | 78% |  |
-| 14 | 27% | 60% | Median |
-| 15 | 21% | 33% |  |
-| 16 | 9% | 13% |  |
-| 17 | 3% | 3% |  |
-| 18 | 0.4% | 0.4% |  |
-| 19 | 0% | 0% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 1.2% | 100% |  |
+| 12 | 13% | 98.8% |  |
+| 13 | 31% | 86% |  |
+| 14 | 18% | 54% | Median |
+| 15 | 6% | 36% |  |
+| 16 | 14% | 30% |  |
+| 17 | 12% | 15% |  |
+| 18 | 3% | 3% |  |
+| 19 | 0.2% | 0.2% |  |
+| 20 | 0% | 0% |  |
 
 

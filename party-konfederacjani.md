@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.8% | 7.8–10.0% | 7.5–10.4% | 7.2–10.7% | 6.8–11.3% |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
-| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 10.0% | N/A | N/A | N/A | N/A |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 7.1% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.7% | 8.6–11.0% | 8.4–11.3% | 8.1–11.6% | 7.6–12.3% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.1–9.2% | 6.8–9.5% | 6.6–9.8% | 6.1–10.4% |
@@ -229,7 +229,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |

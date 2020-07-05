@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 43.3% | 41.3–45.3% | 40.7–45.8% | 40.2–46.3% | 39.3–47.3% |
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 41.3% | 39.3–43.2% | 38.8–43.8% | 38.3–44.3% | 37.4–45.2% |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 39.0% | 37.1–40.9% | 36.5–41.5% | 36.1–41.9% | 35.2–42.9% |
-| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 37.0% | N/A | N/A | N/A | N/A |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 37.0% | 35.1–38.9% | 34.5–39.5% | 34.0–40.0% | 33.2–40.9% |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 37.4% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 42.2% | 40.3–44.1% | 39.7–44.6% | 39.3–45.1% | 38.3–46.1% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.0% | 40.1–44.0% | 39.5–44.5% | 39.1–45.0% | 38.2–45.9% |
@@ -264,7 +264,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 21–25 | 21–25 |
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
-| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 22–24 | 21–24 | 21–24 | 21–25 |

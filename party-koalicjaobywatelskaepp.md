@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.2–32.5% |
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 29.6% | 27.8–31.5% | 27.3–32.0% | 26.9–32.4% | 26.1–33.3% |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 28.0% | 26.3–29.8% | 25.8–30.3% | 25.4–30.8% | 24.6–31.6% |
-| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 24.0% | N/A | N/A | N/A | N/A |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.5–26.7% | 20.7–27.6% |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 31.3% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 26.5% | 24.8–28.3% | 24.4–28.8% | 23.9–29.2% | 23.2–30.1% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 26.0% | 24.3–27.8% | 23.9–28.3% | 23.5–28.7% | 22.7–29.6% |
@@ -251,7 +251,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
-| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |

@@ -19,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.1–11.7% | 7.6–12.4% |
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 10.7% | 9.6–12.0% | 9.2–12.4% | 9.0–12.7% | 8.4–13.4% |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.1% | 10.5–15.8% |
-| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 10.0% | N/A | N/A | N/A | N/A |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 7.1% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 11.4% | 10.2–12.7% | 9.9–13.1% | 9.6–13.4% | 9.1–14.1% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13.0% | 11.8–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
@@ -233,7 +233,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
-| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
+| [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |

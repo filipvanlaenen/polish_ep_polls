@@ -10,15 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.2–10.4% | 6.8–10.8% | 6.5–11.2% | 6.0–11.9% |
+| N/A | [Poll Average](average.html) | 8.5% | 6.3–10.4% | 5.8–10.8% | 5.5–11.2% | 5.0–12.0% |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 7.9–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 9.7% | 8.6–11.0% | 8.3–11.3% | 8.1–11.6% | 7.6–12.2% |
-| [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 6.0% | N/A | N/A | N/A | N/A |
-| [19–23 June 2020](2020-06-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
-| [22–23 June 2020](2020-06-23-IPSOS.html) | IPSOS <br> OKO | 9.9% | N/A | N/A | N/A | N/A |
-| [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.6% | N/A | N/A | N/A | N/A |
-| [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.8% | N/A | N/A | N/A | N/A |
-| [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
+| [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 6.0% | 5.3–6.9% | 5.1–7.2% | 4.9–7.4% | 4.5–7.9% |
+| [19–23 June 2020](2020-06-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.3% |
+| [22–23 June 2020](2020-06-23-IPSOS.html) | IPSOS <br> OKO | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
+| [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.7–10.0% |
+| [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.8% | 7.8–10.0% | 7.5–10.4% | 7.2–10.7% | 6.8–11.3% |
+| [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 10.0% | N/A | N/A | N/A | N/A |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 7.1% | N/A | N/A | N/A | N/A |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.7% | 8.6–11.0% | 8.4–11.3% | 8.1–11.6% | 7.6–12.3% |
@@ -199,15 +199,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.1% | 100% |  |
-| 5.5–6.5% | 3% | 99.9% |  |
-| 6.5–7.5% | 14% | 97% |  |
-| 7.5–8.5% | 24% | 83% |  |
-| 8.5–9.5% | 29% | 59% | Median |
-| 9.5–10.5% | 21% | 30% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 3% | 99.9% |  |
+| 5.5–6.5% | 11% | 97% |  |
+| 6.5–7.5% | 15% | 86% |  |
+| 7.5–8.5% | 21% | 71% |  |
+| 8.5–9.5% | 24% | 50% | Median |
+| 9.5–10.5% | 18% | 26% |  |
 | 10.5–11.5% | 7% | 8% |  |
-| 11.5–12.5% | 1.0% | 1.1% |  |
+| 11.5–12.5% | 1.2% | 1.3% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -220,15 +220,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 0–6 |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [15–25 June 2020](2020-06-25-CBOS.html) | CBOS |  |  |  |  |  |
-| [19–23 June 2020](2020-06-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [22–23 June 2020](2020-06-23-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
-| [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
+| [19–23 June 2020](2020-06-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [22–23 June 2020](2020-06-23-IPSOS.html) | IPSOS <br> OKO | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO |  |  |  |  |  |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -407,13 +407,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 12% | 99.9% |  |
-| 4 | 45% | 88% | Median |
-| 5 | 39% | 43% |  |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 0% | 99.4% |  |
+| 2 | 1.1% | 99.4% |  |
+| 3 | 24% | 98% |  |
+| 4 | 39% | 74% | Median |
+| 5 | 31% | 36% |  |
 | 6 | 4% | 4% |  |
-| 7 | 0% | 0% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 

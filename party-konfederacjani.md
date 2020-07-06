@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 6.3–10.4% | 5.8–10.8% | 5.5–11.2% | 5.0–12.0% |
+| N/A | [Poll Average](average.html) | 8.3% | 6.2–10.3% | 5.8–10.8% | 5.5–11.1% | 5.0–11.9% |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 7.9–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 9.7% | 8.6–11.0% | 8.3–11.3% | 8.1–11.6% | 7.6–12.2% |
 | [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 6.0% | 5.3–6.9% | 5.1–7.2% | 4.9–7.4% | 4.5–7.9% |
@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.8% | 7.8–10.0% | 7.5–10.4% | 7.2–10.7% | 6.8–11.3% |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
-| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 7.1% | N/A | N/A | N/A | N/A |
+| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 7.1% | 6.1–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.5% |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.7% | 8.6–11.0% | 8.4–11.3% | 8.1–11.6% | 7.6–12.3% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.1–9.2% | 6.8–9.5% | 6.6–9.8% | 6.1–10.4% |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -201,13 +201,13 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 11% | 97% |  |
-| 6.5–7.5% | 15% | 86% |  |
-| 7.5–8.5% | 21% | 71% |  |
-| 8.5–9.5% | 24% | 50% | Median |
-| 9.5–10.5% | 18% | 26% |  |
-| 10.5–11.5% | 7% | 8% |  |
-| 11.5–12.5% | 1.2% | 1.3% |  |
+| 5.5–6.5% | 12% | 97% |  |
+| 6.5–7.5% | 19% | 85% |  |
+| 7.5–8.5% | 22% | 66% | Median |
+| 8.5–9.5% | 22% | 44% |  |
+| 9.5–10.5% | 15% | 22% |  |
+| 10.5–11.5% | 6% | 7% |  |
+| 11.5–12.5% | 1.0% | 1.1% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -230,7 +230,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -410,9 +410,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.6% | 100% | Last Result |
 | 1 | 0% | 99.4% |  |
 | 2 | 1.1% | 99.4% |  |
-| 3 | 24% | 98% |  |
-| 4 | 39% | 74% | Median |
-| 5 | 31% | 36% |  |
+| 3 | 29% | 98% |  |
+| 4 | 38% | 69% | Median |
+| 5 | 27% | 31% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

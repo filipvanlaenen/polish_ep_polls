@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 41.3% | 39.3–43.2% | 38.8–43.8% | 38.3–44.3% | 37.4–45.2% |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 39.0% | 37.1–40.9% | 36.5–41.5% | 36.1–41.9% | 35.2–42.9% |
 | [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 37.0% | 35.1–38.9% | 34.5–39.5% | 34.0–40.0% | 33.2–40.9% |
-| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 37.4% | 35.5–39.4% | 34.9–40.0% | 34.4–40.5% | 33.5–41.5% |
+| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 37.4% | 35.5–39.4% | 34.9–40.0% | 34.5–40.5% | 33.5–41.5% |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 42.2% | 40.3–44.1% | 39.7–44.6% | 39.3–45.1% | 38.3–46.1% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.0% | 40.1–44.0% | 39.5–44.5% | 39.1–45.0% | 38.2–45.9% |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
@@ -262,7 +262,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–23 June 2020](2020-06-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [22–23 June 2020](2020-06-23-IPSOS.html) | IPSOS <br> OKO | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [18–19 June 2020](2020-06-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 22–25 | 21–25 | 21–25 |
-| [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
+| [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
@@ -459,17 +459,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 1.4% | 99.9% |  |
+| 17 | 1.5% | 99.9% |  |
 | 18 | 6% | 98% |  |
 | 19 | 8% | 93% |  |
-| 20 | 7% | 84% |  |
+| 20 | 8% | 85% |  |
 | 21 | 10% | 77% |  |
-| 22 | 19% | 67% | Median |
-| 23 | 23% | 48% |  |
+| 22 | 20% | 67% | Median |
+| 23 | 23% | 47% |  |
 | 24 | 16% | 24% |  |
 | 25 | 7% | 8% |  |
-| 26 | 1.3% | 1.5% |  |
-| 27 | 0.2% | 0.2% | Majority |
+| 26 | 1.3% | 1.4% |  |
+| 27 | 0.1% | 0.2% | Majority |
 | 28 | 0% | 0% |  |
 
 

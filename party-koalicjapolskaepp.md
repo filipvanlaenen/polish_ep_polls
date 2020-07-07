@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.5–11.0% | 7.0–11.6% |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
-| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 7.1% | 6.1–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.5% |
+| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.5% |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.9% | 7.9–10.1% | 7.6–10.4% | 7.3–10.7% | 6.9–11.3% |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 7.9–10.2% | 7.7–10.5% | 7.4–10.9% | 6.9–11.5% |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
@@ -231,7 +231,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–17 June 2020](2020-06-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [12–16 June 2020](2020-06-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [15–16 June 2020](2020-06-16-IPSOS.html) | IPSOS <br> OKO | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
-| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [5–10 June 2020](2020-06-10-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–10 June 2020](2020-06-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [5–9 June 2020](2020-06-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [8 June 2020](2020-06-08-KantarPublic.html) | Kantar Public <br> PO | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -411,8 +411,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 13% | 100% | Last Result |
 | 1 | 0% | 87% |  |
 | 2 | 2% | 87% |  |
-| 3 | 21% | 85% |  |
-| 4 | 31% | 65% | Median |
+| 3 | 18% | 85% |  |
+| 4 | 35% | 68% | Median |
 | 5 | 21% | 33% |  |
 | 6 | 11% | 12% |  |
 | 7 | 0.9% | 0.9% |  |

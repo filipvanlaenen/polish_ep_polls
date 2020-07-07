@@ -10,11 +10,11 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Zjednoczona Prawica (ECR) | 0.0% | 37.4% | 35.5–39.4% |34.9–40.0% |34.4–40.5% |33.5–41.5% |
-| Koalicja Obywatelska (EPP) | 0.0% | 31.3% | 29.5–33.3% |29.0–33.8% |28.5–34.3% |27.6–35.3% |
-| Lewica (S&D) | 0.0% | 7.1% | 6.1–8.3% |5.9–8.6% |5.7–8.9% |5.2–9.5% |
-| Koalicja Polska (EPP) | 0.0% | 7.1% | 6.1–8.3% |5.9–8.6% |5.7–8.9% |5.2–9.5% |
-| Konfederacja (NI) | 0.0% | 7.1% | 6.1–8.3% |5.9–8.6% |5.7–8.9% |5.2–9.5% |
+| Zjednoczona Prawica (ECR) | 0.0% | 37.4% | 35.5–39.4% |34.9–40.0% |34.5–40.5% |33.5–41.5% |
+| Koalicja Obywatelska (EPP) | 0.0% | 31.3% | 29.5–33.3% |29.0–33.8% |28.5–34.3% |27.6–35.2% |
+| Lewica (S&D) | 0.0% | 7.1% | 6.2–8.3% |5.9–8.6% |5.7–8.9% |5.2–9.5% |
+| Koalicja Polska (EPP) | 0.0% | 7.1% | 6.2–8.3% |5.9–8.6% |5.7–8.9% |5.2–9.5% |
+| Konfederacja (NI) | 0.0% | 7.1% | 6.2–8.3% |5.9–8.6% |5.7–8.9% |5.2–9.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -29,9 +29,9 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 20 | 19–21 |18–21 |18–22 |18–22 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 17 | 16–18 |15–18 |15–18 |14–19 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 4 | 4 |3–4 |3–4 |3–4 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 3–4 |3–4 |3–4 |3–5 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 17 | 15–18 |15–18 |15–18 |14–19 |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 4 | 3–4 |3–4 |3–5 |3–5 |
+| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 4 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 3 | 3–4 |3–4 |3–4 |2–4 |
 
 ### Zjednoczona Prawica (ECR)
@@ -61,9 +61,9 @@
 | 16 | 0% | 100% |  |
 | 17 | 0.3% | 100% |  |
 | 18 | 6% | 99.7% |  |
-| 19 | 31% | 93% |  |
-| 20 | 40% | 63% | Median |
-| 21 | 19% | 23% |  |
+| 19 | 29% | 94% |  |
+| 20 | 43% | 65% | Median |
+| 21 | 19% | 22% |  |
 | 22 | 3% | 3% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
@@ -90,12 +90,12 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.6% | 100% |  |
-| 15 | 9% | 99.4% |  |
-| 16 | 38% | 90% |  |
-| 17 | 39% | 52% | Median |
-| 18 | 12% | 13% |  |
-| 19 | 1.0% | 1.0% |  |
+| 14 | 0.5% | 100% |  |
+| 15 | 10% | 99.5% |  |
+| 16 | 37% | 89% |  |
+| 17 | 40% | 53% | Median |
+| 18 | 12% | 12% |  |
+| 19 | 0.9% | 1.0% |  |
 | 20 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -106,12 +106,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 6% | 99.9% |  |
-| 4 | 93% | 94% | Median |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 0% | 99.8% |  |
+| 2 | 0% | 99.8% |  |
+| 3 | 30% | 99.8% |  |
+| 4 | 65% | 70% | Median |
+| 5 | 5% | 5% |  |
 | 6 | 0% | 0% |  |
 
 ### Koalicja Polska (EPP)
@@ -124,10 +124,10 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
 | 1 | 0% | 99.9% |  |
-| 2 | 0.4% | 99.9% |  |
-| 3 | 53% | 99.5% | Median |
-| 4 | 44% | 47% |  |
-| 5 | 2% | 2% |  |
+| 2 | 0.2% | 99.9% |  |
+| 3 | 29% | 99.7% |  |
+| 4 | 70% | 70% | Median |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 ### Konfederacja (NI)
@@ -140,9 +140,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.2% | 100% | Last Result |
 | 1 | 0% | 99.8% |  |
-| 2 | 1.3% | 99.8% |  |
-| 3 | 74% | 98.6% | Median |
-| 4 | 24% | 24% |  |
+| 2 | 2% | 99.8% |  |
+| 3 | 73% | 98% | Median |
+| 4 | 25% | 25% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
@@ -168,6 +168,6 @@
 ### Calculations
 
 + **Sample size:** 986
-+ **Simulations done:** 262,144
-+ **Error estimate:** 0.53%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.59%
 

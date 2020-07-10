@@ -374,9 +374,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
-| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
-| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
+| [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |

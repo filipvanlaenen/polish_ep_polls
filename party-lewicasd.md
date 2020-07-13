@@ -341,7 +341,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -352,15 +352,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7 | 7–8 | 7–8 | 6–9 | 6–9 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
+| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
-| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
-| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
+| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 6 | 6–7 | 6–7 | 5–8 | 5–8 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -376,7 +376,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 6 | 6–7 | 5–7 | 5–8 | 5–8 |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 6 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 5 | 5–6 | 4–6 | 4–6 | 4–7 |

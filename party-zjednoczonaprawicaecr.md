@@ -364,7 +364,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–23 October 2019](2019-10-23-Ipsos.html) | Ipsos <br> OKO | 23 | 22–24 | 21–24 | 21–25 | 20–25 |
 | [18–19 October 2019](2019-10-19-IBRiS.html) | IBRiS <br> Radio ZET | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
 | [11–16 October 2019](2019-10-16-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 19–22 | 19–23 | 19–24 |
-| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
+| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 22 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [11 October 2019](2019-10-11-IBRiS.html) | IBRiS <br> RMF | 23 | 22–24 | 21–25 | 21–25 | 21–26 |
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 25 | 24–26 | 24–27 | 24–27 | 23–28 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 21 | 20–22 | 20–23 | 20–23 | 20–23 |
@@ -402,7 +402,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 24 | 23–25 | 23–25 | 23–25 | 23–25 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 26 | 26 | 25–26 | 25–26 | 25–27 |
 | [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 31 | 30–32 | 29–32 | 29–33 | 28–33 |
-| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
+| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 24 | 23–25 | 22–26 | 22–26 | 22–27 |
 | [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 23 | 22–25 | 21–26 | 21–26 | 20–27 |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 23 | 22–24 | 21–24 | 21–25 | 20–25 |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 23 | 22–24 | 21–25 | 21–25 | 20–26 |

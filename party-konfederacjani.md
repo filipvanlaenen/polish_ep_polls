@@ -368,11 +368,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 0 | 0 | 0 | 0 | 0 |
 | [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 0 | 0 | 0 | 0 | 0 |
 | [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
+| [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0–2 | 0–3 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 0 | 0 | 0–2 | 0–2 | 0–3 |

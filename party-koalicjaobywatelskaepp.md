@@ -359,7 +359,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
-| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 12 | 11–13 | 11–14 | 11–14 | 11–14 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
@@ -389,8 +389,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 12 | 11–12 | 11–12 | 11–12 | 11–12 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 17 | 17 | 17–18 | 17–18 | 16–18 |
 | [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 16 | 15–17 | 14–18 | 14–18 | 13–19 |
+| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 16 | 15–17 | 14–17 | 14–18 | 13–19 |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 13 | 12–15 | 12–15 | 12–15 | 11–16 |

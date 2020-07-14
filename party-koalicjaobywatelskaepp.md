@@ -353,7 +353,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–16 October 2019](2019-10-16-KantarPublic.html) | Kantar Public <br> TVN | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [11 October 2019](2019-10-11-IBRiS.html) | IBRiS <br> RMF | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
-| [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 14 | 13–15 | 13–15 | 13–15 | 12–15 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
@@ -369,7 +369,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 14–17 | 13–17 | 13–18 |
+| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 15 | 14–16 | 14–17 | 13–17 | 13–17 |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 13–15 | 13–16 | 13–16 | 12–17 |

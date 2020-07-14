@@ -332,7 +332,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11–16 October 2019](2019-10-16-KantarPublic.html) | Kantar Public <br> TVN | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
 | [11 October 2019](2019-10-11-IBRiS.html) | IBRiS <br> RMF | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
-| [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 3 | 3–4 | 3–4 | 0–4 |
+| [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 2–4 | 0–5 |

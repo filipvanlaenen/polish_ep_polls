@@ -302,7 +302,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–7 January 2020](2020-01-07-SocialChanges.html) | Social Changes <br> wpolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [27–31 December 2019](2019-12-31-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [20–24 December 2019](2019-12-24-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [20–22 December 2019](2019-12-22-InstytutBadańPollster.html) | Instytut Badań Pollster | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [20–22 December 2019](2019-12-22-InstytutBadańPollster.html) | Instytut Badań Pollster | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [22 December 2019](2019-12-22-IBSP.html) | IBSP | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [19–20 December 2019](2019-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [19–20 December 2019](2019-12-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 2–4 | 0–4 | 0–5 |
@@ -371,7 +371,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 0 | 0 | 0 | 0 | 0 |
-| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [22 August 2019](2019-08-22-KantarPublic.html) | Kantar Public <br> TVN | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [21–22 August 2019](2019-08-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0–2 | 0–3 |
 | [16–21 August 2019](2019-08-21-SocialChanges.html) | Social Changes | 0 | 0–2 | 0–3 | 0–3 | 0–3 |

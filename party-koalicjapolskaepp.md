@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 4.5–11.2% | 3.9–11.8% | 3.6–12.2% | 3.2–13.1% |
+| N/A | [Poll Average](average.html) | 6.2% | 4.0–9.9% | 3.7–10.8% | 3.5–11.4% | 3.1–12.3% |
+| [18 July 2020](2020-07-18-UnitedSurveys.html) | United Surveys <br> RMF | 5.4% | 4.6–6.3% | 4.4–6.6% | 4.2–6.9% | 3.8–7.4% |
+| [17–18 July 2020](2020-07-18-IBRiS.html) | IBRiS <br> Onet | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.4% | 4.2–7.9% |
+| [8–9 July 2020](2020-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4.3% | 3.6–5.2% | 3.4–5.4% | 3.2–5.7% | 2.9–6.1% |
+| [4 July 2020](2020-07-04-IBRiS.html) | IBRiS <br> Onet | 5.5% | 4.8–6.5% | 4.5–6.8% | 4.3–7.1% | 4.0–7.6% |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.2% | 6.8–9.6% | 6.5–9.8% | 6.1–10.4% |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 6.1% | 5.3–7.2% | 5.1–7.5% | 4.9–7.7% | 4.5–8.2% |
 | [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 4.0% | 3.4–4.8% | 3.2–5.0% | 3.1–5.2% | 2.8–5.6% |
@@ -198,19 +202,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 8% | 98% |  |
-| 4.5–5.5% | 4% | 90% |  |
-| 5.5–6.5% | 10% | 85% |  |
-| 6.5–7.5% | 15% | 75% |  |
-| 7.5–8.5% | 18% | 60% | Median |
-| 8.5–9.5% | 14% | 42% |  |
-| 9.5–10.5% | 11% | 28% |  |
-| 10.5–11.5% | 10% | 17% |  |
-| 11.5–12.5% | 5% | 7% |  |
-| 12.5–13.5% | 1.3% | 1.5% |  |
-| 13.5–14.5% | 0.1% | 0.2% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 17% | 97% |  |
+| 4.5–5.5% | 18% | 80% |  |
+| 5.5–6.5% | 18% | 62% | Median |
+| 6.5–7.5% | 12% | 44% |  |
+| 7.5–8.5% | 12% | 31% |  |
+| 8.5–9.5% | 8% | 19% |  |
+| 9.5–10.5% | 5% | 12% |  |
+| 10.5–11.5% | 4% | 6% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -221,7 +224,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [18 July 2020](2020-07-18-UnitedSurveys.html) | United Surveys <br> RMF | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [17–18 July 2020](2020-07-18-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [8–9 July 2020](2020-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [4 July 2020](2020-07-04-IBRiS.html) | IBRiS <br> Onet | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
 | [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 0 | 0 | 0 | 0–2 | 0–3 |
@@ -408,14 +415,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 2% | 87% |  |
-| 3 | 18% | 85% |  |
-| 4 | 35% | 68% | Median |
-| 5 | 21% | 33% |  |
-| 6 | 11% | 12% |  |
-| 7 | 0.9% | 0.9% |  |
+| 0 | 29% | 100% | Last Result |
+| 1 | 0% | 71% |  |
+| 2 | 8% | 71% |  |
+| 3 | 29% | 64% | Median |
+| 4 | 20% | 35% |  |
+| 5 | 11% | 15% |  |
+| 6 | 4% | 4% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 

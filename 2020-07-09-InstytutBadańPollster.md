@@ -29,9 +29,9 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 23 | 22–24 |21–25 |21–25 |21–25 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 12 | 12–14 |11–14 |11–14 |11–15 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–7 |
-| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 4 | 4–5 |4–5 |4–5 |3–6 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 13 | 12–14 |11–14 |11–14 |11–15 |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 5 | 5–6 |4–6 |4–6 |4–7 |
+| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 4 | 4–5 |4–5 |3–5 |3–6 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 0 | 0–2 |0–2 |0–3 |0–3 |
 
 ### Zjednoczona Prawica (ECR)
@@ -64,10 +64,10 @@
 | 19 | 0% | 100% |  |
 | 20 | 0.4% | 100% |  |
 | 21 | 5% | 99.6% |  |
-| 22 | 22% | 94% |  |
-| 23 | 39% | 72% | Median |
-| 24 | 27% | 33% |  |
-| 25 | 6% | 6% |  |
+| 22 | 23% | 95% |  |
+| 23 | 40% | 72% | Median |
+| 24 | 26% | 31% |  |
+| 25 | 5% | 5% |  |
 | 26 | 0.3% | 0.3% |  |
 | 27 | 0% | 0% | Majority |
 
@@ -90,11 +90,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0.2% | 100% |  |
-| 11 | 8% | 99.8% |  |
-| 12 | 42% | 92% | Median |
-| 13 | 39% | 50% |  |
-| 14 | 10% | 11% |  |
-| 15 | 0.6% | 0.6% |  |
+| 11 | 7% | 99.8% |  |
+| 12 | 38% | 93% |  |
+| 13 | 42% | 54% | Median |
+| 14 | 11% | 12% |  |
+| 15 | 0.7% | 0.7% |  |
 | 16 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -109,10 +109,10 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 10% | 100% |  |
-| 5 | 65% | 90% | Median |
-| 6 | 24% | 25% |  |
-| 7 | 0.8% | 0.8% |  |
+| 4 | 9% | 100% |  |
+| 5 | 63% | 91% | Median |
+| 6 | 26% | 27% |  |
+| 7 | 0.9% | 0.9% |  |
 | 8 | 0% | 0% |  |
 
 ### Konfederacja (NI)
@@ -126,9 +126,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 48% | 98% | Median |
-| 5 | 48% | 50% |  |
+| 3 | 3% | 100% |  |
+| 4 | 56% | 97% | Median |
+| 5 | 40% | 41% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 
@@ -140,9 +140,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 87% | 100% | Last Result, Median |
-| 1 | 0% | 13% |  |
-| 2 | 9% | 13% |  |
+| 0 | 86% | 100% | Last Result, Median |
+| 1 | 0% | 14% |  |
+| 2 | 10% | 14% |  |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
@@ -168,6 +168,6 @@
 ### Calculations
 
 + **Sample size:** 1058
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.05%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.50%
 

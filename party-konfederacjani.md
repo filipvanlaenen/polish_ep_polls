@@ -227,7 +227,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 0–6 |
 | [18 July 2020](2020-07-18-UnitedSurveys.html) | United Surveys <br> RMF | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [17–18 July 2020](2020-07-18-IBRiS.html) | IBRiS <br> Onet | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [8–9 July 2020](2020-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [8–9 July 2020](2020-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [4 July 2020](2020-07-04-IBRiS.html) | IBRiS <br> Onet | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -419,8 +419,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.5% |  |
 | 2 | 0.9% | 99.5% |  |
 | 3 | 18% | 98.6% |  |
-| 4 | 42% | 81% | Median |
-| 5 | 35% | 39% |  |
+| 4 | 43% | 81% | Median |
+| 5 | 34% | 38% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

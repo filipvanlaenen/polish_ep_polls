@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-07-23T21:04:18.949166+02:00</updated>
+  <updated>2020-07-28T22:13:28.991897+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 36.3–42.1%, 19–23 seats</li><li>Koalicja Obywatelska (EPP): 24.0–29.2%, 13–16 seats</li><li>Lewica (S&amp;D): 8.2–11.7%, 4–6 seats</li><li>Koalicja Polska (EPP): 3.9–6.6%, 0–3 seats</li><li>Konfederacja (NI): 7.7–11.1%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-07-25-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-25-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for WP.pl, 24–25 July 2020</title>
+    <updated>2020-07-28T22:13:28.991897+02:00</updated>
+    <dc:date>2020-07-28T22:13:28.991897+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 39.1–45.0%, 22–26 seats</li><li>Koalicja Obywatelska (EPP): 25.4–30.7%, 14–17 seats</li><li>Lewica (S&amp;D): 8.4–12.0%, 4–6 seats</li><li>Koalicja Polska (EPP): 3.9–6.5%, 0–3 seats</li><li>Konfederacja (NI): 9.2–13.0%, 5–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-07-20-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-20-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes for wPolityce.pl, 17–20 July 2020</title>
+    <updated>2020-07-25T12:50:04.964468+02:00</updated>
+    <dc:date>2020-07-25T12:50:04.964468+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 34.7–40.5%, 19–22 seats</li><li>Koalicja Obywatelska (EPP): 26.5–31.9%, 14–17 seats</li><li>Lewica (S&amp;D): 6.5–9.8%, 3–5 seats</li><li>Koalicja Polska (EPP): 4.2–6.9%, 0–3 seats</li><li>Konfederacja (NI): 7.2–10.5%, 3–5 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-07-18-UnitedSurveys.html</id>
@@ -1455,5 +1471,5 @@
     <updated>2020-03-23T18:19:37.802903+01:00</updated>
     <dc:date>2020-03-23T18:19:37.802903+01:00</dc:date>
   </entry>
-  <dc:date>2020-07-23T21:04:18.949166+02:00</dc:date>
+  <dc:date>2020-07-28T22:13:28.991897+02:00</dc:date>
 </feed>

@@ -232,7 +232,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–5 | 0–6 |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
-| [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [24–25 July 2020](2020-07-25-IBRiS.html) | IBRiS <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [23–24 July 2020](2020-07-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [17–20 July 2020](2020-07-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -429,9 +429,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 1.3% | 100% | Last Result |
 | 1 | 0% | 98.7% |  |
 | 2 | 2% | 98.7% |  |
-| 3 | 18% | 97% |  |
-| 4 | 44% | 79% | Median |
-| 5 | 33% | 35% |  |
+| 3 | 17% | 97% |  |
+| 4 | 44% | 80% | Median |
+| 5 | 34% | 36% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 

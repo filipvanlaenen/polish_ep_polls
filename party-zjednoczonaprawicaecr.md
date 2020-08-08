@@ -266,9 +266,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 19–24 | 19–25 | 18–25 | 18–26 |
-| [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 22–24 | 21–24 | 21–25 | 20–25 |
-| [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
-| [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
+| [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
+| [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
+| [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [24–25 July 2020](2020-07-25-IBRiS.html) | IBRiS <br> WP.pl | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
 | [23–24 July 2020](2020-07-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [17–20 July 2020](2020-07-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
@@ -480,15 +480,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.2% | 100% |  |
-| 18 | 2% | 99.8% |  |
+| 18 | 3% | 99.8% |  |
 | 19 | 10% | 97% |  |
 | 20 | 15% | 87% |  |
-| 21 | 10% | 72% |  |
+| 21 | 11% | 72% |  |
 | 22 | 11% | 62% |  |
 | 23 | 22% | 51% | Median |
-| 24 | 20% | 29% |  |
+| 24 | 21% | 29% |  |
 | 25 | 7% | 8% |  |
-| 26 | 0.8% | 0.9% |  |
+| 26 | 0.9% | 0.9% |  |
 | 27 | 0.1% | 0.1% | Majority |
 | 28 | 0% | 0% |  |
 

@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 40.4% | 35.7–44.2% | 34.9–45.0% | 34.3–45.7% | 33.2–47.0% |
+| [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 36.0% | 34.2–37.9% | 33.7–38.4% | 33.2–38.9% | 32.3–39.8% |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 41.0% | 39.1–42.9% | 38.5–43.5% | 38.1–43.9% | 37.2–44.9% |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 36.0% | 34.2–37.9% | 33.7–38.4% | 33.2–38.9% | 32.3–39.8% |
 | [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 43.0% | 41.1–45.0% | 40.5–45.6% | 40.1–46.0% | 39.2–47.0% |
@@ -266,6 +267,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22 | 19–24 | 19–24 | 18–25 | 18–25 |
+| [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
 | [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
@@ -483,8 +485,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 3% | 99.8% |  |
 | 19 | 10% | 97% |  |
 | 20 | 15% | 87% |  |
-| 21 | 12% | 72% |  |
-| 22 | 16% | 60% | Median |
+| 21 | 12% | 71% |  |
+| 22 | 16% | 59% | Median |
 | 23 | 23% | 44% |  |
 | 24 | 16% | 20% |  |
 | 25 | 4% | 4% |  |

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40.4% | 35.7–44.2% | 34.9–45.0% | 34.3–45.7% | 33.2–47.0% |
+| N/A | [Poll Average](average.html) | 40.4% | 35.7–44.3% | 34.9–45.2% | 34.3–45.9% | 33.2–47.1% |
+| [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 44.0% | 42.1–46.0% | 41.5–46.6% | 41.0–47.1% | 40.1–48.1% |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 36.0% | 34.2–37.9% | 33.7–38.4% | 33.2–38.9% | 32.3–39.8% |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 41.0% | 39.1–42.9% | 38.5–43.5% | 38.1–43.9% | 37.2–44.9% |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 36.0% | 34.2–37.9% | 33.7–38.4% | 33.2–38.9% | 32.3–39.8% |
@@ -245,15 +246,15 @@ The following table shows the probability mass function per percentage block of 
 | 35.5–36.5% | 9% | 91% |  |
 | 36.5–37.5% | 10% | 82% |  |
 | 37.5–38.5% | 8% | 73% |  |
-| 38.5–39.5% | 8% | 64% |  |
+| 38.5–39.5% | 7% | 64% |  |
 | 39.5–40.5% | 9% | 57% | Median |
 | 40.5–41.5% | 11% | 48% |  |
 | 41.5–42.5% | 12% | 37% |  |
 | 42.5–43.5% | 10% | 25% |  |
-| 43.5–44.5% | 7% | 15% |  |
+| 43.5–44.5% | 7% | 16% |  |
 | 44.5–45.5% | 5% | 8% |  |
 | 45.5–46.5% | 2% | 3% |  |
-| 46.5–47.5% | 0.7% | 0.9% |  |
+| 46.5–47.5% | 0.8% | 1.1% |  |
 | 47.5–48.5% | 0.2% | 0.2% |  |
 | 48.5–49.5% | 0% | 0% |  |
 
@@ -266,7 +267,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22 | 19–24 | 19–24 | 18–25 | 18–25 |
+| N/A | [Poll Average](average.html) | 22 | 19–24 | 19–25 | 18–25 | 18–26 |
+| [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
@@ -486,11 +488,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 10% | 97% |  |
 | 20 | 15% | 87% |  |
 | 21 | 12% | 71% |  |
-| 22 | 16% | 59% | Median |
+| 22 | 15% | 59% | Median |
 | 23 | 23% | 44% |  |
-| 24 | 16% | 20% |  |
-| 25 | 4% | 4% |  |
-| 26 | 0.4% | 0.5% |  |
+| 24 | 16% | 22% |  |
+| 25 | 5% | 6% |  |
+| 26 | 0.5% | 0.6% |  |
 | 27 | 0% | 0% | Majority |
 
 

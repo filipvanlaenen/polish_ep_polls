@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:33:33 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 13–14 August 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Estymator for DoRzeczy.pl, 13–14 August 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator-seating-plan.png" length="375711" type="image/png"/>
+      <pubDate>Mon, 17 Aug 2020 21:00:38 +0200</pubDate>
+      <dc:date>2020-08-17T21:00:38.542526+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 13–14 August 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Estymator for DoRzeczy.pl, 13–14 August 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator-seats.png" length="165038" type="image/png"/>
+      <pubDate>Mon, 17 Aug 2020 21:00:38 +0200</pubDate>
+      <dc:date>2020-08-17T21:00:38.542526+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 13–14 August 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Estymator for DoRzeczy.pl, 13–14 August 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-08-14-Estymator.png" length="192979" type="image/png"/>
+      <pubDate>Mon, 17 Aug 2020 21:00:38 +0200</pubDate>
+      <dc:date>2020-08-17T21:00:38.542526+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS for WP.pl, 6–7 August 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-08-07-IBRiS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for WP.pl, 6–7 August 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-08-07-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-08-07-IBRiS-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-18-IBRiS.png" length="188265" type="image/png"/>
       <pubDate>Thu, 23 Jul 2020 21:04:18 +0200</pubDate>
       <dc:date>2020-07-23T21:04:18.949166+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 8–9 July 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 8–9 July 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster-seating-plan.png" length="389032" type="image/png"/>
-      <pubDate>Thu, 23 Jul 2020 20:19:43 +0200</pubDate>
-      <dc:date>2020-07-23T20:19:43.120438+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 8–9 July 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 8–9 July 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster-seats.png" length="165263" type="image/png"/>
-      <pubDate>Thu, 23 Jul 2020 20:19:43 +0200</pubDate>
-      <dc:date>2020-07-23T20:19:43.120438+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 8–9 July 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 8–9 July 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-07-09-InstytutBadańPollster.png" length="190362" type="image/png"/>
-      <pubDate>Thu, 23 Jul 2020 20:19:43 +0200</pubDate>
-      <dc:date>2020-07-23T20:19:43.120438+02:00</dc:date>
     </item>
   </channel>
 </rss>

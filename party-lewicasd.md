@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 7.9–11.4% | 7.4–11.9% | 7.1–12.3% | 6.5–13.1% |
+| N/A | [Poll Average](average.html) | 9.0% | 7.3–11.2% | 6.9–11.8% | 6.6–12.2% | 6.1–13.1% |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
+| [7–12 August 2020](2020-08-12-KantarPublic.html) | Kantar Public | 7.6% | 6.6–8.8% | 6.3–9.2% | 6.1–9.5% | 5.7–10.1% |
+| [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | 9.9–12.4% | 9.6–12.7% | 9.3–13.1% | 8.8–13.7% |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.6% |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | 9.9–12.3% | 9.5–12.7% | 9.3–13.0% | 8.7–13.7% |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
@@ -212,16 +214,16 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 5% | 99.5% |  |
-| 7.5–8.5% | 17% | 94% |  |
-| 8.5–9.5% | 26% | 78% |  |
-| 9.5–10.5% | 26% | 51% | Median |
-| 10.5–11.5% | 17% | 25% |  |
-| 11.5–12.5% | 6% | 8% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 2% | 99.9% |  |
+| 6.5–7.5% | 12% | 98% |  |
+| 7.5–8.5% | 24% | 85% |  |
+| 8.5–9.5% | 24% | 62% | Median |
+| 9.5–10.5% | 18% | 37% |  |
+| 10.5–11.5% | 12% | 19% |  |
+| 11.5–12.5% | 5% | 7% |  |
 | 12.5–13.5% | 1.3% | 1.5% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0.1% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -233,8 +235,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [7–12 August 2020](2020-08-12-KantarPublic.html) | Kantar Public | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
@@ -435,11 +439,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 30% | 97% |  |
-| 5 | 45% | 66% | Median |
-| 6 | 20% | 22% |  |
-| 7 | 2% | 2% |  |
-| 8 | 0% | 0% |  |
+| 3 | 7% | 100% |  |
+| 4 | 42% | 93% |  |
+| 5 | 33% | 51% | Median |
+| 6 | 15% | 18% |  |
+| 7 | 3% | 3% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 

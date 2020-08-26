@@ -231,12 +231,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
-| [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 3 | 3–4 | 3–4 | 2–4 | 0–5 |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
-| [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [24–25 July 2020](2020-07-25-IBRiS.html) | IBRiS <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [23–24 July 2020](2020-07-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [17–20 July 2020](2020-07-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
@@ -432,8 +432,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.9% |  |
 | 2 | 0.4% | 99.9% |  |
 | 3 | 17% | 99.5% |  |
-| 4 | 50% | 83% | Median |
-| 5 | 31% | 33% |  |
+| 4 | 50% | 82% | Median |
+| 5 | 30% | 33% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 

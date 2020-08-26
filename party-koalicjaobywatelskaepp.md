@@ -254,12 +254,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
-| [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 17 | 16–18 | 15–18 | 15–19 | 15–19 |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 18 | 17–19 | 16–20 | 16–20 | 16–21 |
-| [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [24–25 July 2020](2020-07-25-IBRiS.html) | IBRiS <br> WP.pl | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [23–24 July 2020](2020-07-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [17–20 July 2020](2020-07-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -466,9 +466,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
 | 14 | 3% | 99.9% |  |
-| 15 | 19% | 97% |  |
-| 16 | 41% | 78% | Median |
-| 17 | 28% | 37% |  |
+| 15 | 20% | 97% |  |
+| 16 | 40% | 77% | Median |
+| 17 | 28% | 38% |  |
 | 18 | 8% | 9% |  |
 | 19 | 0.9% | 1.0% |  |
 | 20 | 0% | 0% |  |

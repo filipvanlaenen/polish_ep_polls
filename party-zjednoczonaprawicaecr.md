@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 42.1% | 35.7–45.2% | 34.9–45.8% | 34.3–46.4% | 33.2–47.5% |
+| [14–17 August 2020](2020-08-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 43.0% | 41.1–45.0% | 40.6–45.5% | 40.1–46.0% | 39.2–47.0% |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 44.0% | 42.1–46.0% | 41.5–46.6% | 41.0–47.1% | 40.1–48.1% |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 43.0% | 41.1–45.0% | 40.6–45.5% | 40.1–46.0% | 39.2–47.0% |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 36.0% | 34.2–37.9% | 33.7–38.4% | 33.2–38.9% | 32.3–39.8% |
@@ -267,7 +268,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 19–25 | 19–25 | 18–26 | 18–26 |
+| N/A | [Poll Average](average.html) | 23 | 19–25 | 19–25 | 18–25 | 18–26 |
+| [14–17 August 2020](2020-08-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 22–25 | 22–25 | 22–26 | 21–27 |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 23–26 | 22–26 | 22–26 | 22–27 |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
@@ -486,13 +488,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 3% | 99.8% |  |
 | 19 | 10% | 97% |  |
 | 20 | 15% | 87% |  |
-| 21 | 9% | 72% |  |
-| 22 | 7% | 62% |  |
-| 23 | 19% | 55% | Median |
-| 24 | 22% | 37% |  |
-| 25 | 11% | 15% |  |
-| 26 | 3% | 4% |  |
-| 27 | 0.4% | 0.5% | Majority |
+| 21 | 10% | 72% |  |
+| 22 | 9% | 62% |  |
+| 23 | 21% | 53% | Median |
+| 24 | 22% | 32% |  |
+| 25 | 9% | 10% |  |
+| 26 | 1.4% | 2% |  |
+| 27 | 0.2% | 0.2% | Majority |
 | 28 | 0% | 0% |  |
 
 

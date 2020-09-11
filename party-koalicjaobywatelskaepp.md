@@ -11,6 +11,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 29.7% | 26.0–32.1% | 25.1–32.7% | 24.5–33.2% | 23.4–34.2% |
+| [4–7 September 2020](2020-09-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.8–28.5% |
+| [4–5 September 2020](2020-09-05-IBRiS.html) | IBRiS <br> WP.pl | 28.6% | 26.9–30.4% | 26.4–30.9% | 26.0–31.4% | 25.2–32.3% |
+| [28–31 August 2020](2020-08-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 26.0% | 24.3–27.7% | 23.8–28.2% | 23.4–28.7% | 22.7–29.5% |
+| [21–24 August 2020](2020-08-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.8% | 21.7–28.6% |
 | [14–17 August 2020](2020-08-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 26.0% | 24.3–27.7% | 23.8–28.2% | 23.4–28.7% | 22.7–29.5% |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.1–32.7% | 26.3–33.6% |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 29.0% | 27.3–30.9% | 26.8–31.4% | 26.4–31.8% | 25.6–32.7% |
@@ -255,6 +259,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 16 | 14–17 | 13–18 | 13–18 | 12–19 |
+| [4–7 September 2020](2020-09-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
+| [4–5 September 2020](2020-09-05-IBRiS.html) | IBRiS <br> WP.pl | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [28–31 August 2020](2020-08-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
+| [21–24 August 2020](2020-08-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [14–17 August 2020](2020-08-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
@@ -465,10 +473,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.6% | 100% |  |
-| 13 | 5% | 99.4% |  |
-| 14 | 12% | 95% |  |
-| 15 | 21% | 83% |  |
+| 12 | 0.8% | 100% |  |
+| 13 | 6% | 99.2% |  |
+| 14 | 12% | 93% |  |
+| 15 | 19% | 81% |  |
 | 16 | 32% | 62% | Median |
 | 17 | 23% | 30% |  |
 | 18 | 6% | 7% |  |

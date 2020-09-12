@@ -372,7 +372,7 @@ Only polls for which at least the sample size has been published are included in
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.8% | 100% |  |
-| 13 | 6% | 99.2% |  |
+| 13 | 6% | 99.1% |  |
 | 14 | 12% | 93% |  |
 | 15 | 19% | 81% |  |
 | 16 | 32% | 62% | Median |
@@ -393,7 +393,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 84% |  |
 | 2 | 13% | 84% |  |
 | 3 | 55% | 71% | Median |
-| 4 | 15% | 16% |  |
+| 4 | 16% | 16% |  |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
@@ -412,7 +412,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 40% | 96% |  |
 | 5 | 42% | 56% | Median |
 | 6 | 13% | 14% |  |
-| 7 | 0.9% | 1.0% |  |
+| 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
 ### Bezpartyjni Samorządowcy (*)
@@ -451,9 +451,9 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 10% | 97% |  |
 | 20 | 15% | 87% |  |
 | 21 | 11% | 72% |  |
-| 22 | 14% | 60% | Median |
+| 22 | 13% | 60% | Median |
 | 23 | 22% | 47% |  |
-| 24 | 18% | 25% |  |
+| 24 | 18% | 24% |  |
 | 25 | 6% | 7% |  |
 | 26 | 0.7% | 0.8% |  |
 | 27 | 0% | 0.1% | Majority |
@@ -503,9 +503,9 @@ Only polls for which at least the sample size has been published are included in
 | 19 | 10% | 97% |  |
 | 20 | 15% | 87% |  |
 | 21 | 11% | 72% |  |
-| 22 | 14% | 60% | Median |
+| 22 | 13% | 60% | Median |
 | 23 | 22% | 47% |  |
-| 24 | 18% | 25% |  |
+| 24 | 18% | 24% |  |
 | 25 | 6% | 7% |  |
 | 26 | 0.7% | 0.8% |  |
 | 27 | 0% | 0.1% | Majority |
@@ -555,7 +555,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 40% | 96% |  |
 | 5 | 42% | 56% | Median |
 | 6 | 13% | 14% |  |
-| 7 | 0.9% | 1.0% |  |
+| 7 | 1.0% | 1.0% |  |
 | 8 | 0% | 0% |  |
 
 ### KORWiN (NI) – Konfederacja (NI) – Kukiz’15 (NI)
@@ -593,6 +593,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 5
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 4,325,376
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 5,242,880
 + **Error estimate:** 1.08%

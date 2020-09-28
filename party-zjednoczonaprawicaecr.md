@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 42.2% | 37.5–45.0% | 36.6–45.7% | 35.9–46.3% | 34.7–47.4% |
+| N/A | [Poll Average](average.html) | 40.9% | 37.8–43.9% | 36.9–44.7% | 36.0–45.4% | 34.5–46.7% |
+| [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 43.6% | 41.6–45.6% | 41.0–46.2% | 40.6–46.7% | 39.6–47.6% |
+| [21–22 September 2020](2020-09-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 38.3% | 35.8–40.9% | 35.1–41.6% | 34.5–42.3% | 33.3–43.5% |
+| [18–21 September 2020](2020-09-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 40.0% | 38.1–41.9% | 37.5–42.5% | 37.1–43.0% | 36.2–43.9% |
+| [7–17 September 2020](2020-09-17-CBOS.html) | CBOS | 41.0% | 39.1–42.9% | 38.6–43.4% | 38.2–43.9% | 37.3–44.8% |
+| [11–14 September 2020](2020-09-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.0% | 40.1–44.0% | 39.5–44.5% | 39.0–45.0% | 38.1–46.0% |
 | [4–7 September 2020](2020-09-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.0% | 40.1–43.9% | 39.6–44.5% | 39.1–45.0% | 38.2–45.9% |
 | [4–5 September 2020](2020-09-05-IBRiS.html) | IBRiS <br> WP.pl | 41.3% | 39.4–43.2% | 38.9–43.7% | 38.4–44.2% | 37.5–45.1% |
 | [28–31 August 2020](2020-08-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.0% | 40.1–44.0% | 39.6–44.5% | 39.1–45.0% | 38.2–45.9% |
@@ -23,10 +28,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 36.0% | 34.2–37.9% | 33.7–38.4% | 33.2–38.9% | 32.3–39.8% |
 | [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 43.0% | 41.1–45.0% | 40.5–45.6% | 40.1–46.0% | 39.2–47.0% |
 | [24–25 July 2020](2020-07-25-IBRiS.html) | IBRiS <br> WP.pl | 39.2% | 37.3–41.1% | 36.8–41.6% | 36.3–42.1% | 35.5–43.0% |
+| [21–24 July 2020](2020-07-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 41.0% | 39.0–42.9% | 38.5–43.5% | 38.0–44.0% | 37.1–44.9% |
 | [23–24 July 2020](2020-07-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 43.9% | 41.9–45.9% | 41.4–46.5% | 40.9–47.0% | 40.0–47.9% |
 | [17–20 July 2020](2020-07-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.0% | 40.1–44.0% | 39.6–44.5% | 39.1–45.0% | 38.2–45.9% |
 | [18 July 2020](2020-07-18-UnitedSurveys.html) | United Surveys <br> RMF | 37.5% | 35.7–39.4% | 35.2–40.0% | 34.7–40.5% | 33.9–41.4% |
 | [17–18 July 2020](2020-07-18-IBRiS.html) | IBRiS <br> Onet | 39.6% | 37.8–41.5% | 37.2–42.1% | 36.8–42.6% | 35.9–43.5% |
+| [8–9 July 2020](2020-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 41.7% | 39.8–43.7% | 39.2–44.2% | 38.7–44.7% | 37.8–45.6% |
+| [4 July 2020](2020-07-04-IBRiS.html) | IBRiS <br> Onet | 40.7% | 38.9–42.6% | 38.3–43.2% | 37.9–43.7% | 37.0–44.6% |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.0% | 40.1–44.0% | 39.5–44.6% | 39.0–45.0% | 38.1–46.0% |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 43.9% | 41.9–45.8% | 41.4–46.3% | 40.9–46.8% | 40.0–47.8% |
 | [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 44.0% | 42.3–45.7% | 41.8–46.2% | 41.4–46.6% | 40.6–47.4% |
@@ -244,24 +252,23 @@ The following table shows the probability mass function per percentage block of 
 | 29.5–30.5% | 0% | 100% |  |
 | 30.5–31.5% | 0% | 100% |  |
 | 31.5–32.5% | 0% | 100% |  |
-| 32.5–33.5% | 0% | 100% |  |
-| 33.5–34.5% | 0.3% | 99.9% |  |
-| 34.5–35.5% | 1.3% | 99.6% |  |
-| 35.5–36.5% | 3% | 98% |  |
-| 36.5–37.5% | 5% | 95% |  |
-| 37.5–38.5% | 6% | 90% |  |
-| 38.5–39.5% | 6% | 84% |  |
-| 39.5–40.5% | 8% | 78% |  |
-| 40.5–41.5% | 12% | 71% |  |
-| 41.5–42.5% | 15% | 59% | Median |
-| 42.5–43.5% | 15% | 44% |  |
-| 43.5–44.5% | 13% | 29% |  |
-| 44.5–45.5% | 9% | 15% |  |
-| 45.5–46.5% | 4% | 6% |  |
-| 46.5–47.5% | 1.5% | 2% |  |
-| 47.5–48.5% | 0.3% | 0.4% |  |
-| 48.5–49.5% | 0.1% | 0.1% |  |
-| 49.5–50.5% | 0% | 0% |  |
+| 32.5–33.5% | 0.1% | 100% |  |
+| 33.5–34.5% | 0.4% | 99.9% |  |
+| 34.5–35.5% | 1.0% | 99.5% |  |
+| 35.5–36.5% | 2% | 98% |  |
+| 36.5–37.5% | 4% | 96% |  |
+| 37.5–38.5% | 7% | 92% |  |
+| 38.5–39.5% | 12% | 84% |  |
+| 39.5–40.5% | 16% | 72% |  |
+| 40.5–41.5% | 18% | 56% | Median |
+| 41.5–42.5% | 15% | 38% |  |
+| 42.5–43.5% | 10% | 23% |  |
+| 43.5–44.5% | 7% | 13% |  |
+| 44.5–45.5% | 4% | 6% |  |
+| 45.5–46.5% | 2% | 2% |  |
+| 46.5–47.5% | 0.5% | 0.6% |  |
+| 47.5–48.5% | 0.1% | 0.1% |  |
+| 48.5–49.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -272,7 +279,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23 | 20–24 | 20–25 | 19–25 | 19–26 |
+| N/A | [Poll Average](average.html) | 23 | 21–24 | 20–25 | 20–25 | 19–26 |
+| [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
+| [21–22 September 2020](2020-09-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
+| [18–21 September 2020](2020-09-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–24 | 21–24 | 20–25 | 20–25 |
+| [7–17 September 2020](2020-09-17-CBOS.html) | CBOS | 23 | 22–24 | 21–25 | 21–25 | 20–25 |
+| [11–14 September 2020](2020-09-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [4–7 September 2020](2020-09-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [4–5 September 2020](2020-09-05-IBRiS.html) | IBRiS <br> WP.pl | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
 | [28–31 August 2020](2020-08-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
@@ -285,10 +297,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [29 July 2020](2020-07-29-IBRiS.html) | IBRiS <br> KO | 20 | 18–21 | 18–21 | 18–22 | 17–23 |
 | [24–27 July 2020](2020-07-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 23–25 | 22–25 | 22–26 | 21–26 |
 | [24–25 July 2020](2020-07-25-IBRiS.html) | IBRiS <br> WP.pl | 21 | 20–23 | 20–23 | 19–23 | 19–24 |
+| [21–24 July 2020](2020-07-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
 | [23–24 July 2020](2020-07-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [17–20 July 2020](2020-07-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 22–25 | 22–25 | 22–26 | 21–26 |
 | [18 July 2020](2020-07-18-UnitedSurveys.html) | United Surveys <br> RMF | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [17–18 July 2020](2020-07-18-IBRiS.html) | IBRiS <br> Onet | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
+| [8–9 July 2020](2020-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 23 | 22–24 | 21–25 | 21–25 | 21–25 |
+| [4 July 2020](2020-07-04-IBRiS.html) | IBRiS <br> Onet | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 22–24 | 21–24 | 21–24 | 21–25 |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 23 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 24 | 23–25 | 23–26 | 23–26 | 22–27 |
@@ -494,15 +509,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0% | 100% |  |
 | 18 | 0.4% | 100% |  |
-| 19 | 4% | 99.6% |  |
-| 20 | 9% | 96% |  |
-| 21 | 12% | 87% |  |
-| 22 | 21% | 75% |  |
-| 23 | 28% | 54% | Median |
-| 24 | 19% | 27% |  |
-| 25 | 6% | 7% |  |
-| 26 | 0.8% | 0.9% |  |
-| 27 | 0.1% | 0.1% | Majority |
-| 28 | 0% | 0% |  |
+| 19 | 2% | 99.6% |  |
+| 20 | 6% | 98% |  |
+| 21 | 15% | 92% |  |
+| 22 | 27% | 77% |  |
+| 23 | 28% | 50% | Median |
+| 24 | 17% | 22% |  |
+| 25 | 5% | 5% |  |
+| 26 | 0.5% | 0.5% |  |
+| 27 | 0% | 0% | Majority |
 
 

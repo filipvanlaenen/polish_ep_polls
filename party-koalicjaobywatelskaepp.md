@@ -288,8 +288,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–20 July 2020](2020-07-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [18 July 2020](2020-07-18-UnitedSurveys.html) | United Surveys <br> RMF | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [17–18 July 2020](2020-07-18-IBRiS.html) | IBRiS <br> Onet | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
-| [8–9 July 2020](2020-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 12 | 12–14 | 11–14 | 11–14 | 11–15 |
-| [4 July 2020](2020-07-04-IBRiS.html) | IBRiS <br> Onet | 13 | 13–14 | 12–15 | 12–15 | 12–16 |
+| [8–9 July 2020](2020-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
+| [4 July 2020](2020-07-04-IBRiS.html) | IBRiS <br> Onet | 13 | 12–14 | 12–15 | 12–15 | 12–16 |
 | [26–27 June 2020](2020-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [25–26 June 2020](2020-06-26-IBSP.html) | IBSP | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [15–25 June 2020](2020-06-25-CBOS.html) | CBOS | 13 | 12–14 | 12–14 | 12–15 | 11–15 |

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 40.9% | 37.8–43.9% | 36.9–44.7% | 36.0–45.4% | 34.5–46.7% |
+| N/A | [Poll Average](average.html) | 41.6% | 38.1–44.4% | 37.0–45.1% | 36.1–45.7% | 34.5–46.8% |
+| [25–28 September 2020](2020-09-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 42.8% | 40.9–44.8% | 40.4–45.3% | 39.9–45.8% | 39.0–46.8% |
 | [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 43.6% | 41.6–45.6% | 41.0–46.2% | 40.6–46.7% | 39.6–47.6% |
 | [21–22 September 2020](2020-09-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 38.3% | 35.8–40.9% | 35.1–41.6% | 34.5–42.3% | 33.3–43.5% |
 | [18–21 September 2020](2020-09-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 40.0% | 38.1–41.9% | 37.5–42.5% | 37.1–43.0% | 36.2–43.9% |
@@ -257,16 +258,16 @@ The following table shows the probability mass function per percentage block of 
 | 34.5–35.5% | 1.0% | 99.5% |  |
 | 35.5–36.5% | 2% | 98% |  |
 | 36.5–37.5% | 4% | 96% |  |
-| 37.5–38.5% | 7% | 92% |  |
-| 38.5–39.5% | 12% | 84% |  |
-| 39.5–40.5% | 16% | 72% |  |
-| 40.5–41.5% | 18% | 56% | Median |
-| 41.5–42.5% | 15% | 38% |  |
-| 42.5–43.5% | 10% | 23% |  |
-| 43.5–44.5% | 7% | 13% |  |
-| 44.5–45.5% | 4% | 6% |  |
-| 45.5–46.5% | 2% | 2% |  |
-| 46.5–47.5% | 0.5% | 0.6% |  |
+| 37.5–38.5% | 5% | 93% |  |
+| 38.5–39.5% | 8% | 88% |  |
+| 39.5–40.5% | 12% | 79% |  |
+| 40.5–41.5% | 16% | 67% |  |
+| 41.5–42.5% | 17% | 51% | Median |
+| 42.5–43.5% | 15% | 34% |  |
+| 43.5–44.5% | 10% | 19% |  |
+| 44.5–45.5% | 6% | 8% |  |
+| 45.5–46.5% | 2% | 3% |  |
+| 46.5–47.5% | 0.6% | 0.7% |  |
 | 47.5–48.5% | 0.1% | 0.1% |  |
 | 48.5–49.5% | 0% | 0% |  |
 
@@ -280,6 +281,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23 | 21–24 | 20–25 | 20–25 | 19–26 |
+| [25–28 September 2020](2020-09-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [21–22 September 2020](2020-09-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | [18–21 September 2020](2020-09-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–24 | 21–24 | 20–25 | 20–25 |
@@ -510,13 +512,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 0% | 100% |  |
 | 18 | 0.4% | 100% |  |
 | 19 | 2% | 99.6% |  |
-| 20 | 6% | 98% |  |
-| 21 | 15% | 92% |  |
-| 22 | 27% | 77% |  |
-| 23 | 28% | 50% | Median |
-| 24 | 17% | 22% |  |
-| 25 | 5% | 5% |  |
-| 26 | 0.5% | 0.5% |  |
+| 20 | 5% | 98% |  |
+| 21 | 12% | 92% |  |
+| 22 | 22% | 80% |  |
+| 23 | 28% | 58% | Median |
+| 24 | 22% | 30% |  |
+| 25 | 7% | 8% |  |
+| 26 | 0.9% | 1.0% |  |
 | 27 | 0% | 0% | Majority |
 
 

@@ -10,19 +10,32 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 5.0–11.3% | 4.6–12.0% | 4.3–12.4% | 3.8–13.3% |
+| N/A | [Poll Average](average.html) | 7.7% | 5.3–13.2% | 4.8–14.3% | 4.5–15.0% | 4.0–16.0% |
+| [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14.0% | 12.8–15.5% | 12.4–15.9% | 12.1–16.2% | 11.5–16.9% |
+| [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | 7.2% | 6.2–8.3% | 5.9–8.7% | 5.7–9.0% | 5.3–9.6% |
+| [2–5 October 2020](2020-10-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13.0% | 11.8–14.4% | 11.4–14.8% | 11.1–15.2% | 10.6–15.9% |
+| [2 October 2020](2020-10-02-IBRiS.html) | IBRiS <br> WP.pl | 7.2% | 6.3–8.3% | 6.0–8.6% | 5.8–8.9% | 5.4–9.4% |
 | [25–28 September 2020](2020-09-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.2% | 10.1–12.6% | 9.8–13.0% | 9.5–13.3% | 9.0–14.0% |
 | [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
+| [21–22 September 2020](2020-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.3% | 7.3–9.4% | 7.0–9.8% | 6.8–10.1% | 6.3–10.7% |
 | [21–22 September 2020](2020-09-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 8.0% | 6.7–9.6% | 6.4–10.0% | 6.1–10.4% | 5.5–11.2% |
 | [18–21 September 2020](2020-09-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15.0% | 13.7–16.5% | 13.3–16.9% | 13.0–17.3% | 12.4–18.1% |
+| [18–19 September 2020](2020-09-19-UnitedSurvey.html) | United Survey <br> RMF | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [19 September 2020](2020-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.2% |
+| [18 September 2020](2020-09-18-IBRiS.html) | IBRiS <br> WP.pl | 5.4% | 4.6–6.3% | 4.4–6.6% | 4.2–6.9% | 3.8–7.4% |
 | [7–17 September 2020](2020-09-17-CBOS.html) | CBOS | 5.0% | 4.2–5.9% | 4.0–6.1% | 3.8–6.4% | 3.5–6.9% |
 | [11–14 September 2020](2020-09-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.9–12.7% |
+| [4–9 September 2020](2020-09-09-KantarPublic.html) | Kantar Public | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [4–7 September 2020](2020-09-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12.0% | 10.8–13.3% | 10.5–13.7% | 10.2–14.0% | 9.6–14.7% |
 | [4–5 September 2020](2020-09-05-IBRiS.html) | IBRiS <br> WP.pl | 6.7% | 5.8–7.8% | 5.6–8.1% | 5.4–8.4% | 5.0–8.9% |
 | [28–31 August 2020](2020-08-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | 9.9–12.4% | 9.6–12.7% | 9.3–13.1% | 8.8–13.7% |
+| [18–27 August 2020](2020-08-27-CBOS.html) | CBOS | 4.0% | 3.3–5.0% | 3.1–5.3% | 2.9–5.5% | 2.6–6.0% |
 | [21–24 August 2020](2020-08-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13.0% | 11.8–14.4% | 11.4–14.8% | 11.1–15.2% | 10.5–15.9% |
+| [21–22 August 2020](2020-08-22-IBRiS.html) | IBRiS <br> WP.pl | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.0% |
+| [21 August 2020](2020-08-21-UnitedSurvey.html) | United Survey <br> RMF | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [14–17 August 2020](2020-08-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | 9.9–12.4% | 9.6–12.7% | 9.3–13.1% | 8.8–13.7% |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.6% | 8.5–10.9% | 8.2–11.2% | 7.9–11.6% | 7.4–12.2% |
+| [7–12 August 2020](2020-08-12-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.1% | 4.8–7.4% | 4.6–7.7% | 4.3–8.2% |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | 9.9–12.4% | 9.6–12.7% | 9.3–13.1% | 8.8–13.7% |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.6% |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | 9.9–12.3% | 9.5–12.7% | 9.3–13.0% | 8.7–13.7% |
@@ -224,18 +237,21 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 12% | 95% |  |
-| 5.5–6.5% | 12% | 83% |  |
-| 6.5–7.5% | 15% | 71% |  |
-| 7.5–8.5% | 16% | 56% | Median |
-| 8.5–9.5% | 14% | 40% |  |
-| 9.5–10.5% | 9% | 26% |  |
-| 10.5–11.5% | 9% | 17% |  |
-| 11.5–12.5% | 6% | 8% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.3% | 0.3% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 3.5–4.5% | 3% | 99.9% |  |
+| 4.5–5.5% | 10% | 97% |  |
+| 5.5–6.5% | 14% | 87% |  |
+| 6.5–7.5% | 20% | 72% |  |
+| 7.5–8.5% | 21% | 52% | Median |
+| 8.5–9.5% | 13% | 31% |  |
+| 9.5–10.5% | 5% | 18% |  |
+| 10.5–11.5% | 0.9% | 13% |  |
+| 11.5–12.5% | 0.8% | 13% |  |
+| 12.5–13.5% | 3% | 12% |  |
+| 13.5–14.5% | 5% | 9% |  |
+| 14.5–15.5% | 3% | 4% |  |
+| 15.5–16.5% | 0.9% | 1.1% |  |
+| 16.5–17.5% | 0.1% | 0.2% |  |
+| 17.5–18.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -246,19 +262,32 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–6 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 4 | 2–7 | 0–8 | 0–8 | 0–9 |
+| [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 7–8 | 6–8 | 6–9 | 6–9 |
+| [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [2–5 October 2020](2020-10-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [2 October 2020](2020-10-02-IBRiS.html) | IBRiS <br> WP.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [25–28 September 2020](2020-09-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [21–22 September 2020](2020-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [21–22 September 2020](2020-09-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [18–21 September 2020](2020-09-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
+| [18–19 September 2020](2020-09-19-UnitedSurvey.html) | United Survey <br> RMF | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
+| [19 September 2020](2020-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
+| [18 September 2020](2020-09-18-IBRiS.html) | IBRiS <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [7–17 September 2020](2020-09-17-CBOS.html) | CBOS | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [11–14 September 2020](2020-09-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [4–9 September 2020](2020-09-09-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0–3 |
 | [4–7 September 2020](2020-09-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [4–5 September 2020](2020-09-05-IBRiS.html) | IBRiS <br> WP.pl | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
 | [28–31 August 2020](2020-08-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [18–27 August 2020](2020-08-27-CBOS.html) | CBOS | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [21–24 August 2020](2020-08-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [21–22 August 2020](2020-08-22-IBRiS.html) | IBRiS <br> WP.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [21 August 2020](2020-08-21-UnitedSurvey.html) | United Survey <br> RMF | 0 | 0 | 0 | 0 | 0 |
 | [14–17 August 2020](2020-08-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [7–12 August 2020](2020-08-12-KantarPublic.html) | Kantar Public | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -458,15 +487,16 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% | Last Result |
-| 1 | 0% | 90% |  |
-| 2 | 5% | 90% |  |
-| 3 | 25% | 85% |  |
-| 4 | 27% | 61% | Median |
-| 5 | 18% | 34% |  |
-| 6 | 13% | 16% |  |
-| 7 | 3% | 3% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 0 | 7% | 100% | Last Result |
+| 1 | 0% | 93% |  |
+| 2 | 4% | 93% |  |
+| 3 | 26% | 89% |  |
+| 4 | 37% | 63% | Median |
+| 5 | 13% | 26% |  |
+| 6 | 2% | 13% |  |
+| 7 | 6% | 11% |  |
+| 8 | 4% | 5% |  |
+| 9 | 0.6% | 0.6% |  |
+| 10 | 0% | 0% |  |
 
 

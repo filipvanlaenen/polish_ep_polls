@@ -300,7 +300,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2 October 2020](2020-10-02-IBRiS.html) | IBRiS <br> WP.pl | 23 | 22–24 | 22–25 | 21–25 | 21–26 |
 | [25–28 September 2020](2020-09-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
-| [21–22 September 2020](2020-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
+| [21–22 September 2020](2020-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 20–24 | 20–24 | 19–25 |
 | [21–22 September 2020](2020-09-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | [18–21 September 2020](2020-09-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–24 | 21–24 | 20–25 | 20–25 |
 | [18–19 September 2020](2020-09-19-UnitedSurvey.html) | United Survey <br> RMF | 22 | 21–24 | 21–24 | 20–25 | 20–25 |
@@ -312,9 +312,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–7 September 2020](2020-09-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 21–24 | 21–24 | 21–25 | 20–25 |
 | [4–5 September 2020](2020-09-05-IBRiS.html) | IBRiS <br> WP.pl | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
 | [28–31 August 2020](2020-08-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
-| [18–27 August 2020](2020-08-27-CBOS.html) | CBOS | 25 | 24–27 | 24–27 | 23–27 | 23–28 |
+| [18–27 August 2020](2020-08-27-CBOS.html) | CBOS | 26 | 24–27 | 24–27 | 23–27 | 23–28 |
 | [21–24 August 2020](2020-08-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
-| [21–22 August 2020](2020-08-22-IBRiS.html) | IBRiS <br> WP.pl | 21 | 20–23 | 20–23 | 19–24 | 19–24 |
+| [21–22 August 2020](2020-08-22-IBRiS.html) | IBRiS <br> WP.pl | 21 | 20–23 | 20–23 | 19–24 | 19–25 |
 | [21 August 2020](2020-08-21-UnitedSurvey.html) | United Survey <br> RMF | 23 | 22–24 | 22–25 | 22–25 | 21–26 |
 | [14–17 August 2020](2020-08-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24 | 22–25 | 22–25 | 22–26 | 21–27 |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 24 | 23–25 | 22–25 | 22–25 | 21–26 |
@@ -539,8 +539,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 2% | 99.8% |  |
 | 19 | 7% | 98% |  |
 | 20 | 13% | 91% |  |
-| 21 | 17% | 78% |  |
-| 22 | 22% | 62% | Median |
+| 21 | 17% | 79% |  |
+| 22 | 21% | 62% | Median |
 | 23 | 22% | 40% |  |
 | 24 | 14% | 18% |  |
 | 25 | 4% | 4% |  |

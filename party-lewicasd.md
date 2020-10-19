@@ -287,7 +287,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21 August 2020](2020-08-21-UnitedSurvey.html) | United Survey <br> RMF | 0 | 0 | 0 | 0 | 0 |
 | [14–17 August 2020](2020-08-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [13–14 August 2020](2020-08-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [7–12 August 2020](2020-08-12-KantarPublic.html) | Kantar Public | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
+| [7–12 August 2020](2020-08-12-KantarPublic.html) | Kantar Public | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [7–10 August 2020](2020-08-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [6–7 August 2020](2020-08-07-IBRiS.html) | IBRiS <br> WP.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [31 July–3 August 2020](2020-08-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |

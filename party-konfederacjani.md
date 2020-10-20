@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.2% | 5.6–11.4% | 5.0–12.3% | 4.6–12.9% | 4.0–13.8% |
+| [16 October 2020](2020-10-16-IBRiS.html) | IBRiS <br> WP.pl | 7.8% | 6.9–9.0% | 6.6–9.3% | 6.4–9.6% | 5.9–10.1% |
 | [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12.0% | 10.8–13.4% | 10.5–13.7% | 10.2–14.1% | 9.6–14.8% |
 | [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [2–5 October 2020](2020-10-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.9–12.6% |
@@ -240,9 +241,9 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 2% | 99.9% |  |
 | 4.5–5.5% | 7% | 98% |  |
 | 5.5–6.5% | 9% | 91% |  |
-| 6.5–7.5% | 17% | 81% |  |
-| 7.5–8.5% | 23% | 64% | Median |
-| 8.5–9.5% | 17% | 41% |  |
+| 6.5–7.5% | 16% | 82% |  |
+| 7.5–8.5% | 23% | 66% | Median |
+| 8.5–9.5% | 18% | 42% |  |
 | 9.5–10.5% | 9% | 25% |  |
 | 10.5–11.5% | 6% | 15% |  |
 | 11.5–12.5% | 5% | 9% |  |
@@ -261,6 +262,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 0–6 | 0–7 | 0–7 |
+| [16 October 2020](2020-10-16-IBRiS.html) | IBRiS <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
 | [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [2–5 October 2020](2020-10-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
@@ -488,8 +490,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 5% | 100% | Last Result |
 | 1 | 0% | 95% |  |
 | 2 | 2% | 95% |  |
-| 3 | 19% | 93% |  |
-| 4 | 38% | 74% | Median |
+| 3 | 18% | 93% |  |
+| 4 | 38% | 75% | Median |
 | 5 | 22% | 36% |  |
 | 6 | 10% | 14% |  |
 | 7 | 4% | 4% |  |

@@ -280,7 +280,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 12–16 | 12–17 | 11–17 | 11–18 |
-| [16 October 2020](2020-10-16-IBRiS.html) | IBRiS <br> WP.pl | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [16 October 2020](2020-10-16-IBRiS.html) | IBRiS <br> WP.pl | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
 | [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | 16 | 15–17 | 14–18 | 14–18 | 14–19 |
 | [2–5 October 2020](2020-10-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
@@ -521,7 +521,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 16% | 84% |  |
 | 14 | 17% | 68% |  |
 | 15 | 24% | 50% | Median |
-| 16 | 19% | 27% |  |
+| 16 | 19% | 26% |  |
 | 17 | 7% | 8% |  |
 | 18 | 1.1% | 1.1% |  |
 | 19 | 0.1% | 0.1% |  |

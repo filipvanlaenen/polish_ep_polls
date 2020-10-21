@@ -10,7 +10,7 @@ The table below lists the polls on which the average is based. They are the most
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–13% <br> 0–7 | N/A <br> N/A | 21–31% <br> 11–17 | 2–8% <br> 0–4 | 4–15% <br> 0–8 | N/A <br> N/A | N/A <br> N/A | 34–45% <br> 18–25 | 8–12% <br> 4–6 |
-| [16 October 2020](2020-10-16-IBRiS.html) | IBRiS <br> WP.pl | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 3–5 | N/A <br> N/A | 26–31% <br> 14–17 | 2–4% <br> 0 | 5–8% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 33–39% <br> 18–21 | 8–11% <br> 4–6 |
+| [16 October 2020](2020-10-16-IBRiS.html) | IBRiS <br> WP.pl | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–10% <br> 3–5 | N/A <br> N/A | 26–31% <br> 14–17 | 2–4% <br> 0 | 5–8% <br> 2–4 | N/A <br> N/A | N/A <br> N/A | 33–39% <br> 18–22 | 8–11% <br> 4–6 |
 | [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 10–14% <br> 5–7 | N/A <br> N/A | 24–30% <br> 13–16 | 4–6% <br> 0–3 | 12–16% <br> 6–9 | N/A <br> N/A | N/A <br> N/A | 33–39% <br> 18–22 | N/A <br> N/A |
 | [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | 26–31% <br> 14–18 | 3–6% <br> 0–3 | 6–9% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 34–40% <br> 19–23 | 8–11% <br> 4–6 |
 | [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 8–12% <br> 4–6 | N/A <br> N/A | 26–32% <br> 14–17 | 5–9% <br> 2–4 | 7–11% <br> 4–5 | N/A <br> N/A | N/A <br> N/A | 41–47% <br> 22–25 | N/A <br> N/A |
@@ -375,8 +375,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 5% | 100% | Last Result |
 | 1 | 0% | 95% |  |
 | 2 | 2% | 95% |  |
-| 3 | 18% | 93% |  |
-| 4 | 38% | 75% | Median |
+| 3 | 19% | 93% |  |
+| 4 | 38% | 74% | Median |
 | 5 | 22% | 36% |  |
 | 6 | 10% | 14% |  |
 | 7 | 4% | 4% |  |
@@ -407,7 +407,7 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 16% | 84% |  |
 | 14 | 17% | 68% |  |
 | 15 | 24% | 50% | Median |
-| 16 | 19% | 27% |  |
+| 16 | 19% | 26% |  |
 | 17 | 7% | 8% |  |
 | 18 | 1.1% | 1.1% |  |
 | 19 | 0.1% | 0.1% |  |
@@ -441,7 +441,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 93% |  |
 | 2 | 4% | 93% |  |
 | 3 | 30% | 88% |  |
-| 4 | 33% | 58% | Median |
+| 4 | 32% | 58% | Median |
 | 5 | 13% | 26% |  |
 | 6 | 2% | 13% |  |
 | 7 | 6% | 11% |  |
@@ -481,8 +481,8 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.2% | 100% |  |
-| 18 | 3% | 99.8% |  |
-| 19 | 11% | 97% |  |
+| 18 | 2% | 99.8% |  |
+| 19 | 10% | 97% |  |
 | 20 | 18% | 87% |  |
 | 21 | 19% | 69% | Median |
 | 22 | 19% | 50% |  |
@@ -506,7 +506,7 @@ Only polls for which at least the sample size has been published are included in
 | 3 | 0.4% | 100% |  |
 | 4 | 25% | 99.6% |  |
 | 5 | 60% | 75% | Median |
-| 6 | 15% | 15% |  |
+| 6 | 14% | 15% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
@@ -551,8 +551,8 @@ Only polls for which at least the sample size has been published are included in
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.2% | 100% |  |
-| 18 | 3% | 99.8% |  |
-| 19 | 11% | 97% |  |
+| 18 | 2% | 99.8% |  |
+| 19 | 10% | 97% |  |
 | 20 | 18% | 87% |  |
 | 21 | 19% | 69% | Median |
 | 22 | 19% | 50% |  |
@@ -602,7 +602,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 93% |  |
 | 2 | 4% | 93% |  |
 | 3 | 30% | 88% |  |
-| 4 | 33% | 58% | Median |
+| 4 | 32% | 58% | Median |
 | 5 | 13% | 26% |  |
 | 6 | 2% | 13% |  |
 | 7 | 6% | 11% |  |
@@ -619,8 +619,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 5% | 100% | Last Result |
 | 1 | 0% | 95% |  |
 | 2 | 2% | 95% |  |
-| 3 | 18% | 93% |  |
-| 4 | 38% | 75% | Median |
+| 3 | 19% | 93% |  |
+| 4 | 38% | 74% | Median |
 | 5 | 22% | 36% |  |
 | 6 | 10% | 14% |  |
 | 7 | 4% | 4% |  |
@@ -663,6 +663,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 8
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 7,471,104
-+ **Error estimate:** 2.88%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 8,388,608
++ **Error estimate:** 1.59%

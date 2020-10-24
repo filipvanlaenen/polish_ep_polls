@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.5% | 8.3–10.7% | 7.9–11.1% | 7.7–11.5% | 7.2–12.1% |
+| N/A | [Poll Average](average.html) | 9.3% | 8.1–10.7% | 7.8–11.1% | 7.5–11.5% | 7.0–12.2% |
+| [20 October 2020](2020-10-20-IBRiS.html) | IBRiS <br> Onet.pl | 8.7% | 7.7–9.9% | 7.4–10.3% | 7.2–10.5% | 6.7–11.1% |
+| [16–19 October 2020](2020-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [16 October 2020](2020-10-16-IBRiS.html) | IBRiS <br> WP.pl | 9.4% | 8.3–10.6% | 8.0–10.9% | 7.8–11.2% | 7.3–11.8% |
 | [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | 9.2% | 8.1–10.5% | 7.8–10.9% | 7.5–11.2% | 7.1–11.8% |
@@ -240,14 +242,14 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 2% | 100% |  |
-| 7.5–8.5% | 15% | 98% |  |
-| 8.5–9.5% | 37% | 83% | Median |
-| 9.5–10.5% | 32% | 46% |  |
-| 10.5–11.5% | 12% | 14% |  |
+| 5.5–6.5% | 0.1% | 100% |  |
+| 6.5–7.5% | 3% | 99.9% |  |
+| 7.5–8.5% | 19% | 97% |  |
+| 8.5–9.5% | 36% | 78% | Median |
+| 9.5–10.5% | 29% | 42% |  |
+| 10.5–11.5% | 11% | 13% |  |
 | 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.1% | 0.2% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -259,7 +261,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| [20 October 2020](2020-10-20-IBRiS.html) | IBRiS <br> Onet.pl | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [16–19 October 2020](2020-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [16 October 2020](2020-10-16-IBRiS.html) | IBRiS <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -488,11 +492,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.4% | 100% |  |
-| 4 | 25% | 99.6% |  |
-| 5 | 60% | 75% | Median |
-| 6 | 14% | 15% |  |
-| 7 | 0.5% | 0.5% |  |
+| 3 | 0.9% | 100% |  |
+| 4 | 31% | 99.1% |  |
+| 5 | 53% | 69% | Median |
+| 6 | 15% | 16% |  |
+| 7 | 0.6% | 0.6% |  |
 | 8 | 0% | 0% |  |
 
 

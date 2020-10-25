@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-10-24T16:14:02.333516+02:00</updated>
+  <updated>2020-10-25T13:18:40.116955+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 36.8–42.8%, 20–24 seats</li><li>Koalicja Obywatelska (EPP): 24.4–29.8%, 13–16 seats</li><li>Lewica (S&amp;D): 5.5–8.7%, 3–4 seats</li><li>Koalicja Polska (EPP): 3.2–5.7%, 0–3 seats</li><li>Konfederacja (NI): 7.6–11.1%, 4–6 seats</li><li>Polska 2050 (*): 10.4–14.4%, 5–8 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-10-23-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-23-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 22–23 October 2020</title>
+    <updated>2020-10-25T12:27:50.658895+01:00</updated>
+    <dc:date>2020-10-25T12:27:50.658895+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 34.3–40.0%, 19–22 seats</li><li>Koalicja Obywatelska (EPP): 24.4–29.6%, 13–16 seats</li><li>Lewica (S&amp;D): 6.0–9.2%, 3–5 seats</li><li>Koalicja Polska (EPP): 2.8–5.1%, 0–2 seats</li><li>Konfederacja (NI): 5.8–8.9%, 3–5 seats</li><li>Polska 2050 (*): 7.2–10.5%, 4–6 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-10-20-IBRiS.html</id>
@@ -14,6 +22,14 @@
     <title>Opinion Poll by IBRiS for Onet.pl, 20 October 2020</title>
     <updated>2020-10-24T16:14:02.333516+02:00</updated>
     <dc:date>2020-10-24T16:14:02.333516+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 35.4–41.2%, 19–22 seats</li><li>Koalicja Obywatelska (EPP): 23.9–29.2%, 13–16 seats</li><li>Lewica (S&amp;D): 9.0–12.8%, 4–7 seats</li><li>Koalicja Polska (EPP): 5.5–8.5%, 2–4 seats</li><li>Konfederacja (NI): 10.0–13.9%, 5–7 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2020-10-19-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-19-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes for wPolityce.pl, 16–19 October 2020</title>
+    <updated>2020-10-25T13:18:40.116955+01:00</updated>
+    <dc:date>2020-10-25T13:18:40.116955+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 33.3–39.0%, 18–22 seats</li><li>Koalicja Obywatelska (EPP): 25.6–30.9%, 14–17 seats</li><li>Lewica (S&amp;D): 5.1–8.0%, 2–4 seats</li><li>Koalicja Polska (EPP): 1.8–3.7%, 0 seats</li><li>Konfederacja (NI): 6.4–9.6%, 3–5 seats</li><li>Polska 2050 (*): 7.8–11.2%, 4–6 seats</li></ul></div></content>
@@ -1743,5 +1759,5 @@
     <updated>2020-03-23T18:19:37.802903+01:00</updated>
     <dc:date>2020-03-23T18:19:37.802903+01:00</dc:date>
   </entry>
-  <dc:date>2020-10-24T16:14:02.333516+02:00</dc:date>
+  <dc:date>2020-10-25T13:18:40.116955+01:00</dc:date>
 </feed>

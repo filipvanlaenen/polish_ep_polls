@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 2.8–6.5% | 2.5–7.2% | 2.3–7.7% | 1.9–8.5% |
+| N/A | [Poll Average](average.html) | 4.4% | 2.8–6.5% | 2.5–7.2% | 2.3–7.7% | 1.9–8.5% |
+| [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.5–6.1% | 3.1–6.5% |
 | [6–9 November 2020](2020-11-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [3 November 2020](2020-11-03-IBRiS.html) | IBRiS <br> Onet | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.0% |
 | [30 October–2 November 2020](2020-11-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6.0% | 5.2–7.1% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
@@ -253,10 +254,10 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 6% | 100% |  |
-| 2.5–3.5% | 23% | 94% |  |
-| 3.5–4.5% | 29% | 71% | Median |
-| 4.5–5.5% | 22% | 42% |  |
-| 5.5–6.5% | 10% | 20% |  |
+| 2.5–3.5% | 22% | 94% |  |
+| 3.5–4.5% | 28% | 72% | Median |
+| 4.5–5.5% | 24% | 44% |  |
+| 5.5–6.5% | 11% | 21% |  |
 | 6.5–7.5% | 7% | 10% |  |
 | 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.4% | 0.4% |  |
@@ -272,6 +273,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [6–9 November 2020](2020-11-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [3 November 2020](2020-11-03-IBRiS.html) | IBRiS <br> Onet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [30 October–2 November 2020](2020-11-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
@@ -513,10 +515,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 0% | 28% |  |
-| 2 | 5% | 28% |  |
-| 3 | 18% | 23% |  |
+| 0 | 70% | 100% | Last Result, Median |
+| 1 | 0% | 30% |  |
+| 2 | 6% | 30% |  |
+| 3 | 19% | 24% |  |
 | 4 | 5% | 5% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

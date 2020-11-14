@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 23:33:33 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 12–13 November 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-11-13-Estymator.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Estymator for DoRzeczy.pl, 12–13 November 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-11-13-Estymator.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-11-13-Estymator.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-11-13-Estymator.png" length="220571" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2020 18:01:50 +0100</pubDate>
+      <dc:date>2020-11-14T18:01:50.060791+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Social Changes for wPolityce.pl, 6–9 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-11-09-SocialChanges.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 6–9 November 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-11-09-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-11-09-SocialChanges-seating-plan.png"/>]]></description>
@@ -388,30 +396,6 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-16-IBRiS.png" length="211272" type="image/png"/>
       <pubDate>Tue, 20 Oct 2020 20:13:40 +0200</pubDate>
       <dc:date>2020-10-20T20:13:40.086558+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 9–12 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 9–12 October 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges-seating-plan.png" length="387973" type="image/png"/>
-      <pubDate>Sat, 17 Oct 2020 17:20:44 +0200</pubDate>
-      <dc:date>2020-10-17T17:20:44.348667+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 9–12 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 9–12 October 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges-seats.png" length="183721" type="image/png"/>
-      <pubDate>Sat, 17 Oct 2020 17:20:44 +0200</pubDate>
-      <dc:date>2020-10-17T17:20:44.348667+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 9–12 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 9–12 October 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-10-12-SocialChanges.png" length="199773" type="image/png"/>
-      <pubDate>Sat, 17 Oct 2020 17:20:44 +0200</pubDate>
-      <dc:date>2020-10-17T17:20:44.348667+02:00</dc:date>
     </item>
   </channel>
 </rss>

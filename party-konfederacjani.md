@@ -276,7 +276,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
-| [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
+| [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 2–4 | 0–5 |
 | [6–9 November 2020](2020-11-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [3 November 2020](2020-11-03-IBRiS.html) | IBRiS <br> Onet | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [30 October–2 November 2020](2020-11-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |

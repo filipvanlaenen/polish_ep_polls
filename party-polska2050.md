@@ -286,7 +286,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 4–10 | 4–10 | 4–11 | 3–11 |
-| [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [6–9 November 2020](2020-11-09-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [3 November 2020](2020-11-03-IBRiS.html) | IBRiS <br> Onet | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [30 October–2 November 2020](2020-11-02-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
@@ -535,7 +535,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 11% | 99.1% |  |
 | 5 | 17% | 88% |  |
 | 6 | 20% | 71% |  |
-| 7 | 23% | 52% | Median |
+| 7 | 22% | 51% | Median |
 | 8 | 11% | 29% |  |
 | 9 | 6% | 18% |  |
 | 10 | 8% | 12% |  |

@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 4.8–9.6% | 4.5–10.1% | 4.2–10.4% | 3.8–11.1% |
+| N/A | [Poll Average](average.html) | 6.4% | 2.7–9.0% | 2.2–9.6% | 2.0–10.1% | 1.6–10.9% |
+| [13–16 November 2020](2020-11-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
+| [5–15 November 2020](2020-11-15-CBOS.html) | CBOS | 6.8% | 5.9–8.0% | 5.7–8.3% | 5.5–8.5% | 5.1–9.1% |
+| [13–14 November 2020](2020-11-14-IBRiS.html) | IBRiS <br> WP.pl | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.3% | 1.3–3.7% |
 | [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.5% | 5.6–7.6% | 5.4–8.0% | 5.2–8.2% | 4.8–8.8% |
+| [6–12 November 2020](2020-11-12-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [6–9 November 2020](2020-11-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [3 November 2020](2020-11-03-IBRiS.html) | IBRiS <br> Onet | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.0% |
 | [30 October–2 November 2020](2020-11-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–11.9% | 7.8–12.6% |
@@ -252,18 +256,18 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 6% | 99.8% |  |
-| 4.5–5.5% | 17% | 94% |  |
-| 5.5–6.5% | 17% | 77% |  |
-| 6.5–7.5% | 13% | 60% | Median |
-| 7.5–8.5% | 17% | 46% |  |
-| 8.5–9.5% | 18% | 29% |  |
-| 9.5–10.5% | 9% | 11% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
+| 0.5–1.5% | 0.3% | 100% |  |
+| 1.5–2.5% | 8% | 99.7% |  |
+| 2.5–3.5% | 4% | 92% |  |
+| 3.5–4.5% | 4% | 87% |  |
+| 4.5–5.5% | 14% | 84% |  |
+| 5.5–6.5% | 24% | 70% | Median |
+| 6.5–7.5% | 20% | 46% |  |
+| 7.5–8.5% | 12% | 26% |  |
+| 8.5–9.5% | 9% | 14% |  |
+| 9.5–10.5% | 4% | 6% |  |
+| 10.5–11.5% | 1.0% | 1.2% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -275,8 +279,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [13–16 November 2020](2020-11-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [5–15 November 2020](2020-11-15-CBOS.html) | CBOS | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [13–14 November 2020](2020-11-14-IBRiS.html) | IBRiS <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 2–4 | 0–5 |
+| [6–12 November 2020](2020-11-12-KantarPublic.html) | Kantar Public | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [6–9 November 2020](2020-11-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [3 November 2020](2020-11-03-IBRiS.html) | IBRiS <br> Onet | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [30 October–2 November 2020](2020-11-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -518,13 +526,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 0% | 86% |  |
-| 2 | 5% | 86% |  |
-| 3 | 28% | 81% |  |
-| 4 | 31% | 53% | Median |
-| 5 | 20% | 22% |  |
-| 6 | 1.5% | 2% |  |
+| 0 | 21% | 100% | Last Result |
+| 1 | 0% | 79% |  |
+| 2 | 5% | 79% |  |
+| 3 | 38% | 73% | Median |
+| 4 | 25% | 35% |  |
+| 5 | 9% | 11% |  |
+| 6 | 1.1% | 1.1% |  |
 | 7 | 0% | 0% |  |
 
 

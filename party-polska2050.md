@@ -289,7 +289,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 5–9 | 4–9 | 4–9 | 3–10 |
 | [13–16 November 2020](2020-11-16-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [5–15 November 2020](2020-11-15-CBOS.html) | CBOS | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [5–15 November 2020](2020-11-15-CBOS.html) | CBOS | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [13–14 November 2020](2020-11-14-IBRiS.html) | IBRiS <br> WP.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [6–12 November 2020](2020-11-12-KantarPublic.html) | Kantar Public | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -542,8 +542,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 5% | 90% |  |
 | 6 | 16% | 85% |  |
 | 7 | 36% | 69% | Median |
-| 8 | 22% | 33% |  |
-| 9 | 10% | 11% |  |
+| 8 | 21% | 33% |  |
+| 9 | 10% | 12% |  |
 | 10 | 2% | 2% |  |
 | 11 | 0.1% | 0.1% |  |
 | 12 | 0% | 0% |  |

@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 8.8–16.1% | 8.0–16.8% | 7.6–17.4% | 6.9–18.4% |
+| N/A | [Poll Average](average.html) | 12.8% | 8.6–15.0% | 8.0–15.5% | 7.6–16.0% | 6.9–17.0% |
+| [20–23 November 2020](2020-11-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [20–23 November 2020](2020-11-23-KantarPublic.html) | Kantar Public <br> TVN | 14.0% | 12.6–15.5% | 12.3–15.9% | 11.9–16.2% | 11.3–17.0% |
 | [13–16 November 2020](2020-11-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [5–15 November 2020](2020-11-15-CBOS.html) | CBOS | 16.3% | 14.9–17.8% | 14.5–18.2% | 14.1–18.6% | 13.5–19.4% |
 | [13–14 November 2020](2020-11-14-IBRiS.html) | IBRiS <br> WP.pl | 13.1% | 11.9–14.5% | 11.5–14.9% | 11.2–15.2% | 10.7–15.9% |
 | [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 12.7% | 11.4–14.1% | 11.1–14.5% | 10.8–14.9% | 10.2–15.6% |
 | [6–12 November 2020](2020-11-12-KantarPublic.html) | Kantar Public | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.3% | 10.5–16.0% |
@@ -263,20 +264,18 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.2% | 100% |  |
 | 6.5–7.5% | 2% | 99.8% |  |
-| 7.5–8.5% | 6% | 98% |  |
-| 8.5–9.5% | 5% | 92% |  |
-| 9.5–10.5% | 2% | 87% |  |
-| 10.5–11.5% | 4% | 85% |  |
-| 11.5–12.5% | 15% | 81% |  |
-| 12.5–13.5% | 23% | 66% | Median |
-| 13.5–14.5% | 17% | 43% |  |
-| 14.5–15.5% | 11% | 26% |  |
-| 15.5–16.5% | 8% | 15% |  |
-| 16.5–17.5% | 5% | 7% |  |
-| 17.5–18.5% | 2% | 2% |  |
-| 18.5–19.5% | 0.4% | 0.4% |  |
-| 19.5–20.5% | 0% | 0% |  |
-| 20.5–21.5% | 0% | 0% |  |
+| 7.5–8.5% | 7% | 98% |  |
+| 8.5–9.5% | 9% | 90% |  |
+| 9.5–10.5% | 7% | 81% |  |
+| 10.5–11.5% | 6% | 74% |  |
+| 11.5–12.5% | 13% | 68% |  |
+| 12.5–13.5% | 21% | 55% | Median |
+| 13.5–14.5% | 18% | 33% |  |
+| 14.5–15.5% | 10% | 15% |  |
+| 15.5–16.5% | 4% | 5% |  |
+| 16.5–17.5% | 0.9% | 1.1% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -287,9 +286,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–9 | 4–9 | 4–9 | 3–10 |
+| N/A | [Poll Average](average.html) | 7 | 4–8 | 4–8 | 4–9 | 3–9 |
+| [20–23 November 2020](2020-11-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [20–23 November 2020](2020-11-23-KantarPublic.html) | Kantar Public <br> TVN | 7 | 7–8 | 6–9 | 6–9 | 6–9 |
 | [13–16 November 2020](2020-11-16-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [5–15 November 2020](2020-11-15-CBOS.html) | CBOS | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
 | [13–14 November 2020](2020-11-14-IBRiS.html) | IBRiS <br> WP.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [12–13 November 2020](2020-11-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [6–12 November 2020](2020-11-12-KantarPublic.html) | Kantar Public | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -538,14 +538,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.9% | 100% |  |
-| 4 | 9% | 99.1% |  |
-| 5 | 5% | 90% |  |
-| 6 | 16% | 85% |  |
-| 7 | 36% | 69% | Median |
-| 8 | 21% | 33% |  |
-| 9 | 10% | 12% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.1% | 0.1% |  |
-| 12 | 0% | 0% |  |
+| 4 | 11% | 99.1% |  |
+| 5 | 14% | 88% |  |
+| 6 | 16% | 74% |  |
+| 7 | 34% | 59% | Median |
+| 8 | 20% | 24% |  |
+| 9 | 4% | 4% |  |
+| 10 | 0.3% | 0.3% |  |
+| 11 | 0% | 0% |  |
 
 

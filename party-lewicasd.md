@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 6.3–12.3% | 5.8–13.4% | 5.4–14.0% | 4.8–15.0% |
+| N/A | [Poll Average](average.html) | 9.1% | 6.4–12.1% | 5.8–13.2% | 5.5–13.9% | 4.9–14.9% |
+| [27 November 2020](2020-11-27-IBRiS.html) | IBRiS <br> WP.pl | 10.1% | 9.0–11.4% | 8.7–11.7% | 8.4–12.0% | 8.0–12.7% |
+| [26–27 November 2020](2020-11-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.6% | 8.5–10.9% | 8.2–11.3% | 8.0–11.6% | 7.5–12.2% |
+| [23–25 November 2020](2020-11-25-IPSOS.html) | IPSOS <br> OKO | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [20–23 November 2020](2020-11-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13.0% | 11.8–14.5% | 11.4–14.9% | 11.1–15.2% | 10.6–15.9% |
 | [20–23 November 2020](2020-11-23-KantarPublic.html) | Kantar Public <br> TVN | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
 | [13–16 November 2020](2020-11-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.1% | 9.6–14.8% |
@@ -262,16 +265,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 3% | 99.8% |  |
-| 5.5–6.5% | 10% | 97% |  |
-| 6.5–7.5% | 16% | 86% |  |
-| 7.5–8.5% | 22% | 70% | Median |
-| 8.5–9.5% | 20% | 48% |  |
-| 9.5–10.5% | 11% | 28% |  |
-| 10.5–11.5% | 5% | 17% |  |
-| 11.5–12.5% | 4% | 12% |  |
-| 12.5–13.5% | 5% | 9% |  |
+| 5.5–6.5% | 9% | 97% |  |
+| 6.5–7.5% | 13% | 88% |  |
+| 7.5–8.5% | 15% | 75% |  |
+| 8.5–9.5% | 19% | 60% | Median |
+| 9.5–10.5% | 19% | 41% |  |
+| 10.5–11.5% | 10% | 23% |  |
+| 11.5–12.5% | 5% | 13% |  |
+| 12.5–13.5% | 4% | 8% |  |
 | 13.5–14.5% | 3% | 4% |  |
-| 14.5–15.5% | 0.9% | 1.1% |  |
+| 14.5–15.5% | 0.8% | 0.9% |  |
 | 15.5–16.5% | 0.1% | 0.1% |  |
 | 16.5–17.5% | 0% | 0% |  |
 
@@ -284,7 +287,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–7 | 3–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–7 | 3–7 | 0–8 |
+| [27 November 2020](2020-11-27-IBRiS.html) | IBRiS <br> WP.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [26–27 November 2020](2020-11-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [23–25 November 2020](2020-11-25-IPSOS.html) | IPSOS <br> OKO | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [20–23 November 2020](2020-11-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [20–23 November 2020](2020-11-23-KantarPublic.html) | Kantar Public <br> TVN | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [13–16 November 2020](2020-11-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -532,16 +538,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% | Last Result |
-| 1 | 0% | 99.1% |  |
-| 2 | 0.7% | 99.1% |  |
-| 3 | 19% | 98% |  |
-| 4 | 37% | 80% | Median |
-| 5 | 26% | 43% |  |
-| 6 | 8% | 17% |  |
-| 7 | 7% | 9% |  |
-| 8 | 2% | 2% |  |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| 0 | 0.8% | 100% | Last Result |
+| 1 | 0% | 99.2% |  |
+| 2 | 0.7% | 99.2% |  |
+| 3 | 16% | 98.5% |  |
+| 4 | 27% | 82% |  |
+| 5 | 32% | 55% | Median |
+| 6 | 15% | 23% |  |
+| 7 | 7% | 8% |  |
+| 8 | 1.4% | 1.5% |  |
+| 9 | 0% | 0% |  |
 
 

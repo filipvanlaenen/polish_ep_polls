@@ -10,7 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.1–6.4% | 2.7–6.8% | 2.5–7.2% | 2.1–7.8% |
+| N/A | [Poll Average](average.html) | 5.0% | 2.6–6.5% | 2.0–6.9% | 1.7–7.2% | 1.4–7.8% |
+| [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.2% |
+| [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.8% |
+| [12 December 2020](2020-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.2% | 4.5–6.2% | 4.2–6.5% | 4.1–6.8% | 3.7–7.3% |
+| [11–12 December 2020](2020-12-12-IBRiS.html) | IBRiS <br> WP.pl | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.9–7.8% | 4.5–8.3% |
+| [10–11 December 2020](2020-12-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.7% | 4.8–6.7% | 4.6–7.0% | 4.4–7.3% | 4.0–7.8% |
+| [9–10 December 2020](2020-12-10-PGBOpinium.html) | PGB Opinium | 4.8% | 4.1–5.8% | 3.9–6.0% | 3.7–6.3% | 3.4–6.7% |
+| [30 November–10 December 2020](2020-12-10-CBOS.html) | CBOS | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [4–9 December 2020](2020-12-09-KantarPublic.html) | Kantar Public | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.4–7.0% |
+| [4–8 December 2020](2020-12-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3.0% | 2.4–3.7% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [17–30 November 2020](2020-11-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3.0% | 2.4–3.7% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [27–28 November 2020](2020-11-28-UnitedSurvey.html) | United Survey <br> DGP and RMF | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [27 November 2020](2020-11-27-IBRiS.html) | IBRiS <br> WP.pl | 5.8% | 5.0–6.8% | 4.8–7.1% | 4.6–7.4% | 4.2–7.9% |
@@ -262,14 +271,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 18% | 97% |  |
-| 3.5–4.5% | 28% | 79% |  |
-| 4.5–5.5% | 24% | 52% | Median |
-| 5.5–6.5% | 20% | 28% |  |
-| 6.5–7.5% | 7% | 8% |  |
-| 7.5–8.5% | 0.9% | 1.0% |  |
+| 0.5–1.5% | 1.3% | 100% |  |
+| 1.5–2.5% | 8% | 98.7% |  |
+| 2.5–3.5% | 6% | 90% |  |
+| 3.5–4.5% | 21% | 85% |  |
+| 4.5–5.5% | 30% | 63% | Median |
+| 5.5–6.5% | 24% | 33% |  |
+| 6.5–7.5% | 8% | 9% |  |
+| 7.5–8.5% | 1.0% | 1.0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
@@ -283,6 +292,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
+| [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [12 December 2020](2020-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [11–12 December 2020](2020-12-12-IBRiS.html) | IBRiS <br> WP.pl | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
+| [10–11 December 2020](2020-12-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [9–10 December 2020](2020-12-10-PGBOpinium.html) | PGB Opinium | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [30 November–10 December 2020](2020-12-10-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
+| [4–9 December 2020](2020-12-09-KantarPublic.html) | Kantar Public | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [4–8 December 2020](2020-12-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [17–30 November 2020](2020-11-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [27–28 November 2020](2020-11-28-UnitedSurvey.html) | United Survey <br> DGP and RMF | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [27 November 2020](2020-11-27-IBRiS.html) | IBRiS <br> WP.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
@@ -535,11 +553,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Last Result, Median |
-| 1 | 0% | 40% |  |
-| 2 | 8% | 40% |  |
-| 3 | 29% | 32% |  |
-| 4 | 3% | 3% |  |
+| 0 | 51% | 100% | Last Result, Median |
+| 1 | 0% | 49% |  |
+| 2 | 9% | 49% |  |
+| 3 | 36% | 40% |  |
+| 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 
 

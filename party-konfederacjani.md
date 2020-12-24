@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.3–9.7% | 4.0–10.3% | 3.8–10.8% | 3.4–11.7% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.3–9.2% | 4.0–9.7% | 3.8–10.2% | 3.4–11.0% |
+| [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.5–10.9% | 7.0–11.5% |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 4.9% | 4.2–5.9% | 3.9–6.1% | 3.8–6.4% | 3.4–6.8% |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.5% |
 | [12 December 2020](2020-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
@@ -278,13 +279,12 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 29% | 84% |  |
 | 5.5–6.5% | 24% | 55% | Median |
 | 6.5–7.5% | 8% | 31% |  |
-| 7.5–8.5% | 4% | 23% |  |
-| 8.5–9.5% | 8% | 19% |  |
-| 9.5–10.5% | 7% | 11% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.6% | 0.7% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 7.5–8.5% | 6% | 22% |  |
+| 8.5–9.5% | 10% | 16% |  |
+| 9.5–10.5% | 5% | 7% |  |
+| 10.5–11.5% | 1.1% | 1.2% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -295,7 +295,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–6 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [12 December 2020](2020-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
@@ -561,10 +562,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 71% |  |
 | 2 | 8% | 71% |  |
 | 3 | 37% | 62% | Median |
-| 4 | 7% | 25% |  |
-| 5 | 13% | 18% |  |
-| 6 | 5% | 5% |  |
-| 7 | 0.3% | 0.3% |  |
-| 8 | 0% | 0% |  |
+| 4 | 11% | 25% |  |
+| 5 | 13% | 15% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% |  |
 
 

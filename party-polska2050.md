@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13.2% | 11.0–19.0% | 10.5–20.4% | 10.1–21.1% | 9.4–22.3% |
+| [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 11.0% | 9.9–12.3% | 9.6–12.7% | 9.3–13.0% | 8.8–13.6% |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [12 December 2020](2020-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.6% | 10.1–15.3% |
@@ -307,6 +308,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–10 | 5–11 | 5–12 | 5–13 |
+| [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [12 December 2020](2020-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 7 | 6–7 | 6–8 | 5–8 | 5–8 |

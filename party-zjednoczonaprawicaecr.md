@@ -328,7 +328,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 15–22 | 14–23 | 13–23 | 12–24 |
-| [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [12 December 2020](2020-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
@@ -610,7 +610,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 13% | 81% |  |
 | 18 | 21% | 68% | Median |
 | 19 | 18% | 47% |  |
-| 20 | 7% | 29% |  |
+| 20 | 8% | 29% |  |
 | 21 | 7% | 22% |  |
 | 22 | 8% | 15% |  |
 | 23 | 5% | 7% |  |

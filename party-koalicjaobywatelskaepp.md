@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 24.0% | 19.6–26.8% | 18.0–27.4% | 17.3–28.0% | 16.2–29.0% |
+| N/A | [Poll Average](average.html) | 24.2% | 19.7–26.8% | 18.0–27.4% | 17.3–28.0% | 16.2–29.0% |
+| [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 23.6% | 22.0–25.3% | 21.6–25.8% | 21.2–26.2% | 20.5–27.1% |
 | [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 26.0% | 24.4–27.8% | 23.9–28.3% | 23.5–28.7% | 22.7–29.5% |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 22.4% | 20.8–24.0% | 20.4–24.5% | 20.0–24.9% | 19.3–25.7% |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 26.0% | 24.4–27.8% | 23.9–28.3% | 23.5–28.7% | 22.7–29.6% |
@@ -292,12 +293,12 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 4% | 97% |  |
 | 18.5–19.5% | 3% | 93% |  |
 | 19.5–20.5% | 2% | 90% |  |
-| 20.5–21.5% | 5% | 88% |  |
-| 21.5–22.5% | 11% | 83% |  |
-| 22.5–23.5% | 15% | 72% |  |
-| 23.5–24.5% | 17% | 57% | Median |
-| 24.5–25.5% | 16% | 41% |  |
-| 25.5–26.5% | 13% | 25% |  |
+| 20.5–21.5% | 3% | 88% |  |
+| 21.5–22.5% | 9% | 85% |  |
+| 22.5–23.5% | 15% | 76% |  |
+| 23.5–24.5% | 18% | 61% | Median |
+| 24.5–25.5% | 17% | 43% |  |
+| 25.5–26.5% | 13% | 26% |  |
 | 26.5–27.5% | 8% | 12% |  |
 | 27.5–28.5% | 3% | 4% |  |
 | 28.5–29.5% | 0.9% | 1.1% |  |
@@ -314,6 +315,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 11–15 | 10–15 | 10–16 | 9–16 |
+| [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
@@ -587,11 +589,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0.1% | 100% |  |
 | 9 | 1.4% | 99.9% |  |
 | 10 | 5% | 98% |  |
-| 11 | 8% | 93% |  |
-| 12 | 17% | 85% |  |
-| 13 | 26% | 68% | Median |
-| 14 | 26% | 43% |  |
-| 15 | 13% | 16% |  |
+| 11 | 6% | 94% |  |
+| 12 | 14% | 87% |  |
+| 13 | 28% | 73% | Median |
+| 14 | 28% | 45% |  |
+| 15 | 14% | 17% |  |
 | 16 | 3% | 3% |  |
 | 17 | 0.3% | 0.3% |  |
 | 18 | 0% | 0% |  |

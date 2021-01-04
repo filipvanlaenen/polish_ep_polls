@@ -10,8 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.2% | 9.8–19.0% | 8.9–20.4% | 8.4–21.1% | 7.7–22.3% |
+| N/A | [Poll Average](average.html) | 12.9% | 9.8–15.3% | 8.9–16.1% | 8.4–16.7% | 7.7–17.8% |
+| [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.6% |
+| [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
 | [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 11.0% | 9.9–12.3% | 9.6–12.7% | 9.3–13.0% | 8.8–13.6% |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -284,20 +286,15 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 6% | 97% |  |
 | 9.5–10.5% | 5% | 91% |  |
 | 10.5–11.5% | 8% | 87% |  |
-| 11.5–12.5% | 16% | 79% |  |
-| 12.5–13.5% | 20% | 63% | Median |
-| 13.5–14.5% | 14% | 43% |  |
-| 14.5–15.5% | 8% | 28% |  |
-| 15.5–16.5% | 5% | 20% |  |
-| 16.5–17.5% | 2% | 15% |  |
-| 17.5–18.5% | 2% | 13% |  |
-| 18.5–19.5% | 3% | 11% |  |
-| 19.5–20.5% | 4% | 8% |  |
-| 20.5–21.5% | 3% | 4% |  |
-| 21.5–22.5% | 1.2% | 2% |  |
-| 22.5–23.5% | 0.3% | 0.3% |  |
-| 23.5–24.5% | 0% | 0% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 11.5–12.5% | 19% | 78% |  |
+| 12.5–13.5% | 25% | 59% | Median |
+| 13.5–14.5% | 18% | 35% |  |
+| 14.5–15.5% | 9% | 17% |  |
+| 15.5–16.5% | 5% | 8% |  |
+| 16.5–17.5% | 2% | 3% |  |
+| 17.5–18.5% | 0.6% | 0.7% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -308,8 +305,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–10 | 5–11 | 4–12 | 4–13 |
+| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
+| [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [18–21 December 2020](2020-12-21-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [16 December 2020](2020-12-16-IBRiS.html) | IBRiS <br> Onet.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [11–14 December 2020](2020-12-14-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
@@ -578,14 +577,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0.1% | 100% |  |
 | 4 | 4% | 99.9% |  |
 | 5 | 9% | 96% |  |
-| 6 | 19% | 86% |  |
-| 7 | 30% | 68% | Median |
-| 8 | 15% | 37% |  |
-| 9 | 7% | 22% |  |
-| 10 | 5% | 15% |  |
-| 11 | 6% | 10% |  |
-| 12 | 3% | 4% |  |
-| 13 | 0.5% | 0.6% |  |
-| 14 | 0% | 0% |  |
+| 6 | 21% | 86% |  |
+| 7 | 37% | 65% | Median |
+| 8 | 18% | 28% |  |
+| 9 | 7% | 10% |  |
+| 10 | 2% | 2% |  |
+| 11 | 0.2% | 0.2% |  |
+| 12 | 0% | 0% |  |
 
 

@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 0.9–4.9% | 0.7–5.4% | 0.5–5.8% | 0.4–6.4% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [8–9 January 2021](2021-01-09-IBRiS.html) | IBRiS <br> RP | 0.0% | N/A | N/A | N/A | N/A |
+| [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -274,15 +280,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 18% | 97% |  |
-| 1.5–2.5% | 34% | 80% | Median |
-| 2.5–3.5% | 21% | 46% |  |
-| 3.5–4.5% | 11% | 24% |  |
-| 4.5–5.5% | 10% | 14% |  |
-| 5.5–6.5% | 4% | 4% |  |
-| 6.5–7.5% | 0.3% | 0.4% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 4% | 100% |  |
+| 2.5–3.5% | 52% | 96% | Median |
+| 3.5–4.5% | 40% | 44% |  |
+| 4.5–5.5% | 4% | 4% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -293,7 +298,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–2 |
+| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl |  |  |  |  |  |
+| [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [8–9 January 2021](2021-01-09-IBRiS.html) | IBRiS <br> RP |  |  |  |  |  |
+| [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl |  |  |  |  |  |
 | [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–2 |
@@ -559,11 +570,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 91% | 100% | Last Result, Median |
-| 1 | 0% | 9% |  |
-| 2 | 3% | 9% |  |
-| 3 | 6% | 6% |  |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 0 | 99.2% | 100% | Last Result, Median |
+| 1 | 0% | 0.8% |  |
+| 2 | 0.5% | 0.8% |  |
+| 3 | 0.3% | 0.3% |  |
+| 4 | 0% | 0% |  |
 
 

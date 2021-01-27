@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.9% | 9.8–15.3% | 8.9–16.1% | 8.4–16.7% | 7.7–17.8% |
+| N/A | [Poll Average](average.html) | 14.0% | 11.9–22.1% | 11.5–22.9% | 11.1–23.5% | 10.5–24.5% |
+| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 19.6% | 18.1–21.2% | 17.7–21.7% | 17.4–22.1% | 16.7–22.9% |
+| [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22.0% | 20.4–23.6% | 20.0–24.1% | 19.6–24.5% | 18.9–25.3% |
+| [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 12.9% | 11.7–14.4% | 11.3–14.8% | 11.0–15.2% | 10.4–15.9% |
+| [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.7–24.6% | 18.9–25.4% |
+| [8–9 January 2021](2021-01-09-IBRiS.html) | IBRiS <br> RP | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.6% |
+| [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19.0% | 17.5–20.6% | 17.1–21.0% | 16.8–21.4% | 16.1–22.2% |
 | [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.6% |
 | [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.2–15.5% | 10.7–16.2% |
@@ -281,20 +287,27 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.3% | 100% |  |
-| 7.5–8.5% | 3% | 99.7% |  |
-| 8.5–9.5% | 6% | 97% |  |
-| 9.5–10.5% | 5% | 91% |  |
-| 10.5–11.5% | 8% | 87% |  |
-| 11.5–12.5% | 19% | 78% |  |
-| 12.5–13.5% | 25% | 59% | Median |
-| 13.5–14.5% | 18% | 35% |  |
-| 14.5–15.5% | 9% | 17% |  |
-| 15.5–16.5% | 5% | 8% |  |
-| 16.5–17.5% | 2% | 3% |  |
-| 17.5–18.5% | 0.6% | 0.7% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 6.5–7.5% | 0% | 100% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.6% | 100% |  |
+| 10.5–11.5% | 5% | 99.4% |  |
+| 11.5–12.5% | 16% | 94% |  |
+| 12.5–13.5% | 21% | 78% |  |
+| 13.5–14.5% | 13% | 57% | Median |
+| 14.5–15.5% | 4% | 44% |  |
+| 15.5–16.5% | 0.7% | 41% |  |
+| 16.5–17.5% | 0.7% | 40% |  |
+| 17.5–18.5% | 3% | 39% |  |
+| 18.5–19.5% | 6% | 36% |  |
+| 19.5–20.5% | 8% | 30% |  |
+| 20.5–21.5% | 8% | 22% |  |
+| 21.5–22.5% | 7% | 14% |  |
+| 22.5–23.5% | 5% | 7% |  |
+| 23.5–24.5% | 2% | 2% |  |
+| 24.5–25.5% | 0.4% | 0.5% |  |
+| 25.5–26.5% | 0.1% | 0.1% |  |
+| 26.5–27.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -305,7 +318,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7 | 5–8 | 5–9 | 4–9 | 4–10 |
+| N/A | [Poll Average](average.html) | 7 | 6–12 | 6–13 | 6–13 | 5–14 |
+| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [8–9 January 2021](2021-01-09-IBRiS.html) | IBRiS <br> RP | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
@@ -574,15 +593,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.1% | 100% |  |
-| 4 | 4% | 99.9% |  |
-| 5 | 9% | 96% |  |
-| 6 | 21% | 86% |  |
-| 7 | 37% | 65% | Median |
-| 8 | 18% | 28% |  |
-| 9 | 7% | 10% |  |
-| 10 | 2% | 2% |  |
-| 11 | 0.2% | 0.2% |  |
-| 12 | 0% | 0% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0.9% | 100% |  |
+| 6 | 18% | 99.1% |  |
+| 7 | 31% | 81% | Median |
+| 8 | 9% | 49% |  |
+| 9 | 3% | 41% |  |
+| 10 | 11% | 38% |  |
+| 11 | 10% | 27% |  |
+| 12 | 10% | 17% |  |
+| 13 | 7% | 8% |  |
+| 14 | 0.6% | 0.6% |  |
+| 15 | 0% | 0% |  |
 
 

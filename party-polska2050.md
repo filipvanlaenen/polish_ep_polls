@@ -319,7 +319,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 7 | 6–12 | 6–13 | 6–13 | 5–14 |
-| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
+| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
 | [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
@@ -597,14 +597,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0.9% | 100% |  |
 | 6 | 18% | 99.1% |  |
-| 7 | 31% | 81% | Median |
+| 7 | 32% | 81% | Median |
 | 8 | 9% | 49% |  |
 | 9 | 3% | 41% |  |
-| 10 | 11% | 38% |  |
-| 11 | 10% | 27% |  |
-| 12 | 10% | 17% |  |
-| 13 | 7% | 8% |  |
-| 14 | 0.6% | 0.6% |  |
+| 10 | 10% | 38% |  |
+| 11 | 10% | 28% |  |
+| 12 | 11% | 17% |  |
+| 13 | 6% | 7% |  |
+| 14 | 0.7% | 0.8% |  |
 | 15 | 0% | 0% |  |
 
 

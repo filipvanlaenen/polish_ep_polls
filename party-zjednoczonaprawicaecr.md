@@ -337,12 +337,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 14–23 | 14–23 | 13–24 | 13–24 |
-| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
-| [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
-| [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
+| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
+| [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 20–23 | 20–24 | 20–25 |
 | [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [8–9 January 2021](2021-01-09-IBRiS.html) | IBRiS <br> RP | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
-| [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
 | [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
@@ -624,14 +624,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 3% | 99.7% |  |
 | 14 | 8% | 96% |  |
 | 15 | 7% | 88% |  |
-| 16 | 9% | 81% |  |
-| 17 | 11% | 72% |  |
-| 18 | 14% | 60% | Median |
-| 19 | 5% | 46% |  |
+| 16 | 8% | 81% |  |
+| 17 | 14% | 73% |  |
+| 18 | 13% | 59% | Median |
+| 19 | 5% | 47% |  |
 | 20 | 4% | 41% |  |
 | 21 | 11% | 38% |  |
 | 22 | 15% | 27% |  |
-| 23 | 9% | 12% |  |
+| 23 | 9% | 11% |  |
 | 24 | 2% | 3% |  |
 | 25 | 0.4% | 0.4% |  |
 | 26 | 0% | 0% |  |

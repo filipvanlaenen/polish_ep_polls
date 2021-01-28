@@ -322,13 +322,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 11–14 | 10–15 | 10–15 | 10–16 |
-| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
+| N/A | [Poll Average](average.html) | 12 | 11–14 | 11–15 | 10–15 | 10–16 |
+| [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [8–9 January 2021](2021-01-09-IBRiS.html) | IBRiS <br> RP | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
-| [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
+| [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
 | [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
@@ -603,11 +603,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 5% | 99.8% |  |
-| 11 | 25% | 95% |  |
-| 12 | 34% | 70% | Median |
-| 13 | 17% | 36% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 4% | 99.7% |  |
+| 11 | 25% | 96% |  |
+| 12 | 35% | 70% | Median |
+| 13 | 17% | 35% |  |
 | 14 | 10% | 19% |  |
 | 15 | 6% | 9% |  |
 | 16 | 2% | 2% |  |

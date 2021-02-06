@@ -150,6 +150,14 @@
       <dc:date>2021-01-28T18:43:51.0562+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 28–29 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-12-29-Estymator.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Estymator for DoRzeczy.pl, 28–29 December 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-12-29-Estymator.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-29-Estymator.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-29-Estymator.png" length="192244" type="image/png"/>
+      <pubDate>Sat, 6 Feb 2021 17:08:02 +0100</pubDate>
+      <dc:date>2021-02-06T17:08:02.329695+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Social Changes for wPolityce.pl, 25–28 December 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-12-28-SocialChanges.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 25–28 December 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-12-28-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-28-SocialChanges-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-22-CBMIndicator.png" length="247088" type="image/png"/>
       <pubDate>Sun, 3 Jan 2021 15:01:36 +0100</pubDate>
       <dc:date>2021-01-03T15:01:36.179328+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 18–21 December 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 18–21 December 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges-seating-plan.png" length="394106" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 20:08:37 +0100</pubDate>
-      <dc:date>2020-12-24T20:08:37.505694+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 18–21 December 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 18–21 December 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges-seats.png" length="185294" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 20:08:37 +0100</pubDate>
-      <dc:date>2020-12-24T20:08:37.505694+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 18–21 December 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 18–21 December 2020<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2020-12-21-SocialChanges.png" length="214677" type="image/png"/>
-      <pubDate>Thu, 24 Dec 2020 20:08:37 +0100</pubDate>
-      <dc:date>2020-12-24T20:08:37.505694+01:00</dc:date>
     </item>
   </channel>
 </rss>

@@ -17,6 +17,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [8–9 January 2021](2021-01-09-IBRiS.html) | IBRiS <br> RP | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 December 2020](2020-12-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
@@ -305,6 +306,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [8–11 January 2021](2021-01-11-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [8–9 January 2021](2021-01-09-IBRiS.html) | IBRiS <br> RP |  |  |  |  |  |
 | [1–5 January 2021](2021-01-05-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [28–29 December 2020](2020-12-29-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [25–28 December 2020](2020-12-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [21–22 December 2020](2020-12-22-IBRiS.html) | IBRiS <br> WP.pl |  |  |  |  |  |
 | [17–22 December 2020](2020-12-22-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–2 |

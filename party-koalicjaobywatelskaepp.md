@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 14.1–24.6% | 12.7–25.5% | 12.1–26.2% | 11.3–27.4% |
+| N/A | [Poll Average](average.html) | 20.0% | 14.9–24.2% | 12.9–25.3% | 12.2–26.0% | 11.3–27.3% |
+| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 19.0% | 17.5–20.6% | 17.1–21.0% | 16.8–21.4% | 16.1–22.2% |
 | [12–13 February 2021](2021-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 21.5% | 19.9–23.2% | 19.5–23.7% | 19.1–24.2% | 18.4–25.0% |
 | [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 16.9–23.4% |
 | [1–11 February 2021](2021-02-11-CBOS.html) | CBOS | 12.8% | 11.6–14.1% | 11.3–14.5% | 11.0–14.8% | 10.5–15.5% |
+| [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 17.8% | 16.0–19.8% | 15.5–20.3% | 15.0–20.8% | 14.2–21.8% |
 | [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | 23.4–26.8% | 22.9–27.3% | 22.5–27.7% | 21.7–28.6% |
 | [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19.0% | 17.5–20.6% | 17.1–21.0% | 16.8–21.4% | 16.1–22.2% |
 | [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 19.7% | 18.2–21.4% | 17.7–21.9% | 17.3–22.3% | 16.6–23.1% |
@@ -26,6 +28,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [22–25 January 2021](2021-01-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 26.0% | 24.3–27.8% | 23.8–28.3% | 23.4–28.7% | 22.6–29.6% |
 | [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 22.0% | 20.4–23.7% | 20.0–24.1% | 19.6–24.5% | 18.9–25.3% |
 | [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 20.9% | 19.3–22.6% | 18.9–23.1% | 18.5–23.5% | 17.8–24.4% |
+| [20–21 January 2021](2021-01-21-PGBOpinium.html) | PGB Opinium | 20.8% | 19.3–22.5% | 18.9–22.9% | 18.5–23.3% | 17.8–24.1% |
 | [19 January 2021](2021-01-19-IBRiS.html) | IBRiS <br> Fakt.pl | 20.0% | 18.5–21.6% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
 | [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22.7% | 21.1–24.4% | 20.7–24.9% | 20.3–25.3% | 19.6–26.1% |
 | [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 22.6% | 21.0–24.4% | 20.6–24.9% | 20.2–25.3% | 19.4–26.2% |
@@ -308,25 +311,25 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0.1% | 100% |  |
-| 10.5–11.5% | 0.9% | 99.9% |  |
+| 10.5–11.5% | 0.8% | 99.9% |  |
 | 11.5–12.5% | 3% | 99.1% |  |
 | 12.5–13.5% | 4% | 96% |  |
 | 13.5–14.5% | 2% | 92% |  |
-| 14.5–15.5% | 0.5% | 89% |  |
-| 15.5–16.5% | 0.3% | 89% |  |
-| 16.5–17.5% | 2% | 89% |  |
-| 17.5–18.5% | 6% | 87% |  |
-| 18.5–19.5% | 12% | 81% |  |
-| 19.5–20.5% | 15% | 69% |  |
-| 20.5–21.5% | 14% | 54% | Median |
-| 21.5–22.5% | 12% | 41% |  |
-| 22.5–23.5% | 10% | 29% |  |
-| 23.5–24.5% | 8% | 19% |  |
-| 24.5–25.5% | 6% | 11% |  |
-| 25.5–26.5% | 3% | 5% |  |
-| 26.5–27.5% | 1.2% | 2% |  |
-| 27.5–28.5% | 0.3% | 0.4% |  |
-| 28.5–29.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0.9% | 90% |  |
+| 15.5–16.5% | 2% | 89% |  |
+| 16.5–17.5% | 5% | 88% |  |
+| 17.5–18.5% | 10% | 83% |  |
+| 18.5–19.5% | 16% | 73% |  |
+| 19.5–20.5% | 16% | 57% | Median |
+| 20.5–21.5% | 12% | 41% |  |
+| 21.5–22.5% | 8% | 28% |  |
+| 22.5–23.5% | 6% | 20% |  |
+| 23.5–24.5% | 5% | 14% |  |
+| 24.5–25.5% | 4% | 8% |  |
+| 25.5–26.5% | 3% | 4% |  |
+| 26.5–27.5% | 1.1% | 1.4% |  |
+| 27.5–28.5% | 0.3% | 0.3% |  |
+| 28.5–29.5% | 0% | 0.1% |  |
 | 29.5–30.5% | 0% | 0% |  |
 
 
@@ -338,10 +341,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11 | 8–14 | 7–14 | 7–15 | 6–15 |
+| N/A | [Poll Average](average.html) | 11 | 8–13 | 7–14 | 7–14 | 6–15 |
+| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [12–13 February 2021](2021-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [1–11 February 2021](2021-02-11-CBOS.html) | CBOS | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
 | [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 10 | 10–11 | 9–12 | 9–12 | 9–13 |
@@ -354,6 +359,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–25 January 2021](2021-01-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
+| [20–21 January 2021](2021-01-21-PGBOpinium.html) | PGB Opinium | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
 | [19 January 2021](2021-01-19-IBRiS.html) | IBRiS <br> Fakt.pl | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
 | [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
 | [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
@@ -635,15 +641,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 2% | 100% |  |
 | 7 | 6% | 98% |  |
-| 8 | 2% | 91% |  |
-| 9 | 3% | 89% |  |
-| 10 | 15% | 86% |  |
-| 11 | 24% | 71% | Median |
-| 12 | 18% | 47% |  |
-| 13 | 16% | 29% |  |
-| 14 | 10% | 14% |  |
-| 15 | 3% | 3% |  |
-| 16 | 0.3% | 0.3% |  |
+| 8 | 3% | 92% |  |
+| 9 | 7% | 89% |  |
+| 10 | 23% | 83% |  |
+| 11 | 26% | 60% | Median |
+| 12 | 15% | 34% |  |
+| 13 | 10% | 19% |  |
+| 14 | 6% | 9% |  |
+| 15 | 2% | 2% |  |
+| 16 | 0.2% | 0.2% |  |
 | 17 | 0% | 0% |  |
 
 

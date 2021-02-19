@@ -342,7 +342,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 8–13 | 7–14 | 7–14 | 6–15 |
-| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
+| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [12–13 February 2021](2021-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [1–11 February 2021](2021-02-11-CBOS.html) | CBOS | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
@@ -643,7 +643,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 6% | 98% |  |
 | 8 | 3% | 92% |  |
 | 9 | 7% | 89% |  |
-| 10 | 23% | 83% |  |
+| 10 | 22% | 82% |  |
 | 11 | 26% | 60% | Median |
 | 12 | 15% | 34% |  |
 | 13 | 10% | 19% |  |

@@ -327,7 +327,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 2–6 | 0–6 | 0–7 |
-| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [12–13 February 2021](2021-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [1–11 February 2021](2021-02-11-CBOS.html) | CBOS | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -344,7 +344,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [22–25 January 2021](2021-01-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [20–21 January 2021](2021-01-21-PGBOpinium.html) | PGB Opinium | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
+| [20–21 January 2021](2021-01-21-PGBOpinium.html) | PGB Opinium | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
 | [19 January 2021](2021-01-19-IBRiS.html) | IBRiS <br> Fakt.pl | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
 | [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [14–15 January 2021](2021-01-15-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
@@ -622,8 +622,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 96% |  |
 | 2 | 3% | 96% |  |
 | 3 | 38% | 93% |  |
-| 4 | 21% | 55% | Median |
-| 5 | 20% | 34% |  |
+| 4 | 24% | 56% | Median |
+| 5 | 18% | 32% |  |
 | 6 | 12% | 14% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |

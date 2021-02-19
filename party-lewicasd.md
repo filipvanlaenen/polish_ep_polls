@@ -327,11 +327,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 0–6 | 0–6 | 0–7 |
-| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [12–13 February 2021](2021-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [1–11 February 2021](2021-02-11-CBOS.html) | CBOS | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 4 | 3–4 | 3–4 | 3–5 | 0–5 |
+| [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 4 | 3–4 | 3–5 | 3–5 | 0–5 |
 | [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |

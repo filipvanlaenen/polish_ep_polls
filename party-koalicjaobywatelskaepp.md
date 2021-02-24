@@ -344,7 +344,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 11 | 10–13 | 9–14 | 9–14 | 8–15 |
 | [19 February 2021](2021-02-19-UnitedSurvey.html) | United Survey <br> WP.pl | 10 | 9–11 | 9–12 | 9–12 | 8–12 |
 | [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
-| [12–15 February 2021](2021-02-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [12–15 February 2021](2021-02-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [12–13 February 2021](2021-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
 | [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 10 | 9–11 | 8–11 | 8–12 | 8–12 |
@@ -644,12 +644,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0.8% | 100% |  |
 | 9 | 8% | 99.1% |  |
-| 10 | 26% | 91% |  |
+| 10 | 25% | 91% |  |
 | 11 | 28% | 65% | Median |
 | 12 | 17% | 37% |  |
 | 13 | 13% | 20% |  |
 | 14 | 6% | 8% |  |
-| 15 | 1.1% | 1.2% |  |
+| 15 | 1.1% | 1.1% |  |
 | 16 | 0% | 0% |  |
 
 

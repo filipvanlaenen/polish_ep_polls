@@ -403,11 +403,11 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% | Last Result |
 | 1 | 0% | 96% |  |
-| 2 | 3% | 96% |  |
+| 2 | 4% | 96% |  |
 | 3 | 35% | 93% |  |
 | 4 | 25% | 58% | Median |
 | 5 | 20% | 33% |  |
-| 6 | 11% | 12% |  |
+| 6 | 11% | 13% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
@@ -430,12 +430,12 @@ Only polls for which at least the sample size has been published are included in
 | 7 | 0% | 100% |  |
 | 8 | 0.8% | 100% |  |
 | 9 | 8% | 99.1% |  |
-| 10 | 26% | 91% |  |
+| 10 | 25% | 91% |  |
 | 11 | 28% | 65% | Median |
 | 12 | 17% | 37% |  |
 | 13 | 13% | 20% |  |
 | 14 | 6% | 8% |  |
-| 15 | 1.1% | 1.2% |  |
+| 15 | 1.1% | 1.1% |  |
 | 16 | 0% | 0% |  |
 
 ### Koalicja Polska (EPP)
@@ -450,7 +450,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 31% |  |
 | 2 | 9% | 31% |  |
 | 3 | 21% | 22% |  |
-| 4 | 0.8% | 0.8% |  |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 ### Lewica (S&D)
@@ -470,7 +470,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 14% | 27% |  |
 | 7 | 3% | 13% |  |
 | 8 | 6% | 10% |  |
-| 9 | 3% | 4% |  |
+| 9 | 3% | 3% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
@@ -507,7 +507,7 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 14% | 89% |  |
 | 17 | 19% | 75% |  |
 | 18 | 20% | 55% | Median |
-| 19 | 11% | 35% |  |
+| 19 | 12% | 36% |  |
 | 20 | 6% | 24% |  |
 | 21 | 4% | 18% |  |
 | 22 | 5% | 14% |  |
@@ -532,7 +532,7 @@ Only polls for which at least the sample size has been published are included in
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0.6% | 100% |  |
-| 7 | 9% | 99.3% |  |
+| 7 | 9% | 99.4% |  |
 | 8 | 23% | 90% |  |
 | 9 | 19% | 67% | Median |
 | 10 | 14% | 48% |  |
@@ -587,7 +587,7 @@ Only polls for which at least the sample size has been published are included in
 | 16 | 14% | 89% |  |
 | 17 | 19% | 75% |  |
 | 18 | 20% | 55% | Median |
-| 19 | 11% | 35% |  |
+| 19 | 12% | 36% |  |
 | 20 | 6% | 24% |  |
 | 21 | 4% | 18% |  |
 | 22 | 5% | 14% |  |
@@ -611,7 +611,7 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0% | 89% |  |
 | 6 | 0.6% | 89% |  |
 | 7 | 8% | 88% |  |
-| 8 | 21% | 80% |  |
+| 8 | 20% | 80% |  |
 | 9 | 17% | 60% | Median |
 | 10 | 13% | 43% |  |
 | 11 | 12% | 30% |  |
@@ -664,7 +664,7 @@ Only polls for which at least the sample size has been published are included in
 | 6 | 14% | 27% |  |
 | 7 | 3% | 13% |  |
 | 8 | 6% | 10% |  |
-| 9 | 3% | 4% |  |
+| 9 | 3% | 3% |  |
 | 10 | 0.2% | 0.2% |  |
 | 11 | 0% | 0% |  |
 
@@ -676,7 +676,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% | Last Result |
 | 1 | 0% | 96% |  |
-| 2 | 3% | 96% |  |
+| 2 | 4% | 96% |  |
 | 3 | 35% | 93% |  |
 | 4 | 25% | 58% | Median |
 | 5 | 20% | 33% |  |
@@ -697,6 +697,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 9
-+ **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 7,602,176
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 9,437,184
 + **Error estimate:** 1.52%

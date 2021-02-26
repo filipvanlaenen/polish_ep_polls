@@ -10,25 +10,26 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 14.2–26.5% | 13.6–28.1% | 13.1–28.9% | 12.3–30.2% |
-| [19 February 2021](2021-02-19-UnitedSurvey.html) | United Survey <br> WP.pl | 14.6% | 13.2–16.1% | 12.9–16.6% | 12.5–16.9% | 11.9–17.7% |
-| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 20.6% | 19.1–22.3% | 18.7–22.7% | 18.3–23.1% | 17.6–23.9% |
-| [12–15 February 2021](2021-02-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 19.8% | 15.3–26.0% | 14.7–27.9% | 14.2–28.8% | 13.4–30.1% |
+| [19–22 February 2021](2021-02-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23.0% | 21.4–24.7% | 20.9–25.1% | 20.5–25.6% | 19.8–26.4% |
+| [19 February 2021](2021-02-19-UnitedSurvey.html) | United Survey <br> WP.pl | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
+| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 22.4% | 20.8–24.0% | 20.4–24.5% | 20.0–24.9% | 19.3–25.7% |
+| [12–15 February 2021](2021-02-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23.0% | 21.4–24.7% | 21.0–25.2% | 20.6–25.6% | 19.9–26.4% |
 | [12–13 February 2021](2021-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.1–18.6% | 13.5–19.4% |
-| [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 16.9–23.4% |
-| [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 14.8% | 13.2–16.7% | 12.7–17.2% | 12.3–17.7% | 11.6–18.6% |
-| [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18.0% | 16.6–19.6% | 16.2–20.0% | 15.8–20.4% | 15.2–21.2% |
-| [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 21.0% | 19.4–22.7% | 19.0–23.2% | 18.6–23.6% | 17.9–24.5% |
+| [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 18.0% | 16.5–19.7% | 16.1–20.1% | 15.7–20.5% | 15.0–21.4% |
+| [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23.0% | 21.4–24.8% | 21.0–25.3% | 20.6–25.7% | 19.8–26.5% |
+| [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20.0% | 18.5–21.6% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
+| [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 16.9% | 15.5–18.5% | 15.0–19.0% | 14.7–19.4% | 14.0–20.1% |
 | [29 January–3 February 2021](2021-02-03-Kantar.html) | Kantar | 14.0% | 12.6–15.5% | 12.3–15.9% | 11.9–16.3% | 11.3–17.1% |
-| [29 January–1 February 2021](2021-02-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [29 January–1 February 2021](2021-02-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 27.5% | 25.8–29.3% | 25.3–29.8% | 24.9–30.2% | 24.1–31.1% |
 | [29 January–1 February 2021](2021-02-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 15.3% | 13.9–16.8% | 13.6–17.2% | 13.2–17.5% | 12.6–18.3% |
-| [30–31 January 2021](2021-01-31-IBRiS.html) | IBRiS <br> Onet.pl | 16.9% | 15.5–18.4% | 15.1–18.9% | 14.8–19.3% | 14.2–20.0% |
+| [30–31 January 2021](2021-01-31-IBRiS.html) | IBRiS <br> Onet.pl | 19.0% | 17.5–20.6% | 17.1–21.0% | 16.8–21.4% | 16.1–22.2% |
 | [28–29 January 2021](2021-01-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 14.6% | 13.2–16.1% | 12.9–16.5% | 12.5–16.9% | 11.9–17.6% |
 | [25–26 January 2021](2021-01-26-IBSP.html) | IBSP | 27.7% | 25.9–29.5% | 25.4–30.1% | 25.0–30.5% | 24.2–31.4% |
-| [22–25 January 2021](2021-01-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 January 2021](2021-01-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24.0% | 22.4–25.8% | 21.9–26.2% | 21.5–26.7% | 20.8–27.5% |
 | [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 19.6% | 18.1–21.2% | 17.7–21.7% | 17.4–22.1% | 16.7–22.9% |
-| [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
+| [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 18.4% | 16.9–20.1% | 16.5–20.5% | 16.1–20.9% | 15.4–21.7% |
 | [20–21 January 2021](2021-01-21-PGBOpinium.html) | PGB Opinium | 14.3% | 13.0–15.7% | 12.6–16.1% | 12.3–16.5% | 11.7–17.2% |
 | [19 January 2021](2021-01-19-IBRiS.html) | IBRiS <br> Fakt.pl | 13.5% | 12.3–15.0% | 11.9–15.3% | 11.6–15.7% | 11.1–16.4% |
 | [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22.7% | 21.1–24.4% | 20.7–24.9% | 20.3–25.3% | 19.6–26.1% |
@@ -312,29 +313,28 @@ The following table shows the probability mass function per percentage block of 
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.8% | 99.9% |  |
-| 12.5–13.5% | 4% | 99.2% |  |
-| 13.5–14.5% | 10% | 95% |  |
-| 14.5–15.5% | 14% | 85% |  |
-| 15.5–16.5% | 13% | 71% |  |
-| 16.5–17.5% | 10% | 58% | Median |
-| 17.5–18.5% | 8% | 48% |  |
-| 18.5–19.5% | 8% | 40% |  |
-| 19.5–20.5% | 8% | 32% |  |
-| 20.5–21.5% | 7% | 24% |  |
-| 21.5–22.5% | 3% | 17% |  |
-| 22.5–23.5% | 1.0% | 14% |  |
-| 23.5–24.5% | 0.3% | 13% |  |
-| 24.5–25.5% | 0.6% | 12% |  |
-| 25.5–26.5% | 2% | 12% |  |
-| 26.5–27.5% | 3% | 10% |  |
-| 27.5–28.5% | 3% | 7% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0% | 100% |  |
+| 12.5–13.5% | 0.7% | 99.9% |  |
+| 13.5–14.5% | 4% | 99.3% |  |
+| 14.5–15.5% | 9% | 96% |  |
+| 15.5–16.5% | 12% | 87% |  |
+| 16.5–17.5% | 10% | 76% |  |
+| 17.5–18.5% | 7% | 66% |  |
+| 18.5–19.5% | 7% | 59% |  |
+| 19.5–20.5% | 8% | 52% | Median |
+| 20.5–21.5% | 9% | 44% |  |
+| 21.5–22.5% | 10% | 34% |  |
+| 22.5–23.5% | 8% | 25% |  |
+| 23.5–24.5% | 4% | 17% |  |
+| 24.5–25.5% | 2% | 13% |  |
+| 25.5–26.5% | 2% | 11% |  |
+| 26.5–27.5% | 3% | 9% |  |
+| 27.5–28.5% | 3% | 6% |  |
 | 28.5–29.5% | 2% | 3% |  |
-| 29.5–30.5% | 0.9% | 1.2% |  |
-| 30.5–31.5% | 0.3% | 0.3% |  |
+| 29.5–30.5% | 0.8% | 1.1% |  |
+| 30.5–31.5% | 0.2% | 0.3% |  |
 | 31.5–32.5% | 0% | 0% |  |
-| 32.5–33.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -345,25 +345,26 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9 | 8–15 | 7–16 | 7–16 | 6–17 |
-| [19 February 2021](2021-02-19-UnitedSurvey.html) | United Survey <br> WP.pl | 8 | 7–9 | 7–9 | 6–9 | 6–9 |
-| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [12–15 February 2021](2021-02-15-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 11 | 8–15 | 8–16 | 8–16 | 7–17 |
+| [19–22 February 2021](2021-02-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [19 February 2021](2021-02-19-UnitedSurvey.html) | United Survey <br> WP.pl | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [12–15 February 2021](2021-02-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [12–13 February 2021](2021-02-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 9 | 8–10 | 8–10 | 7–10 | 7–11 |
-| [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 8 | 7–9 | 7–9 | 7–10 | 6–10 |
-| [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
-| [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 11 | 11–12 | 10–13 | 10–13 | 10–13 |
+| [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 11–15 | 11–15 |
+| [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [29 January–3 February 2021](2021-02-03-Kantar.html) | Kantar | 8 | 7–9 | 7–9 | 6–9 | 6–10 |
-| [29 January–1 February 2021](2021-02-01-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [29 January–1 February 2021](2021-02-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [29 January–1 February 2021](2021-02-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8 | 7–9 | 7–9 | 7–10 | 7–10 |
-| [30–31 January 2021](2021-01-31-IBRiS.html) | IBRiS <br> Onet.pl | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [30–31 January 2021](2021-01-31-IBRiS.html) | IBRiS <br> Onet.pl | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [28–29 January 2021](2021-01-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [25–26 January 2021](2021-01-26-IBSP.html) | IBSP | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
-| [22–25 January 2021](2021-01-25-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [22–25 January 2021](2021-01-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 10 | 9–11 | 9–11 | 9–12 | 9–12 |
-| [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
+| [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
 | [20–21 January 2021](2021-01-21-PGBOpinium.html) | PGB Opinium | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [19 January 2021](2021-01-19-IBRiS.html) | IBRiS <br> Fakt.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
@@ -644,18 +645,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 0.6% | 100% |  |
-| 7 | 9% | 99.4% |  |
-| 8 | 23% | 90% |  |
-| 9 | 19% | 67% | Median |
-| 10 | 14% | 48% |  |
-| 11 | 14% | 34% |  |
-| 12 | 7% | 20% |  |
-| 13 | 0.8% | 13% |  |
-| 14 | 1.3% | 12% |  |
-| 15 | 5% | 11% |  |
-| 16 | 5% | 7% |  |
-| 17 | 2% | 2% |  |
+| 6 | 0% | 100% |  |
+| 7 | 2% | 100% |  |
+| 8 | 15% | 98% |  |
+| 9 | 18% | 83% |  |
+| 10 | 14% | 65% |  |
+| 11 | 16% | 52% | Median |
+| 12 | 13% | 36% |  |
+| 13 | 9% | 23% |  |
+| 14 | 4% | 14% |  |
+| 15 | 4% | 10% |  |
+| 16 | 4% | 6% |  |
+| 17 | 1.3% | 1.5% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 

@@ -342,7 +342,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [25–26 January 2021](2021-01-26-IBSP.html) | IBSP | 0 | 0 | 0 | 0 | 0 |
 | [22–25 January 2021](2021-01-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [23 January 2021](2021-01-23-IBRiS.html) | IBRiS <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
+| [22 January 2021](2021-01-22-UnitedSurvey.html) | United Survey <br> DGP and RMF | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [20–21 January 2021](2021-01-21-PGBOpinium.html) | PGB Opinium | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [19 January 2021](2021-01-19-IBRiS.html) | IBRiS <br> Fakt.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [15–18 January 2021](2021-01-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |

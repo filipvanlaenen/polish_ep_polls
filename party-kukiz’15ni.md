@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 0.5–4.2% | 0.4–4.6% | 0.4–4.9% | 0.3–5.4% |
+| N/A | [Poll Average](average.html) | 2.1% | 0.5–4.2% | 0.4–4.6% | 0.4–4.9% | 0.3–5.4% |
+| [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 March 2021](2021-03-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4.0% | 3.3–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.8% |
+| [27–28 February 2021](2021-02-28-IBRiS.html) | IBRiS <br> Onet | 0.0% | N/A | N/A | N/A | N/A |
+| [25–26 February 2021](2021-02-26-IBSP.html) | IBSP | 0.0% | N/A | N/A | N/A | N/A |
+| [25–26 February 2021](2021-02-26-Estymator.html) | Estymator <br> doRzeczy.pl | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [19–22 February 2021](2021-02-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4.0% | 3.3–4.9% | 3.1–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [19 February 2021](2021-02-19-UnitedSurvey.html) | United Survey <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 0.5% | 0.4–1.0% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% |
@@ -22,7 +28,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [29 January–3 February 2021](2021-02-03-Kantar.html) | Kantar | 2.0% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.1–3.5% |
-| [29 January–1 February 2021](2021-02-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
+| [29 January–1 February 2021](2021-02-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3.0% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
 | [29 January–1 February 2021](2021-02-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [30–31 January 2021](2021-01-31-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 January 2021](2021-01-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
@@ -303,10 +309,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 10% | 100% | Last Result |
-| 0.5–1.5% | 18% | 90% |  |
-| 1.5–2.5% | 31% | 72% | Median |
-| 2.5–3.5% | 20% | 41% |  |
-| 3.5–4.5% | 16% | 21% |  |
+| 0.5–1.5% | 19% | 90% |  |
+| 1.5–2.5% | 36% | 71% | Median |
+| 2.5–3.5% | 14% | 35% |  |
+| 3.5–4.5% | 15% | 21% |  |
 | 4.5–5.5% | 5% | 5% |  |
 | 5.5–6.5% | 0.3% | 0.3% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -321,6 +327,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–3 |
+| [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl |  |  |  |  |  |
+| [3–4 March 2021](2021-03-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [27–28 February 2021](2021-02-28-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
+| [25–26 February 2021](2021-02-26-IBSP.html) | IBSP |  |  |  |  |  |
+| [25–26 February 2021](2021-02-26-Estymator.html) | Estymator <br> doRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [19–22 February 2021](2021-02-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [19 February 2021](2021-02-19-UnitedSurvey.html) | United Survey <br> WP.pl |  |  |  |  |  |
 | [15–16 February 2021](2021-02-16-PGBOpinium.html) | PGB Opinium | 0 | 0 | 0 | 0 | 0 |
@@ -616,8 +628,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 98% | 100% | Last Result, Median |
 | 1 | 0% | 2% |  |
-| 2 | 0.9% | 2% |  |
-| 3 | 0.8% | 0.8% |  |
+| 2 | 0.5% | 2% |  |
+| 3 | 1.1% | 1.1% |  |
 | 4 | 0% | 0% |  |
 
 

@@ -349,7 +349,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 11 | 9–13 | 9–13 | 9–13 | 8–14 |
 | [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl | 9 | 8–10 | 8–11 | 8–11 | 8–11 |
 | [3–4 March 2021](2021-03-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–13 | 11–14 | 11–14 | 11–15 |
+| [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [27–28 February 2021](2021-02-28-IBRiS.html) | IBRiS <br> Onet | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
 | [25–26 February 2021](2021-02-26-IBSP.html) | IBSP | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [25–26 February 2021](2021-02-26-Estymator.html) | Estymator <br> doRzeczy.pl | 10 | 9–11 | 9–12 | 9–12 | 9–12 |

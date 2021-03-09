@@ -364,10 +364,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–22 | 15–22 | 14–23 | 14–24 |
+| N/A | [Poll Average](average.html) | 18 | 15–22 | 15–22 | 15–23 | 14–24 |
 | [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl | 18 | 17–19 | 16–20 | 16–20 | 16–21 |
 | [3–4 March 2021](2021-03-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 20–24 | 20–24 | 19–25 |
-| [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [27–28 February 2021](2021-02-28-IBRiS.html) | IBRiS <br> Onet | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [25–26 February 2021](2021-02-26-IBSP.html) | IBSP | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [25–26 February 2021](2021-02-26-Estymator.html) | Estymator <br> doRzeczy.pl | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
@@ -679,10 +679,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.2% | 100% |  |
 | 14 | 2% | 99.8% |  |
-| 15 | 7% | 97% |  |
-| 16 | 12% | 90% |  |
-| 17 | 16% | 78% |  |
-| 18 | 17% | 62% | Median |
+| 15 | 8% | 98% |  |
+| 16 | 11% | 90% |  |
+| 17 | 16% | 79% |  |
+| 18 | 18% | 63% | Median |
 | 19 | 11% | 45% |  |
 | 20 | 10% | 34% |  |
 | 21 | 11% | 24% |  |

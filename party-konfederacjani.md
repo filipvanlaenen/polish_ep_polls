@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 5.2–10.1% | 4.8–11.0% | 4.4–11.7% | 3.9–12.7% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.1–9.0% | 4.7–9.6% | 4.4–10.0% | 3.9–10.8% |
+| [12–15 March 2021](2021-03-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [11–12 March 2021](2021-03-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.8% | 5.9–8.0% | 5.7–8.3% | 5.4–8.6% | 5.0–9.1% |
 | [1–11 March 2021](2021-03-11-CBOS.html) | CBOS | 6.7% | 5.8–7.7% | 5.6–8.0% | 5.4–8.3% | 5.0–8.8% |
 | [5–10 March 2021](2021-03-10-Kantar.html) | Kantar | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.4–7.0% |
@@ -318,18 +319,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 3% | 99.9% |  |
-| 4.5–5.5% | 12% | 97% |  |
-| 5.5–6.5% | 20% | 85% |  |
-| 6.5–7.5% | 23% | 65% | Median |
-| 7.5–8.5% | 18% | 42% |  |
-| 8.5–9.5% | 10% | 24% |  |
-| 9.5–10.5% | 6% | 14% |  |
-| 10.5–11.5% | 4% | 7% |  |
-| 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.6% | 0.7% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 3.5–4.5% | 4% | 99.9% |  |
+| 4.5–5.5% | 13% | 96% |  |
+| 5.5–6.5% | 22% | 83% |  |
+| 6.5–7.5% | 25% | 61% | Median |
+| 7.5–8.5% | 20% | 36% |  |
+| 8.5–9.5% | 11% | 16% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.8% | 0.9% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -340,13 +339,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–5 | 0–6 | 0–6 | 0–7 |
-| [11–12 March 2021](2021-03-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–5 | 0–5 | 0–5 | 0–6 |
+| [12–15 March 2021](2021-03-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [11–12 March 2021](2021-03-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [1–11 March 2021](2021-03-11-CBOS.html) | CBOS | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [5–10 March 2021](2021-03-10-Kantar.html) | Kantar | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [5–8 March 2021](2021-03-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [1–7 March 2021](2021-03-07-Opinia24.html) | Opinia24 <br> RMF | 4 | 4 | 4 | 3–5 | 3–5 |
-| [5–6 March 2021](2021-03-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
+| [5–6 March 2021](2021-03-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
 | [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [3–4 March 2021](2021-03-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -646,14 +646,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 4% | 92% |  |
-| 3 | 36% | 88% |  |
-| 4 | 31% | 53% | Median |
-| 5 | 14% | 22% |  |
-| 6 | 6% | 7% |  |
-| 7 | 1.2% | 1.3% |  |
-| 8 | 0% | 0% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 0% | 91% |  |
+| 2 | 4% | 91% |  |
+| 3 | 38% | 87% | Median |
+| 4 | 36% | 49% |  |
+| 5 | 12% | 13% |  |
+| 6 | 1.3% | 1.3% |  |
+| 7 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.2% | 6.7–12.0% | 6.0–12.6% | 5.6–13.0% | 5.0–13.9% |
+| N/A | [Poll Average](average.html) | 9.0% | 6.6–11.1% | 6.0–11.8% | 5.6–12.4% | 4.9–13.4% |
+| [12–15 March 2021](2021-03-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–12.0% | 7.9–12.6% |
 | [11–12 March 2021](2021-03-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 11.6% | 10.4–13.0% | 10.1–13.4% | 9.8–13.7% | 9.2–14.4% |
 | [1–11 March 2021](2021-03-11-CBOS.html) | CBOS | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.5% | 4.4–8.0% |
 | [5–10 March 2021](2021-03-10-Kantar.html) | Kantar | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -320,17 +321,16 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 2% | 99.9% |  |
-| 5.5–6.5% | 6% | 98% |  |
-| 6.5–7.5% | 10% | 91% |  |
-| 7.5–8.5% | 17% | 81% |  |
-| 8.5–9.5% | 22% | 65% | Median |
-| 9.5–10.5% | 15% | 43% |  |
-| 10.5–11.5% | 13% | 28% |  |
-| 11.5–12.5% | 9% | 15% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 0.9% | 1.0% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 5.5–6.5% | 7% | 98% |  |
+| 6.5–7.5% | 11% | 91% |  |
+| 7.5–8.5% | 19% | 80% |  |
+| 8.5–9.5% | 26% | 61% | Median |
+| 9.5–10.5% | 18% | 35% |  |
+| 10.5–11.5% | 10% | 17% |  |
+| 11.5–12.5% | 5% | 7% |  |
+| 12.5–13.5% | 2% | 2% |  |
+| 13.5–14.5% | 0.3% | 0.4% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -341,9 +341,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–7 | 3–7 | 0–8 |
-| [11–12 March 2021](2021-03-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–8 | 5–8 |
-| [1–11 March 2021](2021-03-11-CBOS.html) | CBOS | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–7 | 0–7 |
+| [12–15 March 2021](2021-03-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [11–12 March 2021](2021-03-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [1–11 March 2021](2021-03-11-CBOS.html) | CBOS | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [5–10 March 2021](2021-03-10-Kantar.html) | Kantar | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [5–8 March 2021](2021-03-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [1–7 March 2021](2021-03-07-Opinia24.html) | Opinia24 <br> RMF | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -647,15 +648,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 0% | 99.5% |  |
-| 2 | 0.5% | 99.5% |  |
-| 3 | 12% | 99.0% |  |
-| 4 | 27% | 87% |  |
-| 5 | 33% | 61% | Median |
-| 6 | 18% | 27% |  |
-| 7 | 8% | 9% |  |
-| 8 | 0.9% | 0.9% |  |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 0% | 99.4% |  |
+| 2 | 0.9% | 99.4% |  |
+| 3 | 13% | 98.5% |  |
+| 4 | 29% | 86% |  |
+| 5 | 39% | 56% | Median |
+| 6 | 15% | 18% |  |
+| 7 | 3% | 3% |  |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 

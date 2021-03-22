@@ -1,48 +1,48 @@
-# Opinion Poll by Opinia24 for RMF, 1–7 March 2021
+# Opinion Poll by PGB Opinium, 10–12 March 2021
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](2021-03-07-Opinia24.png "Voting Intentions")
+![Graph with voting intentions not yet produced](2021-03-12-PGBOpinium.png "Voting Intentions")
 
 ### Confidence Intervals
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Zjednoczona Prawica (ECR) | 0.0% | 30.4% | 29.3–31.5% |29.0–31.8% |28.8–32.0% |28.3–32.6% |
-| Polska 2050 (*) | 0.0% | 25.5% | 24.5–26.5% |24.2–26.8% |24.0–27.1% |23.5–27.6% |
-| Koalicja Obywatelska (EPP) | 0.0% | 21.6% | 20.6–22.6% |20.4–22.8% |20.1–23.1% |19.7–23.5% |
-| Lewica (S&D) | 0.0% | 9.8% | 9.1–10.5% |9.0–10.7% |8.8–10.9% |8.5–11.3% |
-| Konfederacja (NI) | 0.0% | 8.8% | 8.2–9.5% |8.0–9.7% |7.9–9.9% |7.6–10.2% |
-| Kukiz’15 (NI) | 0.0% | 2.0% | 1.7–2.3% |1.6–2.4% |1.5–2.5% |1.4–2.7% |
-| Koalicja Polska (EPP) | 0.0% | 2.0% | 1.7–2.3% |1.6–2.4% |1.5–2.5% |1.4–2.7% |
+| Zjednoczona Prawica (ECR) | 0.0% | 32.3% | 30.6–34.2% |30.1–34.7% |29.6–35.2% |28.8–36.1% |
+| Polska 2050 (*) | 0.0% | 23.2% | 21.6–24.9% |21.2–25.4% |20.8–25.8% |20.1–26.6% |
+| Koalicja Obywatelska (EPP) | 0.0% | 20.2% | 18.7–21.8% |18.3–22.3% |17.9–22.7% |17.3–23.5% |
+| Lewica (S&D) | 0.0% | 9.3% | 8.2–10.5% |8.0–10.9% |7.7–11.2% |7.2–11.8% |
+| Konfederacja (NI) | 0.0% | 8.3% | 7.3–9.4% |7.0–9.8% |6.8–10.1% |6.4–10.7% |
+| Koalicja Polska (EPP) | 0.0% | 4.4% | 3.7–5.3% |3.5–5.5% |3.3–5.8% |3.0–6.2% |
+| Kukiz’15 (NI) | 0.0% | 1.2% | 0.9–1.7% |0.8–1.9% |0.7–2.0% |0.6–2.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
 ## Seats
 
-![Graph with seats not yet produced](2021-03-07-Opinia24-seats.png "Seats")
+![Graph with seats not yet produced](2021-03-12-PGBOpinium-seats.png "Seats")
 
-![Graph with seating plan not yet produced](2021-03-07-Opinia24-seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](2021-03-12-PGBOpinium-seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 17 | 16–17 |16–17 |16–17 |15–18 |
-| <a href="#polska-2050-(*)">Polska 2050 (*)</a> | 0 | 14 | 14–15 |14–15 |13–15 |13–15 |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 12 | 12 |11–12 |11–13 |11–13 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 5 | 5 |5–6 |5–6 |4–6 |
-| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 4 | 4–5 |4–5 |4–5 |4–5 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 18 | 17–19 |17–20 |16–20 |16–21 |
+| <a href="#polska-2050-(*)">Polska 2050 (*)</a> | 0 | 13 | 12–14 |12–14 |11–14 |11–15 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 11 | 10–12 |10–12 |10–12 |9–13 |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
+| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 4 | 4–5 |4–5 |3–5 |3–6 |
+| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 0 | 0–3 |0–3 |0–3 |0–3 |
 | <a href="#kukiz’15-(ni)">Kukiz’15 (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Zjednoczona Prawica (ECR)
 
 *For a full overview of the results for this party, see the [Zjednoczona Prawica (ECR)](party-zjednoczonaprawicaecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-03-07-Opinia24-seats-pmf-zjednoczonaprawicaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-03-12-PGBOpinium-seats-pmf-zjednoczonaprawicaecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -61,17 +61,20 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.9% | 100% |  |
-| 16 | 23% | 99.1% |  |
-| 17 | 75% | 76% | Median |
-| 18 | 0.7% | 0.7% |  |
-| 19 | 0% | 0% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 3% | 99.8% |  |
+| 17 | 15% | 96% |  |
+| 18 | 38% | 81% | Median |
+| 19 | 34% | 43% |  |
+| 20 | 8% | 9% |  |
+| 21 | 0.5% | 0.5% |  |
+| 22 | 0% | 0% |  |
 
 ### Polska 2050 (*)
 
 *For a full overview of the results for this party, see the [Polska 2050 (*)](party-polska2050.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-03-07-Opinia24-seats-pmf-polska2050.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-03-12-PGBOpinium-seats-pmf-polska2050.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -86,11 +89,11 @@
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0% | 100% |  |
-| 13 | 4% | 100% |  |
-| 14 | 79% | 96% | Median |
-| 15 | 17% | 17% |  |
+| 11 | 3% | 100% |  |
+| 12 | 25% | 97% |  |
+| 13 | 52% | 72% | Median |
+| 14 | 18% | 20% |  |
+| 15 | 2% | 2% |  |
 | 16 | 0.1% | 0.1% |  |
 | 17 | 0% | 0% |  |
 
@@ -98,7 +101,7 @@
 
 *For a full overview of the results for this party, see the [Koalicja Obywatelska (EPP)](party-koalicjaobywatelskaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-03-07-Opinia24-seats-pmf-koalicjaobywatelskaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-03-12-PGBOpinium-seats-pmf-koalicjaobywatelskaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -111,62 +114,68 @@
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0.1% | 100% |  |
-| 11 | 10% | 99.9% |  |
-| 12 | 87% | 90% | Median |
-| 13 | 3% | 3% |  |
-| 14 | 0% | 0% |  |
+| 9 | 0.6% | 100% |  |
+| 10 | 17% | 99.4% |  |
+| 11 | 38% | 82% | Median |
+| 12 | 42% | 44% |  |
+| 13 | 2% | 2% |  |
+| 14 | 0.1% | 0.1% |  |
+| 15 | 0% | 0% |  |
 
 ### Lewica (S&D)
 
 *For a full overview of the results for this party, see the [Lewica (S&D)](party-lewicasd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-03-07-Opinia24-seats-pmf-lewicasd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-03-12-PGBOpinium-seats-pmf-lewicasd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 1.4% | 100% |  |
-| 5 | 92% | 98.6% | Median |
-| 6 | 7% | 7% |  |
-| 7 | 0% | 0% |  |
+| 3 | 0.1% | 100% |  |
+| 4 | 19% | 99.9% |  |
+| 5 | 67% | 81% | Median |
+| 6 | 14% | 14% |  |
+| 7 | 0.2% | 0.2% |  |
+| 8 | 0% | 0% |  |
 
 ### Konfederacja (NI)
 
 *For a full overview of the results for this party, see the [Konfederacja (NI)](party-konfederacjani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-03-07-Opinia24-seats-pmf-konfederacjani.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-03-12-PGBOpinium-seats-pmf-konfederacjani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 86% | 100% | Median |
-| 5 | 14% | 14% |  |
-| 6 | 0.1% | 0.1% |  |
+| 3 | 4% | 100% |  |
+| 4 | 79% | 96% | Median |
+| 5 | 16% | 17% |  |
+| 6 | 1.3% | 1.3% |  |
 | 7 | 0% | 0% |  |
-
-### Kukiz’15 (NI)
-
-*For a full overview of the results for this party, see the [Kukiz’15 (NI)](party-kukiz’15ni.html) page.*
-
-![Graph with seats probability mass function not yet produced](2021-03-07-Opinia24-seats-pmf-kukiz’15ni.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
 
 ### Koalicja Polska (EPP)
 
 *For a full overview of the results for this party, see the [Koalicja Polska (EPP)](party-koalicjapolskaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-03-07-Opinia24-seats-pmf-koalicjapolskaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-03-12-PGBOpinium-seats-pmf-koalicjapolskaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 83% | 100% | Last Result, Median |
+| 1 | 0% | 17% |  |
+| 2 | 6% | 17% |  |
+| 3 | 11% | 11% |  |
+| 4 | 0% | 0% |  |
+
+### Kukiz’15 (NI)
+
+*For a full overview of the results for this party, see the [Kukiz’15 (NI)](party-kukiz’15ni.html) page.*
+
+![Graph with seats probability mass function not yet produced](2021-03-12-PGBOpinium-seats-pmf-kukiz’15ni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -175,7 +184,7 @@
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](2021-03-07-Opinia24-coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](2021-03-12-PGBOpinium-coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
@@ -187,13 +196,13 @@
 
 ### Opinion Poll
 
-+ **Polling firm:** Opinia24
-+ **Commissioner(s):** RMF
-+ **Fieldwork period:** 1–7 March 2021
++ **Polling firm:** PGB Opinium
++ **Commissioner(s):** —
++ **Fieldwork period:** 10–12 March 2021
 
 ### Calculations
 
-+ **Sample size:** 3068
++ **Sample size:** 1098
 + **Simulations done:** 131,072
-+ **Error estimate:** 0.99%
++ **Error estimate:** 2.59%
 

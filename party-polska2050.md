@@ -366,15 +366,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 13 | 8–17 | 8–18 | 7–18 | 7–19 |
 | [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [17–18 March 2021](2021-03-18-Kantar.html) | Kantar <br> OKO.press and GW | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [17–18 March 2021](2021-03-18-Kantar.html) | Kantar <br> OKO.press and GW | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [12–15 March 2021](2021-03-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [10–12 March 2021](2021-03-12-PGBOpinium.html) | PGB Opinium | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
 | [11–12 March 2021](2021-03-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [5–10 March 2021](2021-03-10-Kantar.html) | Kantar | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [5–8 March 2021](2021-03-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
-| [1–7 March 2021](2021-03-07-Opinia24.html) | Opinia24 <br> RMF | 14 | 14–15 | 14–15 | 13–15 | 13–15 |
-| [5–6 March 2021](2021-03-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11 | 10–11 | 10–12 | 10–12 | 9–13 |
-| [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
+| [1–7 March 2021](2021-03-07-Opinia24.html) | Opinia24 <br> RMF | 14 | 13–15 | 13–15 | 13–15 | 13–15 |
+| [5–6 March 2021](2021-03-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11 | 10–11 | 10–12 | 9–12 | 9–13 |
+| [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [3–4 March 2021](2021-03-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [27–28 February 2021](2021-02-28-IBRiS.html) | IBRiS <br> Onet | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
@@ -682,14 +682,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0.1% | 100% |  |
 | 7 | 3% | 99.9% |  |
 | 8 | 8% | 97% |  |
-| 9 | 10% | 89% |  |
-| 10 | 15% | 79% |  |
-| 11 | 8% | 64% |  |
+| 9 | 11% | 89% |  |
+| 10 | 14% | 79% |  |
+| 11 | 8% | 65% |  |
 | 12 | 4% | 56% |  |
-| 13 | 9% | 52% | Median |
-| 14 | 19% | 44% |  |
-| 15 | 11% | 25% |  |
-| 16 | 3% | 14% |  |
+| 13 | 10% | 52% | Median |
+| 14 | 18% | 43% |  |
+| 15 | 10% | 24% |  |
+| 16 | 4% | 14% |  |
 | 17 | 4% | 11% |  |
 | 18 | 5% | 7% |  |
 | 19 | 2% | 2% |  |

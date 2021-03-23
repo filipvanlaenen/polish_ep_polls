@@ -355,16 +355,16 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11 | 9–12 | 9–12 | 9–12 | 8–13 |
-| [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
+| [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [17–18 March 2021](2021-03-18-Kantar.html) | Kantar <br> OKO.press and GW | 10 | 10–11 | 9–12 | 9–12 | 9–12 |
 | [12–15 March 2021](2021-03-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
-| [10–12 March 2021](2021-03-12-PGBOpinium.html) | PGB Opinium | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
+| [10–12 March 2021](2021-03-12-PGBOpinium.html) | PGB Opinium | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [11–12 March 2021](2021-03-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 9 | 8–10 | 8–10 | 8–11 | 7–11 |
 | [5–10 March 2021](2021-03-10-Kantar.html) | Kantar | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
 | [5–8 March 2021](2021-03-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
-| [1–7 March 2021](2021-03-07-Opinia24.html) | Opinia24 <br> RMF | 12 | 12 | 11–12 | 11–13 | 11–13 |
+| [1–7 March 2021](2021-03-07-Opinia24.html) | Opinia24 <br> RMF | 12 | 11–12 | 11–13 | 11–13 | 11–13 |
 | [5–6 March 2021](2021-03-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
-| [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl | 11 | 10–11 | 9–12 | 9–12 | 9–12 |
+| [5 March 2021](2021-03-05-UnitedSurvey.html) | United Survey <br> WP.pl | 10 | 10–11 | 9–12 | 9–12 | 9–13 |
 | [3–4 March 2021](2021-03-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [26 February–1 March 2021](2021-03-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 11–15 |
 | [27–28 February 2021](2021-02-28-IBRiS.html) | IBRiS <br> Onet | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
@@ -673,10 +673,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0.1% | 100% |  |
 | 8 | 2% | 99.9% |  |
 | 9 | 11% | 98% |  |
-| 10 | 27% | 87% |  |
-| 11 | 35% | 60% | Median |
-| 12 | 24% | 25% |  |
-| 13 | 1.2% | 1.2% |  |
+| 10 | 28% | 87% |  |
+| 11 | 36% | 59% | Median |
+| 12 | 22% | 23% |  |
+| 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 
 

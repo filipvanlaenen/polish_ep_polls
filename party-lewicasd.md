@@ -10,8 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.3–11.5% | 7.9–12.1% | 7.6–12.6% | 7.0–13.5% |
+| N/A | [Poll Average](average.html) | 9.6% | 7.9–11.4% | 7.5–12.0% | 7.1–12.5% | 6.5–13.4% |
+| [19–22 March 2021](2021-03-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 9.0–11.3% | 8.7–11.7% | 8.4–12.0% | 7.9–12.6% |
+| [19–22 March 2021](2021-03-22-ResearchPartner.html) | Research Partner | 8.7% | 7.7–9.9% | 7.4–10.2% | 7.2–10.5% | 6.7–11.1% |
 | [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl | 10.7% | 9.5–12.1% | 9.2–12.4% | 8.9–12.8% | 8.4–13.5% |
+| [17–19 March 2021](2021-03-19-Kantar.html) | Kantar <br> Gazeta Wyborcza and OKO.press | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [17–18 March 2021](2021-03-18-Kantar.html) | Kantar <br> OKO.press and GW | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
 | [12–15 March 2021](2021-03-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–12.0% | 7.9–12.6% |
 | [10–12 March 2021](2021-03-12-PGBOpinium.html) | PGB Opinium | 9.3% | 8.2–10.5% | 8.0–10.9% | 7.7–11.2% | 7.2–11.8% |
@@ -323,14 +326,14 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 2% | 99.9% |  |
-| 7.5–8.5% | 13% | 98% |  |
-| 8.5–9.5% | 28% | 85% |  |
-| 9.5–10.5% | 31% | 57% | Median |
-| 10.5–11.5% | 16% | 26% |  |
-| 11.5–12.5% | 7% | 10% |  |
-| 12.5–13.5% | 2% | 3% |  |
+| 5.5–6.5% | 0.5% | 100% |  |
+| 6.5–7.5% | 5% | 99.5% |  |
+| 7.5–8.5% | 17% | 94% |  |
+| 8.5–9.5% | 27% | 78% |  |
+| 9.5–10.5% | 27% | 50% | Median |
+| 10.5–11.5% | 14% | 23% |  |
+| 11.5–12.5% | 6% | 9% |  |
+| 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.4% | 0.4% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -343,8 +346,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
+| [19–22 March 2021](2021-03-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [19–22 March 2021](2021-03-22-ResearchPartner.html) | Research Partner | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
+| [17–19 March 2021](2021-03-19-Kantar.html) | Kantar <br> Gazeta Wyborcza and OKO.press | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [17–18 March 2021](2021-03-18-Kantar.html) | Kantar <br> OKO.press and GW | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [12–15 March 2021](2021-03-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [10–12 March 2021](2021-03-12-PGBOpinium.html) | PGB Opinium | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -655,10 +661,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 1.1% | 100% |  |
-| 4 | 19% | 98.9% |  |
-| 5 | 54% | 80% | Median |
-| 6 | 23% | 26% |  |
+| 3 | 3% | 100% |  |
+| 4 | 25% | 97% |  |
+| 5 | 49% | 72% | Median |
+| 6 | 21% | 24% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

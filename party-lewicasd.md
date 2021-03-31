@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 7.9–11.4% | 7.5–12.0% | 7.1–12.5% | 6.5–13.4% |
+| N/A | [Poll Average](average.html) | 9.6% | 8.0–11.4% | 7.6–12.0% | 7.2–12.5% | 6.6–13.4% |
+| [27–28 March 2021](2021-03-28-IBRiS.html) | IBRiS <br> Onet | 9.1% | 8.1–10.3% | 7.8–10.6% | 7.5–10.9% | 7.1–11.6% |
 | [19–22 March 2021](2021-03-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 9.0–11.3% | 8.7–11.7% | 8.4–12.0% | 7.9–12.6% |
 | [19–22 March 2021](2021-03-22-ResearchPartner.html) | Research Partner | 8.7% | 7.7–9.9% | 7.4–10.2% | 7.2–10.5% | 6.7–11.1% |
 | [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl | 10.7% | 9.5–12.1% | 9.2–12.4% | 8.9–12.8% | 8.4–13.5% |
@@ -326,12 +327,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 5% | 99.5% |  |
-| 7.5–8.5% | 17% | 94% |  |
-| 8.5–9.5% | 27% | 78% |  |
-| 9.5–10.5% | 27% | 50% | Median |
-| 10.5–11.5% | 14% | 23% |  |
+| 5.5–6.5% | 0.4% | 100% |  |
+| 6.5–7.5% | 4% | 99.6% |  |
+| 7.5–8.5% | 15% | 96% |  |
+| 8.5–9.5% | 28% | 81% |  |
+| 9.5–10.5% | 29% | 53% | Median |
+| 10.5–11.5% | 15% | 24% |  |
 | 11.5–12.5% | 6% | 9% |  |
 | 12.5–13.5% | 2% | 2% |  |
 | 13.5–14.5% | 0.4% | 0.4% |  |
@@ -346,7 +347,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [27–28 March 2021](2021-03-28-IBRiS.html) | IBRiS <br> Onet | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [19–22 March 2021](2021-03-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [19–22 March 2021](2021-03-22-ResearchPartner.html) | Research Partner | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
@@ -661,9 +663,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 3% | 100% |  |
-| 4 | 25% | 97% |  |
-| 5 | 49% | 72% | Median |
+| 3 | 2% | 100% |  |
+| 4 | 22% | 98% |  |
+| 5 | 52% | 77% | Median |
 | 6 | 21% | 24% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.1% | 0.1% |  |

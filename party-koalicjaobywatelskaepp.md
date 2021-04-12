@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.2% | 15.4–21.8% | 14.9–22.4% | 14.4–22.8% | 13.6–23.7% |
+| N/A | [Poll Average](average.html) | 18.3% | 15.5–21.8% | 14.9–22.3% | 14.5–22.7% | 13.7–23.6% |
+| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 17.5% | 16.2–19.1% | 15.8–19.5% | 15.4–19.9% | 14.8–20.6% |
+| [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20.0% | 18.5–21.7% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
+| [25–30 March 2021](2021-03-30-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [26–29 March 2021](2021-03-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17.0% | 15.6–18.5% | 15.2–19.0% | 14.9–19.4% | 14.3–20.1% |
 | [27–28 March 2021](2021-03-28-IBRiS.html) | IBRiS <br> Onet | 17.3% | 15.9–18.8% | 15.5–19.3% | 15.2–19.6% | 14.5–20.4% |
 | [19–22 March 2021](2021-03-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 18.0% | 16.5–19.5% | 16.1–20.0% | 15.8–20.4% | 15.1–21.2% |
@@ -336,16 +339,16 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0.4% | 100% |  |
-| 13.5–14.5% | 3% | 99.6% |  |
-| 14.5–15.5% | 9% | 97% |  |
-| 15.5–16.5% | 15% | 88% |  |
-| 16.5–17.5% | 15% | 73% |  |
-| 17.5–18.5% | 11% | 58% | Median |
-| 18.5–19.5% | 9% | 47% |  |
+| 13.5–14.5% | 2% | 99.6% |  |
+| 14.5–15.5% | 8% | 97% |  |
+| 15.5–16.5% | 14% | 90% |  |
+| 16.5–17.5% | 16% | 76% |  |
+| 17.5–18.5% | 13% | 60% | Median |
+| 18.5–19.5% | 10% | 48% |  |
 | 19.5–20.5% | 11% | 38% |  |
-| 20.5–21.5% | 14% | 28% |  |
-| 21.5–22.5% | 10% | 14% |  |
-| 22.5–23.5% | 3% | 4% |  |
+| 20.5–21.5% | 13% | 27% |  |
+| 21.5–22.5% | 10% | 13% |  |
+| 22.5–23.5% | 3% | 3% |  |
 | 23.5–24.5% | 0.5% | 0.6% |  |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -360,6 +363,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
+| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
+| [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
+| [25–30 March 2021](2021-03-30-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [26–29 March 2021](2021-03-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [27–28 March 2021](2021-03-28-IBRiS.html) | IBRiS <br> Onet | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [19–22 March 2021](2021-03-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10 | 9–11 | 9–11 | 9–12 | 8–12 |
@@ -680,12 +686,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
-| 7 | 1.4% | 100% |  |
-| 8 | 14% | 98.5% |  |
-| 9 | 25% | 84% |  |
+| 7 | 2% | 100% |  |
+| 8 | 13% | 98% |  |
+| 9 | 26% | 85% |  |
 | 10 | 19% | 59% | Median |
-| 11 | 20% | 40% |  |
-| 12 | 18% | 20% |  |
+| 11 | 20% | 41% |  |
+| 12 | 19% | 21% |  |
 | 13 | 2% | 2% |  |
 | 14 | 0% | 0% |  |
 

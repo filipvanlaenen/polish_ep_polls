@@ -367,7 +367,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 8–14 | 8–14 | 7–14 | 7–15 |
 | [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
-| [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 11–13 | 11–14 | 11–14 | 10–14 |
+| [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [25–30 March 2021](2021-03-30-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [26–29 March 2021](2021-03-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
 | [27–28 March 2021](2021-03-28-IBRiS.html) | IBRiS <br> Onet | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
@@ -694,8 +694,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 14% | 88% |  |
 | 10 | 15% | 74% |  |
 | 11 | 6% | 59% |  |
-| 12 | 13% | 53% | Median |
-| 13 | 21% | 39% |  |
+| 12 | 14% | 53% | Median |
+| 13 | 20% | 38% |  |
 | 14 | 16% | 18% |  |
 | 15 | 2% | 2% |  |
 | 16 | 0% | 0% |  |

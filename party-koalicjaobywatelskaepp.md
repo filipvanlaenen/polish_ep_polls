@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.3% | 15.5–21.8% | 14.9–22.3% | 14.5–22.7% | 13.7–23.6% |
+| N/A | [Poll Average](average.html) | 17.9% | 15.5–20.9% | 14.9–21.5% | 14.5–22.0% | 13.6–23.0% |
+| [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 17.9% | 16.4–19.5% | 16.0–20.0% | 15.6–20.4% | 15.0–21.2% |
+| [7–9 April 2021](2021-04-09-IBSP.html) | IBSP | 20.3% | 18.7–22.0% | 18.3–22.5% | 17.9–22.9% | 17.2–23.7% |
 | [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 17.5% | 16.2–19.1% | 15.8–19.5% | 15.4–19.9% | 14.8–20.6% |
 | [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20.0% | 18.5–21.7% | 18.1–22.1% | 17.7–22.5% | 17.0–23.3% |
 | [25–30 March 2021](2021-03-30-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
@@ -341,17 +343,16 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0.4% | 100% |  |
 | 13.5–14.5% | 2% | 99.6% |  |
 | 14.5–15.5% | 8% | 97% |  |
-| 15.5–16.5% | 14% | 90% |  |
-| 16.5–17.5% | 16% | 76% |  |
-| 17.5–18.5% | 13% | 60% | Median |
-| 18.5–19.5% | 10% | 48% |  |
-| 19.5–20.5% | 11% | 38% |  |
-| 20.5–21.5% | 13% | 27% |  |
-| 21.5–22.5% | 10% | 13% |  |
-| 22.5–23.5% | 3% | 3% |  |
-| 23.5–24.5% | 0.5% | 0.6% |  |
-| 24.5–25.5% | 0.1% | 0.1% |  |
-| 25.5–26.5% | 0% | 0% |  |
+| 15.5–16.5% | 15% | 89% |  |
+| 16.5–17.5% | 18% | 75% |  |
+| 17.5–18.5% | 17% | 56% | Median |
+| 18.5–19.5% | 14% | 39% |  |
+| 19.5–20.5% | 12% | 26% |  |
+| 20.5–21.5% | 9% | 14% |  |
+| 21.5–22.5% | 4% | 5% |  |
+| 22.5–23.5% | 0.9% | 1.1% |  |
+| 23.5–24.5% | 0.2% | 0.2% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -363,7 +364,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10 | 8–12 | 8–12 | 8–12 | 7–13 |
-| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 9 | 9–10 | 9–11 | 8–11 | 8–11 |
+| [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 10 | 9–11 | 9–11 | 8–11 | 8–12 |
+| [7–9 April 2021](2021-04-09-IBSP.html) | IBSP | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
+| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 10 | 9–11 | 9–11 | 8–11 | 8–11 |
 | [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
 | [25–30 March 2021](2021-03-30-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [26–29 March 2021](2021-03-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
@@ -688,11 +691,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 2% | 100% |  |
 | 8 | 13% | 98% |  |
-| 9 | 26% | 85% |  |
-| 10 | 19% | 59% | Median |
-| 11 | 20% | 41% |  |
-| 12 | 18% | 20% |  |
-| 13 | 2% | 2% |  |
+| 9 | 28% | 85% |  |
+| 10 | 25% | 57% | Median |
+| 11 | 20% | 32% |  |
+| 12 | 10% | 11% |  |
+| 13 | 1.1% | 1.2% |  |
 | 14 | 0% | 0% |  |
 
 

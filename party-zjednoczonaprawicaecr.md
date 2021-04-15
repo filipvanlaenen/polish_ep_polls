@@ -382,7 +382,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 14–20 | 14–21 | 13–21 | 13–22 |
-| [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 19 | 17–20 | 17–20 | 17–21 | 16–22 |
+| [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [7–9 April 2021](2021-04-09-IBSP.html) | IBSP | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 16–18 | 16–19 | 15–19 |
@@ -721,7 +721,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 16% | 38% |  |
 | 19 | 9% | 22% |  |
 | 20 | 7% | 14% |  |
-| 21 | 5% | 7% |  |
+| 21 | 6% | 7% |  |
 | 22 | 1.5% | 2% |  |
 | 23 | 0.3% | 0.3% |  |
 | 24 | 0% | 0% |  |

@@ -10,16 +10,25 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.0–3.4% | 0.9–3.6% | 0.8–3.8% | 0.6–4.3% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.2–3.2% | 1.0–3.5% | 0.9–3.7% | 0.7–4.2% |
+| [20 April 2021](2021-04-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [20 April 2021](2021-04-20-IBRiS.html) | IBRiS <br> Wydarzenia | 0.0% | N/A | N/A | N/A | N/A |
+| [16–19 April 2021](2021-04-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
+| [16–19 April 2021](2021-04-19-ResearchPartner.html) | Research Partner <br> Ariadna | 2.5% | 2.0–3.2% | 1.9–3.4% | 1.7–3.6% | 1.5–4.0% |
+| [16 April 2021](2021-04-16-UnitedSurvey.html) | United Survey <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [9–16 April 2021](2021-04-16-Kantar.html) | Kantar | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 2.1% | 1.7–2.9% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
+| [9–10 April 2021](2021-04-10-IBRiS.html) | IBRiS <br> RP | 0.0% | N/A | N/A | N/A | N/A |
 | [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 0.0% | N/A | N/A | N/A | N/A |
-| [7–9 April 2021](2021-04-09-IBSP.html) | IBSP | 0.0% | N/A | N/A | N/A | N/A |
-| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.8–4.4% |
+| [7–9 April 2021](2021-04-09-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner <br> Ariadna | 3.1% | 2.5–3.9% | 2.4–4.1% | 2.2–4.3% | 2.0–4.7% |
 | [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3.0% | 2.4–3.8% | 2.2–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [25–30 March 2021](2021-03-30-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [26–29 March 2021](2021-03-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.8% |
 | [27–28 March 2021](2021-03-28-IBRiS.html) | IBRiS <br> Onet | 0.0% | N/A | N/A | N/A | N/A |
 | [19–22 March 2021](2021-03-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4.0% | 3.3–4.8% | 3.1–5.1% | 3.0–5.3% | 2.7–5.7% |
-| [19–22 March 2021](2021-03-22-ResearchPartner.html) | Research Partner | 1.8% | 1.4–2.4% | 1.2–2.6% | 1.1–2.7% | 1.0–3.1% |
+| [19–22 March 2021](2021-03-22-ResearchPartner.html) | Research Partner <br> Ariadna | 3.1% | 2.5–3.8% | 2.3–4.1% | 2.2–4.3% | 2.0–4.6% |
 | [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 March 2021](2021-03-19-Kantar.html) | Kantar <br> Gazeta Wyborcza and OKO.press | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 March 2021](2021-03-18-Kantar.html) | Kantar <br> OKO.press and GW | 0.0% | N/A | N/A | N/A | N/A |
@@ -327,12 +336,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.2% | 100% | Last Result |
-| 0.5–1.5% | 32% | 99.8% |  |
-| 1.5–2.5% | 27% | 68% | Median |
-| 2.5–3.5% | 35% | 41% |  |
-| 3.5–4.5% | 6% | 6% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 19% | 99.9% |  |
+| 1.5–2.5% | 46% | 81% | Median |
+| 2.5–3.5% | 31% | 35% |  |
+| 3.5–4.5% | 4% | 4% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -345,15 +354,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20 April 2021](2021-04-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [20 April 2021](2021-04-20-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
+| [16–19 April 2021](2021-04-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
+| [16–19 April 2021](2021-04-19-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
+| [16 April 2021](2021-04-16-UnitedSurvey.html) | United Survey <br> WP.pl |  |  |  |  |  |
+| [9–16 April 2021](2021-04-16-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
+| [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
+| [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
+| [9–10 April 2021](2021-04-10-IBRiS.html) | IBRiS <br> RP |  |  |  |  |  |
 | [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF |  |  |  |  |  |
-| [7–9 April 2021](2021-04-09-IBSP.html) | IBSP |  |  |  |  |  |
-| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0 |
+| [7–9 April 2021](2021-04-09-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
+| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [25–30 March 2021](2021-03-30-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [26–29 March 2021](2021-03-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [27–28 March 2021](2021-03-28-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [19–22 March 2021](2021-03-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
-| [19–22 March 2021](2021-03-22-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0 |
+| [19–22 March 2021](2021-03-22-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [19 March 2021](2021-03-19-UnitedSurvey.html) | United Survey <br> WP.pl |  |  |  |  |  |
 | [17–19 March 2021](2021-03-19-Kantar.html) | Kantar <br> Gazeta Wyborcza and OKO.press |  |  |  |  |  |
 | [17–18 March 2021](2021-03-18-Kantar.html) | Kantar <br> OKO.press and GW |  |  |  |  |  |

@@ -363,10 +363,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–19 April 2021](2021-04-19-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [16 April 2021](2021-04-16-UnitedSurvey.html) | United Survey <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [9–16 April 2021](2021-04-16-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
-| [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [9–10 April 2021](2021-04-10-IBRiS.html) | IBRiS <br> RP | 3 | 2–3 | 0–3 | 0–4 | 0–4 |
-| [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [7–9 April 2021](2021-04-09-IBSP.html) | IBSP <br> StanPolityki.pl | 0 | 0 | 0 | 0 | 0 |
 | [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |

@@ -361,14 +361,14 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 0–6 |
-| [20 April 2021](2021-04-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [20 April 2021](2021-04-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [20 April 2021](2021-04-20-IBRiS.html) | IBRiS <br> Wydarzenia | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [16–19 April 2021](2021-04-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [16–19 April 2021](2021-04-19-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16 April 2021](2021-04-16-UnitedSurvey.html) | United Survey <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [9–16 April 2021](2021-04-16-Kantar.html) | Kantar | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [9–16 April 2021](2021-04-16-Kantar.html) | Kantar | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [9–10 April 2021](2021-04-10-IBRiS.html) | IBRiS <br> RP | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [7–9 April 2021](2021-04-09-IBSP.html) | IBSP <br> StanPolityki.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
@@ -688,12 +688,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 0% | 99.4% |  |
-| 2 | 0.9% | 99.4% |  |
+| 0 | 0.7% | 100% | Last Result |
+| 1 | 0% | 99.3% |  |
+| 2 | 0.9% | 99.3% |  |
 | 3 | 18% | 98% |  |
 | 4 | 44% | 81% | Median |
-| 5 | 33% | 36% |  |
+| 5 | 34% | 37% |  |
 | 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 

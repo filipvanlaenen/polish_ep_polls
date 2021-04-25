@@ -385,12 +385,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16–19 April 2021](2021-04-19-ResearchPartner.html) | Research Partner <br> Ariadna | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [16 April 2021](2021-04-16-UnitedSurvey.html) | United Survey <br> WP.pl | 11 | 10–12 | 9–12 | 9–12 | 9–13 |
 | [9–16 April 2021](2021-04-16-Kantar.html) | Kantar | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
-| [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 11 | 10–12 | 10–13 | 10–13 | 9–13 |
-| [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
+| [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
+| [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
 | [9–10 April 2021](2021-04-10-IBRiS.html) | IBRiS <br> RP | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 11 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [7–9 April 2021](2021-04-09-IBSP.html) | IBSP <br> StanPolityki.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
-| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner <br> Ariadna | 15 | 14–16 | 14–16 | 14–16 | 13–17 |
+| [2–6 April 2021](2021-04-06-ResearchPartner.html) | Research Partner <br> Ariadna | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [2–5 April 2021](2021-04-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [25–30 March 2021](2021-03-30-CBMIndicator.html) | CBM Indicator <br> Rzeczpospolita | 10 | 9–11 | 8–11 | 8–11 | 8–12 |
 | [26–29 March 2021](2021-03-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 11–14 | 11–14 | 10–15 |
@@ -715,12 +715,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0.1% | 100% |  |
 | 8 | 3% | 99.9% |  |
-| 9 | 13% | 97% |  |
-| 10 | 22% | 84% |  |
-| 11 | 16% | 62% | Median |
-| 12 | 12% | 46% |  |
+| 9 | 14% | 97% |  |
+| 10 | 20% | 83% |  |
+| 11 | 15% | 62% | Median |
+| 12 | 14% | 47% |  |
 | 13 | 14% | 34% |  |
-| 14 | 12% | 20% |  |
+| 14 | 11% | 20% |  |
 | 15 | 7% | 9% |  |
 | 16 | 2% | 2% |  |
 | 17 | 0.1% | 0.1% |  |

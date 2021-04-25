@@ -372,7 +372,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [16 April 2021](2021-04-16-UnitedSurvey.html) | United Survey <br> WP.pl | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [9–16 April 2021](2021-04-16-Kantar.html) | Kantar | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [9–14 April 2021](2021-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
-| [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [9–12 April 2021](2021-04-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [9–10 April 2021](2021-04-10-IBRiS.html) | IBRiS <br> RP | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [9 April 2021](2021-04-09-UnitedSurvey.html) | United Survey <br> DGP and RMF | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [7–9 April 2021](2021-04-09-IBSP.html) | IBSP <br> StanPolityki.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
@@ -697,8 +697,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 1.0% | 100% |  |
 | 4 | 16% | 99.0% |  |
-| 5 | 42% | 83% | Median |
-| 6 | 31% | 41% |  |
+| 5 | 43% | 83% | Median |
+| 6 | 30% | 40% |  |
 | 7 | 8% | 9% |  |
 | 8 | 0.9% | 0.9% |  |
 | 9 | 0% | 0% |  |

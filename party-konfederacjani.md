@@ -383,25 +383,25 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–7 | 3–7 | 3–7 | 0–8 |
-| [19–20 May 2021](2021-05-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [19–20 May 2021](2021-05-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [19 May 2021](2021-05-19-IBRiS.html) | IBRiS <br> Wydarzenia | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [14–17 May 2021](2021-05-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
-| [14–17 May 2021](2021-05-17-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [14–17 May 2021](2021-05-17-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [15–16 May 2021](2021-05-16-UCEResearch.html) | UCE Research <br> WP.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [13–14 May 2021](2021-05-14-ISBP.html) | ISBP <br> StanPolityki.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [7–12 May 2021](2021-05-12-Kantar.html) | Kantar | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
+| [7–12 May 2021](2021-05-12-Kantar.html) | Kantar | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [11 May 2021](2021-05-11-UnitedSurvey.html) | United Survey <br> DGP & RMF FM | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [11 May 2021](2021-05-11-Kantar.html) | Kantar | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
+| [11 May 2021](2021-05-11-Kantar.html) | Kantar | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [7–10 May 2021](2021-05-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [8–9 May 2021](2021-05-09-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
-| [5 May 2021](2021-05-05-IBRiS.html) | IBRiS <br> Wydarzenia | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
-| [4 May 2021](2021-05-04-UnitedSurvey.html) | United Survey <br> WP.pl | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
+| [5 May 2021](2021-05-05-IBRiS.html) | IBRiS <br> Wydarzenia | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [4 May 2021](2021-05-04-UnitedSurvey.html) | United Survey <br> WP.pl | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
 | [30 April–4 May 2021](2021-05-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [30 April–3 May 2021](2021-05-03-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [27–28 April 2021](2021-04-28-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 4 | 4 | 3–5 | 3–5 | 3–5 |
-| [26–28 April 2021](2021-04-28-Ipsos.html) | Ipsos <br> OKO.press | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
+| [30 April–3 May 2021](2021-05-03-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [27–28 April 2021](2021-04-28-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [26–28 April 2021](2021-04-28-Ipsos.html) | Ipsos <br> OKO.press | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [23–26 April 2021](2021-04-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [24–25 April 2021](2021-04-25-IBRiS.html) | IBRiS <br> Onet.pl | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [24–25 April 2021](2021-04-25-IBRiS.html) | IBRiS <br> Onet.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [20 April 2021](2021-04-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [20 April 2021](2021-04-20-IBRiS.html) | IBRiS <br> Wydarzenia | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [16–19 April 2021](2021-04-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
@@ -731,13 +731,13 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.8% | 100% | Last Result |
 | 1 | 0% | 99.2% |  |
-| 2 | 0.1% | 99.2% |  |
-| 3 | 12% | 99.0% |  |
-| 4 | 21% | 87% |  |
-| 5 | 30% | 66% | Median |
-| 6 | 24% | 36% |  |
+| 2 | 0.5% | 99.2% |  |
+| 3 | 12% | 98.6% |  |
+| 4 | 23% | 87% |  |
+| 5 | 29% | 64% | Median |
+| 6 | 23% | 35% |  |
 | 7 | 11% | 12% |  |
-| 8 | 1.0% | 1.0% |  |
+| 8 | 0.9% | 0.9% |  |
 | 9 | 0% | 0% |  |
 
 

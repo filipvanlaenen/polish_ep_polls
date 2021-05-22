@@ -385,7 +385,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–14 May 2021](2021-05-14-ISBP.html) | ISBP <br> StanPolityki.pl |  |  |  |  |  |
 | [7–12 May 2021](2021-05-12-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [11 May 2021](2021-05-11-UnitedSurvey.html) | United Survey <br> DGP & RMF FM |  |  |  |  |  |
-| [11 May 2021](2021-05-11-Kantar.html) | Kantar | 0 | 0 | 0 | 0–2 | 0–3 |
+| [11 May 2021](2021-05-11-Kantar.html) | Kantar | 0 | 0 | 0–2 | 0–2 | 0–3 |
 | [7–10 May 2021](2021-05-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [8–9 May 2021](2021-05-09-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [5 May 2021](2021-05-05-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
@@ -725,9 +725,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 75% | 100% | Last Result, Median |
 | 1 | 0% | 25% |  |
-| 2 | 0.4% | 25% |  |
-| 3 | 18% | 24% |  |
-| 4 | 6% | 6% |  |
+| 2 | 0.5% | 25% |  |
+| 3 | 17% | 24% |  |
+| 4 | 7% | 7% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

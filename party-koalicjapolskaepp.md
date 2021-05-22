@@ -377,7 +377,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [19–20 May 2021](2021-05-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [19 May 2021](2021-05-19-IBRiS.html) | IBRiS <br> Wydarzenia | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [19 May 2021](2021-05-19-IBRiS.html) | IBRiS <br> Wydarzenia | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [14–17 May 2021](2021-05-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [14–17 May 2021](2021-05-17-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [15–16 May 2021](2021-05-16-UCEResearch.html) | UCE Research <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
@@ -386,8 +386,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11 May 2021](2021-05-11-UnitedSurvey.html) | United Survey <br> DGP & RMF FM | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [11 May 2021](2021-05-11-Kantar.html) | Kantar | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [7–10 May 2021](2021-05-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
-| [8–9 May 2021](2021-05-09-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
-| [5 May 2021](2021-05-05-IBRiS.html) | IBRiS <br> Wydarzenia | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [8–9 May 2021](2021-05-09-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
+| [5 May 2021](2021-05-05-IBRiS.html) | IBRiS <br> Wydarzenia | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [4 May 2021](2021-05-04-UnitedSurvey.html) | United Survey <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [30 April–4 May 2021](2021-05-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [30 April–3 May 2021](2021-05-03-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
@@ -722,11 +722,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 0% | 22% |  |
-| 2 | 7% | 22% |  |
-| 3 | 15% | 15% |  |
-| 4 | 0.3% | 0.3% |  |
+| 0 | 80% | 100% | Last Result, Median |
+| 1 | 0% | 20% |  |
+| 2 | 7% | 20% |  |
+| 3 | 13% | 13% |  |
+| 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
 

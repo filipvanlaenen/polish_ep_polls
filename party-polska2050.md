@@ -399,25 +399,25 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 11–15 | 10–15 | 10–16 | 10–17 |
-| [19–20 May 2021](2021-05-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 11 | 10–12 | 10–12 | 10–12 | 10–13 |
-| [19 May 2021](2021-05-19-IBRiS.html) | IBRiS <br> Wydarzenia | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
-| [14–17 May 2021](2021-05-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [14–17 May 2021](2021-05-17-ResearchPartner.html) | Research Partner <br> Ariadna | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
-| [15–16 May 2021](2021-05-16-UCEResearch.html) | UCE Research <br> WP.pl | 11 | 10–13 | 10–13 | 10–13 | 10–13 |
-| [13–14 May 2021](2021-05-14-ISBP.html) | ISBP <br> StanPolityki.pl | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [7–12 May 2021](2021-05-12-Kantar.html) | Kantar | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [11 May 2021](2021-05-11-UnitedSurvey.html) | United Survey <br> DGP & RMF FM | 13 | 12–14 | 12–15 | 11–15 | 11–15 |
+| [19–20 May 2021](2021-05-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 11 | 10–12 | 10–12 | 10–13 | 10–13 |
+| [19 May 2021](2021-05-19-IBRiS.html) | IBRiS <br> Wydarzenia | 12 | 11–13 | 11–13 | 11–14 | 10–14 |
+| [14–17 May 2021](2021-05-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 11–14 | 11–15 |
+| [14–17 May 2021](2021-05-17-ResearchPartner.html) | Research Partner <br> Ariadna | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [15–16 May 2021](2021-05-16-UCEResearch.html) | UCE Research <br> WP.pl | 11 | 10–12 | 10–13 | 10–13 | 10–13 |
+| [13–14 May 2021](2021-05-14-ISBP.html) | ISBP <br> StanPolityki.pl | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
+| [7–12 May 2021](2021-05-12-Kantar.html) | Kantar | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
+| [11 May 2021](2021-05-11-UnitedSurvey.html) | United Survey <br> DGP & RMF FM | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [11 May 2021](2021-05-11-Kantar.html) | Kantar | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [7–10 May 2021](2021-05-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
-| [8–9 May 2021](2021-05-09-IBRiS.html) | IBRiS <br> Onet.pl | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
-| [5 May 2021](2021-05-05-IBRiS.html) | IBRiS <br> Wydarzenia | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [4 May 2021](2021-05-04-UnitedSurvey.html) | United Survey <br> WP.pl | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
-| [30 April–4 May 2021](2021-05-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
+| [8–9 May 2021](2021-05-09-IBRiS.html) | IBRiS <br> Onet.pl | 11 | 11–13 | 10–13 | 10–13 | 10–14 |
+| [5 May 2021](2021-05-05-IBRiS.html) | IBRiS <br> Wydarzenia | 11 | 10–12 | 10–12 | 10–12 | 9–13 |
+| [4 May 2021](2021-05-04-UnitedSurvey.html) | United Survey <br> WP.pl | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
+| [30 April–4 May 2021](2021-05-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 12–14 | 11–15 |
 | [30 April–3 May 2021](2021-05-03-ResearchPartner.html) | Research Partner <br> Ariadna | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
-| [27–28 April 2021](2021-04-28-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
+| [27–28 April 2021](2021-04-28-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 12 | 11–13 | 11–13 | 11–13 | 10–14 |
 | [26–28 April 2021](2021-04-28-Ipsos.html) | Ipsos <br> OKO.press | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
-| [23–26 April 2021](2021-04-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 12–14 | 12–15 | 12–15 | 12–15 |
-| [24–25 April 2021](2021-04-25-IBRiS.html) | IBRiS <br> Onet.pl | 10 | 9–11 | 9–11 | 9–12 | 9–13 |
+| [23–26 April 2021](2021-04-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
+| [24–25 April 2021](2021-04-25-IBRiS.html) | IBRiS <br> Onet.pl | 10 | 9–11 | 9–12 | 9–12 | 9–12 |
 | [20 April 2021](2021-04-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 12 | 11–13 | 11–13 | 10–13 | 10–14 |
 | [20 April 2021](2021-04-20-IBRiS.html) | IBRiS <br> Wydarzenia | 9 | 8–10 | 8–10 | 8–11 | 8–11 |
 | [16–19 April 2021](2021-04-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 13–16 | 13–16 | 13–16 | 13–17 |
@@ -754,15 +754,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 6% | 99.8% |  |
-| 11 | 22% | 93% |  |
-| 12 | 29% | 71% | Median |
-| 13 | 21% | 43% |  |
+| 9 | 0.3% | 100% |  |
+| 10 | 5% | 99.7% |  |
+| 11 | 22% | 94% |  |
+| 12 | 28% | 72% | Median |
+| 13 | 21% | 44% |  |
 | 14 | 11% | 22% |  |
 | 15 | 6% | 11% |  |
 | 16 | 4% | 5% |  |
-| 17 | 1.0% | 1.1% |  |
+| 17 | 0.9% | 0.9% |  |
 | 18 | 0.1% | 0.1% |  |
 | 19 | 0% | 0% |  |
 

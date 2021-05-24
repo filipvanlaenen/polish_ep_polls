@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.6% | 6.7–12.4% | 5.9–13.0% | 5.5–13.4% | 4.9–14.3% |
+| N/A | [Poll Average](average.html) | 9.0% | 6.2–12.3% | 5.7–12.9% | 5.4–13.3% | 4.8–14.2% |
+| [21 May 2021](2021-05-21-UnitedSurvey.html) | United Survey <br> WP.pl | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
+| [20–21 May 2021](2021-05-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
+| [18–20 May 2021](2021-05-20-PGBOpinium.html) | PGB Opinium | 9.4% | 8.3–10.7% | 8.0–11.0% | 7.7–11.4% | 7.3–12.0% |
 | [19–20 May 2021](2021-05-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [19 May 2021](2021-05-19-IBRiS.html) | IBRiS <br> Wydarzenia | 7.6% | 6.7–8.7% | 6.4–9.1% | 6.2–9.3% | 5.8–9.9% |
 | [14–17 May 2021](2021-05-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12.0% | 10.8–13.4% | 10.5–13.8% | 10.2–14.1% | 9.7–14.8% |
@@ -361,15 +364,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.2% | 100% |  |
 | 4.5–5.5% | 3% | 99.8% |  |
-| 5.5–6.5% | 6% | 97% |  |
-| 6.5–7.5% | 8% | 91% |  |
-| 7.5–8.5% | 14% | 83% |  |
-| 8.5–9.5% | 19% | 69% |  |
-| 9.5–10.5% | 15% | 50% | Median |
-| 10.5–11.5% | 13% | 35% |  |
-| 11.5–12.5% | 13% | 22% |  |
-| 12.5–13.5% | 7% | 9% |  |
-| 13.5–14.5% | 2% | 2% |  |
+| 5.5–6.5% | 11% | 96% |  |
+| 6.5–7.5% | 14% | 85% |  |
+| 7.5–8.5% | 15% | 72% |  |
+| 8.5–9.5% | 16% | 57% | Median |
+| 9.5–10.5% | 12% | 41% |  |
+| 10.5–11.5% | 11% | 28% |  |
+| 11.5–12.5% | 10% | 18% |  |
+| 12.5–13.5% | 6% | 7% |  |
+| 13.5–14.5% | 1.5% | 2% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -383,6 +386,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 3–7 | 3–7 | 3–7 | 0–8 |
+| [21 May 2021](2021-05-21-UnitedSurvey.html) | United Survey <br> WP.pl | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
+| [20–21 May 2021](2021-05-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [18–20 May 2021](2021-05-20-PGBOpinium.html) | PGB Opinium | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [19–20 May 2021](2021-05-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [19 May 2021](2021-05-19-IBRiS.html) | IBRiS <br> Wydarzenia | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [14–17 May 2021](2021-05-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
@@ -729,15 +735,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 0% | 99.2% |  |
-| 2 | 0.5% | 99.2% |  |
-| 3 | 12% | 98.6% |  |
-| 4 | 23% | 87% |  |
-| 5 | 29% | 64% | Median |
-| 6 | 23% | 35% |  |
-| 7 | 11% | 12% |  |
-| 8 | 0.9% | 0.9% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 0% | 99.1% |  |
+| 2 | 1.0% | 99.1% |  |
+| 3 | 20% | 98% |  |
+| 4 | 24% | 78% |  |
+| 5 | 24% | 54% | Median |
+| 6 | 19% | 29% |  |
+| 7 | 9% | 10% |  |
+| 8 | 0.7% | 0.8% |  |
 | 9 | 0% | 0% |  |
 
 

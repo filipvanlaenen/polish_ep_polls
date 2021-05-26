@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 0.9–6.3% | 0.7–6.9% | 0.6–7.3% | 0.4–7.9% |
+| [21–22 May 2021](2021-05-22-IBRiS.html) | IBRiS <br> Rz | 0.0% | N/A | N/A | N/A | N/A |
 | [21 May 2021](2021-05-21-UnitedSurvey.html) | United Survey <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 May 2021](2021-05-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
 | [18–20 May 2021](2021-05-20-PGBOpinium.html) | PGB Opinium | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
@@ -380,6 +381,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [21–22 May 2021](2021-05-22-IBRiS.html) | IBRiS <br> Rz |  |  |  |  |  |
 | [21 May 2021](2021-05-21-UnitedSurvey.html) | United Survey <br> WP.pl |  |  |  |  |  |
 | [20–21 May 2021](2021-05-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [18–20 May 2021](2021-05-20-PGBOpinium.html) | PGB Opinium | 0 | 0 | 0 | 0 | 0 |

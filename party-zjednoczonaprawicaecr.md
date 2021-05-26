@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36.3% | 31.9–39.4% | 30.7–40.1% | 29.9–40.7% | 28.5–41.8% |
+| [21–22 May 2021](2021-05-22-IBRiS.html) | IBRiS <br> Rz | 37.9% | 36.0–39.8% | 35.5–40.3% | 35.1–40.8% | 34.2–41.7% |
 | [21 May 2021](2021-05-21-UnitedSurvey.html) | United Survey <br> WP.pl | 38.6% | 36.7–40.6% | 36.1–41.2% | 35.6–41.7% | 34.7–42.6% |
 | [20–21 May 2021](2021-05-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 38.4% | 36.4–40.3% | 35.9–40.9% | 35.4–41.4% | 34.5–42.3% |
 | [18–20 May 2021](2021-05-20-PGBOpinium.html) | PGB Opinium | 34.1% | 32.3–36.1% | 31.7–36.6% | 31.3–37.1% | 30.4–38.1% |
@@ -397,7 +398,7 @@ The following table shows the probability mass function per percentage block of 
 | 35.5–36.5% | 13% | 59% | Median |
 | 36.5–37.5% | 14% | 46% |  |
 | 37.5–38.5% | 13% | 33% |  |
-| 38.5–39.5% | 11% | 19% |  |
+| 38.5–39.5% | 10% | 19% |  |
 | 39.5–40.5% | 6% | 9% |  |
 | 40.5–41.5% | 2% | 3% |  |
 | 41.5–42.5% | 0.6% | 0.7% |  |
@@ -414,6 +415,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–22 | 17–22 | 17–23 | 16–23 |
+| [21–22 May 2021](2021-05-22-IBRiS.html) | IBRiS <br> Rz | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [21 May 2021](2021-05-21-UnitedSurvey.html) | United Survey <br> WP.pl | 21 | 19–22 | 19–22 | 19–23 | 19–23 |
 | [20–21 May 2021](2021-05-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [18–20 May 2021](2021-05-20-PGBOpinium.html) | PGB Opinium | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -784,8 +786,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 18 | 10% | 93% |  |
 | 19 | 19% | 82% |  |
 | 20 | 25% | 63% | Median |
-| 21 | 22% | 37% |  |
-| 22 | 12% | 15% |  |
+| 21 | 23% | 38% |  |
+| 22 | 12% | 16% |  |
 | 23 | 3% | 4% |  |
 | 24 | 0.4% | 0.5% |  |
 | 25 | 0% | 0% |  |

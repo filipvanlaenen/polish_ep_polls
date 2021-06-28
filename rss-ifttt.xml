@@ -6,556 +6,244 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:51 +0100</pubDate>
     <item>
-      <title>Opinion Poll by IBRiS for Rz, 21–22 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Rz, 21–22 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS-seating-plan.png" length="406420" type="image/png"/>
-      <pubDate>Tue, 25 May 2021 14:55:53 +0200</pubDate>
-      <dc:date>2021-05-25T14:55:53.970626+02:00</dc:date>
+      <title>Opinion Poll by Kantar for Fakty TVN &amp; TVN24, 24–25 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-25-Kantar.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar for Fakty TVN &amp; TVN24, 24–25 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-25-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-25-Kantar.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-25-Kantar.png" length="249588" type="image/png"/>
+      <pubDate>Mon, 28 Jun 2021 14:41:50 +0200</pubDate>
+      <dc:date>2021-06-28T14:41:50.33656+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Partner for Ariadna, 18–21 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-21-ResearchPartner.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Research Partner for Ariadna, 18–21 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-21-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-21-ResearchPartner.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-21-ResearchPartner.png" length="235741" type="image/png"/>
+      <pubDate>Mon, 28 Jun 2021 19:32:03 +0200</pubDate>
+      <dc:date>2021-06-28T19:32:03.399879+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 18–21 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-21-SocialChanges.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 18–21 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-21-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-21-SocialChanges.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-21-SocialChanges.png" length="236961" type="image/png"/>
+      <pubDate>Mon, 28 Jun 2021 18:49:08 +0200</pubDate>
+      <dc:date>2021-06-28T18:49:08.356589+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 11–14 June 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 11–14 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges-seating-plan.png" length="377536" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:31:54 +0200</pubDate>
+      <dc:date>2021-06-20T17:31:54.561374+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 11–14 June 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 11–14 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges-seats.png" length="196976" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:31:54 +0200</pubDate>
+      <dc:date>2021-06-20T17:31:54.561374+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 11–14 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 11–14 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-14-SocialChanges.png" length="233744" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:31:54 +0200</pubDate>
+      <dc:date>2021-06-20T17:31:54.561374+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Radio ZET, 11 June 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Radio ZET, 11 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS-seating-plan.png" length="404712" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:58:50 +0200</pubDate>
+      <dc:date>2021-06-20T17:58:50.390345+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Radio ZET, 11 June 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Radio ZET, 11 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS-seats.png" length="187522" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:58:50 +0200</pubDate>
+      <dc:date>2021-06-20T17:58:50.390345+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Radio ZET, 11 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Radio ZET, 11 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-11-IBRiS.png" length="213776" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:58:50 +0200</pubDate>
+      <dc:date>2021-06-20T17:58:50.390345+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Partner for Ariadna, 4–7 June 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner for Ariadna, 4–7 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner-seating-plan.png" length="372098" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:46:00 +0200</pubDate>
+      <dc:date>2021-06-20T17:46:00.980561+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Partner for Ariadna, 4–7 June 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner for Ariadna, 4–7 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner-seats.png" length="176523" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:46:00 +0200</pubDate>
+      <dc:date>2021-06-20T17:46:00.980561+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Partner for Ariadna, 4–7 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Research Partner for Ariadna, 4–7 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-07-ResearchPartner.png" length="234759" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:46:00 +0200</pubDate>
+      <dc:date>2021-06-20T17:46:00.980561+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 5–6 June 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 5–6 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster-seating-plan.png" length="377519" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:50:32 +0200</pubDate>
+      <dc:date>2021-06-20T18:50:32.656329+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IBRiS for Rz, 21–22 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Rz, 21–22 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS-seats.png" length="193297" type="image/png"/>
-      <pubDate>Tue, 25 May 2021 14:55:53 +0200</pubDate>
-      <dc:date>2021-05-25T14:55:53.970626+02:00</dc:date>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 5–6 June 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 5–6 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster-seats.png" length="180221" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:50:32 +0200</pubDate>
+      <dc:date>2021-06-20T18:50:32.656329+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IBRiS for Rz, 21–22 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Rz, 21–22 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-22-IBRiS.png" length="212442" type="image/png"/>
-      <pubDate>Tue, 25 May 2021 14:55:53 +0200</pubDate>
-      <dc:date>2021-05-25T14:55:53.970626+02:00</dc:date>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 5–6 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 5–6 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-InstytutBadańPollster.png" length="219561" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:50:32 +0200</pubDate>
+      <dc:date>2021-06-20T18:50:32.656329+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by United Survey for WP.pl, 21 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Survey for WP.pl, 21 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey-seating-plan.png" length="415435" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 17:39:16 +0200</pubDate>
-      <dc:date>2021-05-24T17:39:16.574613+02:00</dc:date>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 4–6 June 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 4–6 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges-seating-plan.png" length="375824" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 19:14:36 +0200</pubDate>
+      <dc:date>2021-06-20T19:14:36.296133+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by United Survey for WP.pl, 21 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Survey for WP.pl, 21 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey-seats.png" length="209028" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 17:39:16 +0200</pubDate>
-      <dc:date>2021-05-24T17:39:16.574613+02:00</dc:date>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 4–6 June 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 4–6 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges-seats.png" length="190817" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 19:14:36 +0200</pubDate>
+      <dc:date>2021-06-20T19:14:36.296133+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by United Survey for WP.pl, 21 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by United Survey for WP.pl, 21 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-UnitedSurvey.png" length="212389" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 17:39:16 +0200</pubDate>
-      <dc:date>2021-05-24T17:39:16.574613+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Estymator for DoRzeczy.pl, 20–21 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Estymator for DoRzeczy.pl, 20–21 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator-seating-plan.png" length="375374" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 18:19:05 +0200</pubDate>
-      <dc:date>2021-05-24T18:19:05.443236+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Estymator for DoRzeczy.pl, 20–21 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Estymator for DoRzeczy.pl, 20–21 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator-seats.png" length="188031" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 18:19:05 +0200</pubDate>
-      <dc:date>2021-05-24T18:19:05.443236+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Estymator for DoRzeczy.pl, 20–21 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Estymator for DoRzeczy.pl, 20–21 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-21-Estymator.png" length="232260" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 18:19:05 +0200</pubDate>
-      <dc:date>2021-05-24T18:19:05.443236+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 19–20 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 19–20 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster-seating-plan.png" length="410205" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:40:03 +0200</pubDate>
-      <dc:date>2021-05-22T09:40:03.828457+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 19–20 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 19–20 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster-seats.png" length="193237" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:40:03 +0200</pubDate>
-      <dc:date>2021-05-22T09:40:03.828457+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 19–20 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 19–20 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-InstytutBadańPollster.png" length="216783" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:40:03 +0200</pubDate>
-      <dc:date>2021-05-22T09:40:03.828457+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by PGB Opinium, 18–20 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by PGB Opinium, 18–20 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium-seating-plan.png" length="368273" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 17:26:04 +0200</pubDate>
-      <dc:date>2021-05-24T17:26:04.387794+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by PGB Opinium, 18–20 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by PGB Opinium, 18–20 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium-seats.png" length="189329" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 17:26:04 +0200</pubDate>
-      <dc:date>2021-05-24T17:26:04.387794+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by PGB Opinium, 18–20 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by PGB Opinium, 18–20 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-20-PGBOpinium.png" length="231999" type="image/png"/>
-      <pubDate>Mon, 24 May 2021 17:26:04 +0200</pubDate>
-      <dc:date>2021-05-24T17:26:04.387794+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Wydarzenia, 19 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Wydarzenia, 19 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS-seating-plan.png" length="407220" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:27:45 +0200</pubDate>
-      <dc:date>2021-05-22T12:27:45.088163+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Wydarzenia, 19 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Wydarzenia, 19 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS-seats.png" length="187969" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:27:45 +0200</pubDate>
-      <dc:date>2021-05-22T12:27:45.088163+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Wydarzenia, 19 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Wydarzenia, 19 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-19-IBRiS.png" length="214028" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:27:45 +0200</pubDate>
-      <dc:date>2021-05-22T12:27:45.088163+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 14–17 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner for Ariadna, 14–17 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner-seating-plan.png" length="374468" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:51:52 +0200</pubDate>
-      <dc:date>2021-05-22T12:51:52.165756+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 14–17 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner for Ariadna, 14–17 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner-seats.png" length="193684" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:51:52 +0200</pubDate>
-      <dc:date>2021-05-22T12:51:52.165756+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 14–17 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Research Partner for Ariadna, 14–17 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-ResearchPartner.png" length="231595" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:51:52 +0200</pubDate>
-      <dc:date>2021-05-22T12:51:52.165756+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 14–17 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 14–17 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges-seating-plan.png" length="379590" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:47:55 +0200</pubDate>
-      <dc:date>2021-05-22T13:47:55.428688+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 14–17 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 14–17 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges-seats.png" length="203728" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:47:55 +0200</pubDate>
-      <dc:date>2021-05-22T13:47:55.428688+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 14–17 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 14–17 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-17-SocialChanges.png" length="236483" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:47:55 +0200</pubDate>
-      <dc:date>2021-05-22T13:47:55.428688+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by UCE Research for WP.pl, 15–16 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by UCE Research for WP.pl, 15–16 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch-seating-plan.png" length="409575" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:05:26 +0200</pubDate>
-      <dc:date>2021-05-22T13:05:26.334693+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by UCE Research for WP.pl, 15–16 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by UCE Research for WP.pl, 15–16 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch-seats.png" length="204067" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:05:26 +0200</pubDate>
-      <dc:date>2021-05-22T13:05:26.334693+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by UCE Research for WP.pl, 15–16 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by UCE Research for WP.pl, 15–16 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-16-UCEResearch.png" length="232107" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:05:26 +0200</pubDate>
-      <dc:date>2021-05-22T13:05:26.334693+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ISBP for StanPolityki.pl, 13–14 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by ISBP for StanPolityki.pl, 13–14 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP-seating-plan.png" length="374102" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:39:32 +0200</pubDate>
-      <dc:date>2021-05-22T12:39:32.914517+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ISBP for StanPolityki.pl, 13–14 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by ISBP for StanPolityki.pl, 13–14 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP-seats.png" length="183181" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:39:32 +0200</pubDate>
-      <dc:date>2021-05-22T12:39:32.914517+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by ISBP for StanPolityki.pl, 13–14 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by ISBP for StanPolityki.pl, 13–14 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-ISBP.png" length="223373" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 12:39:32 +0200</pubDate>
-      <dc:date>2021-05-22T12:39:32.914517+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar, 7–12 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Kantar, 7–12 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar-seating-plan.png" length="371574" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 21:36:03 +0200</pubDate>
-      <dc:date>2021-05-21T21:36:03.514046+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar, 7–12 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Kantar, 7–12 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar-seats.png" length="186580" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 21:36:03 +0200</pubDate>
-      <dc:date>2021-05-21T21:36:03.514046+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar, 7–12 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar, 7–12 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-12-Kantar.png" length="224355" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 21:36:03 +0200</pubDate>
-      <dc:date>2021-05-21T21:36:03.514046+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar, 11 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Kantar, 11 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar-seating-plan.png" length="372199" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 23:44:45 +0200</pubDate>
-      <dc:date>2021-05-21T23:44:45.200951+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar, 11 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Kantar, 11 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar-seats.png" length="197753" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 23:44:45 +0200</pubDate>
-      <dc:date>2021-05-21T23:44:45.200951+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar, 11 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar, 11 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-Kantar.png" length="236505" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 23:44:45 +0200</pubDate>
-      <dc:date>2021-05-21T23:44:45.200951+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Survey for DGP &amp; RMF FM, 11 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Survey for DGP &amp; RMF FM, 11 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey-seating-plan.png" length="379222" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:41:32 +0200</pubDate>
-      <dc:date>2021-05-22T10:41:32.121881+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Survey for DGP &amp; RMF FM, 11 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Survey for DGP &amp; RMF FM, 11 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey-seats.png" length="188847" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:41:32 +0200</pubDate>
-      <dc:date>2021-05-22T10:41:32.121881+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Survey for DGP &amp; RMF FM, 11 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by United Survey for DGP &amp; RMF FM, 11 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-11-UnitedSurvey.png" length="219139" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:41:32 +0200</pubDate>
-      <dc:date>2021-05-22T10:41:32.121881+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 7–10 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 7–10 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges-seating-plan.png" length="374834" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:30:47 +0200</pubDate>
-      <dc:date>2021-05-22T14:30:47.584357+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 7–10 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 7–10 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges-seats.png" length="190590" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:30:47 +0200</pubDate>
-      <dc:date>2021-05-22T14:30:47.584357+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 7–10 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 7–10 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-10-SocialChanges.png" length="233423" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:30:47 +0200</pubDate>
-      <dc:date>2021-05-22T14:30:47.584357+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Onet.pl, 8–9 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Onet.pl, 8–9 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS-seating-plan.png" length="410486" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 21:48:40 +0200</pubDate>
-      <dc:date>2021-05-21T21:48:40.577208+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Onet.pl, 8–9 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Onet.pl, 8–9 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS-seats.png" length="193429" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 21:48:40 +0200</pubDate>
-      <dc:date>2021-05-21T21:48:40.577208+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Onet.pl, 8–9 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Onet.pl, 8–9 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-09-IBRiS.png" length="213679" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 21:48:40 +0200</pubDate>
-      <dc:date>2021-05-21T21:48:40.577208+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Wydarzenia, 5 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Wydarzenia, 5 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS-seating-plan.png" length="403244" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:20:01 +0200</pubDate>
-      <dc:date>2021-05-22T13:20:01.140178+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Wydarzenia, 5 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Wydarzenia, 5 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS-seats.png" length="190575" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:20:01 +0200</pubDate>
-      <dc:date>2021-05-22T13:20:01.140178+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Wydarzenia, 5 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Wydarzenia, 5 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-05-IBRiS.png" length="216787" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:20:01 +0200</pubDate>
-      <dc:date>2021-05-22T13:20:01.140178+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Survey for WP.pl, 4 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Survey for WP.pl, 4 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey-seating-plan.png" length="414361" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:32:44 +0200</pubDate>
-      <dc:date>2021-05-22T13:32:44.962543+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Survey for WP.pl, 4 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Survey for WP.pl, 4 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey-seats.png" length="212882" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:32:44 +0200</pubDate>
-      <dc:date>2021-05-22T13:32:44.962543+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Survey for WP.pl, 4 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by United Survey for WP.pl, 4 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-UnitedSurvey.png" length="215473" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 13:32:44 +0200</pubDate>
-      <dc:date>2021-05-22T13:32:44.962543+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 30 April–4 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 30 April–4 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges-seating-plan.png" length="378703" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:03:39 +0200</pubDate>
-      <dc:date>2021-05-22T14:03:39.583213+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 30 April–4 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 30 April–4 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges-seats.png" length="185967" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:03:39 +0200</pubDate>
-      <dc:date>2021-05-22T14:03:39.583213+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 30 April–4 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 30 April–4 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-04-SocialChanges.png" length="235026" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:03:39 +0200</pubDate>
-      <dc:date>2021-05-22T14:03:39.583213+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 30 April–3 May 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner for Ariadna, 30 April–3 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner-seating-plan.png" length="377386" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 23:59:38 +0200</pubDate>
-      <dc:date>2021-05-21T23:59:38.555742+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 30 April–3 May 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner for Ariadna, 30 April–3 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner-seats.png" length="201294" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 23:59:38 +0200</pubDate>
-      <dc:date>2021-05-21T23:59:38.555742+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 30 April–3 May 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Research Partner for Ariadna, 30 April–3 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-03-ResearchPartner.png" length="235424" type="image/png"/>
-      <pubDate>Fri, 21 May 2021 23:59:38 +0200</pubDate>
-      <dc:date>2021-05-21T23:59:38.555742+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for Fakty TVN &amp; TVN24, 27–28 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Kantar for Fakty TVN &amp; TVN24, 27–28 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar-seating-plan.png" length="376654" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:17:53 +0200</pubDate>
-      <dc:date>2021-05-22T14:17:53.10761+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for Fakty TVN &amp; TVN24, 27–28 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Kantar for Fakty TVN &amp; TVN24, 27–28 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar-seats.png" length="190789" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:17:53 +0200</pubDate>
-      <dc:date>2021-05-22T14:17:53.10761+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar for Fakty TVN &amp; TVN24, 27–28 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar for Fakty TVN &amp; TVN24, 27–28 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Kantar.png" length="239851" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 14:17:53 +0200</pubDate>
-      <dc:date>2021-05-22T14:17:53.10761+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for OKO.press, 26–28 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Ipsos for OKO.press, 26–28 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos-seating-plan.png" length="374822" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:14:42 +0200</pubDate>
-      <dc:date>2021-05-22T09:14:42.400541+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for OKO.press, 26–28 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Ipsos for OKO.press, 26–28 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos-seats.png" length="179722" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:14:42 +0200</pubDate>
-      <dc:date>2021-05-22T09:14:42.400541+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Ipsos for OKO.press, 26–28 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Ipsos for OKO.press, 26–28 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-28-Ipsos.png" length="217948" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:14:42 +0200</pubDate>
-      <dc:date>2021-05-22T09:14:42.400541+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 23–26 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 23–26 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges-seating-plan.png" length="377296" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:59:35 +0200</pubDate>
-      <dc:date>2021-05-22T09:59:35.380253+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 23–26 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 23–26 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges-seats.png" length="194944" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:59:35 +0200</pubDate>
-      <dc:date>2021-05-22T09:59:35.380253+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Social Changes for wPolityce.pl, 23–26 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 23–26 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-26-SocialChanges.png" length="239066" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 09:59:35 +0200</pubDate>
-      <dc:date>2021-05-22T09:59:35.380253+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Onet.pl, 24–25 April 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Onet.pl, 24–25 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS-seating-plan.png" length="382059" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:17:30 +0200</pubDate>
-      <dc:date>2021-05-22T10:17:30.818661+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Onet.pl, 24–25 April 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Onet.pl, 24–25 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS-seats.png" length="185891" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:17:30 +0200</pubDate>
-      <dc:date>2021-05-22T10:17:30.818661+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by IBRiS for Onet.pl, 24–25 April 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Onet.pl, 24–25 April 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-04-25-IBRiS.png" length="215642" type="image/png"/>
-      <pubDate>Sat, 22 May 2021 10:17:30 +0200</pubDate>
-      <dc:date>2021-05-22T10:17:30.818661+02:00</dc:date>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 4–6 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 4–6 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-06-SocialChanges.png" length="233168" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 19:14:36 +0200</pubDate>
+      <dc:date>2021-06-20T19:14:36.296133+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by United Survey for WP.pl, 4 June 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Survey for WP.pl, 4 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey-seating-plan.png" length="407725" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:11:13 +0200</pubDate>
+      <dc:date>2021-06-20T18:11:13.539129+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by United Survey for WP.pl, 4 June 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Survey for WP.pl, 4 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey-seats.png" length="190548" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:11:13 +0200</pubDate>
+      <dc:date>2021-06-20T18:11:13.539129+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by United Survey for WP.pl, 4 June 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by United Survey for WP.pl, 4 June 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-06-04-UnitedSurvey.png" length="215757" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:11:13 +0200</pubDate>
+      <dc:date>2021-06-20T18:11:13.539129+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet.pl, 31 May 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Onet.pl, 31 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS-seating-plan.png" length="410768" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:06:23 +0200</pubDate>
+      <dc:date>2021-06-20T17:06:23.193253+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet.pl, 31 May 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Onet.pl, 31 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS-seats.png" length="198967" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:06:23 +0200</pubDate>
+      <dc:date>2021-06-20T17:06:23.193253+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Onet.pl, 31 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Onet.pl, 31 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-IBRiS.png" length="209506" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 17:06:23 +0200</pubDate>
+      <dc:date>2021-06-20T17:06:23.193253+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 28–31 May 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 28–31 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges-seating-plan.png" length="377939" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:38:29 +0200</pubDate>
+      <dc:date>2021-06-20T18:38:29.2603+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 28–31 May 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Social Changes for wPolityce.pl, 28–31 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges-seats.png" length="189425" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:38:29 +0200</pubDate>
+      <dc:date>2021-06-20T18:38:29.2603+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes for wPolityce.pl, 28–31 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Social Changes for wPolityce.pl, 28–31 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-31-SocialChanges.png" length="234383" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 18:38:29 +0200</pubDate>
+      <dc:date>2021-06-20T18:38:29.2603+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Interia.pl, 28 May 2021 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Interia.pl, 28 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS-seating-plan.png" length="373895" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 19:01:31 +0200</pubDate>
+      <dc:date>2021-06-20T19:01:31.802488+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Interia.pl, 28 May 2021 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Interia.pl, 28 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS-seats.png" length="176414" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 19:01:31 +0200</pubDate>
+      <dc:date>2021-06-20T19:01:31.802488+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Interia.pl, 28 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Interia.pl, 28 May 2021<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-28-IBRiS.png" length="212935" type="image/png"/>
+      <pubDate>Sun, 20 Jun 2021 19:01:31 +0200</pubDate>
+      <dc:date>2021-06-20T19:01:31.802488+02:00</dc:date>
     </item>
   </channel>
 </rss>

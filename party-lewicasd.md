@@ -404,7 +404,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–7 | 2–7 |
-| [24–25 June 2021](2021-06-25-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 3 | 3–4 | 3–5 | 3–5 | 0–5 |
+| [24–25 June 2021](2021-06-25-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 4 | 3–4 | 3–5 | 2–5 | 0–5 |
 | [18–21 June 2021](2021-06-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [18–21 June 2021](2021-06-21-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -771,12 +771,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 0% | 99.8% |  |
-| 2 | 0.3% | 99.8% |  |
-| 3 | 18% | 99.5% |  |
-| 4 | 35% | 81% | Median |
-| 5 | 32% | 46% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 0% | 99.7% |  |
+| 2 | 0.3% | 99.7% |  |
+| 3 | 17% | 99.4% |  |
+| 4 | 36% | 83% | Median |
+| 5 | 32% | 47% |  |
 | 6 | 12% | 15% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.1% | 0.1% |  |

@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [18–21 June 2021](2021-06-21-ResearchPartner.html) | Research Partner <br> Ariadna | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.6% |
 | [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [19 June 2021](2021-06-19-UnitedSurvey.html) | United Survey <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 2.0% | N/A | N/A | N/A | N/A |
+| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.5% |
 | [11–14 June 2021](2021-06-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
 | [11 June 2021](2021-06-11-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
 | [4–7 June 2021](2021-06-07-ResearchPartner.html) | Research Partner <br> Ariadna | 2.6% | 2.1–3.4% | 2.0–3.6% | 1.8–3.7% | 1.6–4.1% |
@@ -398,7 +398,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–21 June 2021](2021-06-21-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [19 June 2021](2021-06-19-UnitedSurvey.html) | United Survey <br> WP.pl |  |  |  |  |  |
-| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar |  |  |  |  |  |
+| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 0 | 0 | 0 | 0 | 0 |
 | [11–14 June 2021](2021-06-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [11 June 2021](2021-06-11-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [4–7 June 2021](2021-06-07-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |

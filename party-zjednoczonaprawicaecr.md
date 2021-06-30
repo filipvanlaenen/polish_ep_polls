@@ -432,11 +432,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–21 | 18–21 | 17–22 | 17–23 |
 | [24–25 June 2021](2021-06-25-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
-| [18–21 June 2021](2021-06-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
-| [18–21 June 2021](2021-06-21-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 18–21 | 18–21 | 18–22 |
-| [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
-| [19 June 2021](2021-06-19-UnitedSurvey.html) | United Survey <br> WP.pl | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
-| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
+| [18–21 June 2021](2021-06-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
+| [18–21 June 2021](2021-06-21-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 18–21 | 18–21 | 17–22 |
+| [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [19 June 2021](2021-06-19-UnitedSurvey.html) | United Survey <br> WP.pl | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
+| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [11–14 June 2021](2021-06-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 19–21 | 18–21 | 18–21 | 18–22 |
 | [11 June 2021](2021-06-11-IBRiS.html) | IBRiS <br> Radio ZET | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [4–7 June 2021](2021-06-07-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -814,14 +814,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.3% | 100% |  |
-| 17 | 4% | 99.6% |  |
-| 18 | 12% | 96% |  |
-| 19 | 30% | 84% |  |
+| 16 | 0.4% | 100% |  |
+| 17 | 3% | 99.6% |  |
+| 18 | 13% | 96% |  |
+| 19 | 29% | 83% |  |
 | 20 | 33% | 54% | Median |
 | 21 | 17% | 21% |  |
 | 22 | 4% | 5% |  |
-| 23 | 0.7% | 0.8% |  |
+| 23 | 0.5% | 0.5% |  |
 | 24 | 0% | 0% |  |
 
 

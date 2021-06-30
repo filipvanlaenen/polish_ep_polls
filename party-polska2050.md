@@ -417,13 +417,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 11–15 | 11–15 | 10–15 | 10–16 |
+| N/A | [Poll Average](average.html) | 13 | 11–15 | 10–15 | 10–15 | 10–16 |
 | [24–25 June 2021](2021-06-25-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 13 | 12–15 | 11–15 | 11–15 | 11–16 |
 | [18–21 June 2021](2021-06-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [18–21 June 2021](2021-06-21-ResearchPartner.html) | Research Partner <br> Ariadna | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
-| [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11 | 11–12 | 11–13 | 10–13 | 10–13 |
+| [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 12 | 11–13 | 10–13 | 10–13 | 10–14 |
 | [19 June 2021](2021-06-19-UnitedSurvey.html) | United Survey <br> WP.pl | 11 | 10–12 | 10–12 | 10–13 | 9–13 |
-| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 10 | 9–10 | 8–11 | 8–11 | 8–11 |
+| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [11–14 June 2021](2021-06-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 12–16 | 12–16 |
 | [11 June 2021](2021-06-11-IBRiS.html) | IBRiS <br> Radio ZET | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [4–7 June 2021](2021-06-07-ResearchPartner.html) | Research Partner <br> Ariadna | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
@@ -794,14 +794,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.3% | 100% |  |
-| 10 | 3% | 99.7% |  |
-| 11 | 20% | 96% |  |
-| 12 | 22% | 76% |  |
-| 13 | 21% | 55% | Median |
-| 14 | 23% | 34% |  |
-| 15 | 9% | 11% |  |
-| 16 | 1.4% | 1.5% |  |
+| 9 | 0.2% | 100% |  |
+| 10 | 5% | 99.8% |  |
+| 11 | 18% | 95% |  |
+| 12 | 22% | 77% |  |
+| 13 | 22% | 55% | Median |
+| 14 | 22% | 34% |  |
+| 15 | 10% | 12% |  |
+| 16 | 1.5% | 2% |  |
 | 17 | 0.1% | 0.1% |  |
 | 18 | 0% | 0% |  |
 

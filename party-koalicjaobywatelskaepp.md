@@ -418,9 +418,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–25 June 2021](2021-06-25-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 11 | 10–13 | 10–13 | 10–13 | 9–14 |
 | [18–21 June 2021](2021-06-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11 | 10–12 | 9–12 | 9–12 | 9–12 |
 | [18–21 June 2021](2021-06-21-ResearchPartner.html) | Research Partner <br> Ariadna | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
-| [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
+| [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7 | 7–8 | 6–8 | 6–8 | 6–9 |
 | [19 June 2021](2021-06-19-UnitedSurvey.html) | United Survey <br> WP.pl | 8 | 8–9 | 7–10 | 7–10 | 7–10 |
-| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 14 | 12–15 | 12–15 | 12–15 | 11–16 |
+| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 13 | 12–15 | 12–15 | 12–15 | 11–16 |
 | [11–14 June 2021](2021-06-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9 | 9–10 | 8–11 | 8–11 | 8–11 |
 | [11 June 2021](2021-06-11-IBRiS.html) | IBRiS <br> Radio ZET | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [4–7 June 2021](2021-06-07-ResearchPartner.html) | Research Partner <br> Ariadna | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
@@ -788,12 +788,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 100% |  |
 | 4 | 0% | 100% |  |
 | 5 | 0% | 100% |  |
-| 6 | 2% | 100% |  |
-| 7 | 10% | 98% |  |
+| 6 | 1.3% | 100% |  |
+| 7 | 11% | 98.7% |  |
 | 8 | 14% | 88% |  |
 | 9 | 14% | 74% |  |
-| 10 | 22% | 61% | Median |
-| 11 | 26% | 39% |  |
+| 10 | 23% | 61% | Median |
+| 11 | 25% | 37% |  |
 | 12 | 10% | 13% |  |
 | 13 | 2% | 3% |  |
 | 14 | 0.3% | 0.4% |  |

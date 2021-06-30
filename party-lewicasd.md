@@ -403,13 +403,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–7 | 2–7 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–6 | 2–7 |
 | [24–25 June 2021](2021-06-25-Kantar.html) | Kantar <br> Fakty TVN & TVN24 | 4 | 3–4 | 3–5 | 2–5 | 0–5 |
-| [18–21 June 2021](2021-06-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [18–21 June 2021](2021-06-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [18–21 June 2021](2021-06-21-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [19–20 June 2021](2021-06-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [19 June 2021](2021-06-19-UnitedSurvey.html) | United Survey <br> WP.pl | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [19 June 2021](2021-06-19-UnitedSurvey.html) | United Survey <br> WP.pl | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [11–16 June 2021](2021-06-16-Kantar.html) | Kantar | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [11–14 June 2021](2021-06-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [11 June 2021](2021-06-11-IBRiS.html) | IBRiS <br> Radio ZET | 4 | 4–5 | 4–5 | 3–6 | 3–6 |
 | [4–7 June 2021](2021-06-07-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -776,9 +776,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.3% | 99.7% |  |
 | 3 | 17% | 99.4% |  |
 | 4 | 36% | 83% | Median |
-| 5 | 32% | 47% |  |
-| 6 | 12% | 15% |  |
-| 7 | 3% | 3% |  |
+| 5 | 31% | 47% |  |
+| 6 | 14% | 16% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 

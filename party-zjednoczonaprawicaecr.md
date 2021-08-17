@@ -453,12 +453,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–21 | 17–22 | 17–22 | 16–23 |
-| [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
-| [31 July–1 August 2021](2021-08-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–22 | 19–22 | 18–22 | 17–23 |
-| [30 July 2021](2021-07-30-UnitedSurvey.html) | United Survey <br> WP.pl | 21 | 20–22 | 19–22 | 19–22 | 18–23 |
+| [31 July–1 August 2021](2021-08-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
+| [30 July 2021](2021-07-30-UnitedSurvey.html) | United Survey <br> WP.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [23–26 July 2021](2021-07-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
-| [24–25 July 2021](2021-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [24–25 July 2021](2021-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [21–23 July 2021](2021-07-23-IBSP.html) | IBSP <br> StanPolityki.pl | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [16–19 July 2021](2021-07-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [16–19 July 2021](2021-07-19-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
@@ -861,11 +861,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.9% | 99.9% |  |
 | 17 | 4% | 99.1% |  |
 | 18 | 11% | 95% |  |
-| 19 | 24% | 84% |  |
-| 20 | 32% | 60% | Median |
-| 21 | 21% | 27% |  |
-| 22 | 6% | 7% |  |
-| 23 | 0.7% | 0.8% |  |
+| 19 | 25% | 84% |  |
+| 20 | 33% | 58% | Median |
+| 21 | 20% | 26% |  |
+| 22 | 5% | 6% |  |
+| 23 | 0.8% | 0.9% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 

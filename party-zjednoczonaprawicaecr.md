@@ -501,7 +501,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–17 May 2021](2021-05-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [14–17 May 2021](2021-05-17-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [15–16 May 2021](2021-05-16-UCEResearch.html) | UCE Research <br> WP.pl | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
-| [13–14 May 2021](2021-05-14-IBSP.html) | IBSP <br> StanPolityki.pl | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [13–14 May 2021](2021-05-14-IBSP.html) | IBSP <br> StanPolityki.pl | 17 | 16–18 | 16–19 | 15–19 | 15–19 |
 | [7–12 May 2021](2021-05-12-Kantar.html) | Kantar | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [11 May 2021](2021-05-11-UnitedSurvey.html) | United Survey <br> DGP & RMF FM | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [11 May 2021](2021-05-11-Kantar.html) | Kantar | 18 | 17–19 | 17–20 | 16–20 | 16–20 |

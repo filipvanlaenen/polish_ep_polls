@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-08-16T20:46:05.890562+02:00</updated>
+  <updated>2021-08-21T08:20:29.107171+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.4–3.2%, 0 seats</li><li>Zjednoczona Prawica (ECR): 31.7–37.4%, 18–21 seats</li><li>Koalicja Obywatelska (EPP): 23.3–28.6%, 13–16 seats</li><li>Lewica (S&amp;D): 6.8–10.1%, 3–5 seats</li><li>Koalicja Polska (EPP): 2.2–4.4%, 0 seats</li><li>Konfederacja (NI): 8.1–11.7%, 4–6 seats</li><li>Polska 2050 (*): 14.2–18.7%, 8–10 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2021-08-04-InstytutBadańPollster.html</id>
@@ -390,6 +390,14 @@
     <title>Opinion Poll by UCE Research for WP.pl, 15–16 May 2021</title>
     <updated>2021-05-22T13:05:26.334693+02:00</updated>
     <dc:date>2021-05-22T13:05:26.334693+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 28.0–33.7%, 15–19 seats</li><li>Koalicja Obywatelska (EPP): 13.0–17.5%, 7–9 seats</li><li>Lewica (S&amp;D): 8.3–12.0%, 4–6 seats</li><li>Koalicja Polska (EPP): 1.6–3.6%, 0 seats</li><li>Konfederacja (NI): 9.6–13.6%, 5–7 seats</li><li>Polska 2050 (*): 25.0–30.5%, 14–17 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-IBSP.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2021-05-14-IBSP.html"/>
+    <title>Opinion Poll by IBSP for StanPolityki.pl, 13–14 May 2021</title>
+    <updated>2021-08-21T08:20:29.107171+02:00</updated>
+    <dc:date>2021-08-21T08:20:29.107171+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.3–3.1%, 0 seats</li><li>Zjednoczona Prawica (ECR): 35.0–41.0%, 20–23 seats</li><li>Koalicja Obywatelska (EPP): 21.4–26.7%, 12–15 seats</li><li>Lewica (S&amp;D): 5.6–8.8%, 3–5 seats</li><li>Koalicja Polska (EPP): 2.1–4.3%, 0 seats</li><li>Konfederacja (NI): 4.7–7.7%, 0–4 seats</li><li>Polska 2050 (*): 17.6–22.6%, 10–12 seats</li></ul></div></content>
@@ -3039,5 +3047,5 @@
     <updated>2020-03-23T18:19:37.802903+01:00</updated>
     <dc:date>2020-03-23T18:19:37.802903+01:00</dc:date>
   </entry>
-  <dc:date>2021-08-16T20:46:05.890562+02:00</dc:date>
+  <dc:date>2021-08-21T08:20:29.107171+02:00</dc:date>
 </feed>

@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.0–9.9% | 5.6–10.4% | 5.3–10.9% | 4.7–11.7% |
+| N/A | [Poll Average](average.html) | 7.7% | 6.6–8.9% | 6.3–9.3% | 6.0–9.6% | 5.5–10.2% |
+| [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 8.6% | N/A | N/A | N/A | N/A |
+| [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.7% | 5.2–9.3% |
+| [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 6.0–10.3% |
+| [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 8.0% | 7.1–9.2% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
+| [6–11 August 2021](2021-08-11-Kantar.html) | Kantar | 8.0% | N/A | N/A | N/A | N/A |
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.3% | 7.3–9.5% | 7.0–9.8% | 6.8–10.1% | 6.3–10.7% |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [31 July–1 August 2021](2021-08-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.5% |
@@ -402,17 +407,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 5% | 99.7% |  |
-| 5.5–6.5% | 16% | 95% |  |
-| 6.5–7.5% | 24% | 79% |  |
-| 7.5–8.5% | 24% | 55% | Median |
-| 8.5–9.5% | 17% | 31% |  |
-| 9.5–10.5% | 10% | 14% |  |
-| 10.5–11.5% | 4% | 4% |  |
-| 11.5–12.5% | 0.7% | 0.7% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.5% | 100% |  |
+| 5.5–6.5% | 9% | 99.5% |  |
+| 6.5–7.5% | 33% | 91% |  |
+| 7.5–8.5% | 39% | 58% | Median |
+| 8.5–9.5% | 16% | 19% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -423,7 +426,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
+| [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [6–11 August 2021](2021-08-11-Kantar.html) | Kantar |  |  |  |  |  |
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [31 July–1 August 2021](2021-08-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -813,14 +821,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.5% | 100% | Last Result |
-| 1 | 0% | 98.5% |  |
-| 2 | 1.2% | 98.5% |  |
-| 3 | 30% | 97% |  |
-| 4 | 41% | 67% | Median |
-| 5 | 24% | 27% |  |
-| 6 | 2% | 2% |  |
-| 7 | 0.1% | 0.1% |  |
-| 8 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 23% | 99.8% |  |
+| 4 | 56% | 77% | Median |
+| 5 | 20% | 21% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 

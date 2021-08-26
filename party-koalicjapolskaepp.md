@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 1.9–5.9% | 1.7–6.3% | 1.5–6.6% | 1.3–7.2% |
+| N/A | [Poll Average](average.html) | 3.2% | 1.8–5.8% | 1.7–6.3% | 1.5–6.6% | 1.3–7.3% |
+| [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 4.6% | N/A | N/A | N/A | N/A |
+| [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
+| [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 2.3% | 1.8–3.0% | 1.7–3.2% | 1.6–3.4% | 1.3–3.8% |
+| [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
+| [6–11 August 2021](2021-08-11-Kantar.html) | Kantar | 5.0% | N/A | N/A | N/A | N/A |
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3.1% | 2.5–4.0% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [31 July–1 August 2021](2021-08-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.5% | 4.7–6.5% | 4.5–6.8% | 4.3–7.0% | 3.9–7.5% |
@@ -400,11 +405,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 28% | 97% |  |
-| 2.5–3.5% | 18% | 69% |  |
-| 3.5–4.5% | 15% | 51% | Median |
-| 4.5–5.5% | 20% | 36% |  |
-| 5.5–6.5% | 13% | 16% |  |
+| 1.5–2.5% | 34% | 97% |  |
+| 2.5–3.5% | 17% | 63% | Median |
+| 3.5–4.5% | 17% | 46% |  |
+| 4.5–5.5% | 15% | 29% |  |
+| 5.5–6.5% | 11% | 14% |  |
 | 6.5–7.5% | 3% | 3% |  |
 | 7.5–8.5% | 0.2% | 0.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -419,6 +424,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
+| [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
+| [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
+| [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [6–11 August 2021](2021-08-11-Kantar.html) | Kantar |  |  |  |  |  |
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [31 July–1 August 2021](2021-08-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
@@ -808,10 +818,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 0% | 28% |  |
-| 2 | 11% | 28% |  |
-| 3 | 17% | 18% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 0% | 22% |  |
+| 2 | 6% | 22% |  |
+| 3 | 15% | 16% |  |
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 

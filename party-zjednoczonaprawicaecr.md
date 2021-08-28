@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 36.6% | 32.6–41.1% | 31.9–42.0% | 31.3–42.7% | 30.2–44.0% |
+| [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 33.0% | 31.2–34.9% | 30.7–35.5% | 30.2–35.9% | 29.4–36.8% |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 39.1% | 37.2–41.0% | 36.7–41.5% | 36.2–42.0% | 35.3–42.9% |
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 33.0% | 31.2–34.9% | 30.7–35.4% | 30.2–35.9% | 29.3–36.8% |
 | [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 34.9% | 33.1–36.9% | 32.5–37.4% | 32.1–37.9% | 31.2–38.8% |
@@ -434,7 +435,7 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0.1% | 100% |  |
 | 29.5–30.5% | 0.7% | 99.9% |  |
-| 30.5–31.5% | 3% | 99.1% |  |
+| 30.5–31.5% | 3% | 99.2% |  |
 | 31.5–32.5% | 6% | 97% |  |
 | 32.5–33.5% | 10% | 90% |  |
 | 33.5–34.5% | 12% | 80% |  |
@@ -461,10 +462,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 18–23 | 18–23 | 18–24 | 17–25 |
+| [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
-| [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
-| [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
+| [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
+| [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [6–11 August 2021](2021-08-11-Kantar.html) | Kantar | 23 | 21–24 | 21–24 | 21–25 | 20–26 |
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
@@ -872,11 +874,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 1.4% | 99.9% |  |
-| 18 | 11% | 98.6% |  |
-| 19 | 26% | 87% |  |
-| 20 | 20% | 62% | Median |
-| 21 | 15% | 42% |  |
+| 17 | 2% | 99.9% |  |
+| 18 | 13% | 98% |  |
+| 19 | 24% | 85% |  |
+| 20 | 20% | 61% | Median |
+| 21 | 14% | 41% |  |
 | 22 | 15% | 27% |  |
 | 23 | 9% | 12% |  |
 | 24 | 2% | 3% |  |

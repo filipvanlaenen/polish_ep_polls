@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–5 July 2021](2021-07-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21.0% | 19.5–22.7% | 19.0–23.2% | 18.7–23.6% | 17.9–24.4% |
 | [2–5 July 2021](2021-07-05-ResearchPartner.html) | Research Partner <br> Ariadna | 21.0% | 19.5–22.7% | 19.0–23.2% | 18.7–23.6% | 17.9–24.4% |
 | [2–5 July 2021](2021-07-05-Opinia24.html) | Opinia24 <br> RMF | 25.0% | 23.3–26.8% | 22.8–27.3% | 22.4–27.8% | 21.6–28.7% |
-| [30 June 2021](2021-06-30-IBRiS.html) | IBRiS <br> Wydarzenia | 18.4% | 16.9–19.9% | 16.5–20.4% | 16.2–20.8% | 15.5–21.5% |
+| [30 June 2021](2021-06-30-IBRiS.html) | IBRiS <br> Wydarzenia | 18.4% | 16.9–20.0% | 16.5–20.4% | 16.2–20.9% | 15.5–21.5% |
 | [25–28 June 2021](2021-06-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17.0% | 15.6–18.5% | 15.2–19.0% | 14.9–19.4% | 14.2–20.1% |
 | [26–27 June 2021](2021-06-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 21.0% | 19.4–22.6% | 19.0–23.1% | 18.6–23.5% | 17.9–24.3% |
 | [25–26 June 2021](2021-06-26-IBRiS.html) | IBRiS <br> Onet.pl | 17.8% | 16.4–19.4% | 16.0–19.8% | 15.7–20.2% | 15.0–20.9% |
@@ -451,7 +451,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–16 | 13–17 | 13–18 | 12–18 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 13–18 | 12–18 |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 14–15 | 13–16 | 13–16 | 13–17 |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
@@ -461,7 +461,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
 | [31 July–1 August 2021](2021-08-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
-| [30 July 2021](2021-07-30-UnitedSurvey.html) | United Survey <br> WP.pl | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [30 July 2021](2021-07-30-UnitedSurvey.html) | United Survey <br> WP.pl | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [23–26 July 2021](2021-07-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–14 | 12–15 | 11–15 |
 | [24–25 July 2021](2021-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [21–23 July 2021](2021-07-23-IBSP.html) | IBSP <br> StanPolityki.pl | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
@@ -862,11 +862,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 1.1% | 100% |  |
 | 13 | 12% | 98.9% |  |
 | 14 | 36% | 87% |  |
-| 15 | 30% | 51% | Median |
-| 16 | 12% | 21% |  |
-| 17 | 6% | 9% |  |
+| 15 | 29% | 51% | Median |
+| 16 | 11% | 22% |  |
+| 17 | 8% | 11% |  |
 | 18 | 2% | 3% |  |
-| 19 | 0.3% | 0.3% |  |
+| 19 | 0.4% | 0.4% |  |
 | 20 | 0% | 0% |  |
 
 

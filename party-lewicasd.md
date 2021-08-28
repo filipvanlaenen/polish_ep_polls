@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–5 July 2021](2021-07-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 7.9–10.2% | 7.7–10.6% | 7.4–10.9% | 6.9–11.5% |
 | [2–5 July 2021](2021-07-05-ResearchPartner.html) | Research Partner <br> Ariadna | 7.2% | 6.3–8.3% | 6.0–8.7% | 5.8–8.9% | 5.4–9.5% |
 | [2–5 July 2021](2021-07-05-Opinia24.html) | Opinia24 <br> RMF | 9.0% | 7.9–10.3% | 7.6–10.6% | 7.4–10.9% | 6.9–11.6% |
-| [30 June 2021](2021-06-30-IBRiS.html) | IBRiS <br> Wydarzenia | 10.1% | 9.0–11.4% | 8.7–11.7% | 8.4–12.0% | 8.0–12.7% |
+| [30 June 2021](2021-06-30-IBRiS.html) | IBRiS <br> Wydarzenia | 10.1% | 8.9–11.4% | 8.6–11.8% | 8.4–12.1% | 8.0–12.8% |
 | [25–28 June 2021](2021-06-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.5% |
 | [26–27 June 2021](2021-06-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
 | [25–26 June 2021](2021-06-26-IBRiS.html) | IBRiS <br> Onet.pl | 9.2% | 8.1–10.4% | 7.8–10.7% | 7.6–11.0% | 7.1–11.6% |
@@ -826,8 +826,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 11% | 100% |  |
-| 4 | 66% | 89% | Median |
+| 3 | 12% | 100% |  |
+| 4 | 65% | 88% | Median |
 | 5 | 22% | 23% |  |
 | 6 | 0.6% | 0.6% |  |
 | 7 | 0% | 0% |  |

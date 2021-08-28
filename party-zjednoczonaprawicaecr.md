@@ -471,7 +471,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [31 July–1 August 2021](2021-08-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
-| [30 July 2021](2021-07-30-UnitedSurvey.html) | United Survey <br> WP.pl | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
+| [30 July 2021](2021-07-30-UnitedSurvey.html) | United Survey <br> WP.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [23–26 July 2021](2021-07-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
 | [24–25 July 2021](2021-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 20 | 19–22 | 19–22 | 19–23 | 18–23 |
 | [21–23 July 2021](2021-07-23-IBSP.html) | IBSP <br> StanPolityki.pl | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -876,9 +876,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.1% | 100% |  |
 | 17 | 2% | 99.9% |  |
 | 18 | 13% | 98% |  |
-| 19 | 23% | 85% |  |
-| 20 | 19% | 62% | Median |
-| 21 | 15% | 43% |  |
+| 19 | 24% | 85% |  |
+| 20 | 20% | 61% | Median |
+| 21 | 14% | 41% |  |
 | 22 | 15% | 27% |  |
 | 23 | 9% | 12% |  |
 | 24 | 2% | 3% |  |

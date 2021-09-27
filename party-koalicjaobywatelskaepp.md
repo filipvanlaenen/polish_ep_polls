@@ -485,7 +485,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–3 September 2021](2021-09-03-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 14 | 13–15 | 13–16 | 13–16 | 12–17 |
 | [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–15 | 13–15 | 12–16 |
-| [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 14–16 | 14–17 | 14–17 | 13–18 |
+| [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 13 | 12–14 | 12–15 | 12–15 | 11–15 |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 14–15 | 13–16 | 13–16 | 13–17 |

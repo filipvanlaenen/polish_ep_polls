@@ -484,22 +484,22 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–23 | 20–24 | 20–25 |
-| [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 21–23 | 19–24 | 19–24 |
-| [11–12 September 2021](2021-09-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Salon24.pl | 22 | 21–22 | 20–24 | 20–24 | 19–24 |
+| [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
+| [11–12 September 2021](2021-09-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Salon24.pl | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
 | [9–11 September 2021](2021-09-11-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 20 | 18–21 | 18–22 | 17–22 | 17–23 |
 | [10–11 September 2021](2021-09-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 22–24 | 21–24 | 21–25 | 20–25 |
 | [10 September 2021](2021-09-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 22 | 21–23 | 21–24 | 20–24 | 20–25 |
-| [3–8 September 2021](2021-09-08-Kantar.html) | Kantar | 21 | 21–23 | 20–24 | 20–25 | 19–25 |
+| [3–8 September 2021](2021-09-08-Kantar.html) | Kantar | 22 | 21–23 | 20–23 | 20–24 | 19–25 |
 | [7 September 2021](2021-09-07-IBRiS.html) | IBRiS <br> Wydarzenia | 22 | 21–24 | 21–24 | 21–24 | 20–25 |
-| [3–6 September 2021](2021-09-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 19–23 | 19–23 | 19–24 |
+| [3–6 September 2021](2021-09-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [3–6 September 2021](2021-09-06-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
-| [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl | 22 | 21–23 | 20–24 | 20–24 | 19–24 |
-| [1–3 September 2021](2021-09-03-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 21 | 20–22 | 19–22 | 19–22 | 18–23 |
-| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 19 | 18–21 | 18–21 | 18–22 | 17–22 |
-| [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 19–21 | 18–21 | 18–21 | 18–23 |
-| [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 20–22 | 20–23 | 20–23 | 19–24 |
-| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
-| [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 22 | 20–22 | 19–22 | 19–23 | 18–23 |
+| [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
+| [1–3 September 2021](2021-09-03-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
+| [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 19–21 | 18–21 | 18–21 | 18–22 |
+| [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
+| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 22 | 21–23 | 20–24 | 20–24 | 20–25 |
+| [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 21 | 20–22 | 19–22 | 19–23 | 18–23 |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
@@ -912,12 +912,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 1.4% | 99.9% |  |
-| 18 | 8% | 98.6% |  |
-| 19 | 13% | 91% |  |
-| 20 | 17% | 78% |  |
-| 21 | 18% | 60% | Median |
-| 22 | 22% | 43% |  |
+| 17 | 1.3% | 99.9% |  |
+| 18 | 7% | 98.7% |  |
+| 19 | 14% | 92% |  |
+| 20 | 17% | 77% |  |
+| 21 | 18% | 61% | Median |
+| 22 | 21% | 42% |  |
 | 23 | 16% | 21% |  |
 | 24 | 4% | 5% |  |
 | 25 | 0.7% | 0.7% |  |

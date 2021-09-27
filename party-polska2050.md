@@ -458,26 +458,26 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8 | 5–10 | 5–11 | 5–12 | 4–12 |
+| N/A | [Poll Average](average.html) | 8 | 5–10 | 5–11 | 5–11 | 4–12 |
 | [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 6–7 | 6–7 | 5–7 | 5–8 |
-| [11–12 September 2021](2021-09-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Salon24.pl | 7 | 7–8 | 7–8 | 6–8 | 6–9 |
+| [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [11–12 September 2021](2021-09-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Salon24.pl | 7 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [9–11 September 2021](2021-09-11-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [10–11 September 2021](2021-09-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [10 September 2021](2021-09-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [3–8 September 2021](2021-09-08-Kantar.html) | Kantar | 7 | 7–8 | 7–9 | 7–9 | 6–9 |
+| [3–8 September 2021](2021-09-08-Kantar.html) | Kantar | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [7 September 2021](2021-09-07-IBRiS.html) | IBRiS <br> Wydarzenia | 7 | 6–7 | 6–7 | 6–8 | 5–8 |
-| [3–6 September 2021](2021-09-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8 | 8–10 | 8–10 | 7–10 | 7–10 |
+| [3–6 September 2021](2021-09-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9 | 8–10 | 8–10 | 8–10 | 7–11 |
 | [3–6 September 2021](2021-09-06-ResearchPartner.html) | Research Partner <br> Ariadna | 11 | 10–12 | 10–12 | 9–12 | 9–13 |
-| [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl | 7 | 6–7 | 6–8 | 5–8 | 5–8 |
+| [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [1–3 September 2021](2021-09-03-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
-| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
+| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 9 | 8–10 | 7–10 | 7–10 | 7–11 |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9 | 9–10 | 8–10 | 8–11 | 8–11 |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 8 | 8–10 | 8–10 | 8–10 | 7–10 |
+| [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 9 | 8–10 | 8–10 | 7–10 | 7–10 |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10 | 9–11 | 9–11 | 9–11 | 8–12 |
@@ -883,10 +883,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 19% | 73% |  |
 | 8 | 21% | 54% | Median |
 | 9 | 18% | 33% |  |
-| 10 | 7% | 14% |  |
-| 11 | 4% | 7% |  |
-| 12 | 2% | 3% |  |
-| 13 | 0.2% | 0.2% |  |
+| 10 | 8% | 15% |  |
+| 11 | 5% | 7% |  |
+| 12 | 2% | 2% |  |
+| 13 | 0.1% | 0.1% |  |
 | 14 | 0% | 0% |  |
 
 

@@ -458,15 +458,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10 September 2021](2021-09-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [3–8 September 2021](2021-09-08-Kantar.html) | Kantar | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [7 September 2021](2021-09-07-IBRiS.html) | IBRiS <br> Wydarzenia | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
-| [3–6 September 2021](2021-09-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [3–6 September 2021](2021-09-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [3–6 September 2021](2021-09-06-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [1–3 September 2021](2021-09-03-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -865,9 +865,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 1.5% | 100% | Last Result |
 | 1 | 0% | 98.5% |  |
 | 2 | 0.6% | 98.5% |  |
-| 3 | 27% | 98% |  |
-| 4 | 47% | 71% | Median |
-| 5 | 22% | 23% |  |
+| 3 | 26% | 98% |  |
+| 4 | 50% | 72% | Median |
+| 5 | 20% | 22% |  |
 | 6 | 2% | 2% |  |
 | 7 | 0% | 0% |  |
 

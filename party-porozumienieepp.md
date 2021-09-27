@@ -457,7 +457,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–6 September 2021](2021-09-06-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [1–3 September 2021](2021-09-03-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 0 | 0 | 0 | 0 | 0 |
-| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
@@ -859,8 +859,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 92% | 100% | Last Result, Median |
 | 1 | 0% | 8% |  |
-| 2 | 1.5% | 8% |  |
-| 3 | 7% | 7% |  |
+| 2 | 2% | 8% |  |
+| 3 | 6% | 6% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

@@ -448,7 +448,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
-| [11–12 September 2021](2021-09-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Salon24.pl | 0 | 0 | 0 | 0 | 0–3 |
+| [11–12 September 2021](2021-09-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Salon24.pl | 0 | 0 | 0–2 | 0–2 | 0–3 |
 | [9–11 September 2021](2021-09-11-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [10–11 September 2021](2021-09-11-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [10 September 2021](2021-09-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 0–3 | 0–4 | 0–4 |

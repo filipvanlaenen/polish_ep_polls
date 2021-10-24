@@ -10,7 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.8% | 33.6–41.5% | 32.8–42.3% | 32.2–42.9% | 31.1–44.0% |
+| N/A | [Poll Average](average.html) | 38.1% | 34.5–40.6% | 33.3–41.2% | 32.3–41.8% | 30.7–42.8% |
+| [15–18 October 2021](2021-10-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 39.0% | 37.1–40.9% | 36.6–41.4% | 36.1–41.9% | 35.2–42.8% |
+| [8–13 October 2021](2021-10-13-KantarPublic.html) | Kantar Public | 37.0% | 35.0–39.0% | 34.5–39.6% | 34.0–40.1% | 33.1–41.1% |
+| [12–13 October 2021](2021-10-13-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 34.0% | 31.6–36.5% | 31.0–37.3% | 30.4–37.9% | 29.3–39.1% |
+| [11 October 2021](2021-10-11-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 39.3% | 37.3–41.3% | 36.8–41.9% | 36.3–42.4% | 35.4–43.3% |
+| [8–11 October 2021](2021-10-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 40.0% | 38.1–41.9% | 37.5–42.5% | 37.1–43.0% | 36.2–43.9% |
+| [8 October 2021](2021-10-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 38.7% | 36.7–40.7% | 36.2–41.3% | 35.7–41.8% | 34.8–42.7% |
+| [6 October 2021](2021-10-06-IBRiS.html) | IBRiS <br> Wydarzenia | 38.8% | 36.9–40.7% | 36.4–41.2% | 35.9–41.7% | 35.1–42.6% |
+| [1–4 October 2021](2021-10-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 37.0% | 35.1–38.9% | 34.6–39.4% | 34.2–39.9% | 33.3–40.8% |
+| [24–27 September 2021](2021-09-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 38.0% | 36.1–39.9% | 35.6–40.4% | 35.1–40.9% | 34.3–41.8% |
+| [24–27 September 2021](2021-09-27-ResearchPartner.html) | Research Partner <br> Ariadna | 39.5% | 37.6–41.5% | 37.0–42.0% | 36.5–42.5% | 35.6–43.5% |
+| [24–25 September 2021](2021-09-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 39.0% | 37.1–40.9% | 36.6–41.5% | 36.2–41.9% | 35.3–42.8% |
+| [24 September 2021](2021-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
 | [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 37.0% | 35.2–39.0% | 34.6–39.5% | 34.2–40.0% | 33.3–41.0% |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 39.5% | 37.6–41.5% | 37.1–42.0% | 36.6–42.5% | 35.7–43.5% |
@@ -35,6 +47,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 33.0% | 31.2–34.9% | 30.7–35.4% | 30.2–35.9% | 29.3–36.8% |
 | [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 34.9% | 33.1–36.9% | 32.5–37.4% | 32.1–37.9% | 31.2–38.8% |
 | [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 34.0% | 32.2–35.9% | 31.6–36.5% | 31.2–36.9% | 30.3–37.9% |
+| [8 October–11 August 2021](2021-08-11-ResearchPartner.html) | Research Partner <br> Ariadna | 40.7% | 38.8–42.7% | 38.2–43.3% | 37.8–43.8% | 36.9–44.7% |
 | [6–11 August 2021](2021-08-11-Kantar.html) | Kantar | 41.0% | 39.0–43.0% | 38.4–43.6% | 37.9–44.1% | 37.0–45.1% |
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 34.5% | 32.7–36.4% | 32.1–37.0% | 31.7–37.4% | 30.8–38.4% |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 35.5% | 33.6–37.4% | 33.1–38.0% | 32.6–38.4% | 31.7–39.4% |
@@ -452,24 +465,23 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.2% | 100% |  |
-| 30.5–31.5% | 0.8% | 99.8% |  |
-| 31.5–32.5% | 3% | 98.9% |  |
-| 32.5–33.5% | 6% | 96% |  |
-| 33.5–34.5% | 9% | 91% |  |
-| 34.5–35.5% | 10% | 82% |  |
-| 35.5–36.5% | 10% | 72% |  |
-| 36.5–37.5% | 10% | 62% |  |
-| 37.5–38.5% | 10% | 52% | Median |
-| 38.5–39.5% | 11% | 42% |  |
-| 39.5–40.5% | 12% | 32% |  |
-| 40.5–41.5% | 10% | 20% |  |
-| 41.5–42.5% | 6% | 10% |  |
-| 42.5–43.5% | 3% | 4% |  |
-| 43.5–44.5% | 0.8% | 1.0% |  |
-| 44.5–45.5% | 0.2% | 0.2% |  |
-| 45.5–46.5% | 0% | 0% |  |
+| 28.5–29.5% | 0.1% | 100% |  |
+| 29.5–30.5% | 0.3% | 99.9% |  |
+| 30.5–31.5% | 0.9% | 99.6% |  |
+| 31.5–32.5% | 2% | 98.7% |  |
+| 32.5–33.5% | 3% | 97% |  |
+| 33.5–34.5% | 4% | 94% |  |
+| 34.5–35.5% | 6% | 90% |  |
+| 35.5–36.5% | 10% | 84% |  |
+| 36.5–37.5% | 14% | 74% |  |
+| 37.5–38.5% | 18% | 60% | Median |
+| 38.5–39.5% | 18% | 42% |  |
+| 39.5–40.5% | 13% | 24% |  |
+| 40.5–41.5% | 7% | 11% |  |
+| 41.5–42.5% | 3% | 3% |  |
+| 42.5–43.5% | 0.7% | 0.8% |  |
+| 43.5–44.5% | 0.1% | 0.1% |  |
+| 44.5–45.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -480,7 +492,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
+| N/A | [Poll Average](average.html) | 21 | 19–23 | 19–23 | 18–24 | 17–24 |
+| [15–18 October 2021](2021-10-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 21–24 | 21–24 | 20–25 |
+| [8–13 October 2021](2021-10-13-KantarPublic.html) | Kantar Public | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
+| [12–13 October 2021](2021-10-13-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 19 | 18–21 | 17–21 | 17–22 | 16–22 |
+| [11 October 2021](2021-10-11-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 21 | 20–23 | 20–23 | 19–24 | 19–24 |
+| [8–11 October 2021](2021-10-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 22–24 | 22–24 | 21–25 | 21–25 |
+| [8 October 2021](2021-10-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
+| [6 October 2021](2021-10-06-IBRiS.html) | IBRiS <br> Wydarzenia | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
+| [1–4 October 2021](2021-10-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
+| [24–27 September 2021](2021-09-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
+| [24–27 September 2021](2021-09-27-ResearchPartner.html) | Research Partner <br> Ariadna | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
+| [24–25 September 2021](2021-09-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
+| [24 September 2021](2021-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–23 | 20–24 | 20–25 |
@@ -505,6 +529,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
+| [8 October–11 August 2021](2021-08-11-ResearchPartner.html) | Research Partner <br> Ariadna | 23 | 22–24 | 21–24 | 21–24 | 20–25 |
 | [6–11 August 2021](2021-08-11-Kantar.html) | Kantar | 23 | 21–24 | 21–24 | 21–25 | 20–26 |
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
@@ -911,16 +936,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 1.3% | 99.9% |  |
-| 18 | 7% | 98.7% |  |
-| 19 | 14% | 92% |  |
-| 20 | 17% | 77% |  |
-| 21 | 18% | 61% | Median |
-| 22 | 21% | 42% |  |
-| 23 | 16% | 21% |  |
-| 24 | 4% | 5% |  |
-| 25 | 0.7% | 0.7% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 0.8% | 99.8% |  |
+| 18 | 4% | 99.0% |  |
+| 19 | 8% | 95% |  |
+| 20 | 19% | 87% |  |
+| 21 | 29% | 68% | Median |
+| 22 | 25% | 39% |  |
+| 23 | 11% | 14% |  |
+| 24 | 3% | 3% |  |
+| 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 
 

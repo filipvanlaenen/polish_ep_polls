@@ -529,7 +529,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–19 August 2021](2021-08-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [13–16 August 2021](2021-08-16-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [15–16 August 2021](2021-08-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
-| [8 October–11 August 2021](2021-08-11-ResearchPartner.html) | Research Partner <br> Ariadna | 23 | 22–24 | 21–24 | 21–24 | 20–25 |
+| [8 October–11 August 2021](2021-08-11-ResearchPartner.html) | Research Partner <br> Ariadna | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
 | [6–11 August 2021](2021-08-11-Kantar.html) | Kantar | 23 | 21–24 | 21–24 | 21–25 | 20–26 |
 | [30 July–4 August 2021](2021-08-04-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [30 July–2 August 2021](2021-08-02-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |

@@ -12,7 +12,7 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Zjednoczona Prawica (ECR) | 0.0% | 39.5% | 37.6–41.5% |37.0–42.0% |36.5–42.5% |35.6–43.5% |
 | Koalicja Obywatelska (EPP) | 0.0% | 25.1% | 23.4–26.9% |23.0–27.4% |22.5–27.8% |21.8–28.7% |
-| Polska 2050 (*) | 0.0% | 12.4% | 11.1–13.8% |10.8–14.2% |10.5–14.5% |9.9–15.2% |
+| Polska 2050 (RE) | 0.0% | 12.4% | 11.1–13.8% |10.8–14.2% |10.5–14.5% |9.9–15.2% |
 | Konfederacja (NI) | 0.0% | 9.6% | 8.5–10.8% |8.2–11.2% |7.9–11.5% |7.4–12.1% |
 | Lewica (S&D) | 0.0% | 8.3% | 7.3–9.5% |7.0–9.8% |6.8–10.2% |6.3–10.7% |
 | Koalicja Polska (EPP) | 0.0% | 2.2% | 1.7–2.9% |1.6–3.1% |1.5–3.3% |1.3–3.7% |
@@ -33,7 +33,7 @@
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 22 | 21–23 |21–24 |20–24 |20–24 |
 | <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 14 | 13–15 |13–15 |12–15 |12–16 |
-| <a href="#polska-2050-(*)">Polska 2050 (*)</a> | 0 | 7 | 6–7 |6–8 |6–8 |5–8 |
+| <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | 7 | 6–7 |6–8 |6–8 |5–8 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
 | <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 4 | 4–5 |4–5 |3–5 |3–6 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -104,11 +104,11 @@
 | 17 | 0% | 0.1% |  |
 | 18 | 0% | 0% |  |
 
-### Polska 2050 (*)
+### Polska 2050 (RE)
 
-*For a full overview of the results for this party, see the [Polska 2050 (*)](party-polska2050.html) page.*
+*For a full overview of the results for this party, see the [Polska 2050 (RE)](party-polska2050re.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-09-27-ResearchPartner-seats-pmf-polska2050.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-09-27-ResearchPartner-seats-pmf-polska2050re.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

@@ -484,7 +484,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 13–17 | 13–17 | 12–18 | 12–18 |
 | [15–18 October 2021](2021-10-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
-| [8–13 October 2021](2021-10-13-KantarPublic.html) | Kantar Public | 17 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [8–13 October 2021](2021-10-13-KantarPublic.html) | Kantar Public | 17 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [12–13 October 2021](2021-10-13-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 15 | 14–17 | 14–17 | 14–18 | 13–19 |
 | [11 October 2021](2021-10-11-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [8–11 October 2021](2021-10-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
@@ -495,7 +495,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–27 September 2021](2021-09-27-ResearchPartner.html) | Research Partner <br> Ariadna | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [24–25 September 2021](2021-09-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 14 | 13–15 | 13–15 | 12–15 | 12–16 |
 | [24 September 2021](2021-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 14 | 13–15 | 12–15 | 12–15 | 12–16 |
-| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 14 | 13–15 | 13–15 | 13–16 | 12–16 |
+| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 13–15 | 12–15 | 12–15 | 12–16 |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 14 | 13–14 | 12–15 | 12–15 | 12–16 |
 | [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–17 | 14–17 | 14–17 | 14–18 |
@@ -923,13 +923,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0.3% | 100% |  |
 | 12 | 4% | 99.7% |  |
-| 13 | 16% | 95% |  |
-| 14 | 24% | 79% |  |
-| 15 | 21% | 56% | Median |
-| 16 | 18% | 35% |  |
-| 17 | 14% | 17% |  |
-| 18 | 3% | 3% |  |
-| 19 | 0.3% | 0.3% |  |
+| 13 | 15% | 96% |  |
+| 14 | 24% | 81% |  |
+| 15 | 23% | 57% | Median |
+| 16 | 18% | 34% |  |
+| 17 | 12% | 16% |  |
+| 18 | 3% | 4% |  |
+| 19 | 0.4% | 0.4% |  |
 | 20 | 0% | 0% |  |
 
 

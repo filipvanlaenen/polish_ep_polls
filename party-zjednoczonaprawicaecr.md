@@ -499,13 +499,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11 October 2021](2021-10-11-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 21 | 20–23 | 20–23 | 19–24 | 19–24 |
 | [8–11 October 2021](2021-10-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 22–24 | 22–24 | 21–25 | 21–25 |
 | [8 October 2021](2021-10-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
-| [6 October 2021](2021-10-06-IBRiS.html) | IBRiS <br> Wydarzenia | 21 | 19–22 | 19–22 | 19–23 | 19–23 |
+| [6 October 2021](2021-10-06-IBRiS.html) | IBRiS <br> Wydarzenia | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
 | [1–4 October 2021](2021-10-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
 | [24–27 September 2021](2021-09-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 20–23 | 20–23 | 19–24 |
 | [24–27 September 2021](2021-09-27-ResearchPartner.html) | Research Partner <br> Ariadna | 22 | 21–23 | 21–24 | 20–24 | 20–24 |
 | [24–25 September 2021](2021-09-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [24 September 2021](2021-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
-| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
+| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–23 | 20–24 | 20–25 |
 | [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–23 | 20–23 | 20–23 | 19–24 |
@@ -937,14 +937,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.2% | 100% |  |
-| 17 | 0.9% | 99.8% |  |
-| 18 | 4% | 98.9% |  |
-| 19 | 9% | 95% |  |
-| 20 | 23% | 86% |  |
-| 21 | 24% | 63% | Median |
+| 17 | 0.8% | 99.8% |  |
+| 18 | 4% | 99.0% |  |
+| 19 | 8% | 95% |  |
+| 20 | 19% | 87% |  |
+| 21 | 29% | 68% | Median |
 | 22 | 25% | 39% |  |
-| 23 | 12% | 14% |  |
-| 24 | 2% | 3% |  |
+| 23 | 11% | 14% |  |
+| 24 | 3% | 3% |  |
 | 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 

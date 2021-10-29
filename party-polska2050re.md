@@ -481,7 +481,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–27 September 2021](2021-09-27-ResearchPartner.html) | Research Partner <br> Ariadna | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
 | [24–25 September 2021](2021-09-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [24 September 2021](2021-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
-| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 9 | 8–9 | 7–10 | 7–10 | 7–11 |
+| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 9 | 8–9 | 7–10 | 7–10 | 7–10 |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–8 | 6–8 | 6–8 | 6–9 |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
@@ -900,14 +900,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 1.1% | 100% |  |
-| 5 | 10% | 98.9% |  |
-| 6 | 26% | 89% |  |
-| 7 | 31% | 63% | Median |
-| 8 | 14% | 32% |  |
-| 9 | 15% | 18% |  |
-| 10 | 3% | 4% |  |
-| 11 | 0.4% | 0.4% |  |
+| 4 | 0.8% | 100% |  |
+| 5 | 11% | 99.2% |  |
+| 6 | 29% | 88% |  |
+| 7 | 28% | 60% | Median |
+| 8 | 16% | 32% |  |
+| 9 | 12% | 16% |  |
+| 10 | 4% | 4% |  |
+| 11 | 0.3% | 0.3% |  |
 | 12 | 0% | 0% |  |
 
 

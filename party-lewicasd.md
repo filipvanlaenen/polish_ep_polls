@@ -467,7 +467,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [11 October 2021](2021-10-11-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [8–11 October 2021](2021-10-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [8 October 2021](2021-10-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
-| [6 October 2021](2021-10-06-IBRiS.html) | IBRiS <br> Wydarzenia | 4 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [6 October 2021](2021-10-06-IBRiS.html) | IBRiS <br> Wydarzenia | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [1–4 October 2021](2021-10-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [24–27 September 2021](2021-09-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [24–27 September 2021](2021-09-27-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -888,13 +888,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.4% | 100% | Last Result |
-| 1 | 0% | 98.6% |  |
-| 2 | 0.8% | 98.6% |  |
+| 0 | 1.3% | 100% | Last Result |
+| 1 | 0% | 98.7% |  |
+| 2 | 0.7% | 98.7% |  |
 | 3 | 30% | 98% |  |
-| 4 | 51% | 68% | Median |
-| 5 | 16% | 17% |  |
-| 6 | 1.4% | 1.4% |  |
+| 4 | 50% | 68% | Median |
+| 5 | 17% | 18% |  |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 

@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.1% | 35.1–39.1% | 34.6–39.6% | 34.1–40.1% | 33.2–41.1% |
+| N/A | [Poll Average](average.html) | 36.5% | 32.7–38.7% | 31.5–39.3% | 30.7–39.9% | 29.4–40.9% |
+| [19–20 November 2021](2021-11-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 36.1% | 34.2–38.0% | 33.7–38.5% | 33.3–38.9% | 32.4–39.9% |
+| [18–19 November 2021](2021-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 36.3% | 34.4–38.3% | 33.8–38.9% | 33.4–39.3% | 32.5–40.3% |
 | [5–18 November 2021](2021-11-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 37.0% | 35.1–38.9% | 34.6–39.4% | 34.1–39.9% | 33.3–40.8% |
+| [16–18 November 2021](2021-11-18-Kantar.html) | Kantar <br> Wyborcza | 32.0% | 30.2–34.0% | 29.7–34.5% | 29.2–35.0% | 28.3–35.9% |
+| [12–17 November 2021](2021-11-17-KantarPublic.html) | Kantar Public | 33.0% | N/A | N/A | N/A | N/A |
 | [12–15 November 2021](2021-11-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 41.0% | N/A | N/A | N/A | N/A |
 | [5–9 November 2021](2021-11-09-ResearchPartner.html) | Research Partner <br> Ariadna | 37.6% | 35.7–39.6% | 35.2–40.2% | 34.7–40.6% | 33.8–41.6% |
 | [5–6 November 2021](2021-11-06-Estymator.html) | Estymator <br> DoRzeczy.pl | 37.3% | 35.4–39.2% | 34.8–39.8% | 34.4–40.3% | 33.5–41.2% |
@@ -475,21 +479,21 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0% | 100% |  |
-| 31.5–32.5% | 0.1% | 100% |  |
-| 32.5–33.5% | 0.8% | 99.9% |  |
-| 33.5–34.5% | 4% | 99.1% |  |
-| 34.5–35.5% | 11% | 95% |  |
-| 35.5–36.5% | 21% | 84% |  |
-| 36.5–37.5% | 26% | 64% | Median |
-| 37.5–38.5% | 21% | 38% |  |
-| 38.5–39.5% | 12% | 17% |  |
-| 39.5–40.5% | 4% | 6% |  |
-| 40.5–41.5% | 1.1% | 1.3% |  |
-| 41.5–42.5% | 0.2% | 0.2% |  |
+| 27.5–28.5% | 0.1% | 100% |  |
+| 28.5–29.5% | 0.5% | 99.9% |  |
+| 29.5–30.5% | 2% | 99.4% |  |
+| 30.5–31.5% | 3% | 98% |  |
+| 31.5–32.5% | 4% | 95% |  |
+| 32.5–33.5% | 4% | 91% |  |
+| 33.5–34.5% | 6% | 86% |  |
+| 34.5–35.5% | 12% | 80% |  |
+| 35.5–36.5% | 19% | 68% | Median |
+| 36.5–37.5% | 21% | 49% |  |
+| 37.5–38.5% | 16% | 28% |  |
+| 38.5–39.5% | 8% | 12% |  |
+| 39.5–40.5% | 3% | 4% |  |
+| 40.5–41.5% | 0.7% | 0.9% |  |
+| 41.5–42.5% | 0.1% | 0.1% |  |
 | 42.5–43.5% | 0% | 0% |  |
 
 
@@ -501,8 +505,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21 | 19–22 | 19–22 | 19–23 | 18–23 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 18–22 | 17–22 | 17–23 |
+| [19–20 November 2021](2021-11-20-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [18–19 November 2021](2021-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [5–18 November 2021](2021-11-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
+| [16–18 November 2021](2021-11-18-Kantar.html) | Kantar <br> Wyborcza | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [12–17 November 2021](2021-11-17-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [12–15 November 2021](2021-11-15-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [5–9 November 2021](2021-11-09-ResearchPartner.html) | Research Partner <br> Ariadna | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
 | [5–6 November 2021](2021-11-06-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 20–22 | 19–22 | 19–23 | 18–24 |
@@ -956,15 +964,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 2% | 99.9% |  |
-| 19 | 10% | 98% |  |
-| 20 | 31% | 88% |  |
-| 21 | 37% | 57% | Median |
-| 22 | 17% | 20% |  |
-| 23 | 3% | 3% |  |
-| 24 | 0.5% | 0.5% |  |
+| 16 | 0.2% | 100% |  |
+| 17 | 2% | 99.8% |  |
+| 18 | 10% | 97% |  |
+| 19 | 20% | 87% |  |
+| 20 | 28% | 68% | Median |
+| 21 | 26% | 40% |  |
+| 22 | 12% | 14% |  |
+| 23 | 2% | 2% |  |
+| 24 | 0.3% | 0.3% |  |
 | 25 | 0% | 0% |  |
 
 

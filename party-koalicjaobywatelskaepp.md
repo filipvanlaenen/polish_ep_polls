@@ -38,7 +38,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [24–27 September 2021](2021-09-27-ResearchPartner.html) | Research Partner <br> Ariadna | 25.1% | N/A | N/A | N/A | N/A |
 | [24–25 September 2021](2021-09-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 26.0% | N/A | N/A | N/A | N/A |
 | [24 September 2021](2021-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 25.8% | N/A | N/A | N/A | N/A |
-| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 26.0% | N/A | N/A | N/A | N/A |
+| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 26.0% | 24.3–27.8% | 23.8–28.4% | 23.4–28.8% | 22.6–29.7% |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24.0% | N/A | N/A | N/A | N/A |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 24.5% | N/A | N/A | N/A | N/A |
 | [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 27.0% | N/A | N/A | N/A | N/A |
@@ -52,7 +52,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–6 September 2021](2021-09-06-ResearchPartner.html) | Research Partner <br> Ariadna | 24.6% | N/A | N/A | N/A | N/A |
 | [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl | 25.2% | N/A | N/A | N/A | N/A |
 | [1–3 September 2021](2021-09-03-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 26.0% | N/A | N/A | N/A | N/A |
-| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 24.1% | N/A | N/A | N/A | N/A |
+| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 24.1% | 22.4–25.9% | 21.9–26.4% | 21.5–26.8% | 20.7–27.7% |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | N/A | N/A | N/A | N/A |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 28.3% | N/A | N/A | N/A | N/A |
 | [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 27.1% | N/A | N/A | N/A | N/A |
@@ -522,7 +522,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [24–27 September 2021](2021-09-27-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [24–25 September 2021](2021-09-25-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [24 September 2021](2021-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza |  |  |  |  |  |
+| [21–23 September 2021](2021-09-23-Ipsos.html) | Ipsos <br> OKO.press and Wyborcza | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [17–20 September 2021](2021-09-20-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [13–14 September 2021](2021-09-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [10–13 September 2021](2021-09-13-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
@@ -536,7 +536,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–6 September 2021](2021-09-06-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [3–4 September 2021](2021-09-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [1–3 September 2021](2021-09-03-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP |  |  |  |  |  |
-| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
+| [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 13 | 12–14 | 12–15 | 12–15 | 11–16 |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |

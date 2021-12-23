@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 26.2% | 23.2–30.5% | 22.6–31.5% | 22.1–32.3% | 21.1–33.6% |
+| N/A | [Poll Average](average.html) | 26.4% | 23.5–30.5% | 22.8–31.5% | 22.3–32.3% | 21.3–33.6% |
+| [17–20 December 2021](2021-12-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | 23.3–26.7% | 22.8–27.3% | 22.5–27.7% | 21.7–28.5% |
 | [17–18 December 2021](2021-12-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 28.4% | 26.7–30.2% | 26.2–30.7% | 25.8–31.1% | 25.0–32.0% |
 | [17 December 2021](2021-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
 | [10–13 December 2021](2021-12-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 24.0% | 22.4–25.7% | 21.9–26.2% | 21.5–26.6% | 20.8–27.5% |
@@ -488,13 +489,13 @@ The following table shows the probability mass function per percentage block of 
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0.1% | 100% |  |
-| 20.5–21.5% | 1.0% | 99.8% |  |
-| 21.5–22.5% | 4% | 98.9% |  |
-| 22.5–23.5% | 8% | 95% |  |
-| 23.5–24.5% | 13% | 87% |  |
-| 24.5–25.5% | 14% | 74% |  |
-| 25.5–26.5% | 13% | 60% | Median |
-| 26.5–27.5% | 11% | 46% |  |
+| 20.5–21.5% | 0.7% | 99.9% |  |
+| 21.5–22.5% | 3% | 99.2% |  |
+| 22.5–23.5% | 7% | 96% |  |
+| 23.5–24.5% | 12% | 90% |  |
+| 24.5–25.5% | 15% | 78% |  |
+| 25.5–26.5% | 15% | 62% | Median |
+| 26.5–27.5% | 12% | 47% |  |
 | 27.5–28.5% | 10% | 35% |  |
 | 28.5–29.5% | 9% | 25% |  |
 | 29.5–30.5% | 7% | 17% |  |
@@ -514,7 +515,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 13–17 | 12–18 | 12–18 | 12–19 |
+| N/A | [Poll Average](average.html) | 14 | 13–17 | 13–18 | 12–18 | 12–19 |
+| [17–20 December 2021](2021-12-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
 | [17–18 December 2021](2021-12-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [17 December 2021](2021-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
 | [10–13 December 2021](2021-12-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13 | 12–14 | 12–15 | 12–15 | 12–15 |
@@ -985,11 +987,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0.2% | 100% |  |
-| 12 | 5% | 99.8% |  |
-| 13 | 22% | 95% |  |
-| 14 | 28% | 73% | Median |
-| 15 | 22% | 46% |  |
-| 16 | 11% | 24% |  |
+| 12 | 4% | 99.8% |  |
+| 13 | 17% | 96% |  |
+| 14 | 31% | 79% | Median |
+| 15 | 23% | 48% |  |
+| 16 | 12% | 25% |  |
 | 17 | 6% | 13% |  |
 | 18 | 6% | 8% |  |
 | 19 | 1.1% | 1.2% |  |

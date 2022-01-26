@@ -10,13 +10,15 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.4% | 31.7–36.9% | 31.0–37.5% | 30.4–38.0% | 29.3–39.0% |
+| N/A | [Poll Average](average.html) | 34.7% | 31.8–37.1% | 31.1–37.7% | 30.5–38.2% | 29.4–39.3% |
+| [21 January 2022](2022-01-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.5% | 33.6–37.5% | 33.1–38.0% | 32.6–38.5% | 31.7–39.5% |
 | [17–18 January 2022](2022-01-18-Kantar.html) | Kantar <br> KO | 32.0% | 30.2–33.9% | 29.7–34.4% | 29.3–34.8% | 28.5–35.7% |
 | [14–17 January 2022](2022-01-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 33.9% | 32.1–35.8% | 31.6–36.3% | 31.1–36.8% | 30.3–37.7% |
+| [14–17 January 2022](2022-01-17-ResearchPartner.html) | Research Partner <br> Ariadna | 36.1% | 34.2–38.0% | 33.7–38.6% | 33.2–39.0% | 32.4–40.0% |
 | [12–13 January 2022](2022-01-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 32.8% | 30.9–34.7% | 30.4–35.2% | 30.0–35.7% | 29.1–36.6% |
 | [13 January 2022](2022-01-13-IBRiS.html) | IBRiS <br> Onet.pl | 35.7% | 33.9–37.6% | 33.3–38.1% | 32.9–38.6% | 32.1–39.5% |
 | [7–10 January 2022](2022-01-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 36.0% | N/A | N/A | N/A | N/A |
-| [6–7 January 2022](2022-01-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.6% | 33.7–37.6% | 33.2–38.1% | 32.7–38.6% | 31.8–39.6% |
+| [6–7 January 2022](2022-01-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.6% | N/A | N/A | N/A | N/A |
 | [31 December 2021–2 January 2022](2022-01-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 38.0% | N/A | N/A | N/A | N/A |
 | [28–30 December 2021](2021-12-30-Ipsos.html) | Ipsos <br> OKO.press | 35.0% | 33.1–37.0% | 32.6–37.5% | 32.1–38.0% | 31.2–39.0% |
 | [29–30 December 2021](2021-12-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 35.3% | 33.4–37.2% | 32.9–37.8% | 32.4–38.3% | 31.5–39.2% |
@@ -506,18 +508,18 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0.1% | 100% |  |
-| 28.5–29.5% | 0.6% | 99.9% |  |
-| 29.5–30.5% | 2% | 99.3% |  |
-| 30.5–31.5% | 6% | 97% |  |
-| 31.5–32.5% | 11% | 91% |  |
-| 32.5–33.5% | 15% | 80% |  |
-| 33.5–34.5% | 18% | 66% | Median |
-| 34.5–35.5% | 19% | 48% |  |
-| 35.5–36.5% | 15% | 29% |  |
-| 36.5–37.5% | 9% | 14% |  |
-| 37.5–38.5% | 4% | 5% |  |
-| 38.5–39.5% | 1.0% | 1.2% |  |
-| 39.5–40.5% | 0.2% | 0.2% |  |
+| 28.5–29.5% | 0.5% | 99.9% |  |
+| 29.5–30.5% | 2% | 99.4% |  |
+| 30.5–31.5% | 5% | 97% |  |
+| 31.5–32.5% | 9% | 92% |  |
+| 32.5–33.5% | 13% | 83% |  |
+| 33.5–34.5% | 17% | 70% |  |
+| 34.5–35.5% | 19% | 52% | Median |
+| 35.5–36.5% | 17% | 33% |  |
+| 36.5–37.5% | 10% | 16% |  |
+| 37.5–38.5% | 4% | 6% |  |
+| 38.5–39.5% | 1.3% | 2% |  |
+| 39.5–40.5% | 0.3% | 0.3% |  |
 | 40.5–41.5% | 0% | 0% |  |
 
 
@@ -530,15 +532,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
+| [21 January 2022](2022-01-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [17–18 January 2022](2022-01-18-Kantar.html) | Kantar <br> KO | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [14–17 January 2022](2022-01-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
+| [14–17 January 2022](2022-01-17-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [12–13 January 2022](2022-01-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [13 January 2022](2022-01-13-IBRiS.html) | IBRiS <br> Onet.pl | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [7–10 January 2022](2022-01-10-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [6–7 January 2022](2022-01-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
+| [6–7 January 2022](2022-01-07-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [31 December 2021–2 January 2022](2022-01-02-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [28–30 December 2021](2021-12-30-Ipsos.html) | Ipsos <br> OKO.press | 19 | 18–21 | 18–21 | 17–21 | 17–22 |
-| [29–30 December 2021](2021-12-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [29–30 December 2021](2021-12-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [17–20 December 2021](2021-12-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [17–18 December 2021](2021-12-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 19–20 | 18–21 | 18–21 | 17–21 |
 | [17 December 2021](2021-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
@@ -1014,13 +1018,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.7% | 100% |  |
-| 17 | 8% | 99.3% |  |
-| 18 | 27% | 91% |  |
-| 19 | 36% | 65% | Median |
-| 20 | 23% | 29% |  |
-| 21 | 5% | 6% |  |
-| 22 | 0.5% | 0.6% |  |
-| 23 | 0% | 0% |  |
+| 16 | 0.6% | 100% |  |
+| 17 | 7% | 99.3% |  |
+| 18 | 24% | 92% |  |
+| 19 | 36% | 68% | Median |
+| 20 | 23% | 32% |  |
+| 21 | 8% | 9% |  |
+| 22 | 0.9% | 1.0% |  |
+| 23 | 0.1% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 

@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 34.7% | 31.8–37.1% | 31.1–37.7% | 30.5–38.2% | 29.4–39.3% |
+| N/A | [Poll Average](average.html) | 34.1% | 31.0–37.6% | 30.3–38.5% | 29.7–39.3% | 28.7–40.6% |
+| [28 January–1 February 2022](2022-02-01-ResearchPartner.html) | Research Partner <br> Ariadna | 34.4% | 32.6–36.3% | 32.1–36.8% | 31.6–37.3% | 30.8–38.2% |
+| [27 January 2022](2022-01-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 37.8% | 35.8–39.8% | 35.3–40.3% | 34.8–40.8% | 33.9–41.8% |
+| [21–26 January 2022](2022-01-26-KantarPublic.html) | Kantar Public | 31.4% | 29.6–33.4% | 29.1–33.9% | 28.6–34.4% | 27.8–35.3% |
+| [21–24 January 2022](2022-01-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 35.0% | 33.1–36.9% | 32.6–37.4% | 32.2–37.9% | 31.3–38.8% |
 | [21 January 2022](2022-01-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.5% | 33.6–37.5% | 33.1–38.0% | 32.6–38.5% | 31.7–39.5% |
 | [17–18 January 2022](2022-01-18-Kantar.html) | Kantar <br> KO | 32.0% | 30.2–33.9% | 29.7–34.4% | 29.3–34.8% | 28.5–35.7% |
 | [14–17 January 2022](2022-01-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 33.9% | 32.1–35.8% | 31.6–36.3% | 31.1–36.8% | 30.3–37.7% |
@@ -507,20 +511,22 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
-| 27.5–28.5% | 0.1% | 100% |  |
-| 28.5–29.5% | 0.5% | 99.9% |  |
-| 29.5–30.5% | 2% | 99.4% |  |
-| 30.5–31.5% | 5% | 97% |  |
-| 31.5–32.5% | 9% | 92% |  |
-| 32.5–33.5% | 13% | 83% |  |
-| 33.5–34.5% | 17% | 70% |  |
-| 34.5–35.5% | 19% | 52% | Median |
-| 35.5–36.5% | 17% | 33% |  |
-| 36.5–37.5% | 10% | 16% |  |
-| 37.5–38.5% | 4% | 6% |  |
-| 38.5–39.5% | 1.3% | 2% |  |
-| 39.5–40.5% | 0.3% | 0.3% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 27.5–28.5% | 0.4% | 99.9% |  |
+| 28.5–29.5% | 2% | 99.6% |  |
+| 29.5–30.5% | 5% | 98% |  |
+| 30.5–31.5% | 9% | 93% |  |
+| 31.5–32.5% | 13% | 84% |  |
+| 32.5–33.5% | 14% | 71% |  |
+| 33.5–34.5% | 14% | 57% | Median |
+| 34.5–35.5% | 13% | 43% |  |
+| 35.5–36.5% | 11% | 30% |  |
+| 36.5–37.5% | 8% | 18% |  |
+| 37.5–38.5% | 5% | 10% |  |
+| 38.5–39.5% | 3% | 5% |  |
+| 39.5–40.5% | 1.3% | 2% |  |
+| 40.5–41.5% | 0.4% | 0.5% |  |
+| 41.5–42.5% | 0.1% | 0.1% |  |
+| 42.5–43.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -531,7 +537,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–20 | 17–21 | 17–21 | 16–22 |
+| N/A | [Poll Average](average.html) | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
+| [28 January–1 February 2022](2022-02-01-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [27 January 2022](2022-01-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
+| [21–26 January 2022](2022-01-26-KantarPublic.html) | Kantar Public | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
+| [21–24 January 2022](2022-01-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
 | [21 January 2022](2022-01-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [17–18 January 2022](2022-01-18-Kantar.html) | Kantar <br> KO | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
 | [14–17 January 2022](2022-01-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
@@ -1017,14 +1027,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0.6% | 100% |  |
-| 17 | 7% | 99.3% |  |
-| 18 | 24% | 92% |  |
-| 19 | 36% | 68% | Median |
-| 20 | 23% | 32% |  |
-| 21 | 8% | 9% |  |
-| 22 | 0.9% | 1.0% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 1.2% | 99.9% |  |
+| 17 | 8% | 98.7% |  |
+| 18 | 25% | 90% |  |
+| 19 | 29% | 66% | Median |
+| 20 | 22% | 37% |  |
+| 21 | 12% | 15% |  |
+| 22 | 2% | 2% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 

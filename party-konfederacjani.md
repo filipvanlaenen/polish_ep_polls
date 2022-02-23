@@ -10,8 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.8% | 7.0–11.3% | 6.3–11.8% | 5.9–12.1% | 5.3–12.8% |
+| N/A | [Poll Average](average.html) | 9.7% | 8.4–11.2% | 8.1–11.7% | 7.8–12.0% | 7.3–12.8% |
+| [16–17 February 2022](2022-02-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.5–11.0% | 7.0–11.6% |
+| [16–17 February 2022](2022-02-17-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.4% | 8.3–10.6% | 8.0–11.0% | 7.7–11.3% | 7.3–11.9% |
+| [11–14 February 2022](2022-02-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–11.9% | 7.8–12.6% |
+| [11–14 February 2022](2022-02-14-ResearchPartner.html) | Research Partner <br> Ariadna | 9.1% | 8.1–10.3% | 7.8–10.7% | 7.5–11.0% | 7.1–11.6% |
+| [11–12 February 2022](2022-02-12-IBRiS.html) | IBRiS <br> Onet.pl | 9.5% | N/A | N/A | N/A | N/A |
+| [4–7 February 2022](2022-02-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 12.0% | N/A | N/A | N/A | N/A |
+| [6 February 2022](2022-02-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.4% | N/A | N/A | N/A | N/A |
+| [4 December–6 February 2022](2022-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.9% | N/A | N/A | N/A | N/A |
 | [28 January–1 February 2022](2022-02-01-ResearchPartner.html) | Research Partner <br> Ariadna | 8.7% | 7.7–9.9% | 7.4–10.2% | 7.2–10.5% | 6.7–11.1% |
+| [28–31 January 2022](2022-01-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | N/A | N/A | N/A | N/A |
 | [27 January 2022](2022-01-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [21–26 January 2022](2022-01-26-KantarPublic.html) | Kantar Public | 10.7% | 9.6–12.1% | 9.3–12.5% | 9.0–12.8% | 8.4–13.5% |
 | [21–24 January 2022](2022-01-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.9–12.6% |
@@ -200,6 +209,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 11.0% | 9.9–12.4% | 9.5–12.8% | 9.3–13.1% | 8.7–13.8% |
 | [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.5–10.9% | 7.0–11.6% |
+| [3–7 February 2021](2021-02-07-IBSP.html) | IBSP <br> StanPolityki.pl | 9.0% | N/A | N/A | N/A | N/A |
 | [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [29 January–3 February 2021](2021-02-03-Kantar.html) | Kantar | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
@@ -488,15 +498,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 1.0% | 100% |  |
-| 5.5–6.5% | 5% | 99.0% |  |
-| 6.5–7.5% | 7% | 94% |  |
-| 7.5–8.5% | 9% | 87% |  |
-| 8.5–9.5% | 21% | 78% |  |
-| 9.5–10.5% | 30% | 57% | Median |
-| 10.5–11.5% | 20% | 27% |  |
-| 11.5–12.5% | 6% | 7% |  |
-| 12.5–13.5% | 0.9% | 1.0% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 1.2% | 100% |  |
+| 7.5–8.5% | 11% | 98.8% |  |
+| 8.5–9.5% | 31% | 88% |  |
+| 9.5–10.5% | 33% | 57% | Median |
+| 10.5–11.5% | 18% | 24% |  |
+| 11.5–12.5% | 5% | 6% |  |
+| 12.5–13.5% | 0.8% | 0.9% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -509,8 +519,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–7 | 2–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
+| [16–17 February 2022](2022-02-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [16–17 February 2022](2022-02-17-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [11–14 February 2022](2022-02-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [11–14 February 2022](2022-02-14-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [11–12 February 2022](2022-02-12-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [4–7 February 2022](2022-02-07-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [6 February 2022](2022-02-06-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [4 December–6 February 2022](2022-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [28 January–1 February 2022](2022-02-01-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [28–31 January 2022](2022-01-31-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [27 January 2022](2022-01-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
 | [21–26 January 2022](2022-01-26-KantarPublic.html) | Kantar Public | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [21–24 January 2022](2022-01-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -699,6 +718,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [10–12 February 2021](2021-02-12-IPSOS.html) | IPSOS <br> OKO | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [5–10 February 2021](2021-02-10-Kantar.html) | Kantar | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [5–8 February 2021](2021-02-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [3–7 February 2021](2021-02-07-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
 | [5–6 February 2021](2021-02-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [5 February 2021](2021-02-05-UnitedSurvey.html) | United Survey <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [29 January–3 February 2021](2021-02-03-Kantar.html) | Kantar | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
@@ -984,13 +1004,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% | Last Result |
-| 1 | 0% | 99.8% |  |
-| 2 | 0.7% | 99.8% |  |
-| 3 | 11% | 99.1% |  |
-| 4 | 12% | 88% |  |
-| 5 | 45% | 76% | Median |
-| 6 | 28% | 31% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0.3% | 100% |  |
+| 4 | 17% | 99.7% |  |
+| 5 | 52% | 82% | Median |
+| 6 | 27% | 31% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

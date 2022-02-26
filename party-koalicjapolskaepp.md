@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 2.5–7.0% | 2.0–7.4% | 1.7–7.7% | 1.4–8.4% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.1–7.1% | 3.7–7.4% | 3.5–7.8% | 3.0–8.4% |
+| [18–21 February 2022](2022-02-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
+| [18 February 2022](2022-02-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [16–17 February 2022](2022-02-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.3% | 4.1–7.9% |
 | [16–17 February 2022](2022-02-17-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.0% |
+| [11–16 February 2022](2022-02-16-KantarPublic.html) | Kantar Public | 5.1% | 4.3–6.1% | 4.0–6.4% | 3.8–6.6% | 3.5–7.1% |
 | [11–14 February 2022](2022-02-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.2–3.4% |
 | [11–14 February 2022](2022-02-14-ResearchPartner.html) | Research Partner <br> Ariadna | 6.3% | 5.5–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
 | [11–12 February 2022](2022-02-12-IBRiS.html) | IBRiS <br> Onet.pl | 4.8% | 4.1–5.8% | 3.9–6.0% | 3.7–6.3% | 3.4–6.7% |
@@ -494,15 +497,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.1% | 100% |  |
-| 1.5–2.5% | 9% | 98.9% |  |
-| 2.5–3.5% | 8% | 90% |  |
-| 3.5–4.5% | 19% | 82% |  |
-| 4.5–5.5% | 21% | 63% | Median |
-| 5.5–6.5% | 24% | 42% |  |
-| 6.5–7.5% | 14% | 18% |  |
-| 7.5–8.5% | 3% | 4% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 16% | 97% |  |
+| 4.5–5.5% | 29% | 81% |  |
+| 5.5–6.5% | 31% | 51% | Median |
+| 6.5–7.5% | 16% | 20% |  |
+| 7.5–8.5% | 4% | 4% |  |
+| 8.5–9.5% | 0.3% | 0.4% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -514,9 +517,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [18–21 February 2022](2022-02-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [18 February 2022](2022-02-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [16–17 February 2022](2022-02-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [16–17 February 2022](2022-02-17-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [11–16 February 2022](2022-02-16-KantarPublic.html) | Kantar Public | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [11–14 February 2022](2022-02-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [11–14 February 2022](2022-02-14-ResearchPartner.html) | Research Partner <br> Ariadna | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
 | [11–12 February 2022](2022-02-12-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -999,11 +1005,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 47% | 100% | Last Result |
-| 1 | 0% | 53% |  |
-| 2 | 8% | 53% | Median |
-| 3 | 37% | 45% |  |
-| 4 | 8% | 8% |  |
+| 0 | 32% | 100% | Last Result |
+| 1 | 0% | 68% |  |
+| 2 | 10% | 68% |  |
+| 3 | 48% | 58% | Median |
+| 4 | 10% | 10% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
 

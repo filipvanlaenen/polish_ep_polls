@@ -10,7 +10,22 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 5.2–11.8% | 4.7–12.5% | 4.3–13.1% | 3.8–14.1% |
+| N/A | [Poll Average](average.html) | 7.4% | 6.0–10.5% | 5.7–11.4% | 5.4–11.9% | 4.9–12.8% |
+| [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
+| [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.3% | 7.3–9.4% | 7.0–9.8% | 6.7–10.1% | 6.3–10.7% |
+| [8–13 April 2022](2022-04-13-KantarPublic.html) | Kantar Public | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
+| [8–11 April 2022](2022-04-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | N/A | N/A | N/A | N/A |
+| [8–11 April 2022](2022-04-11-ResearchPartner.html) | Research Partner <br> Ariadna | 7.2% | 6.3–8.3% | 6.0–8.7% | 5.8–8.9% | 5.4–9.5% |
+| [7–11 April 2022](2022-04-11-IBSP.html) | IBSP <br> StanPolityki.pl | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [1–4 April 2022](2022-04-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
+| [1–2 April 2022](2022-04-02-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| [1–2 April 2022](2022-04-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.4% | 6.4–8.5% | 6.2–8.8% | 6.0–9.1% | 5.5–9.6% |
+| [30–31 March 2022](2022-03-31-IBRiS.html) | IBRiS <br> Radio ZET | 8.9% | 7.9–10.1% | 7.6–10.5% | 7.4–10.7% | 6.9–11.3% |
+| [30–31 March 2022](2022-03-31-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.4% | 6.4–8.5% | 6.2–8.9% | 5.9–9.1% | 5.5–9.7% |
+| [25–28 March 2022](2022-03-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.5–10.9% | 7.0–11.5% |
+| [25–28 March 2022](2022-03-28-ResearchPartner.html) | Research Partner <br> Ariadna | 8.8% | 7.8–10.0% | 7.5–10.4% | 7.2–10.7% | 6.8–11.3% |
+| [18–21 March 2022](2022-03-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | N/A | N/A | N/A | N/A |
+| [18–21 March 2022](2022-03-21-KantarPublic.html) | Kantar Public <br> Polityka | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.0–9.2% |
 | [18–19 March 2022](2022-03-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [18 March 2022](2022-03-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.9% | N/A | N/A | N/A | N/A |
 | [11–16 March 2022](2022-03-16-KantarPublic.html) | Kantar Public | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.6% | 4.2–8.1% |
@@ -510,20 +525,19 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 4% | 99.8% |  |
-| 4.5–5.5% | 9% | 96% |  |
-| 5.5–6.5% | 11% | 87% |  |
-| 6.5–7.5% | 20% | 76% |  |
-| 7.5–8.5% | 22% | 55% | Median |
-| 8.5–9.5% | 10% | 33% |  |
-| 9.5–10.5% | 5% | 23% |  |
-| 10.5–11.5% | 7% | 19% |  |
-| 11.5–12.5% | 7% | 12% |  |
-| 12.5–13.5% | 4% | 5% |  |
-| 13.5–14.5% | 1.1% | 1.2% |  |
-| 14.5–15.5% | 0.2% | 0.2% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 4% | 99.8% |  |
+| 5.5–6.5% | 19% | 96% |  |
+| 6.5–7.5% | 32% | 78% | Median |
+| 7.5–8.5% | 23% | 46% |  |
+| 8.5–9.5% | 8% | 23% |  |
+| 9.5–10.5% | 5% | 15% |  |
+| 10.5–11.5% | 6% | 10% |  |
+| 11.5–12.5% | 3% | 4% |  |
+| 12.5–13.5% | 0.8% | 0.9% |  |
+| 13.5–14.5% | 0.1% | 0.1% |  |
+| 14.5–15.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -534,7 +548,22 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 2–6 | 0–7 | 0–7 | 0–8 |
+| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 2–6 | 0–7 |
+| [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
+| [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [8–13 April 2022](2022-04-13-KantarPublic.html) | Kantar Public | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [8–11 April 2022](2022-04-11-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [8–11 April 2022](2022-04-11-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [7–11 April 2022](2022-04-11-IBSP.html) | IBSP <br> StanPolityki.pl | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
+| [1–4 April 2022](2022-04-04-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [1–2 April 2022](2022-04-02-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
+| [1–2 April 2022](2022-04-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [30–31 March 2022](2022-03-31-IBRiS.html) | IBRiS <br> Radio ZET | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [30–31 March 2022](2022-03-31-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [25–28 March 2022](2022-03-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [25–28 March 2022](2022-03-28-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [18–21 March 2022](2022-03-21-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [18–21 March 2022](2022-03-21-KantarPublic.html) | Kantar Public <br> Polityka | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [18–19 March 2022](2022-03-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [18 March 2022](2022-03-18-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [11–16 March 2022](2022-03-16-KantarPublic.html) | Kantar Public | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
@@ -1033,15 +1062,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 0% | 91% |  |
-| 2 | 2% | 91% |  |
-| 3 | 22% | 89% |  |
-| 4 | 35% | 67% | Median |
-| 5 | 13% | 32% |  |
-| 6 | 13% | 19% |  |
-| 7 | 5% | 6% |  |
-| 8 | 0.8% | 0.8% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 0% | 99.1% |  |
+| 2 | 2% | 99.1% |  |
+| 3 | 36% | 97% |  |
+| 4 | 41% | 61% | Median |
+| 5 | 10% | 20% |  |
+| 6 | 8% | 11% |  |
+| 7 | 2% | 2% |  |
+| 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
 

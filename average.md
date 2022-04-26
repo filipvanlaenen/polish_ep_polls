@@ -9,13 +9,13 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | PiS | PO | K | .N | PSL | SLD | W | R | Wi | X | X | X | X | X | X | X | X | X | X | P2050 |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–12% <br> 2–6 | N/A <br> N/A | 21–32% <br> 12–18 | 2–8% <br> 0–4 | 5–11% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | 33–43% <br> 19–25 | N/A <br> N/A |
+| N/A | Poll Average | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–12% <br> 0–6 | N/A <br> N/A | 21–32% <br> 12–18 | 2–8% <br> 0–4 | 5–12% <br> 0–6 | N/A <br> N/A | N/A <br> N/A | 33–42% <br> 19–25 | N/A <br> N/A |
+| [22–23 April 2022](2022-04-23-UnitedSurveys.html) | United Surveys <br> WP.pl | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0 | N/A <br> N/A | 26–32% <br> 14–18 | 5–8% <br> 0–4 | 8–12% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | 36–42% <br> 20–24 | N/A <br> N/A |
 | [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | N/A <br> N/A | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 5–7 | N/A <br> N/A | 23–29% <br> 13–16 | 1–3% <br> 0 | 8–12% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | 33–39% <br> 19–22 | N/A <br> N/A |
 | [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 3–5 | N/A <br> N/A | 24–29% <br> 13–16 | 5–8% <br> 2–4 | 7–10% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 36–42% <br> 20–23 | N/A <br> N/A |
 | [8–13 April 2022](2022-04-13-KantarPublic.html) | Kantar Public | N/A <br> N/A | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–4 | N/A <br> N/A | 27–33% <br> 15–19 | 4–7% <br> 0–3 | 7–11% <br> 4–6 | N/A <br> N/A | N/A <br> N/A | 32–38% <br> 18–22 | N/A <br> N/A |
 | [8–11 April 2022](2022-04-11-ResearchPartner.html) | Research Partner <br> Ariadna | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–5 | N/A <br> N/A | 24–29% <br> 14–17 | 3–6% <br> 0–3 | 6–9% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 35–41% <br> 19–23 | N/A <br> N/A |
 | [7–11 April 2022](2022-04-11-IBSP.html) | IBSP <br> StanPolityki.pl | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 3–5 | N/A <br> N/A | 20–25% <br> 11–15 | 2–4% <br> 0 | 4–7% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | 38–44% <br> 21–26 | N/A <br> N/A |
-| [1–2 April 2022](2022-04-02-UnitedSurveys.html) | United Surveys <br> WP.pl | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | 26–31% <br> 13–17 | 5–8% <br> 2–4 | 6–9% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 37–43% <br> 20–24 | N/A <br> N/A |
 | [1–2 April 2022](2022-04-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–5 | N/A <br> N/A | 27–32% <br> 14–17 | 5–7% <br> 0–4 | 7–10% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | 36–41% <br> 19–22 | N/A <br> N/A |
 | 26 May 2019 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
@@ -66,13 +66,13 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0.0% | 7.4% | 6.0–10.5% |5.7–11.4% | 5.4–11.9% | 4.9–12.8% |
+| <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0.0% | 7.4% | 4.0–10.5% |3.4–11.4% | 3.1–11.9% | 2.7–12.8% |
 | <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0.0% | 27.3% | 23.2–30.4% |22.1–31.1% | 21.4–31.7% | 20.3–32.9% |
-| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0.0% | 5.1% | 2.2–6.9% |1.9–7.3% | 1.7–7.7% | 1.3–8.3% |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0.0% | 8.1% | 5.8–10.1% |5.3–10.6% | 4.9–11.1% | 4.4–11.9% |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0.0% | 27.4% | 23.2–30.6% |22.1–31.3% | 21.4–31.8% | 20.3–32.9% |
+| <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0.0% | 5.1% | 2.2–6.9% |1.9–7.3% | 1.7–7.6% | 1.3–8.3% |
+| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0.0% | 8.6% | 5.8–10.6% |5.3–11.1% | 4.9–11.5% | 4.4–12.2% |
 | <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#bezpartyjni-samorządowcy-(*)">Bezpartyjni Samorządowcy (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0.0% | 38.3% | 34.8–41.3% |34.0–42.0% | 33.4–42.7% | 32.2–43.8% |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0.0% | 38.2% | 34.8–41.0% |34.0–41.8% | 33.4–42.4% | 32.2–43.6% |
 | <a href="#polska-2050-(*)">Polska 2050 (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 

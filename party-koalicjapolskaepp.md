@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 2.2–6.9% | 1.9–7.3% | 1.7–7.7% | 1.3–8.3% |
+| N/A | [Poll Average](average.html) | 5.1% | 2.2–6.9% | 1.9–7.3% | 1.7–7.6% | 1.3–8.3% |
+| [22–23 April 2022](2022-04-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.6% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.8% |
 | [8–13 April 2022](2022-04-13-KantarPublic.html) | Kantar Public | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.6% | 3.4–7.1% |
@@ -527,8 +528,8 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 14% | 98% |  |
 | 2.5–3.5% | 12% | 84% |  |
 | 3.5–4.5% | 12% | 72% |  |
-| 4.5–5.5% | 19% | 60% | Median |
-| 5.5–6.5% | 23% | 41% |  |
+| 4.5–5.5% | 19% | 59% | Median |
+| 5.5–6.5% | 24% | 40% |  |
 | 6.5–7.5% | 14% | 17% |  |
 | 7.5–8.5% | 3% | 3% |  |
 | 8.5–9.5% | 0.2% | 0.2% |  |
@@ -544,6 +545,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [22–23 April 2022](2022-04-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
 | [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
 | [8–13 April 2022](2022-04-13-KantarPublic.html) | Kantar Public | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -1059,8 +1061,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 51% | 100% | Last Result, Median |
 | 1 | 0% | 49% |  |
-| 2 | 7% | 49% |  |
-| 3 | 36% | 43% |  |
+| 2 | 6% | 49% |  |
+| 3 | 37% | 43% |  |
 | 4 | 6% | 6% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |

@@ -10,7 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.4% | 23.2–30.6% | 22.1–31.3% | 21.4–31.8% | 20.3–32.9% |
+| N/A | [Poll Average](average.html) | 28.2% | 25.9–30.7% | 25.4–31.3% | 24.8–31.9% | 23.9–33.0% |
+| [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 28.0% | 26.3–29.8% | 25.8–30.4% | 25.4–30.8% | 24.6–31.7% |
+| [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 27.1% | 25.4–28.9% | 24.9–29.5% | 24.5–29.9% | 23.7–30.8% |
+| [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
+| [6–9 May 2022](2022-05-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 27.0% | N/A | N/A | N/A | N/A |
+| [5–9 May 2022](2022-05-09-ResearchPartner.html) | Research Partner <br> Ariadna | 29.8% | 28.0–31.6% | 27.5–32.2% | 27.1–32.6% | 26.2–33.5% |
+| [6–7 May 2022](2022-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.1–32.8% | 26.3–33.7% |
+| [2–4 May 2022](2022-05-04-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 26.7% | N/A | N/A | N/A | N/A |
+| [29 April–4 May 2022](2022-05-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 27.0% | N/A | N/A | N/A | N/A |
+| [4 May 2022](2022-05-04-IBRiS.html) | IBRiS <br> Radio ZET | 28.3% | 26.7–30.1% | 26.2–30.6% | 25.8–31.0% | 25.0–31.9% |
+| [28–29 April 2022](2022-04-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 27.0% | 25.3–28.8% | 24.8–29.3% | 24.4–29.8% | 23.5–30.6% |
+| [27–28 April 2022](2022-04-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 26.5% | 24.8–28.3% | 24.3–28.8% | 23.9–29.2% | 23.1–30.1% |
+| [26 April 2022](2022-04-26-IBRiS.html) | IBRiS <br> Onet.pl | 30.4% | 28.6–32.2% | 28.1–32.7% | 27.7–33.2% | 26.9–34.0% |
+| [22–25 April 2022](2022-04-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | 23.4–26.8% | 23.0–27.3% | 22.6–27.7% | 21.8–28.6% |
+| [22–25 April 2022](2022-04-25-ResearchPartner.html) | Research Partner <br> Ariadna | 28.5% | 26.8–30.3% | 26.4–30.9% | 25.9–31.3% | 25.1–32.2% |
 | [22–23 April 2022](2022-04-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 26.0% | 24.3–27.8% | 23.9–28.3% | 23.5–28.8% | 22.7–29.6% |
 | [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 26.4% | 24.7–28.2% | 24.2–28.7% | 23.8–29.2% | 23.0–30.0% |
@@ -542,22 +556,22 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.1% | 100% |  |
-| 19.5–20.5% | 0.6% | 99.9% |  |
-| 20.5–21.5% | 2% | 99.2% |  |
-| 21.5–22.5% | 4% | 97% |  |
-| 22.5–23.5% | 5% | 93% |  |
-| 23.5–24.5% | 5% | 89% |  |
-| 24.5–25.5% | 9% | 83% |  |
-| 25.5–26.5% | 13% | 74% |  |
-| 26.5–27.5% | 14% | 62% | Median |
-| 27.5–28.5% | 13% | 48% |  |
-| 28.5–29.5% | 13% | 34% |  |
-| 29.5–30.5% | 11% | 21% |  |
-| 30.5–31.5% | 7% | 10% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0.2% | 100% |  |
+| 23.5–24.5% | 1.4% | 99.7% |  |
+| 24.5–25.5% | 5% | 98% |  |
+| 25.5–26.5% | 11% | 94% |  |
+| 26.5–27.5% | 18% | 82% |  |
+| 27.5–28.5% | 21% | 64% | Median |
+| 28.5–29.5% | 19% | 43% |  |
+| 29.5–30.5% | 13% | 24% |  |
+| 30.5–31.5% | 7% | 11% |  |
 | 31.5–32.5% | 3% | 4% |  |
-| 32.5–33.5% | 0.7% | 0.9% |  |
-| 33.5–34.5% | 0.1% | 0.2% |  |
+| 32.5–33.5% | 0.8% | 1.0% |  |
+| 33.5–34.5% | 0.2% | 0.2% |  |
 | 34.5–35.5% | 0% | 0% |  |
 
 
@@ -569,7 +583,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–18 | 12–18 | 11–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
+| [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [6–9 May 2022](2022-05-09-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [5–9 May 2022](2022-05-09-ResearchPartner.html) | Research Partner <br> Ariadna | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [6–7 May 2022](2022-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
+| [2–4 May 2022](2022-05-04-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
+| [29 April–4 May 2022](2022-05-04-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [4 May 2022](2022-05-04-IBRiS.html) | IBRiS <br> Radio ZET | 15 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [28–29 April 2022](2022-04-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
+| [27–28 April 2022](2022-04-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 15 | 13–16 | 13–16 | 13–17 | 12–17 |
+| [26 April 2022](2022-04-26-IBRiS.html) | IBRiS <br> Onet.pl | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [22–25 April 2022](2022-04-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
+| [22–25 April 2022](2022-04-25-ResearchPartner.html) | Research Partner <br> Ariadna | 16 | 15–17 | 15–18 | 15–18 | 14–19 |
 | [22–23 April 2022](2022-04-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15 | 14–16 | 13–16 | 13–16 | 13–17 |
 | [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 13–15 | 13–16 | 13–16 | 12–16 |
@@ -1095,15 +1123,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0.7% | 100% |  |
-| 12 | 4% | 99.2% |  |
-| 13 | 10% | 95% |  |
-| 14 | 19% | 84% |  |
-| 15 | 27% | 65% | Median |
-| 16 | 20% | 39% |  |
-| 17 | 9% | 18% |  |
-| 18 | 8% | 10% |  |
-| 19 | 2% | 2% |  |
-| 20 | 0% | 0% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0.1% | 100% |  |
+| 13 | 2% | 99.9% |  |
+| 14 | 12% | 98% |  |
+| 15 | 33% | 85% |  |
+| 16 | 29% | 52% | Median |
+| 17 | 18% | 24% |  |
+| 18 | 5% | 5% |  |
+| 19 | 0.5% | 0.5% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 

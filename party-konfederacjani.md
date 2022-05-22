@@ -10,7 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 4.0–10.5% | 3.4–11.4% | 3.1–11.9% | 2.7–12.8% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.1–8.9% | 4.8–9.5% | 4.6–9.9% | 4.2–10.8% |
+| [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
+| [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.9% | 5.1–7.0% | 4.8–7.3% | 4.6–7.5% | 4.3–8.1% |
+| [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [6–9 May 2022](2022-05-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
+| [5–9 May 2022](2022-05-09-ResearchPartner.html) | Research Partner <br> Ariadna | 7.7% | 6.7–8.9% | 6.5–9.2% | 6.2–9.5% | 5.8–10.1% |
+| [6–7 May 2022](2022-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [2–4 May 2022](2022-05-04-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5.0% | N/A | N/A | N/A | N/A |
+| [29 April–4 May 2022](2022-05-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
+| [4 May 2022](2022-05-04-IBRiS.html) | IBRiS <br> Radio ZET | 5.5% | 4.7–6.4% | 4.5–6.7% | 4.3–7.0% | 3.9–7.4% |
+| [28–29 April 2022](2022-04-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.3% | 6.4–8.4% | 6.1–8.8% | 5.9–9.0% | 5.4–9.6% |
+| [27–28 April 2022](2022-04-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.5% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.6% |
+| [26 April 2022](2022-04-26-IBRiS.html) | IBRiS <br> Onet.pl | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.6–7.0% |
+| [22–25 April 2022](2022-04-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.1–10.3% |
+| [22–25 April 2022](2022-04-25-ResearchPartner.html) | Research Partner <br> Ariadna | 8.8% | 7.8–10.0% | 7.5–10.3% | 7.2–10.6% | 6.8–11.2% |
 | [22–23 April 2022](2022-04-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 11.0% | 9.8–12.3% | 9.5–12.7% | 9.2–13.0% | 8.7–13.7% |
 | [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.3% | 7.3–9.4% | 7.0–9.8% | 6.7–10.1% | 6.3–10.7% |
@@ -525,20 +539,18 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 6% | 99.8% |  |
-| 3.5–4.5% | 7% | 94% |  |
-| 4.5–5.5% | 2% | 87% |  |
-| 5.5–6.5% | 12% | 85% |  |
-| 6.5–7.5% | 28% | 73% | Median |
-| 7.5–8.5% | 22% | 45% |  |
-| 8.5–9.5% | 8% | 23% |  |
-| 9.5–10.5% | 5% | 15% |  |
-| 10.5–11.5% | 6% | 10% |  |
-| 11.5–12.5% | 3% | 4% |  |
-| 12.5–13.5% | 0.8% | 0.9% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 20% | 98% |  |
+| 5.5–6.5% | 30% | 78% | Median |
+| 6.5–7.5% | 20% | 48% |  |
+| 7.5–8.5% | 14% | 27% |  |
+| 8.5–9.5% | 9% | 14% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.7% | 0.8% |  |
+| 11.5–12.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -549,7 +561,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–6 | 0–6 | 0–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 3 | 2–5 | 0–5 | 0–5 | 0–6 |
+| [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
+| [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [6–9 May 2022](2022-05-09-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [5–9 May 2022](2022-05-09-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [6–7 May 2022](2022-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
+| [2–4 May 2022](2022-05-04-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
+| [29 April–4 May 2022](2022-05-04-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [4 May 2022](2022-05-04-IBRiS.html) | IBRiS <br> Radio ZET | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [28–29 April 2022](2022-04-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [27–28 April 2022](2022-04-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [26 April 2022](2022-04-26-IBRiS.html) | IBRiS <br> Onet.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [22–25 April 2022](2022-04-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [22–25 April 2022](2022-04-25-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [22–23 April 2022](2022-04-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–2 |
 | [15–18 April 2022](2022-04-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [12–14 April 2022](2022-04-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -1064,15 +1090,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 0% | 86% |  |
-| 2 | 0.3% | 86% |  |
-| 3 | 26% | 86% |  |
-| 4 | 39% | 60% | Median |
-| 5 | 10% | 20% |  |
-| 6 | 8% | 11% |  |
-| 7 | 2% | 2% |  |
-| 8 | 0.1% | 0.1% |  |
-| 9 | 0% | 0% |  |
+| 0 | 8% | 100% | Last Result |
+| 1 | 0% | 92% |  |
+| 2 | 7% | 92% |  |
+| 3 | 47% | 85% | Median |
+| 4 | 24% | 37% |  |
+| 5 | 12% | 14% |  |
+| 6 | 2% | 2% |  |
+| 7 | 0% | 0% |  |
 
 

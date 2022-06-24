@@ -10,7 +10,30 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.2% | 25.9–30.7% | 25.4–31.3% | 24.8–31.9% | 23.9–33.0% |
+| N/A | [Poll Average](average.html) | 27.1% | 23.7–30.5% | 22.9–31.3% | 22.4–31.9% | 21.4–33.0% |
+| [22–23 June 2022](2022-06-23-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 30.0% | 28.2–31.9% | 27.7–32.5% | 27.3–32.9% | 26.4–33.9% |
+| [21–22 June 2022](2022-06-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 23.9% | 22.3–25.7% | 21.8–26.2% | 21.4–26.7% | 20.6–27.5% |
+| [17–20 June 2022](2022-06-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 27.0% | 25.3–28.8% | 24.8–29.3% | 24.4–29.7% | 23.6–30.6% |
+| [17–19 June 2022](2022-06-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| [17–18 June 2022](2022-06-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 28.8% | 27.1–30.7% | 26.6–31.3% | 26.1–31.7% | 25.3–32.6% |
+| [10–13 June 2022](2022-06-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | N/A | N/A | N/A | N/A |
+| [10–13 June 2022](2022-06-13-ResearchPartner.html) | Research Partner <br> Ariadna | 26.3% | N/A | N/A | N/A | N/A |
+| [8–13 June 2022](2022-06-13-IBSP.html) | IBSP <br> StanPolityki.pl | 27.8% | N/A | N/A | N/A | N/A |
+| [12–13 June 2022](2022-06-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 27.1% | N/A | N/A | N/A | N/A |
+| [7–9 June 2022](2022-06-09-Kantar.html) | Kantar <br> Wyborcza | 26.1% | N/A | N/A | N/A | N/A |
+| [3–8 June 2022](2022-06-08-KantarPublic.html) | Kantar Public | 28.0% | N/A | N/A | N/A | N/A |
+| [6–7 June 2022](2022-06-07-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 28.1% | N/A | N/A | N/A | N/A |
+| [3–6 June 2022](2022-06-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 27.0% | N/A | N/A | N/A | N/A |
+| [3–4 June 2022](2022-06-04-UnitedSurveys.html) | United Surveys <br> WP.pl | 26.9% | N/A | N/A | N/A | N/A |
+| [30 May–1 June 2022](2022-06-01-IBRiS.html) | IBRiS <br> Radio ZET | 28.7% | N/A | N/A | N/A | N/A |
+| [23–30 May 2022](2022-05-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 27.0% | N/A | N/A | N/A | N/A |
+| [27–30 May 2022](2022-05-30-ResearchPartner.html) | Research Partner <br> Ariadna | 28.5% | N/A | N/A | N/A | N/A |
+| [26–27 May 2022](2022-05-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 28.4% | N/A | N/A | N/A | N/A |
+| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 25.1% | N/A | N/A | N/A | N/A |
+| [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | N/A | N/A | N/A | N/A |
+| [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 28.0% | N/A | N/A | N/A | N/A |
+| [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 29.0% | N/A | N/A | N/A | N/A |
+| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public | 28.6% | N/A | N/A | N/A | N/A |
 | [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 28.0% | 26.3–29.8% | 25.8–30.4% | 25.4–30.8% | 24.6–31.7% |
 | [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 27.1% | 25.4–28.9% | 24.9–29.5% | 24.5–29.9% | 23.7–30.8% |
 | [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
@@ -557,18 +580,18 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0% | 100% |  |
-| 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0% | 100% |  |
-| 22.5–23.5% | 0.2% | 100% |  |
-| 23.5–24.5% | 1.4% | 99.7% |  |
-| 24.5–25.5% | 5% | 98% |  |
-| 25.5–26.5% | 11% | 94% |  |
-| 26.5–27.5% | 18% | 82% |  |
-| 27.5–28.5% | 21% | 64% | Median |
-| 28.5–29.5% | 19% | 43% |  |
-| 29.5–30.5% | 13% | 24% |  |
-| 30.5–31.5% | 7% | 11% |  |
+| 19.5–20.5% | 0.1% | 100% |  |
+| 20.5–21.5% | 0.6% | 99.9% |  |
+| 21.5–22.5% | 2% | 99.3% |  |
+| 22.5–23.5% | 6% | 97% |  |
+| 23.5–24.5% | 10% | 91% |  |
+| 24.5–25.5% | 12% | 81% |  |
+| 25.5–26.5% | 13% | 69% |  |
+| 26.5–27.5% | 13% | 57% | Median |
+| 27.5–28.5% | 12% | 44% |  |
+| 28.5–29.5% | 12% | 32% |  |
+| 29.5–30.5% | 10% | 20% |  |
+| 30.5–31.5% | 6% | 10% |  |
 | 31.5–32.5% | 3% | 4% |  |
 | 32.5–33.5% | 0.8% | 1.0% |  |
 | 33.5–34.5% | 0.2% | 0.2% |  |
@@ -583,7 +606,30 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
+| N/A | [Poll Average](average.html) | 15 | 13–17 | 12–17 | 12–18 | 11–19 |
+| [22–23 June 2022](2022-06-23-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [21–22 June 2022](2022-06-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 13 | 12–14 | 12–15 | 11–15 | 11–16 |
+| [17–20 June 2022](2022-06-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [17–19 June 2022](2022-06-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 14 | 13–15 | 13–16 | 12–16 | 12–16 |
+| [17–18 June 2022](2022-06-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [10–13 June 2022](2022-06-13-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [10–13 June 2022](2022-06-13-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [8–13 June 2022](2022-06-13-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
+| [12–13 June 2022](2022-06-13-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [7–9 June 2022](2022-06-09-Kantar.html) | Kantar <br> Wyborcza |  |  |  |  |  |
+| [3–8 June 2022](2022-06-08-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [6–7 June 2022](2022-06-07-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
+| [3–6 June 2022](2022-06-06-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [3–4 June 2022](2022-06-04-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [30 May–1 June 2022](2022-06-01-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
+| [23–30 May 2022](2022-05-30-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [27–30 May 2022](2022-05-30-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [26–27 May 2022](2022-05-27-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
@@ -1123,16 +1169,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 0.1% | 100% |  |
-| 13 | 2% | 99.9% |  |
-| 14 | 12% | 98% |  |
-| 15 | 33% | 85% |  |
-| 16 | 29% | 52% | Median |
-| 17 | 18% | 24% |  |
-| 18 | 5% | 5% |  |
-| 19 | 0.5% | 0.5% |  |
-| 20 | 0.1% | 0.1% |  |
-| 21 | 0% | 0% |  |
+| 11 | 0.7% | 100% |  |
+| 12 | 6% | 99.3% |  |
+| 13 | 13% | 93% |  |
+| 14 | 17% | 80% |  |
+| 15 | 22% | 64% | Median |
+| 16 | 22% | 42% |  |
+| 17 | 15% | 20% |  |
+| 18 | 4% | 5% |  |
+| 19 | 0.8% | 0.9% |  |
+| 20 | 0% | 0% |  |
 
 

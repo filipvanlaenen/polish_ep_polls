@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2022-06-24T22:48:35.382021+02:00</updated>
+  <updated>2022-06-26T23:35:19.716887+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 0.5–1.8%, 0 seats</li><li>Zjednoczona Prawica (ECR): 33.1–39.0%, 19–22 seats</li><li>Koalicja Obywatelska (EPP): 27.3–32.9%, 15–19 seats</li><li>Lewica (S&amp;D): 7.3–10.9%, 4–6 seats</li><li>Koalicja Polska (EPP): 1.3–3.1%, 0 seats</li><li>Konfederacja (NI): 5.6–8.7%, 3–5 seats</li><li>Polska 2050 (RE): 10.1–14.1%, 5–8 seats</li><li>Porozumienie (EPP): 0.1–0.9%, 0 seats</li><li>AGROunia (*): 1.3–3.1%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2022-06-23-Kantar.html</id>
@@ -46,6 +46,62 @@
     <title>Opinion Poll by IBRiS for Rzeczpospolita, 17–18 June 2022</title>
     <updated>2022-06-24T22:48:35.382021+02:00</updated>
     <dc:date>2022-06-24T22:48:35.382021+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.0–2.6%, 0 seats</li><li>Zjednoczona Prawica (ECR): 34.6–40.5%, 19–23 seats</li><li>Koalicja Obywatelska (EPP): 23.7–29.1%, 13–17 seats</li><li>Lewica (S&amp;D): 7.3–10.7%, 4–6 seats</li><li>Koalicja Polska (EPP): 3.8–6.5%, 0–3 seats</li><li>Konfederacja (NI): 4.8–7.8%, 0–4 seats</li><li>Polska 2050 (RE): 10.2–14.1%, 5–8 seats</li><li>Porozumienie (EPP): 0.5–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2022-06-13-ResearchPartner.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2022-06-13-ResearchPartner.html"/>
+    <title>Opinion Poll by Research Partner for Ariadna, 10–13 June 2022</title>
+    <updated>2022-06-25T23:18:42.598071+02:00</updated>
+    <dc:date>2022-06-25T23:18:42.598071+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 34.0–40.0%, 19–22 seats</li><li>Koalicja Obywatelska (EPP): 25.1–30.7%, 14–17 seats</li><li>Lewica (S&amp;D): 6.4–9.7%, 3–5 seats</li><li>Koalicja Polska (EPP): 1.8–3.8%, 0 seats</li><li>Konfederacja (NI): 6.2–9.5%, 3–5 seats</li><li>Polska 2050 (RE): 13.4–17.9%, 7–10 seats</li><li>AGROunia (*): 0.6–2.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2022-06-13-IBSP.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2022-06-13-IBSP.html"/>
+    <title>Opinion Poll by IBSP for StanPolityki.pl, 8–13 June 2022</title>
+    <updated>2022-06-25T23:24:00.36505+02:00</updated>
+    <dc:date>2022-06-25T23:24:00.36505+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.3–3.0%, 0 seats</li><li>Zjednoczona Prawica (ECR): 35.6–41.5%, 19–23 seats</li><li>Koalicja Obywatelska (EPP): 24.5–29.9%, 13–16 seats</li><li>Lewica (S&amp;D): 9.3–13.2%, 5–7 seats</li><li>Koalicja Polska (EPP): 5.0–8.0%, 0–4 seats</li><li>Konfederacja (NI): 4.6–7.4%, 0–4 seats</li><li>Polska 2050 (RE): 7.4–11.0%, 4–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2022-06-13-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2022-06-13-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 12–13 June 2022</title>
+    <updated>2022-06-25T23:30:07.663345+02:00</updated>
+    <dc:date>2022-06-25T23:30:07.663345+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.3–3.1%, 0 seats</li><li>Zjednoczona Prawica (ECR): 33.0–39.0%, 19–23 seats</li><li>Koalicja Obywatelska (EPP): 25.3–30.9%, 14–18 seats</li><li>Lewica (S&amp;D): 8.3–12.0%, 4–7 seats</li><li>Koalicja Polska (EPP): 3.8–6.6%, 0–3 seats</li><li>Konfederacja (NI): 3.8–6.6%, 0–3 seats</li><li>Polska 2050 (RE): 10.1–14.2%, 5–8 seats</li><li>Porozumienie (EPP): 0.5–1.9%, 0 seats</li><li>AGROunia (*): 0.1–0.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2022-06-08-KantarPublic.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2022-06-08-KantarPublic.html"/>
+    <title>Opinion Poll by Kantar Public, 3–8 June 2022</title>
+    <updated>2022-06-26T00:34:41.909317+02:00</updated>
+    <dc:date>2022-06-26T00:34:41.909317+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.3–3.0%, 0 seats</li><li>Zjednoczona Prawica (ECR): 34.1–39.9%, 19–23 seats</li><li>Koalicja Obywatelska (EPP): 24.4–29.8%, 14–17 seats</li><li>Lewica (S&amp;D): 6.5–9.8%, 3–5 seats</li><li>Koalicja Polska (EPP): 2.1–4.3%, 0 seats</li><li>Konfederacja (NI): 6.5–9.8%, 3–5 seats</li><li>Polska 2050 (RE): 11.1–15.2%, 6–8 seats</li><li>Porozumienie (EPP): 0.6–1.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2022-05-30-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2022-05-30-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes for wPolityce.pl, 23–30 May 2022</title>
+    <updated>2022-06-26T22:35:10.391299+02:00</updated>
+    <dc:date>2022-06-26T22:35:10.391299+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.3–3.1%, 0 seats</li><li>Zjednoczona Prawica (ECR): 32.2–37.9%, 18–22 seats</li><li>Koalicja Obywatelska (EPP): 25.8–31.3%, 14–18 seats</li><li>Lewica (S&amp;D): 6.9–10.3%, 4–5 seats</li><li>Koalicja Polska (EPP): 2.0–4.1%, 0 seats</li><li>Konfederacja (NI): 6.4–9.6%, 3–5 seats</li><li>Polska 2050 (RE): 11.5–15.7%, 6–9 seats</li><li>Porozumienie (EPP): 0.7–2.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2022-05-30-ResearchPartner.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2022-05-30-ResearchPartner.html"/>
+    <title>Opinion Poll by Research Partner for Ariadna, 27–30 May 2022</title>
+    <updated>2022-06-26T22:41:11.781191+02:00</updated>
+    <dc:date>2022-06-26T22:41:11.781191+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.0–2.6%, 0 seats</li><li>Zjednoczona Prawica (ECR): 36.5–42.5%, 20–24 seats</li><li>Koalicja Obywatelska (EPP): 25.8–31.3%, 14–18 seats</li><li>Lewica (S&amp;D): 8.7–12.5%, 4–7 seats</li><li>Koalicja Polska (EPP): 4.9–7.9%, 0–4 seats</li><li>Konfederacja (NI): 3.9–6.6%, 0–3 seats</li><li>Polska 2050 (RE): 6.6–10.0%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2022-05-27-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2022-05-27-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 26–27 May 2022</title>
+    <updated>2022-06-26T23:35:19.716887+02:00</updated>
+    <dc:date>2022-06-26T23:35:19.716887+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Kukiz’15 (NI): 1.3–3.0%, 0 seats</li><li>Zjednoczona Prawica (ECR): 35.1–41.0%, 20–23 seats</li><li>Koalicja Obywatelska (EPP): 25.4–30.8%, 14–17 seats</li><li>Lewica (S&amp;D): 5.6–8.7%, 3–5 seats</li><li>Koalicja Polska (EPP): 2.2–4.3%, 0 seats</li><li>Konfederacja (NI): 7.4–10.9%, 4–6 seats</li><li>Polska 2050 (RE): 9.3–13.1%, 5–7 seats</li><li>Porozumienie (EPP): 0.1–0.8%, 0 seats</li></ul></div></content>
@@ -3687,5 +3743,5 @@
     <updated>2020-03-23T18:19:37+01:00</updated>
     <dc:date>2020-03-23T18:19:37+01:00</dc:date>
   </entry>
-  <dc:date>2022-06-24T22:48:35.382021+02:00</dc:date>
+  <dc:date>2022-06-26T23:35:19.716887+02:00</dc:date>
 </feed>

@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 38.0% | N/A | N/A | N/A | N/A |
 | [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 40.3% | 38.3–42.3% | 37.8–42.9% | 37.3–43.4% | 36.4–44.4% |
 | [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
-| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public | 34.6% | N/A | N/A | N/A | N/A |
+| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public | 34.6% | 32.7–36.6% | 32.2–37.2% | 31.7–37.6% | 30.8–38.6% |
 | [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 38.0% | 36.1–39.9% | 35.6–40.5% | 35.1–41.0% | 34.2–41.9% |
 | [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 39.2% | 37.2–41.2% | 36.7–41.7% | 36.2–42.2% | 35.3–43.1% |
 | [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.0–40.0% | 33.2–41.0% |
@@ -639,7 +639,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
 | [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 20–23 | 20–24 | 20–24 | 19–24 |
-| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public | 21 | 20–22 | 19–22 | 19–23 | 18–24 |
 | [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 20–23 | 20–23 | 20–23 | 19–24 |
 | [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 21 | 19–22 | 19–22 | 19–22 | 18–23 |

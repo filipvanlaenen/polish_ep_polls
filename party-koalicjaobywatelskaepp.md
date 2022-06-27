@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 25.0% | N/A | N/A | N/A | N/A |
 | [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
-| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public | 28.6% | N/A | N/A | N/A | N/A |
+| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public | 28.6% | 26.9–30.5% | 26.4–31.1% | 25.9–31.5% | 25.1–32.4% |
 | [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 28.0% | 26.3–29.8% | 25.8–30.4% | 25.4–30.8% | 24.6–31.7% |
 | [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 27.1% | 25.4–28.9% | 24.9–29.5% | 24.5–29.9% | 23.7–30.8% |
 | [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
@@ -629,7 +629,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–16 | 14–16 | 13–17 | 13–17 |
 | [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 14–17 | 14–17 | 14–18 | 13–18 |
-| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
 | [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
 | [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 14–16 | 14–16 | 13–16 | 13–17 |
 | [10–12 May 2022](2022-05-12-Ipsos.html) | Ipsos <br> OKO.press | 15 | 14–17 | 14–17 | 14–17 | 13–18 |

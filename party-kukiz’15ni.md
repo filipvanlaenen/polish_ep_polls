@@ -29,7 +29,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–30 May 2022](2022-05-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
 | [27–30 May 2022](2022-05-30-ResearchPartner.html) | Research Partner <br> Ariadna | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [26–27 May 2022](2022-05-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.6% | 1.2–2.3% | 1.1–2.4% | 1.0–2.6% | 0.9–2.9% |
-| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 2.2% | N/A | N/A | N/A | N/A |
+| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.2% | 1.2–3.6% |
 | [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | N/A | N/A | N/A | N/A |
 | [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
@@ -595,7 +595,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–30 May 2022](2022-05-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [27–30 May 2022](2022-05-30-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [26–27 May 2022](2022-05-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
-| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
 | [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |

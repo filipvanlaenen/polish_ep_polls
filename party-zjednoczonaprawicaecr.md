@@ -29,10 +29,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23–30 May 2022](2022-05-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 37.0% | 35.1–38.9% | 34.6–39.5% | 34.1–39.9% | 33.2–40.9% |
 | [27–30 May 2022](2022-05-30-ResearchPartner.html) | Research Partner <br> Ariadna | 35.0% | 33.1–36.9% | 32.6–37.5% | 32.2–37.9% | 31.3–38.9% |
 | [26–27 May 2022](2022-05-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 39.5% | 37.6–41.5% | 37.0–42.0% | 36.5–42.5% | 35.6–43.4% |
-| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 35.3% | N/A | N/A | N/A | N/A |
+| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 35.3% | 33.5–37.2% | 32.9–37.8% | 32.5–38.2% | 31.6–39.2% |
 | [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 38.0% | N/A | N/A | N/A | N/A |
-| [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 40.3% | N/A | N/A | N/A | N/A |
-| [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.0% | N/A | N/A | N/A | N/A |
+| [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 40.3% | 38.3–42.3% | 37.8–42.9% | 37.3–43.4% | 36.4–44.4% |
+| [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.0% | 38.0–42.0% | 37.5–42.6% | 37.0–43.1% | 36.1–44.0% |
 | [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public | 34.6% | N/A | N/A | N/A | N/A |
 | [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 38.0% | 36.1–39.9% | 35.6–40.5% | 35.1–41.0% | 34.2–41.9% |
 | [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 39.2% | 37.2–41.2% | 36.7–41.7% | 36.2–42.2% | 35.3–43.1% |
@@ -635,10 +635,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23–30 May 2022](2022-05-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 20–23 | 19–23 | 19–23 |
 | [27–30 May 2022](2022-05-30-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [26–27 May 2022](2022-05-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 21–23 | 20–24 | 20–24 | 19–25 |
-| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [24–25 May 2022](2022-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
 | [20–23 May 2022](2022-05-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [20–21 May 2022](2022-05-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 22 | 21–23 | 20–23 | 20–24 | 19–24 |
+| [20–21 May 2022](2022-05-21-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 20–23 | 20–24 | 20–24 | 19–24 |
 | [13–18 May 2022](2022-05-18-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [13–16 May 2022](2022-05-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 20–24 |
 | [12–13 May 2022](2022-05-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 22 | 20–23 | 20–23 | 20–23 | 19–24 |

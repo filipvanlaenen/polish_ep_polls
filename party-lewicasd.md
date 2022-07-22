@@ -10,7 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.0–11.5% | 7.5–12.0% | 7.2–12.4% | 6.5–13.1% |
+| N/A | [Poll Average](average.html) | 9.7% | 8.0–12.4% | 7.6–13.1% | 7.3–13.7% | 6.7–14.6% |
+| [15–20 July 2022](2022-07-20-KantarPublic.html) | Kantar Public | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 6.9–11.6% |
+| [19 July 2022](2022-07-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 12.7% | 11.5–14.1% | 11.1–14.5% | 10.8–14.8% | 10.3–15.5% |
+| [15–18 July 2022](2022-07-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.1–9.2% | 6.8–9.5% | 6.6–9.8% | 6.1–10.4% |
+| [15–16 July 2022](2022-07-16-Estymator.html) | Estymator <br> DoRzeczy.pl | 11.2% | 10.0–12.5% | 9.7–12.9% | 9.4–13.2% | 8.9–13.9% |
+| [8–11 July 2022](2022-07-11-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | N/A | N/A | N/A | N/A |
+| [8–11 July 2022](2022-07-11-ResearchPartner.html) | Research Partner <br> Ariadna | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
+| [5 July 2022](2022-07-05-IBRiS.html) | IBRiS <br> Radio ZET | 9.6% | 8.6–10.9% | 8.3–11.2% | 8.0–11.5% | 7.5–12.1% |
+| [1–4 July 2022](2022-07-04-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
+| [1–2 July 2022](2022-07-02-UnitedSurveys.html) | United Surveys <br> WP.pl | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
+| [24–27 June 2022](2022-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.5–10.9% | 7.0–11.6% |
+| [24–27 June 2022](2022-06-27-ResearchPartner.html) | Research Partner <br> Ariadna | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.2–10.6% | 6.7–11.2% |
+| [23–24 June 2022](2022-06-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 11.8% | 10.7–13.2% | 10.3–13.6% | 10.0–13.9% | 9.5–14.6% |
 | [22–23 June 2022](2022-06-23-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
 | [21–22 June 2022](2022-06-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
 | [17–20 June 2022](2022-06-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.5–10.9% | 7.0–11.5% |
@@ -566,16 +578,18 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 5% | 99.5% |  |
+| 5.5–6.5% | 0.3% | 100% |  |
+| 6.5–7.5% | 4% | 99.7% |  |
 | 7.5–8.5% | 16% | 95% |  |
-| 8.5–9.5% | 26% | 79% |  |
-| 9.5–10.5% | 26% | 53% | Median |
-| 10.5–11.5% | 18% | 27% |  |
-| 11.5–12.5% | 7% | 9% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 8.5–9.5% | 25% | 79% |  |
+| 9.5–10.5% | 21% | 54% | Median |
+| 10.5–11.5% | 15% | 33% |  |
+| 11.5–12.5% | 10% | 18% |  |
+| 12.5–13.5% | 6% | 9% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.5% | 0.6% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -586,7 +600,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 4–7 | 3–8 |
+| [15–20 July 2022](2022-07-20-KantarPublic.html) | Kantar Public | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [19 July 2022](2022-07-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 7 | 6–7 | 6–8 | 6–8 | 5–8 |
+| [15–18 July 2022](2022-07-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [15–16 July 2022](2022-07-16-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
+| [8–11 July 2022](2022-07-11-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [8–11 July 2022](2022-07-11-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
+| [5 July 2022](2022-07-05-IBRiS.html) | IBRiS <br> Radio ZET | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [1–4 July 2022](2022-07-04-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [1–2 July 2022](2022-07-02-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [24–27 June 2022](2022-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [24–27 June 2022](2022-06-27-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [23–24 June 2022](2022-06-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [22–23 June 2022](2022-06-23-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [21–22 June 2022](2022-06-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6 | 5–6 | 5–7 | 5–7 | 4–7 |
 | [17–20 June 2022](2022-06-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -1141,12 +1167,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 21% | 98% |  |
-| 5 | 47% | 78% | Median |
-| 6 | 27% | 31% |  |
-| 7 | 3% | 3% |  |
-| 8 | 0.1% | 0.1% |  |
+| 3 | 0.9% | 100% |  |
+| 4 | 21% | 99.1% |  |
+| 5 | 46% | 78% | Median |
+| 6 | 22% | 31% |  |
+| 7 | 8% | 9% |  |
+| 8 | 1.2% | 1.2% |  |
 | 9 | 0% | 0% |  |
 
 

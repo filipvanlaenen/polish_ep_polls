@@ -10,7 +10,21 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.7–3.9% | 0.6–4.4% | 0.5–4.7% | 0.3–5.3% |
+| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.4% | 0.7–2.6% | 0.6–2.8% | 0.5–3.3% |
+| [23–24 August 2022](2022-08-24-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
+| [17–18 August 2022](2022-08-18-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [12–17 August 2022](2022-08-17-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [12–15 August 2022](2022-08-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
+| [12–15 August 2022](2022-08-15-ResearchPartner.html) | Research Partner <br> Ariadna | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.2% | 1.2–3.6% |
+| [11–12 August 2022](2022-08-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.7% | 0.9–3.1% |
+| [5–8 August 2022](2022-08-08-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | N/A | N/A | N/A | N/A |
+| [29 July–1 August 2022](2022-08-01-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | N/A | N/A | N/A | N/A |
+| [28 July–1 August 2022](2022-08-01-ResearchPartner.html) | Research Partner <br> Ariadna | 2.1% | N/A | N/A | N/A | N/A |
+| [29–31 July 2022](2022-07-31-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 July 2022](2022-07-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.7% |
+| [26 July 2022](2022-07-26-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 July 2022](2022-07-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | 1.5–2.6% | 1.4–2.8% | 1.3–3.0% | 1.1–3.4% |
+| [22–23 July 2022](2022-07-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [15–20 July 2022](2022-07-20-KantarPublic.html) | Kantar Public | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.9% |
 | [19 July 2022](2022-07-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.4% | 0.2–1.6% |
 | [15–18 July 2022](2022-07-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.1% | 1.2–3.4% |
@@ -572,14 +586,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 4% | 100% | Last Result |
-| 0.5–1.5% | 35% | 96% |  |
-| 1.5–2.5% | 35% | 60% | Median |
-| 2.5–3.5% | 12% | 25% |  |
-| 3.5–4.5% | 10% | 13% |  |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.0–0.5% | 1.0% | 100% | Last Result |
+| 0.5–1.5% | 58% | 99.0% | Median |
+| 1.5–2.5% | 35% | 41% |  |
+| 2.5–3.5% | 6% | 6% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -590,7 +602,21 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–2 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [23–24 August 2022](2022-08-24-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
+| [17–18 August 2022](2022-08-18-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
+| [12–17 August 2022](2022-08-17-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
+| [12–15 August 2022](2022-08-15-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
+| [12–15 August 2022](2022-08-15-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
+| [11–12 August 2022](2022-08-12-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
+| [5–8 August 2022](2022-08-08-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [29 July–1 August 2022](2022-08-01-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [28 July–1 August 2022](2022-08-01-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [29–31 July 2022](2022-07-31-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [28–29 July 2022](2022-07-29-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
+| [26 July 2022](2022-07-26-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [22–25 July 2022](2022-07-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
+| [22–23 July 2022](2022-07-23-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [15–20 July 2022](2022-07-20-KantarPublic.html) | Kantar Public | 0 | 0 | 0–2 | 0–2 | 0–3 |
 | [19 July 2022](2022-07-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
 | [15–18 July 2022](2022-07-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
@@ -1154,10 +1180,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.0% | 100% | Last Result, Median |
-| 1 | 0% | 1.0% |  |
-| 2 | 0.7% | 1.0% |  |
-| 3 | 0.3% | 0.3% |  |
-| 4 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 

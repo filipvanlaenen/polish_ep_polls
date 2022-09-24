@@ -10,9 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.3–10.5% | 7.0–11.0% | 6.7–11.3% | 6.1–12.0% |
+| N/A | [Poll Average](average.html) | 9.1% | 6.5–10.6% | 5.8–11.1% | 5.4–11.4% | 4.8–12.1% |
+| [21–22 September 2022](2022-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.2% | 8.1–10.4% | 7.8–10.8% | 7.5–11.1% | 7.1–11.8% |
+| [16–19 September 2022](2022-09-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.5% | 4.3–8.1% |
 | [13 September 2022](2022-09-13-IBRiS.html) | IBRiS <br> Onet.pl | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–11.9% | 7.9–12.5% |
 | [9–12 September 2022](2022-09-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.4% | 6.5–9.7% | 6.1–10.3% |
+| [9–12 September 2022](2022-09-12-ResearchPartner.html) | Research Partner <br> Ariadna | 9.1% | 8.1–10.3% | 7.8–10.7% | 7.5–11.0% | 7.0–11.6% |
 | [9–11 September 2022](2022-09-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [2–9 September 2022](2022-09-09-KantarPublic.html) | Kantar Public | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
 | [8–9 September 2022](2022-09-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.5% |
@@ -604,16 +607,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 12% | 98% |  |
-| 7.5–8.5% | 26% | 86% |  |
-| 8.5–9.5% | 29% | 60% | Median |
-| 9.5–10.5% | 21% | 31% |  |
-| 10.5–11.5% | 8% | 10% |  |
-| 11.5–12.5% | 1.4% | 2% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 3% | 99.8% |  |
+| 5.5–6.5% | 7% | 97% |  |
+| 6.5–7.5% | 7% | 90% |  |
+| 7.5–8.5% | 16% | 83% |  |
+| 8.5–9.5% | 30% | 66% | Median |
+| 9.5–10.5% | 25% | 37% |  |
+| 10.5–11.5% | 10% | 12% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.1% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -625,9 +628,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 0–6 |
+| [21–22 September 2022](2022-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [16–19 September 2022](2022-09-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [13 September 2022](2022-09-13-IBRiS.html) | IBRiS <br> Onet.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [9–12 September 2022](2022-09-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [9–12 September 2022](2022-09-12-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [9–11 September 2022](2022-09-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [2–9 September 2022](2022-09-09-KantarPublic.html) | Kantar Public | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [8–9 September 2022](2022-09-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -1217,13 +1223,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 5% | 100% |  |
-| 4 | 41% | 95% |  |
-| 5 | 46% | 55% | Median |
-| 6 | 8% | 8% |  |
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 0% | 99.0% |  |
+| 2 | 0.4% | 99.0% |  |
+| 3 | 11% | 98.6% |  |
+| 4 | 27% | 88% |  |
+| 5 | 50% | 60% | Median |
+| 6 | 10% | 10% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 

@@ -10,7 +10,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 35.9% | 33.2–39.7% | 32.6–40.9% | 32.0–41.8% | 31.0–43.1% |
+| N/A | [Poll Average](average.html) | 36.2% | 34.2–38.2% | 33.7–38.8% | 33.2–39.3% | 32.3–40.3% |
+| [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 35.6% | 33.7–37.6% | 33.2–38.1% | 32.7–38.6% | 31.8–39.6% |
+| [13–14 October 2022](2022-10-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 37.1% | 35.2–39.0% | 34.6–39.6% | 34.2–40.1% | 33.3–41.0% |
+| [11–13 October 2022](2022-10-13-IBRiS.html) | IBRiS <br> Onet.pl | 35.9% | 34.1–37.8% | 33.6–38.3% | 33.1–38.8% | 32.3–39.7% |
+| [7–10 October 2022](2022-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 36.0% | 34.2–37.9% | 33.7–38.5% | 33.2–38.9% | 32.3–39.9% |
+| [7–9 October 2022](2022-10-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 36.3% | 34.4–38.3% | 33.8–38.9% | 33.4–39.3% | 32.5–40.3% |
+| [4–5 October 2022](2022-10-05-IBRiS.html) | IBRiS <br> Radio ZET | 36.3% | N/A | N/A | N/A | N/A |
+| [30 September–3 October 2022](2022-10-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 37.0% | N/A | N/A | N/A | N/A |
+| [23–26 September 2022](2022-09-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 36.0% | 34.2–37.9% | 33.7–38.5% | 33.2–38.9% | 32.4–39.9% |
+| [23–25 September 2022](2022-09-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 36.8% | 34.9–38.8% | 34.3–39.4% | 33.9–39.8% | 33.0–40.8% |
+| [23–24 September 2022](2022-09-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
+| [22–23 September 2022](2022-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 35.9% | 34.0–37.8% | 33.5–38.4% | 33.0–38.9% | 32.1–39.8% |
 | [21–22 September 2022](2022-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 34.8% | 32.9–36.8% | 32.4–37.3% | 31.9–37.8% | 31.0–38.7% |
 | [16–19 September 2022](2022-09-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 37.0% | 35.1–38.9% | 34.6–39.4% | 34.1–39.9% | 33.2–40.8% |
 | [13 September 2022](2022-09-13-IBRiS.html) | IBRiS <br> Onet.pl | 34.3% | 32.5–36.2% | 32.0–36.7% | 31.5–37.1% | 30.7–38.0% |
@@ -633,22 +644,20 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.2% | 100% |  |
-| 30.5–31.5% | 1.0% | 99.8% |  |
-| 31.5–32.5% | 4% | 98.8% |  |
-| 32.5–33.5% | 9% | 95% |  |
-| 33.5–34.5% | 14% | 86% |  |
-| 34.5–35.5% | 17% | 72% |  |
-| 35.5–36.5% | 17% | 56% | Median |
-| 36.5–37.5% | 13% | 39% |  |
-| 37.5–38.5% | 9% | 26% |  |
-| 38.5–39.5% | 6% | 16% |  |
-| 39.5–40.5% | 4% | 11% |  |
-| 40.5–41.5% | 3% | 6% |  |
-| 41.5–42.5% | 2% | 3% |  |
-| 42.5–43.5% | 0.8% | 1.1% |  |
-| 43.5–44.5% | 0.2% | 0.3% |  |
-| 44.5–45.5% | 0% | 0% |  |
+| 29.5–30.5% | 0% | 100% |  |
+| 30.5–31.5% | 0.1% | 100% |  |
+| 31.5–32.5% | 0.8% | 99.9% |  |
+| 32.5–33.5% | 3% | 99.1% |  |
+| 33.5–34.5% | 10% | 96% |  |
+| 34.5–35.5% | 19% | 85% |  |
+| 35.5–36.5% | 25% | 66% | Median |
+| 36.5–37.5% | 22% | 41% |  |
+| 37.5–38.5% | 12% | 19% |  |
+| 38.5–39.5% | 5% | 7% |  |
+| 39.5–40.5% | 1.5% | 2% |  |
+| 40.5–41.5% | 0.3% | 0.3% |  |
+| 41.5–42.5% | 0% | 0% |  |
+| 42.5–43.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -659,7 +668,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–23 | 18–23 | 17–24 | 17–25 |
+| N/A | [Poll Average](average.html) | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
+| [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
+| [13–14 October 2022](2022-10-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [11–13 October 2022](2022-10-13-IBRiS.html) | IBRiS <br> Onet.pl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
+| [7–10 October 2022](2022-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
+| [7–9 October 2022](2022-10-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
+| [4–5 October 2022](2022-10-05-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
+| [30 September–3 October 2022](2022-10-03-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [23–26 September 2022](2022-09-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [23–25 September 2022](2022-09-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
+| [23–24 September 2022](2022-09-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [22–23 September 2022](2022-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [21–22 September 2022](2022-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 18–21 | 17–21 | 17–22 |
 | [16–19 September 2022](2022-09-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–23 | 19–23 | 19–23 | 19–24 |
 | [13 September 2022](2022-09-13-IBRiS.html) | IBRiS <br> Onet.pl | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
@@ -1270,17 +1290,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.1% | 100% |  |
-| 17 | 4% | 99.9% |  |
-| 18 | 12% | 96% |  |
-| 19 | 21% | 84% |  |
-| 20 | 25% | 62% | Median |
-| 21 | 18% | 37% |  |
-| 22 | 9% | 19% |  |
-| 23 | 6% | 11% |  |
-| 24 | 3% | 4% |  |
-| 25 | 0.9% | 1.0% |  |
-| 26 | 0.1% | 0.1% |  |
-| 27 | 0% | 0% | Majority |
+| 16 | 0% | 100% |  |
+| 17 | 0.6% | 100% |  |
+| 18 | 7% | 99.4% |  |
+| 19 | 25% | 93% |  |
+| 20 | 34% | 67% | Median |
+| 21 | 24% | 33% |  |
+| 22 | 7% | 9% |  |
+| 23 | 1.1% | 1.2% |  |
+| 24 | 0.1% | 0.1% |  |
+| 25 | 0% | 0% |  |
 
 

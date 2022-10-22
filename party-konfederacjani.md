@@ -10,7 +10,18 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.1–8.1% | 4.6–8.5% | 4.2–8.9% | 3.7–9.6% |
+| N/A | [Poll Average](average.html) | 6.1% | 5.0–7.3% | 4.7–7.7% | 4.5–8.0% | 4.1–8.7% |
+| [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [13–14 October 2022](2022-10-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.7% | 4.9–6.8% | 4.6–7.0% | 4.5–7.3% | 4.1–7.8% |
+| [11–13 October 2022](2022-10-13-IBRiS.html) | IBRiS <br> Onet.pl | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.9–7.8% | 4.5–8.3% |
+| [7–10 October 2022](2022-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
+| [7–9 October 2022](2022-10-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
+| [4–5 October 2022](2022-10-05-IBRiS.html) | IBRiS <br> Radio ZET | 5.6% | N/A | N/A | N/A | N/A |
+| [30 September–3 October 2022](2022-10-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
+| [23–26 September 2022](2022-09-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
+| [23–25 September 2022](2022-09-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
+| [23–24 September 2022](2022-09-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| [22–23 September 2022](2022-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.1% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [21–22 September 2022](2022-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
 | [16–19 September 2022](2022-09-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [13 September 2022](2022-09-13-IBRiS.html) | IBRiS <br> Onet.pl | 6.1% | 5.3–7.1% | 5.0–7.4% | 4.8–7.7% | 4.5–8.2% |
@@ -606,15 +617,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 5% | 99.7% |  |
-| 4.5–5.5% | 13% | 95% |  |
-| 5.5–6.5% | 30% | 82% |  |
-| 6.5–7.5% | 31% | 52% | Median |
-| 7.5–8.5% | 15% | 20% |  |
-| 8.5–9.5% | 4% | 5% |  |
-| 9.5–10.5% | 0.6% | 0.6% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 24% | 97% |  |
+| 5.5–6.5% | 42% | 73% | Median |
+| 6.5–7.5% | 24% | 31% |  |
+| 7.5–8.5% | 6% | 7% |  |
+| 8.5–9.5% | 0.7% | 0.7% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -625,7 +635,18 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [13–14 October 2022](2022-10-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [11–13 October 2022](2022-10-13-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
+| [7–10 October 2022](2022-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [7–9 October 2022](2022-10-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [4–5 October 2022](2022-10-05-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
+| [30 September–3 October 2022](2022-10-03-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [23–26 September 2022](2022-09-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [23–25 September 2022](2022-09-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
+| [23–24 September 2022](2022-09-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
+| [22–23 September 2022](2022-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [21–22 September 2022](2022-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 2–4 | 0–4 | 0–4 |
 | [16–19 September 2022](2022-09-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [13 September 2022](2022-09-13-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
@@ -1220,13 +1241,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 0% | 91% |  |
-| 2 | 5% | 91% |  |
-| 3 | 48% | 86% | Median |
-| 4 | 32% | 38% |  |
-| 5 | 6% | 6% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 0 | 11% | 100% | Last Result |
+| 1 | 0% | 89% |  |
+| 2 | 11% | 89% |  |
+| 3 | 62% | 78% | Median |
+| 4 | 15% | 16% |  |
+| 5 | 0.8% | 0.8% |  |
+| 6 | 0% | 0% |  |
 
 

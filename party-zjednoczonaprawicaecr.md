@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.2% | 34.2–38.2% | 33.7–38.8% | 33.2–39.3% | 32.3–40.3% |
+| N/A | [Poll Average](average.html) | 35.8% | 33.8–37.9% | 33.2–38.5% | 32.7–39.1% | 31.7–40.1% |
+| [21–23 October 2022](2022-10-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.9% | 34.0–37.9% | 33.4–38.4% | 33.0–38.9% | 32.1–39.9% |
+| [17–20 October 2022](2022-10-20-IBSP.html) | IBSP <br> StanPolityki.pl | 34.5% | 32.6–36.5% | 32.1–37.0% | 31.6–37.5% | 30.7–38.5% |
+| [14–19 October 2022](2022-10-19-KantarPublic.html) | Kantar Public | 36.0% | 34.1–38.1% | 33.6–38.6% | 33.1–39.1% | 32.2–40.1% |
 | [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 35.6% | 33.7–37.6% | 33.2–38.1% | 32.7–38.6% | 31.8–39.6% |
+| [14–17 October 2022](2022-10-17-ResearchPartner.html) | Research Partner <br> Ariadna | 35.5% | 33.7–37.4% | 33.2–38.0% | 32.7–38.4% | 31.9–39.4% |
 | [13–14 October 2022](2022-10-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 37.1% | 35.2–39.0% | 34.6–39.6% | 34.2–40.1% | 33.3–41.0% |
 | [11–13 October 2022](2022-10-13-IBRiS.html) | IBRiS <br> Onet.pl | 35.9% | 34.1–37.8% | 33.6–38.3% | 33.1–38.8% | 32.3–39.7% |
 | [7–10 October 2022](2022-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 36.0% | 34.2–37.9% | 33.7–38.5% | 33.2–38.9% | 32.3–39.9% |
@@ -645,19 +649,18 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0% | 100% |  |
 | 28.5–29.5% | 0% | 100% |  |
 | 29.5–30.5% | 0% | 100% |  |
-| 30.5–31.5% | 0.1% | 100% |  |
-| 31.5–32.5% | 0.8% | 99.9% |  |
-| 32.5–33.5% | 3% | 99.1% |  |
-| 33.5–34.5% | 10% | 96% |  |
-| 34.5–35.5% | 19% | 85% |  |
-| 35.5–36.5% | 25% | 66% | Median |
-| 36.5–37.5% | 22% | 41% |  |
-| 37.5–38.5% | 12% | 19% |  |
-| 38.5–39.5% | 5% | 7% |  |
-| 39.5–40.5% | 1.5% | 2% |  |
-| 40.5–41.5% | 0.3% | 0.3% |  |
+| 30.5–31.5% | 0.4% | 99.9% |  |
+| 31.5–32.5% | 2% | 99.6% |  |
+| 32.5–33.5% | 6% | 98% |  |
+| 33.5–34.5% | 13% | 92% |  |
+| 34.5–35.5% | 21% | 79% |  |
+| 35.5–36.5% | 24% | 57% | Median |
+| 36.5–37.5% | 19% | 33% |  |
+| 37.5–38.5% | 10% | 15% |  |
+| 38.5–39.5% | 4% | 5% |  |
+| 39.5–40.5% | 1.0% | 1.2% |  |
+| 40.5–41.5% | 0.2% | 0.2% |  |
 | 41.5–42.5% | 0% | 0% |  |
-| 42.5–43.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -669,7 +672,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 20 | 19–21 | 18–22 | 18–22 | 17–23 |
+| [21–23 October 2022](2022-10-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
+| [17–20 October 2022](2022-10-20-IBSP.html) | IBSP <br> StanPolityki.pl | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
+| [14–19 October 2022](2022-10-19-KantarPublic.html) | Kantar Public | 20 | 19–21 | 18–22 | 18–22 | 18–23 |
 | [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
+| [14–17 October 2022](2022-10-17-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
 | [13–14 October 2022](2022-10-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [11–13 October 2022](2022-10-13-IBRiS.html) | IBRiS <br> Onet.pl | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [7–10 October 2022](2022-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
@@ -1291,13 +1298,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
-| 17 | 0.6% | 100% |  |
-| 18 | 7% | 99.4% |  |
+| 17 | 0.5% | 100% |  |
+| 18 | 7% | 99.5% |  |
 | 19 | 25% | 93% |  |
-| 20 | 34% | 67% | Median |
-| 21 | 24% | 33% |  |
-| 22 | 7% | 9% |  |
-| 23 | 1.1% | 1.2% |  |
+| 20 | 38% | 68% | Median |
+| 21 | 22% | 30% |  |
+| 22 | 7% | 7% |  |
+| 23 | 0.9% | 0.9% |  |
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 

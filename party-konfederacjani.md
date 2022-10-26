@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.1% | 5.0–7.3% | 4.7–7.7% | 4.5–8.0% | 4.1–8.7% |
+| N/A | [Poll Average](average.html) | 6.4% | 4.4–8.1% | 3.8–8.6% | 3.5–9.1% | 3.0–9.9% |
+| [21–23 October 2022](2022-10-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [17–20 October 2022](2022-10-20-IBSP.html) | IBSP <br> StanPolityki.pl | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
+| [14–19 October 2022](2022-10-19-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [14–17 October 2022](2022-10-17-ResearchPartner.html) | Research Partner <br> Ariadna | 8.2% | 7.2–9.4% | 7.0–9.7% | 6.7–10.0% | 6.3–10.6% |
 | [13–14 October 2022](2022-10-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.7% | 4.9–6.8% | 4.6–7.0% | 4.5–7.3% | 4.1–7.8% |
 | [11–13 October 2022](2022-10-13-IBRiS.html) | IBRiS <br> Onet.pl | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.9–7.8% | 4.5–8.3% |
 | [7–10 October 2022](2022-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
@@ -616,15 +620,17 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 24% | 97% |  |
-| 5.5–6.5% | 42% | 73% | Median |
-| 6.5–7.5% | 24% | 31% |  |
-| 7.5–8.5% | 6% | 7% |  |
-| 8.5–9.5% | 0.7% | 0.7% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 3% | 99.9% |  |
+| 3.5–4.5% | 8% | 97% |  |
+| 4.5–5.5% | 15% | 89% |  |
+| 5.5–6.5% | 31% | 74% | Median |
+| 6.5–7.5% | 25% | 44% |  |
+| 7.5–8.5% | 13% | 19% |  |
+| 8.5–9.5% | 5% | 6% |  |
+| 9.5–10.5% | 0.9% | 1.0% |  |
+| 10.5–11.5% | 0.1% | 0.1% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -635,8 +641,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [21–23 October 2022](2022-10-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0–2 | 0–2 | 0–3 |
+| [17–20 October 2022](2022-10-20-IBSP.html) | IBSP <br> StanPolityki.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [14–19 October 2022](2022-10-19-KantarPublic.html) | Kantar Public | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [14–17 October 2022](2022-10-17-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [13–14 October 2022](2022-10-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [11–13 October 2022](2022-10-13-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 2–3 | 2–4 | 0–4 | 0–4 |
 | [7–10 October 2022](2022-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -1241,12 +1251,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% | Last Result |
-| 1 | 0% | 89% |  |
-| 2 | 11% | 89% |  |
-| 3 | 62% | 78% | Median |
-| 4 | 15% | 16% |  |
-| 5 | 0.8% | 0.8% |  |
-| 6 | 0% | 0% |  |
+| 0 | 16% | 100% | Last Result |
+| 1 | 0% | 84% |  |
+| 2 | 5% | 84% |  |
+| 3 | 48% | 79% | Median |
+| 4 | 25% | 30% |  |
+| 5 | 5% | 5% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 

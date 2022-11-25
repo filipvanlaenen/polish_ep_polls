@@ -10,8 +10,25 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.0–2.5% | 0.8–2.7% | 0.7–2.9% | 0.5–3.3% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.2–2.5% | 1.0–2.8% | 0.9–2.9% | 0.8–3.3% |
+| [20–21 November 2022](2022-11-21-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
+| [18–20 November 2022](2022-11-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [14–15 November 2022](2022-11-15-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [11–14 November 2022](2022-11-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | 1.6–2.7% | 1.5–2.9% | 1.4–3.1% | 1.2–3.4% |
+| [11–14 November 2022](2022-11-14-ResearchPartner.html) | Research Partner <br> Ariadna | 1.4% | 1.0–2.0% | 0.9–2.1% | 0.8–2.3% | 0.7–2.6% |
+| [10–12 November 2022](2022-11-12-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0.0% | N/A | N/A | N/A | N/A |
+| [9–10 November 2022](2022-11-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.4% | 1.1–2.0% | 0.9–2.2% | 0.9–2.3% | 0.7–2.7% |
+| [4–9 November 2022](2022-11-09-KantarPublic.html) | Kantar Public | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.2% | 1.1–3.5% |
+| [7–9 November 2022](2022-11-09-Ipsos.html) | Ipsos <br> OKO.press | 0.0% | N/A | N/A | N/A | N/A |
+| [4–7 November 2022](2022-11-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | N/A | N/A | N/A | N/A |
+| [4–5 November 2022](2022-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [4–5 November 2022](2022-11-05-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
+| [28–31 October 2022](2022-10-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | N/A | N/A | N/A | N/A |
+| [28–31 October 2022](2022-10-31-ResearchPartner.html) | Research Partner <br> Ariadna | 1.3% | N/A | N/A | N/A | N/A |
+| [27–28 October 2022](2022-10-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.3% | N/A | N/A | N/A | N/A |
+| [21–24 October 2022](2022-10-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | N/A | N/A | N/A | N/A |
 | [21–23 October 2022](2022-10-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [21–22 October 2022](2022-10-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 October 2022](2022-10-20-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [14–19 October 2022](2022-10-19-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
@@ -189,6 +206,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [5 November 2021](2021-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [29 October–2 November 2021](2021-11-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | N/A | N/A | N/A | N/A |
 | [27–28 October 2021](2021-10-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.3% | 0.9–1.9% | 0.9–2.0% | 0.8–2.2% | 0.6–2.5% |
+| [24–26 October 2021](2021-10-26-PGBOpinium.html) | PGB Opinium | 0.9% | N/A | N/A | N/A | N/A |
 | [22–25 October 2021](2021-10-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.0% | N/A | N/A | N/A | N/A |
 | [22–25 October 2021](2021-10-25-ResearchPartner.html) | Research Partner <br> Ariadna | 1.7% | N/A | N/A | N/A | N/A |
 | [22–23 October 2021](2021-10-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
@@ -618,11 +636,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.6% | 100% | Last Result |
-| 0.5–1.5% | 35% | 99.4% |  |
-| 1.5–2.5% | 55% | 64% | Median |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 34% | 100% |  |
+| 1.5–2.5% | 57% | 66% | Median |
 | 2.5–3.5% | 9% | 9% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.2% | 0.2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -635,7 +653,24 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–21 November 2022](2022-11-21-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
+| [18–20 November 2022](2022-11-20-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [14–15 November 2022](2022-11-15-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [11–14 November 2022](2022-11-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
+| [11–14 November 2022](2022-11-14-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
+| [10–12 November 2022](2022-11-12-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
+| [9–10 November 2022](2022-11-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
+| [4–9 November 2022](2022-11-09-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
+| [7–9 November 2022](2022-11-09-Ipsos.html) | Ipsos <br> OKO.press |  |  |  |  |  |
+| [4–7 November 2022](2022-11-07-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [4–5 November 2022](2022-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [4–5 November 2022](2022-11-05-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [28–31 October 2022](2022-10-31-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [28–31 October 2022](2022-10-31-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [27–28 October 2022](2022-10-28-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [21–24 October 2022](2022-10-24-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [21–23 October 2022](2022-10-23-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [21–22 October 2022](2022-10-22-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [17–20 October 2022](2022-10-20-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
 | [14–19 October 2022](2022-10-19-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
@@ -813,6 +848,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [5 November 2021](2021-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [29 October–2 November 2021](2021-11-02-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [27–28 October 2021](2021-10-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
+| [24–26 October 2021](2021-10-26-PGBOpinium.html) | PGB Opinium |  |  |  |  |  |
 | [22–25 October 2021](2021-10-25-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [22–25 October 2021](2021-10-25-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [22–23 October 2021](2021-10-23-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |

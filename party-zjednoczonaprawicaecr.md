@@ -23,12 +23,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [4–7 November 2022](2022-11-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 35.0% | N/A | N/A | N/A | N/A |
 | [4–5 November 2022](2022-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.2% | N/A | N/A | N/A | N/A |
 | [4–5 November 2022](2022-11-05-IBRiS.html) | IBRiS <br> Rzeczpospolita | 36.2% | N/A | N/A | N/A | N/A |
-| [28–31 October 2022](2022-10-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 35.0% | N/A | N/A | N/A | N/A |
-| [28–31 October 2022](2022-10-31-ResearchPartner.html) | Research Partner <br> Ariadna | 34.9% | N/A | N/A | N/A | N/A |
-| [27–28 October 2022](2022-10-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 36.4% | N/A | N/A | N/A | N/A |
+| [28–31 October 2022](2022-10-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 35.0% | 33.1–36.9% | 32.6–37.4% | 32.1–37.9% | 31.3–38.8% |
+| [28–31 October 2022](2022-10-31-ResearchPartner.html) | Research Partner <br> Ariadna | 34.9% | 33.0–36.8% | 32.5–37.3% | 32.1–37.8% | 31.2–38.7% |
+| [27–28 October 2022](2022-10-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 36.4% | 34.5–38.3% | 34.0–38.9% | 33.5–39.3% | 32.6–40.3% |
 | [21–24 October 2022](2022-10-24-SocialChanges.html) | Social Changes <br> wPolityce.pl | 36.0% | N/A | N/A | N/A | N/A |
 | [21–23 October 2022](2022-10-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.9% | 34.0–37.9% | 33.4–38.4% | 33.0–38.9% | 32.1–39.9% |
-| [21–22 October 2022](2022-10-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 36.7% | N/A | N/A | N/A | N/A |
+| [21–22 October 2022](2022-10-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 36.7% | 34.8–38.6% | 34.3–39.1% | 33.9–39.6% | 33.0–40.5% |
 | [17–20 October 2022](2022-10-20-IBSP.html) | IBSP <br> StanPolityki.pl | 34.5% | 32.6–36.5% | 32.1–37.0% | 31.6–37.5% | 30.7–38.5% |
 | [14–19 October 2022](2022-10-19-KantarPublic.html) | Kantar Public | 36.0% | 34.1–38.1% | 33.6–38.6% | 33.1–39.1% | 32.2–40.1% |
 | [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 35.6% | 33.7–37.6% | 33.2–38.1% | 32.7–38.6% | 31.8–39.6% |
@@ -703,12 +703,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [4–7 November 2022](2022-11-07-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [4–5 November 2022](2022-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [4–5 November 2022](2022-11-05-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [28–31 October 2022](2022-10-31-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [28–31 October 2022](2022-10-31-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
-| [27–28 October 2022](2022-10-28-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [28–31 October 2022](2022-10-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 19–21 | 18–22 | 18–22 | 18–23 |
+| [28–31 October 2022](2022-10-31-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–20 | 18–21 | 18–21 | 17–22 |
+| [27–28 October 2022](2022-10-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
 | [21–24 October 2022](2022-10-24-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [21–23 October 2022](2022-10-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 19–21 | 19–22 | 18–22 | 18–22 |
-| [21–22 October 2022](2022-10-22-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [21–22 October 2022](2022-10-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 18–21 | 18–22 | 18–22 |
 | [17–20 October 2022](2022-10-20-IBSP.html) | IBSP <br> StanPolityki.pl | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
 | [14–19 October 2022](2022-10-19-KantarPublic.html) | Kantar Public | 20 | 19–21 | 18–22 | 18–22 | 18–23 |
 | [18–19 October 2022](2022-10-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 20 | 19–21 | 19–22 | 18–22 | 18–23 |

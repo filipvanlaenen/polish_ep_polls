@@ -10,7 +10,19 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.7% | 28.1–35.2% | 27.5–36.4% | 27.0–37.3% | 26.0–38.7% |
+| N/A | [Poll Average](average.html) | 29.8% | 27.7–33.9% | 27.1–35.2% | 26.6–36.0% | 25.7–37.5% |
+| [20–22 January 2023](2023-01-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
+| [13–16 January 2023](2023-01-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 30.0% | 28.2–31.8% | 27.7–32.3% | 27.3–32.8% | 26.5–33.7% |
+| [13–16 January 2023](2023-01-16-ResearchPartner.html) | Research Partner <br> Ariadna | 28.6% | 26.8–30.4% | 26.3–30.9% | 25.9–31.4% | 25.1–32.3% |
+| [10–15 January 2023](2023-01-15-IBSP.html) | IBSP <br> StanPolityki.pl | 34.2% | 32.1–36.5% | 31.6–37.1% | 31.0–37.6% | 30.0–38.7% |
+| [14–15 January 2023](2023-01-15-IBRiS.html) | IBRiS <br> Radio ZET | 29.7% | 28.0–31.6% | 27.5–32.1% | 27.1–32.5% | 26.3–33.4% |
+| [12–13 January 2023](2023-01-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 29.4% | 27.7–31.3% | 27.2–31.9% | 26.7–32.3% | 25.9–33.2% |
+| [6–9 January 2023](2023-01-09-SocialChanges.html) | Social Changes <br> wPolityce.pl | 29.0% | N/A | N/A | N/A | N/A |
+| [6–8 January 2023](2023-01-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 29.5% | N/A | N/A | N/A | N/A |
+| [30 December 2022–2 January 2023](2023-01-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 27.9% | N/A | N/A | N/A | N/A |
+| [29–30 December 2022](2022-12-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 28.8% | 27.0–30.6% | 26.5–31.2% | 26.1–31.6% | 25.2–32.5% |
+| [23–27 December 2022](2022-12-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 28.0% | 26.3–29.8% | 25.8–30.3% | 25.4–30.8% | 24.5–31.7% |
+| [19–21 December 2022](2022-12-21-Ipsos.html) | Ipsos <br> OKO.press | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [20 December 2022](2022-12-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 29.8% | 28.0–31.7% | 27.4–32.2% | 27.0–32.7% | 26.2–33.6% |
 | [19–20 December 2022](2022-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 28.6% | 26.9–30.4% | 26.4–30.9% | 26.0–31.4% | 25.2–32.2% |
 | [16–19 December 2022](2022-12-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 30.0% | 28.2–31.8% | 27.7–32.3% | 27.3–32.8% | 26.5–33.7% |
@@ -678,23 +690,22 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.2% | 100% |  |
-| 25.5–26.5% | 1.1% | 99.8% |  |
-| 26.5–27.5% | 4% | 98.8% |  |
-| 27.5–28.5% | 9% | 95% |  |
-| 28.5–29.5% | 15% | 85% |  |
-| 29.5–30.5% | 17% | 70% |  |
-| 30.5–31.5% | 15% | 53% | Median |
-| 31.5–32.5% | 11% | 39% |  |
-| 32.5–33.5% | 8% | 27% |  |
-| 33.5–34.5% | 6% | 19% |  |
-| 34.5–35.5% | 5% | 13% |  |
-| 35.5–36.5% | 4% | 8% |  |
-| 36.5–37.5% | 3% | 5% |  |
-| 37.5–38.5% | 1.4% | 2% |  |
-| 38.5–39.5% | 0.5% | 0.6% |  |
-| 39.5–40.5% | 0.1% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.3% | 100% |  |
+| 25.5–26.5% | 2% | 99.7% |  |
+| 26.5–27.5% | 6% | 98% |  |
+| 27.5–28.5% | 14% | 91% |  |
+| 28.5–29.5% | 21% | 77% |  |
+| 29.5–30.5% | 20% | 56% | Median |
+| 30.5–31.5% | 13% | 36% |  |
+| 31.5–32.5% | 7% | 22% |  |
+| 32.5–33.5% | 4% | 16% |  |
+| 33.5–34.5% | 4% | 11% |  |
+| 34.5–35.5% | 3% | 7% |  |
+| 35.5–36.5% | 2% | 4% |  |
+| 36.5–37.5% | 1.0% | 1.5% |  |
+| 37.5–38.5% | 0.3% | 0.4% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -705,7 +716,19 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–20 | 15–20 | 14–21 | 14–22 |
+| N/A | [Poll Average](average.html) | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
+| [20–22 January 2023](2023-01-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [13–16 January 2023](2023-01-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
+| [13–16 January 2023](2023-01-16-ResearchPartner.html) | Research Partner <br> Ariadna | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
+| [10–15 January 2023](2023-01-15-IBSP.html) | IBSP <br> StanPolityki.pl | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
+| [14–15 January 2023](2023-01-15-IBRiS.html) | IBRiS <br> Radio ZET | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [12–13 January 2023](2023-01-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [6–9 January 2023](2023-01-09-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [6–8 January 2023](2023-01-08-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [30 December 2022–2 January 2023](2023-01-02-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [29–30 December 2022](2022-12-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
+| [23–27 December 2022](2022-12-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 16 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [19–21 December 2022](2022-12-21-Ipsos.html) | Ipsos <br> OKO.press | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [20 December 2022](2022-12-20-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [19–20 December 2022](2022-12-20-IBRiS.html) | IBRiS <br> Radio ZET | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
 | [16–19 December 2022](2022-12-19-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
@@ -1365,15 +1388,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.1% | 100% |  |
 | 14 | 3% | 99.9% |  |
-| 15 | 11% | 97% |  |
-| 16 | 21% | 86% |  |
-| 17 | 20% | 65% | Median |
-| 18 | 18% | 45% |  |
-| 19 | 14% | 27% |  |
-| 20 | 8% | 13% |  |
-| 21 | 4% | 5% |  |
-| 22 | 1.2% | 1.3% |  |
-| 23 | 0.2% | 0.2% |  |
+| 15 | 18% | 97% |  |
+| 16 | 37% | 79% | Median |
+| 17 | 20% | 42% |  |
+| 18 | 8% | 23% |  |
+| 19 | 6% | 15% |  |
+| 20 | 5% | 9% |  |
+| 21 | 4% | 4% |  |
+| 22 | 0.7% | 0.8% |  |
+| 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
 

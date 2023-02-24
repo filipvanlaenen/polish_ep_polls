@@ -10,23 +10,23 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.9% | 7.5–10.3% | 7.1–10.8% | 6.8–11.1% | 6.3–11.8% |
+| N/A | [Poll Average](average.html) | 9.0% | 6.7–10.7% | 6.0–11.1% | 5.5–11.5% | 4.9–12.2% |
 | [17–20 February 2023](2023-02-20-ResearchPartner.html) | Research Partner <br> Ariadna | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.7–10.1% | 6.2–10.7% |
 | [17–19 February 2023](2023-02-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.5% | 8.4–10.8% | 8.1–11.2% | 7.8–11.5% | 7.3–12.1% |
 | [15–18 February 2023](2023-02-18-PGBOpinium.html) | PGB Opinium | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [10–13 February 2023](2023-02-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.2% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
 | [9–10 February 2023](2023-02-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.5% | 8.4–10.8% | 8.1–11.1% | 7.8–11.5% | 7.3–12.1% |
-| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 6.0% | N/A | N/A | N/A | N/A |
+| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [3–7 February 2023](2023-02-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | N/A | N/A | N/A | N/A |
 | [5–6 February 2023](2023-02-06-ResearchPartner.html) | Research Partner <br> Ariadna | 7.5% | N/A | N/A | N/A | N/A |
 | [3–5 February 2023](2023-02-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.7% | N/A | N/A | N/A | N/A |
-| [3–4 February 2023](2023-02-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10.0% | N/A | N/A | N/A | N/A |
-| [27–30 January 2023](2023-01-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | N/A | N/A | N/A | N/A |
-| [28–29 January 2023](2023-01-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 10.2% | N/A | N/A | N/A | N/A |
-| [26–27 January 2023](2023-01-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.9% | N/A | N/A | N/A | N/A |
-| [22–23 January 2023](2023-01-23-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 9.1% | N/A | N/A | N/A | N/A |
+| [3–4 February 2023](2023-02-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.4–11.9% | 7.9–12.5% |
+| [27–30 January 2023](2023-01-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.2% | 8.6–11.6% | 8.3–11.9% | 7.8–12.5% |
+| [28–29 January 2023](2023-01-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 10.2% | 9.1–11.5% | 8.8–11.8% | 8.5–12.1% | 8.0–12.8% |
+| [26–27 January 2023](2023-01-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.9% | 7.8–10.1% | 7.5–10.5% | 7.3–10.8% | 6.8–11.4% |
+| [22–23 January 2023](2023-01-23-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
 | [20–23 January 2023](2023-01-23-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | N/A | N/A | N/A | N/A |
-| [18–23 January 2023](2023-01-23-KantarPublic.html) | Kantar Public | 8.8% | N/A | N/A | N/A | N/A |
+| [18–23 January 2023](2023-01-23-KantarPublic.html) | Kantar Public | 8.8% | 7.8–10.1% | 7.5–10.5% | 7.2–10.8% | 6.8–11.4% |
 | [20–22 January 2023](2023-01-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
 | [13–16 January 2023](2023-01-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 7.9–10.2% | 7.6–10.5% | 7.4–10.8% | 6.9–11.4% |
 | [13–16 January 2023](2023-01-16-ResearchPartner.html) | Research Partner <br> Ariadna | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.1–10.5% | 6.6–11.1% |
@@ -685,16 +685,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.2% | 100% |  |
-| 6.5–7.5% | 10% | 98.8% |  |
-| 7.5–8.5% | 27% | 89% |  |
-| 8.5–9.5% | 34% | 62% | Median |
-| 9.5–10.5% | 21% | 28% |  |
-| 10.5–11.5% | 6% | 7% |  |
-| 11.5–12.5% | 0.8% | 0.9% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.2% | 100% |  |
+| 4.5–5.5% | 3% | 99.8% |  |
+| 5.5–6.5% | 6% | 97% |  |
+| 6.5–7.5% | 9% | 91% |  |
+| 7.5–8.5% | 19% | 82% |  |
+| 8.5–9.5% | 28% | 63% | Median |
+| 9.5–10.5% | 23% | 35% |  |
+| 10.5–11.5% | 10% | 12% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -706,23 +706,23 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 0–6 |
 | [17–20 February 2023](2023-02-20-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [17–19 February 2023](2023-02-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [15–18 February 2023](2023-02-18-PGBOpinium.html) | PGB Opinium | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [10–13 February 2023](2023-02-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [9–10 February 2023](2023-02-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
-| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 |  |  |  |  |  |
+| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [3–7 February 2023](2023-02-07-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [5–6 February 2023](2023-02-06-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [3–5 February 2023](2023-02-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [3–4 February 2023](2023-02-04-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [27–30 January 2023](2023-01-30-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [28–29 January 2023](2023-01-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [26–27 January 2023](2023-01-27-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [22–23 January 2023](2023-01-23-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
+| [3–4 February 2023](2023-02-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [27–30 January 2023](2023-01-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [28–29 January 2023](2023-01-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
+| [26–27 January 2023](2023-01-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [22–23 January 2023](2023-01-23-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [20–23 January 2023](2023-01-23-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [18–23 January 2023](2023-01-23-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [18–23 January 2023](2023-01-23-KantarPublic.html) | Kantar Public | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [20–22 January 2023](2023-01-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [13–16 January 2023](2023-01-16-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [13–16 January 2023](2023-01-16-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
@@ -1379,14 +1379,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 43% | 98% |  |
-| 5 | 46% | 54% | Median |
-| 6 | 8% | 8% |  |
-| 7 | 0.1% | 0.1% |  |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 0% | 99.4% |  |
+| 2 | 0.2% | 99.4% |  |
+| 3 | 10% | 99.2% |  |
+| 4 | 32% | 89% |  |
+| 5 | 46% | 57% | Median |
+| 6 | 11% | 11% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 

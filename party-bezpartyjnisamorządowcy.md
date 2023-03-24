@@ -25,7 +25,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl | 2.0% | N/A | N/A | N/A | N/A |
+| [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [23–24 February 2023](2023-02-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 February 2023](2023-02-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [17–20 February 2023](2023-02-20-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
@@ -702,7 +702,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 11% | 100% |  |
-| 1.5–2.5% | 74% | 89% | Median |
+| 1.5–2.5% | 73% | 89% | Median |
 | 2.5–3.5% | 15% | 16% |  |
 | 3.5–4.5% | 0.3% | 0.3% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -731,7 +731,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
+| [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl | 0 | 0 | 0 | 0 | 0 |
 | [23–24 February 2023](2023-02-24-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [17–21 February 2023](2023-02-21-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [17–20 February 2023](2023-02-20-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |

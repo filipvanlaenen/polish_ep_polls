@@ -16,7 +16,7 @@
 | Polska 2050 (RE) | N/A | 8.2% | 7.2–9.4% |6.9–9.8% |6.6–10.1% |6.2–10.7% |
 | Koalicja Polska (EPP) | 0.0% | 7.7% | 6.7–8.9% |6.4–9.2% |6.2–9.5% |5.8–10.1% |
 | Konfederacja (NI) | 0.0% | 7.6% | 6.6–8.8% |6.3–9.1% |6.1–9.4% |5.7–10.0% |
-| Porozumienie (EPP) | N/A | 0.4% | 0.2–0.8% |0.2–0.9% |0.2–1.0% |0.1–1.3% |
+| AGROunia–Porozumienie (EPP) | 0.0% | 0.4% | 0.2–0.8% |0.2–0.9% |0.2–1.0% |0.1–1.3% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,5 +36,5 @@
 | <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | N/A | 4 | 3–5 |3–5 |3–5 |3–5 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 4 | 3–4 |3–5 |3–5 |3–5 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 4 | 3–4 |3–5 |3–5 |3–5 |
-| <a href="#porozumienie-(epp)">Porozumienie (EPP)</a> | N/A | 0 | 0 |0 |0 |0 |
+| <a href="#agrounia–porozumienie-(epp)">AGROunia–Porozumienie (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 

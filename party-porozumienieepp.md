@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.2–1.4% | 0.1–1.6% | 0.1–1.7% | 0.0–2.0% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–1.3% | 0.1–1.5% | 0.1–1.6% | 0.1–2.0% |
 | [17–19 March 2023](2023-03-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 March 2023](2023-03-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 March 2023](2023-03-16-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -24,12 +24,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–6 March 2023](2023-03-06-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
-| [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1.0% | N/A | N/A | N/A | N/A |
+| [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.2% |
 | [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 February 2023](2023-02-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 February 2023](2023-02-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1.0% | N/A | N/A | N/A | N/A |
 | [17–20 February 2023](2023-02-20-ResearchPartner.html) | Research Partner <br> Ariadna | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
-| [15–20 February 2023](2023-02-20-KantarPublic.html) | Kantar Public | 0.4% | N/A | N/A | N/A | N/A |
+| [15–20 February 2023](2023-02-20-KantarPublic.html) | Kantar Public | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [17–19 February 2023](2023-02-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 February 2023](2023-02-18-PGBOpinium.html) | PGB Opinium | 0.0% | N/A | N/A | N/A | N/A |
 | [17–18 February 2023](2023-02-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
@@ -700,9 +700,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 46% | 100% | Last Result |
-| 0.5–1.5% | 48% | 54% | Median |
-| 1.5–2.5% | 5% | 5% |  |
+| 0.0–0.5% | 52% | 100% | Last Result |
+| 0.5–1.5% | 45% | 48% | Median |
+| 1.5–2.5% | 4% | 4% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -728,12 +728,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–6 March 2023](2023-03-06-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
-| [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
 | [23–24 February 2023](2023-02-24-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [17–21 February 2023](2023-02-21-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [17–20 February 2023](2023-02-20-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
-| [15–20 February 2023](2023-02-20-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [15–20 February 2023](2023-02-20-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [17–19 February 2023](2023-02-19-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [15–18 February 2023](2023-02-18-PGBOpinium.html) | PGB Opinium |  |  |  |  |  |
 | [17–18 February 2023](2023-02-18-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |

@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [17–18 February 2023](2023-02-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [10–13 February 2023](2023-02-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 February 2023](2023-02-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.3% | N/A | N/A | N/A | N/A |
+| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [3–7 February 2023](2023-02-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 February 2023](2023-02-06-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 February 2023](2023-02-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -741,7 +741,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17–18 February 2023](2023-02-18-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [10–13 February 2023](2023-02-13-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [9–10 February 2023](2023-02-10-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 |  |  |  |  |  |
+| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [3–7 February 2023](2023-02-07-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [5–6 February 2023](2023-02-06-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [3–5 February 2023](2023-02-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |

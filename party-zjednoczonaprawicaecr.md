@@ -10,7 +10,27 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 36.0% | 33.3–38.9% | 32.7–39.7% | 32.1–40.4% | 31.1–41.7% |
+| N/A | [Poll Average](average.html) | 36.3% | 33.2–39.9% | 32.2–40.8% | 31.5–41.6% | 30.2–42.9% |
+| [20–21 April 2023](2023-04-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 35.7% | 33.8–37.6% | 33.3–38.2% | 32.9–38.6% | 32.0–39.6% |
+| [17–19 April 2023](2023-04-19-PGBOpinium.html) | PGB Opinium | 34.6% | 32.8–36.5% | 32.2–37.1% | 31.8–37.6% | 30.9–38.5% |
+| [14–19 April 2023](2023-04-19-KantarPublic.html) | Kantar Public <br> Gazeta Wyborcza | 40.2% | 38.2–42.2% | 37.7–42.8% | 37.2–43.3% | 36.3–44.2% |
+| [14–17 April 2023](2023-04-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 39.0% | 37.1–41.0% | 36.5–41.5% | 36.1–42.0% | 35.2–43.0% |
+| [14–17 April 2023](2023-04-17-ResearchPartner.html) | Research Partner <br> Ariadna | 36.5% | 34.6–38.4% | 34.1–39.0% | 33.6–39.5% | 32.7–40.4% |
+| [14–16 April 2023](2023-04-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 32.5% | 30.7–34.3% | 30.2–34.9% | 29.8–35.3% | 29.0–36.2% |
+| [14–15 April 2023](2023-04-15-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35.9% | 34.0–37.8% | 33.5–38.3% | 33.1–38.8% | 32.2–39.7% |
+| [7–10 April 2023](2023-04-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 39.0% | N/A | N/A | N/A | N/A |
+| [4–5 April 2023](2023-04-05-IBRiS.html) | IBRiS <br> Wydarzenia | 35.8% | N/A | N/A | N/A | N/A |
+| [4–5 April 2023](2023-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 36.1% | N/A | N/A | N/A | N/A |
+| [31 March–3 April 2023](2023-04-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 37.0% | N/A | N/A | N/A | N/A |
+| [31 March–3 April 2023](2023-04-03-ResearchPartner.html) | Research Partner <br> Ariadna | 36.0% | N/A | N/A | N/A | N/A |
+| [30 March–2 April 2023](2023-04-02-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.7% | 33.8–37.7% | 33.2–38.2% | 32.8–38.7% | 31.9–39.7% |
+| [24–27 March 2023](2023-03-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 37.0% | 35.1–38.9% | 34.5–39.5% | 34.1–39.9% | 33.2–40.9% |
+| [22–25 March 2023](2023-03-25-PGBOpinium.html) | PGB Opinium | 35.7% | 33.8–37.6% | 33.2–38.2% | 32.8–38.7% | 31.9–39.6% |
+| [23–24 March 2023](2023-03-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 36.4% | 34.5–38.3% | 33.9–38.9% | 33.5–39.3% | 32.6–40.3% |
+| [20–23 March 2023](2023-03-23-Ipsos.html) | Ipsos <br> OKO.press | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
+| [20–23 March 2023](2023-03-23-IBSP.html) | IBSP <br> StanPolityki.pl | 37.9% | 36.0–39.9% | 35.4–40.5% | 34.9–41.0% | 34.0–41.9% |
+| [17–22 March 2023](2023-03-22-KantarPublic.html) | Kantar Public <br> Gazeta Wyborcza | 35.0% | 33.0–37.0% | 32.5–37.5% | 32.0–38.0% | 31.1–39.0% |
+| [17–20 March 2023](2023-03-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 36.0% | N/A | N/A | N/A | N/A |
 | [17–19 March 2023](2023-03-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 36.6% | 34.7–38.6% | 34.1–39.2% | 33.7–39.6% | 32.8–40.6% |
 | [17–18 March 2023](2023-03-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 37.1% | 35.3–39.0% | 34.8–39.6% | 34.3–40.0% | 33.4–40.9% |
 | [14–16 March 2023](2023-03-16-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
@@ -18,6 +38,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13–14 March 2023](2023-03-14-IBRiS.html) | IBRiS <br> Onet.pl | 36.9% | N/A | N/A | N/A | N/A |
 | [10–13 March 2023](2023-03-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 38.0% | 36.1–39.9% | 35.6–40.5% | 35.1–41.0% | 34.2–41.9% |
 | [10–13 March 2023](2023-03-13-ResearchPartner.html) | Research Partner <br> Ariadna | 35.1% | 33.3–37.1% | 32.7–37.7% | 32.3–38.1% | 31.4–39.1% |
+| [1–13 March 2023](2023-03-13-KantarPublic.html) | Kantar Public <br> Forum Długiego Stołu | 32.7% | N/A | N/A | N/A | N/A |
 | [10–13 March 2023](2023-03-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 33.8% | 31.9–35.8% | 31.4–36.3% | 30.9–36.8% | 30.0–37.7% |
 | [8–9 March 2023](2023-03-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 36.9% | 35.0–38.9% | 34.4–39.4% | 34.0–39.9% | 33.1–40.8% |
 | [3–6 March 2023](2023-03-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 38.0% | N/A | N/A | N/A | N/A |
@@ -729,22 +750,23 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0% | 100% |  |
-| 28.5–29.5% | 0% | 100% |  |
-| 29.5–30.5% | 0.2% | 100% |  |
-| 30.5–31.5% | 0.9% | 99.8% |  |
-| 31.5–32.5% | 3% | 98.9% |  |
-| 32.5–33.5% | 8% | 96% |  |
-| 33.5–34.5% | 13% | 88% |  |
-| 34.5–35.5% | 17% | 75% |  |
-| 35.5–36.5% | 18% | 58% | Median |
-| 36.5–37.5% | 16% | 41% |  |
-| 37.5–38.5% | 12% | 25% |  |
-| 38.5–39.5% | 7% | 13% |  |
-| 39.5–40.5% | 4% | 6% |  |
-| 40.5–41.5% | 2% | 2% |  |
-| 41.5–42.5% | 0.5% | 0.6% |  |
-| 42.5–43.5% | 0.1% | 0.1% |  |
-| 43.5–44.5% | 0% | 0% |  |
+| 28.5–29.5% | 0.1% | 100% |  |
+| 29.5–30.5% | 0.6% | 99.8% |  |
+| 30.5–31.5% | 2% | 99.2% |  |
+| 31.5–32.5% | 4% | 97% |  |
+| 32.5–33.5% | 6% | 94% |  |
+| 33.5–34.5% | 10% | 87% |  |
+| 34.5–35.5% | 14% | 77% |  |
+| 35.5–36.5% | 17% | 63% | Median |
+| 36.5–37.5% | 15% | 46% |  |
+| 37.5–38.5% | 11% | 32% |  |
+| 38.5–39.5% | 8% | 21% |  |
+| 39.5–40.5% | 6% | 12% |  |
+| 40.5–41.5% | 4% | 6% |  |
+| 41.5–42.5% | 2% | 3% |  |
+| 42.5–43.5% | 0.6% | 0.8% |  |
+| 43.5–44.5% | 0.2% | 0.2% |  |
+| 44.5–45.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -755,7 +777,27 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–22 | 18–23 | 18–23 | 17–24 |
+| N/A | [Poll Average](average.html) | 20 | 18–23 | 18–23 | 18–24 | 17–24 |
+| [20–21 April 2023](2023-04-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
+| [17–19 April 2023](2023-04-19-PGBOpinium.html) | PGB Opinium | 19 | 18–21 | 18–21 | 18–22 | 18–22 |
+| [14–19 April 2023](2023-04-19-KantarPublic.html) | Kantar Public <br> Gazeta Wyborcza | 23 | 21–24 | 21–24 | 21–24 | 20–25 |
+| [14–17 April 2023](2023-04-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–24 | 20–24 | 20–24 | 19–25 |
+| [14–17 April 2023](2023-04-17-ResearchPartner.html) | Research Partner <br> Ariadna | 21 | 20–22 | 19–22 | 19–23 | 19–23 |
+| [14–16 April 2023](2023-04-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [14–15 April 2023](2023-04-15-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
+| [7–10 April 2023](2023-04-10-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [4–5 April 2023](2023-04-05-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
+| [4–5 April 2023](2023-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [31 March–3 April 2023](2023-04-03-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [31 March–3 April 2023](2023-04-03-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [30 March–2 April 2023](2023-04-02-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
+| [24–27 March 2023](2023-03-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 21 | 20–23 | 19–23 | 19–23 | 18–24 |
+| [22–25 March 2023](2023-03-25-PGBOpinium.html) | PGB Opinium | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
+| [23–24 March 2023](2023-03-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 19–21 | 19–21 | 18–22 | 18–22 |
+| [20–23 March 2023](2023-03-23-Ipsos.html) | Ipsos <br> OKO.press | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
+| [20–23 March 2023](2023-03-23-IBSP.html) | IBSP <br> StanPolityki.pl | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
+| [17–22 March 2023](2023-03-22-KantarPublic.html) | Kantar Public <br> Gazeta Wyborcza | 21 | 19–22 | 19–23 | 19–23 | 18–24 |
+| [17–20 March 2023](2023-03-20-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [17–19 March 2023](2023-03-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [17–18 March 2023](2023-03-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [14–16 March 2023](2023-03-16-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
@@ -763,6 +805,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [13–14 March 2023](2023-03-14-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [10–13 March 2023](2023-03-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 20–23 | 20–24 | 20–24 | 19–25 |
 | [10–13 March 2023](2023-03-13-ResearchPartner.html) | Research Partner <br> Ariadna | 20 | 19–22 | 18–22 | 18–22 | 18–23 |
+| [1–13 March 2023](2023-03-13-KantarPublic.html) | Kantar Public <br> Forum Długiego Stołu |  |  |  |  |  |
 | [10–13 March 2023](2023-03-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [8–9 March 2023](2023-03-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [3–6 March 2023](2023-03-06-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
@@ -1463,16 +1506,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.9% | 100% |  |
-| 18 | 7% | 99.0% |  |
-| 19 | 22% | 92% |  |
-| 20 | 35% | 70% | Median |
-| 21 | 19% | 35% |  |
-| 22 | 10% | 16% |  |
-| 23 | 5% | 6% |  |
-| 24 | 2% | 2% |  |
-| 25 | 0.2% | 0.3% |  |
+| 16 | 0.3% | 100% |  |
+| 17 | 2% | 99.7% |  |
+| 18 | 10% | 98% |  |
+| 19 | 20% | 87% |  |
+| 20 | 22% | 67% | Median |
+| 21 | 20% | 46% |  |
+| 22 | 14% | 26% |  |
+| 23 | 8% | 11% |  |
+| 24 | 4% | 4% |  |
+| 25 | 0.3% | 0.4% |  |
 | 26 | 0% | 0% |  |
 
 

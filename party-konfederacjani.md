@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 10.2% | 7.7–12.4% | 7.3–12.9% | 7.0–13.3% | 6.4–14.2% |
+| N/A | [Poll Average](average.html) | 10.3% | 7.7–12.6% | 7.3–13.1% | 7.0–13.5% | 6.4–14.3% |
 | [19–21 May 2023](2023-05-21-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
 | [19–21 May 2023](2023-05-21-IBRiS.html) | IBRiS <br> Wydarzenia | 11.8% | 10.5–13.2% | 10.2–13.5% | 9.9–13.9% | 9.4–14.6% |
-| [16–19 May 2023](2023-05-19-PGBOpinium.html) | PGB Opinium | 10.8% | 9.7–12.0% | 9.4–12.3% | 9.1–12.7% | 8.6–13.3% |
+| [16–19 May 2023](2023-05-19-PGBOpinium.html) | PGB Opinium | 11.7% | 10.6–13.1% | 10.2–13.4% | 10.0–13.8% | 9.4–14.4% |
 | [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> DoRzeczy.pl | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [12–17 May 2023](2023-05-17-KantarPublic.html) | Kantar Public | 7.9% | 6.9–9.1% | 6.6–9.5% | 6.4–9.8% | 5.9–10.4% |
 | [16 May 2023](2023-05-16-IBRiS.html) | IBRiS <br> Onet.pl | 10.9% | N/A | N/A | N/A | N/A |
@@ -743,11 +743,11 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 7% | 99.1% |  |
 | 7.5–8.5% | 15% | 92% |  |
 | 8.5–9.5% | 16% | 77% |  |
-| 9.5–10.5% | 18% | 61% | Median |
-| 10.5–11.5% | 20% | 43% |  |
-| 11.5–12.5% | 14% | 22% |  |
-| 12.5–13.5% | 6% | 8% |  |
-| 13.5–14.5% | 1.5% | 2% |  |
+| 9.5–10.5% | 15% | 62% | Median |
+| 10.5–11.5% | 19% | 46% |  |
+| 11.5–12.5% | 17% | 27% |  |
+| 12.5–13.5% | 8% | 10% |  |
+| 13.5–14.5% | 2% | 2% |  |
 | 14.5–15.5% | 0.2% | 0.2% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -763,7 +763,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–7 | 3–7 | 3–7 |
 | [19–21 May 2023](2023-05-21-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [19–21 May 2023](2023-05-21-IBRiS.html) | IBRiS <br> Wydarzenia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
-| [16–19 May 2023](2023-05-19-PGBOpinium.html) | PGB Opinium | 5 | 5–6 | 5–6 | 5–7 | 4–7 |
+| [16–19 May 2023](2023-05-19-PGBOpinium.html) | PGB Opinium | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> DoRzeczy.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [12–17 May 2023](2023-05-17-KantarPublic.html) | Kantar Public | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [16 May 2023](2023-05-16-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
@@ -1490,10 +1490,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
 | 4 | 26% | 97% |  |
-| 5 | 34% | 71% | Median |
-| 6 | 30% | 37% |  |
-| 7 | 7% | 7% |  |
-| 8 | 0.2% | 0.2% |  |
+| 5 | 29% | 71% | Median |
+| 6 | 33% | 42% |  |
+| 7 | 9% | 9% |  |
+| 8 | 0.3% | 0.3% |  |
 | 9 | 0% | 0% |  |
 
 

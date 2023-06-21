@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.9% | 9.8–14.3% | 9.3–15.0% | 8.9–15.5% | 8.3–16.4% |
+| N/A | [Poll Average](average.html) | 11.7% | 9.6–14.2% | 9.2–14.9% | 8.8–15.4% | 8.2–16.4% |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 10.2% | 9.0–11.5% | 8.7–11.8% | 8.4–12.2% | 7.9–12.8% |
 | [9–12 June 2023](2023-06-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.6% |
 | [9–12 June 2023](2023-06-12-ResearchPartner.html) | Research Partner <br> Ariadna | 12.1% | 10.9–13.5% | 10.6–13.9% | 10.3–14.3% | 9.7–15.0% |
@@ -24,11 +24,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–4 June 2023](2023-06-04-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 11.8% | N/A | N/A | N/A | N/A |
 | [4 June 2023](2023-06-04-IBRiS.html) | IBRiS <br> Radio ZET | 14.1% | N/A | N/A | N/A | N/A |
 | [30–31 May 2023](2023-05-31-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.8% | 8.7–11.2% | 8.4–11.5% | 8.1–11.8% | 7.6–12.5% |
-| [29–30 May 2023](2023-05-30-CBMIndicator.html) | CBM Indicator <br> TVP | 10.1% | N/A | N/A | N/A | N/A |
-| [26–29 May 2023](2023-05-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | N/A | N/A | N/A | N/A |
-| [26–29 May 2023](2023-05-29-ResearchPartner.html) | Research Partner <br> Ariadna | 10.1% | N/A | N/A | N/A | N/A |
-| [26–28 May 2023](2023-05-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 10.8% | N/A | N/A | N/A | N/A |
-| [26–27 May 2023](2023-05-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11.9% | N/A | N/A | N/A | N/A |
+| [29–30 May 2023](2023-05-30-CBMIndicator.html) | CBM Indicator <br> TVP | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.1% | 7.9–12.8% |
+| [26–29 May 2023](2023-05-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [26–29 May 2023](2023-05-29-ResearchPartner.html) | Research Partner <br> Ariadna | 10.1% | 9.0–11.4% | 8.7–11.8% | 8.5–12.1% | 7.9–12.8% |
+| [26–28 May 2023](2023-05-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
+| [26–27 May 2023](2023-05-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.0–14.1% | 9.5–14.8% |
 | [19–21 May 2023](2023-05-21-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 10.8% | 9.6–12.2% | 9.3–12.5% | 9.0–12.9% | 8.5–13.6% |
 | [19–21 May 2023](2023-05-21-IBRiS.html) | IBRiS <br> Wydarzenia | 11.8% | 10.5–13.2% | 10.2–13.5% | 9.9–13.9% | 9.4–14.6% |
 | [16–19 May 2023](2023-05-19-PGBOpinium.html) | PGB Opinium | 11.7% | 10.6–13.1% | 10.2–13.4% | 10.0–13.8% | 9.4–14.4% |
@@ -759,16 +759,16 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 1.0% | 100% |  |
-| 8.5–9.5% | 7% | 99.0% |  |
-| 9.5–10.5% | 15% | 92% |  |
-| 10.5–11.5% | 20% | 78% |  |
-| 11.5–12.5% | 21% | 58% | Median |
-| 12.5–13.5% | 18% | 36% |  |
-| 13.5–14.5% | 11% | 19% |  |
-| 14.5–15.5% | 5% | 8% |  |
+| 7.5–8.5% | 1.3% | 100% |  |
+| 8.5–9.5% | 8% | 98.7% |  |
+| 9.5–10.5% | 18% | 90% |  |
+| 10.5–11.5% | 21% | 73% |  |
+| 11.5–12.5% | 20% | 52% | Median |
+| 12.5–13.5% | 16% | 32% |  |
+| 13.5–14.5% | 10% | 17% |  |
+| 14.5–15.5% | 5% | 7% |  |
 | 15.5–16.5% | 2% | 2% |  |
-| 16.5–17.5% | 0.4% | 0.4% |  |
+| 16.5–17.5% | 0.3% | 0.3% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -780,7 +780,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 5–8 | 4–9 |
+| N/A | [Poll Average](average.html) | 6 | 5–7 | 5–8 | 4–8 | 4–9 |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [9–12 June 2023](2023-06-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [9–12 June 2023](2023-06-12-ResearchPartner.html) | Research Partner <br> Ariadna | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
@@ -794,11 +794,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–4 June 2023](2023-06-04-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
 | [4 June 2023](2023-06-04-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [30–31 May 2023](2023-05-31-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
-| [29–30 May 2023](2023-05-30-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
-| [26–29 May 2023](2023-05-29-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [26–29 May 2023](2023-05-29-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
-| [26–28 May 2023](2023-05-28-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [26–27 May 2023](2023-05-27-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [29–30 May 2023](2023-05-30-CBMIndicator.html) | CBM Indicator <br> TVP | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [26–29 May 2023](2023-05-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [26–29 May 2023](2023-05-29-ResearchPartner.html) | Research Partner <br> Ariadna | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [26–28 May 2023](2023-05-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [26–27 May 2023](2023-05-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [19–21 May 2023](2023-05-21-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [19–21 May 2023](2023-05-21-IBRiS.html) | IBRiS <br> Wydarzenia | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [16–19 May 2023](2023-05-19-PGBOpinium.html) | PGB Opinium | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
@@ -1527,11 +1527,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 2% | 100% |  |
-| 5 | 22% | 98% |  |
-| 6 | 41% | 76% | Median |
-| 7 | 26% | 35% |  |
-| 8 | 8% | 9% |  |
+| 4 | 3% | 100% |  |
+| 5 | 27% | 97% |  |
+| 6 | 38% | 69% | Median |
+| 7 | 23% | 31% |  |
+| 8 | 7% | 8% |  |
 | 9 | 0.7% | 0.7% |  |
 | 10 | 0% | 0% |  |
 

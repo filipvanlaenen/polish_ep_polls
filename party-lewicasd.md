@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.2–10.5% | 5.8–11.1% | 5.5–11.5% | 5.0–12.4% |
+| N/A | [Poll Average](average.html) | 8.1% | 6.3–10.8% | 5.9–11.3% | 5.5–11.7% | 5.0–12.5% |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 7.8% | 6.8–9.0% | 6.6–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [9–12 June 2023](2023-06-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [9–12 June 2023](2023-06-12-ResearchPartner.html) | Research Partner <br> Ariadna | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.8–7.8% | 4.5–8.3% |
@@ -24,11 +24,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [2–4 June 2023](2023-06-04-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 9.5% | N/A | N/A | N/A | N/A |
 | [4 June 2023](2023-06-04-IBRiS.html) | IBRiS <br> Radio ZET | 9.0% | N/A | N/A | N/A | N/A |
 | [30–31 May 2023](2023-05-31-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.7% | 9.1–14.4% |
-| [29–30 May 2023](2023-05-30-CBMIndicator.html) | CBM Indicator <br> TVP | 10.2% | N/A | N/A | N/A | N/A |
-| [26–29 May 2023](2023-05-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | N/A | N/A | N/A | N/A |
-| [26–29 May 2023](2023-05-29-ResearchPartner.html) | Research Partner <br> Ariadna | 8.7% | N/A | N/A | N/A | N/A |
-| [26–28 May 2023](2023-05-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 10.7% | N/A | N/A | N/A | N/A |
-| [26–27 May 2023](2023-05-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 8.4% | N/A | N/A | N/A | N/A |
+| [29–30 May 2023](2023-05-30-CBMIndicator.html) | CBM Indicator <br> TVP | 10.2% | 9.1–11.5% | 8.7–11.9% | 8.5–12.2% | 8.0–12.9% |
+| [26–29 May 2023](2023-05-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.1–10.4% |
+| [26–29 May 2023](2023-05-29-ResearchPartner.html) | Research Partner <br> Ariadna | 8.7% | 7.7–9.9% | 7.4–10.3% | 7.1–10.6% | 6.7–11.2% |
+| [26–28 May 2023](2023-05-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 10.7% | 9.5–12.1% | 9.2–12.4% | 8.9–12.8% | 8.4–13.5% |
+| [26–27 May 2023](2023-05-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [19–21 May 2023](2023-05-21-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
 | [19–21 May 2023](2023-05-21-IBRiS.html) | IBRiS <br> Wydarzenia | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.5% |
 | [16–19 May 2023](2023-05-19-PGBOpinium.html) | PGB Opinium | 8.5% | 7.5–9.7% | 7.3–10.1% | 7.0–10.3% | 6.6–10.9% |
@@ -756,15 +756,15 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 14% | 97% |  |
-| 6.5–7.5% | 26% | 83% |  |
-| 7.5–8.5% | 24% | 57% | Median |
-| 8.5–9.5% | 13% | 34% |  |
-| 9.5–10.5% | 11% | 21% |  |
-| 10.5–11.5% | 7% | 10% |  |
-| 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 12% | 97% |  |
+| 6.5–7.5% | 23% | 85% |  |
+| 7.5–8.5% | 21% | 62% | Median |
+| 8.5–9.5% | 14% | 41% |  |
+| 9.5–10.5% | 14% | 27% |  |
+| 10.5–11.5% | 10% | 13% |  |
+| 11.5–12.5% | 3% | 3% |  |
+| 12.5–13.5% | 0.4% | 0.4% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
 
@@ -790,11 +790,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–4 June 2023](2023-06-04-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
 | [4 June 2023](2023-06-04-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [30–31 May 2023](2023-05-31-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6 | 6–7 | 5–7 | 5–7 | 5–8 |
-| [29–30 May 2023](2023-05-30-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
-| [26–29 May 2023](2023-05-29-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [26–29 May 2023](2023-05-29-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
-| [26–28 May 2023](2023-05-28-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [26–27 May 2023](2023-05-27-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [29–30 May 2023](2023-05-30-CBMIndicator.html) | CBM Indicator <br> TVP | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [26–29 May 2023](2023-05-29-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [26–29 May 2023](2023-05-29-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [26–28 May 2023](2023-05-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [26–27 May 2023](2023-05-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [19–21 May 2023](2023-05-21-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [19–21 May 2023](2023-05-21-IBRiS.html) | IBRiS <br> Wydarzenia | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [16–19 May 2023](2023-05-19-PGBOpinium.html) | PGB Opinium | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -1519,13 +1519,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.7% | 100% | Last Result |
-| 1 | 0% | 99.3% |  |
-| 2 | 1.1% | 99.3% |  |
-| 3 | 28% | 98% |  |
-| 4 | 42% | 70% | Median |
-| 5 | 21% | 28% |  |
-| 6 | 6% | 6% |  |
+| 0 | 0.6% | 100% | Last Result |
+| 1 | 0% | 99.4% |  |
+| 2 | 1.0% | 99.4% |  |
+| 3 | 25% | 98% |  |
+| 4 | 39% | 74% | Median |
+| 5 | 27% | 35% |  |
+| 6 | 8% | 8% |  |
 | 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 

@@ -10,8 +10,24 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.3–2.3% | 0.3–2.5% | 0.2–2.7% | 0.1–3.1% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% | 0.4–2.5% |
+| [19–20 July 2023](2023-07-20-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [14–19 July 2023](2023-07-19-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
+| [14–17 July 2023](2023-07-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% |
+| [14–17 July 2023](2023-07-17-ResearchPartner.html) | Research Partner <br> Ariadna | 0.8% | 0.6–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
+| [17 July 2023](2023-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [13–14 July 2023](2023-07-14-IBRiS.html) | IBRiS <br> Wydarzenia | 0.3% | N/A | N/A | N/A | N/A |
+| [11–13 July 2023](2023-07-13-PGBOpinium.html) | PGB Opinium | 0.0% | N/A | N/A | N/A | N/A |
+| [6–10 July 2023](2023-07-10-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [7–9 July 2023](2023-07-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.1% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| [5–7 July 2023](2023-07-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [26–28 June 2023](2023-06-28-IPSOS.html) | IPSOS <br> DoRzeczy.pl | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [23–27 June 2023](2023-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
+| [23–25 June 2023](2023-06-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [19–22 June 2023](2023-06-22-Ipsos.html) | Ipsos <br> OKO.press & TOK FM | 1.9% | N/A | N/A | N/A | N/A |
+| [16–19 June 2023](2023-06-19-KantarPublic.html) | Kantar Public | 1.0% | N/A | N/A | N/A | N/A |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
+| [14–15 June 2023](2023-06-15-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.3% | N/A | N/A | N/A | N/A |
 | [9–12 June 2023](2023-06-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 June 2023](2023-06-12-ResearchPartner.html) | Research Partner <br> Ariadna | 0.6% | 0.4–1.0% | 0.3–1.1% | 0.3–1.3% | 0.2–1.5% |
 | [9–11 June 2023](2023-06-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
@@ -751,12 +767,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 27% | 100% | Last Result |
-| 0.5–1.5% | 40% | 73% | Median |
-| 1.5–2.5% | 29% | 33% |  |
-| 2.5–3.5% | 4% | 4% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 3% | 100% | Last Result |
+| 0.5–1.5% | 80% | 97% | Median |
+| 1.5–2.5% | 17% | 18% |  |
+| 2.5–3.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -768,7 +783,23 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–20 July 2023](2023-07-20-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [14–19 July 2023](2023-07-19-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [14–17 July 2023](2023-07-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
+| [14–17 July 2023](2023-07-17-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
+| [17 July 2023](2023-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
+| [13–14 July 2023](2023-07-14-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
+| [11–13 July 2023](2023-07-13-PGBOpinium.html) | PGB Opinium |  |  |  |  |  |
+| [6–10 July 2023](2023-07-10-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
+| [7–9 July 2023](2023-07-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [5–7 July 2023](2023-07-07-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [26–28 June 2023](2023-06-28-IPSOS.html) | IPSOS <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
+| [23–27 June 2023](2023-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
+| [23–25 June 2023](2023-06-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [19–22 June 2023](2023-06-22-Ipsos.html) | Ipsos <br> OKO.press & TOK FM |  |  |  |  |  |
+| [16–19 June 2023](2023-06-19-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
+| [14–15 June 2023](2023-06-15-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [9–12 June 2023](2023-06-12-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [9–12 June 2023](2023-06-12-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [9–11 June 2023](2023-06-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |

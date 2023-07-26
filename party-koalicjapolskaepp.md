@@ -27,7 +27,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19–22 June 2023](2023-06-22-Ipsos.html) | Ipsos <br> OKO.press & TOK FM | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 June 2023](2023-06-19-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [14–15 June 2023](2023-06-15-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.5% | N/A | N/A | N/A | N/A |
+| [14–15 June 2023](2023-06-15-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.5% | 5.7–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.7% |
 | [9–12 June 2023](2023-06-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [9–12 June 2023](2023-06-12-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
 | [9–11 June 2023](2023-06-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -805,7 +805,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–22 June 2023](2023-06-22-Ipsos.html) | Ipsos <br> OKO.press & TOK FM |  |  |  |  |  |
 | [16–19 June 2023](2023-06-19-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [14–15 June 2023](2023-06-15-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [14–15 June 2023](2023-06-15-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
 | [9–12 June 2023](2023-06-12-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [9–12 June 2023](2023-06-12-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [9–11 June 2023](2023-06-11-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |

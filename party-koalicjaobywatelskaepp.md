@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.8% | 27.5–33.7% | 26.9–36.9% | 26.4–38.0% | 25.5–39.5% |
+| N/A | [Poll Average](average.html) | 29.8% | 27.5–34.6% | 26.9–36.9% | 26.4–38.0% | 25.5–39.5% |
 | [19–20 July 2023](2023-07-20-IBRiS.html) | IBRiS <br> Onet.pl | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [14–19 July 2023](2023-07-19-KantarPublic.html) | Kantar Public | 37.0% | 35.1–39.0% | 34.5–39.6% | 34.1–40.1% | 33.1–41.1% |
 | [14–17 July 2023](2023-07-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 30.0% | 28.3–31.9% | 27.8–32.4% | 27.3–32.9% | 26.5–33.8% |
@@ -24,7 +24,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [26–28 June 2023](2023-06-28-IPSOS.html) | IPSOS <br> DoRzeczy.pl | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
 | [23–27 June 2023](2023-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 30.9% | 29.2–32.8% | 28.7–33.3% | 28.2–33.8% | 27.4–34.7% |
 | [23–25 June 2023](2023-06-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.6% |
-| [19–22 June 2023](2023-06-22-Ipsos.html) | Ipsos <br> OKO.press & TOK FM | 31.4% | 29.6–33.3% | 29.1–33.9% | 28.7–34.3% | 27.8–35.2% |
+| [19–22 June 2023](2023-06-22-Ipsos.html) | Ipsos <br> OKO.press & TOK FM | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [16–19 June 2023](2023-06-19-KantarPublic.html) | Kantar Public | 37.4% | 35.5–39.4% | 34.9–39.9% | 34.4–40.5% | 33.5–41.4% |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 30.7% | 28.9–32.6% | 28.3–33.1% | 27.9–33.6% | 27.1–34.5% |
 | [14–15 June 2023](2023-06-15-IBRiS.html) | IBRiS <br> Rzeczpospolita | 29.7% | 27.9–31.5% | 27.5–32.1% | 27.0–32.5% | 26.2–33.4% |
@@ -797,12 +797,12 @@ The following table shows the probability mass function per percentage block of 
 | 26.5–27.5% | 7% | 97% |  |
 | 27.5–28.5% | 15% | 90% |  |
 | 28.5–29.5% | 20% | 75% |  |
-| 29.5–30.5% | 19% | 54% | Median |
-| 30.5–31.5% | 14% | 35% |  |
-| 31.5–32.5% | 8% | 21% |  |
-| 32.5–33.5% | 3% | 14% |  |
-| 33.5–34.5% | 1.4% | 10% |  |
-| 34.5–35.5% | 1.3% | 9% |  |
+| 29.5–30.5% | 18% | 55% | Median |
+| 30.5–31.5% | 13% | 37% |  |
+| 31.5–32.5% | 7% | 24% |  |
+| 32.5–33.5% | 4% | 17% |  |
+| 33.5–34.5% | 3% | 13% |  |
+| 34.5–35.5% | 2% | 10% |  |
 | 35.5–36.5% | 2% | 8% |  |
 | 36.5–37.5% | 2% | 6% |  |
 | 37.5–38.5% | 2% | 3% |  |
@@ -820,7 +820,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–18 | 15–20 | 14–21 | 14–22 |
+| N/A | [Poll Average](average.html) | 16 | 15–19 | 15–20 | 14–21 | 14–22 |
 | [19–20 July 2023](2023-07-20-IBRiS.html) | IBRiS <br> Onet.pl | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [14–19 July 2023](2023-07-19-KantarPublic.html) | Kantar Public | 20 | 19–21 | 19–22 | 18–22 | 18–23 |
 | [14–17 July 2023](2023-07-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
@@ -834,7 +834,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–28 June 2023](2023-06-28-IPSOS.html) | IPSOS <br> DoRzeczy.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [23–27 June 2023](2023-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [23–25 June 2023](2023-06-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
-| [19–22 June 2023](2023-06-22-Ipsos.html) | Ipsos <br> OKO.press & TOK FM | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [19–22 June 2023](2023-06-22-Ipsos.html) | Ipsos <br> OKO.press & TOK FM | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [16–19 June 2023](2023-06-19-KantarPublic.html) | Kantar Public | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [16–18 June 2023](2023-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [14–15 June 2023](2023-06-15-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
@@ -1595,10 +1595,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0.3% | 100% |  |
 | 14 | 4% | 99.7% |  |
 | 15 | 22% | 95% |  |
-| 16 | 36% | 73% | Median |
-| 17 | 20% | 37% |  |
-| 18 | 7% | 17% |  |
-| 19 | 3% | 10% |  |
+| 16 | 34% | 74% | Median |
+| 17 | 18% | 39% |  |
+| 18 | 9% | 21% |  |
+| 19 | 4% | 12% |  |
 | 20 | 4% | 7% |  |
 | 21 | 2% | 3% |  |
 | 22 | 0.5% | 0.6% |  |

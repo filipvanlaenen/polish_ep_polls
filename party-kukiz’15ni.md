@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.4–1.9% | 0.3–2.1% | 0.3–2.4% | 0.2–2.8% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.9% | 0.3–2.1% | 0.3–2.4% | 0.2–2.8% |
 | [19–20 July 2023](2023-07-20-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [14–19 July 2023](2023-07-19-KantarPublic.html) | Kantar Public | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
 | [14–17 July 2023](2023-07-17-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1.0% | 0.7–1.6% | 0.7–1.7% | 0.6–1.9% | 0.5–2.1% |
@@ -20,7 +20,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [11–13 July 2023](2023-07-13-PGBOpinium.html) | PGB Opinium | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 July 2023](2023-07-10-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [7–9 July 2023](2023-07-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [5–7 July 2023](2023-07-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
+| [5–7 July 2023](2023-07-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.9% | 0.7–1.5% | 0.6–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [26–28 June 2023](2023-06-28-IPSOS.html) | IPSOS <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [23–27 June 2023](2023-06-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.6–1.8% | 0.5–2.1% |
 | [23–25 June 2023](2023-06-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -769,7 +769,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 14% | 100% | Last Result |
 | 0.5–1.5% | 63% | 86% | Median |
-| 1.5–2.5% | 22% | 23% |  |
+| 1.5–2.5% | 22% | 24% |  |
 | 2.5–3.5% | 1.2% | 1.2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 

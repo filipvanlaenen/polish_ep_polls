@@ -34,7 +34,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [18–21 August 2023](2023-08-21-IBRiS.html) | IBRiS <br> Wydarzenia | 33.4% | N/A | N/A | N/A | N/A |
 | [18–20 August 2023](2023-08-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 34.5% | 32.6–36.5% | 32.1–37.0% | 31.6–37.5% | 30.7–38.5% |
 | [11–14 August 2023](2023-08-14-SocialChanges.html) | Social Changes <br> wPolityce.pl | 30.0% | N/A | N/A | N/A | N/A |
-| [11–14 August 2023](2023-08-14-ResearchPartner.html) | Research Partner <br> Ariadna | 29.6% | N/A | N/A | N/A | N/A |
+| [11–14 August 2023](2023-08-14-ResearchPartner.html) | Research Partner <br> Ariadna | 29.6% | 27.8–31.4% | 27.3–31.9% | 26.9–32.4% | 26.1–33.3% |
 | [28–31 July 2023](2023-07-31-SocialChanges.html) | Social Changes <br> wPolityce.pl | 30.0% | N/A | N/A | N/A | N/A |
 | [29–30 July 2023](2023-07-30-UnitedSurveys.html) | United Surveys <br> WP.pl | 29.8% | N/A | N/A | N/A | N/A |
 | [29–30 July 2023](2023-07-30-ResearchPartner.html) | Research Partner <br> Ariadna | 29.8% | N/A | N/A | N/A | N/A |
@@ -46,7 +46,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [14–17 July 2023](2023-07-17-ResearchPartner.html) | Research Partner <br> Ariadna | 29.6% | 27.9–31.4% | 27.4–32.0% | 27.0–32.4% | 26.2–33.3% |
 | [17 July 2023](2023-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.6% |
 | [13–14 July 2023](2023-07-14-IBRiS.html) | IBRiS <br> Wydarzenia | 29.4% | N/A | N/A | N/A | N/A |
-| [11–13 July 2023](2023-07-13-PGBOpinium.html) | PGB Opinium | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
+| [11–13 July 2023](2023-07-13-PGBOpinium.html) | PGB Opinium | 29.0% | N/A | N/A | N/A | N/A |
 | [6–10 July 2023](2023-07-10-IBSP.html) | IBSP <br> StanPolityki.pl | 30.8% | 28.7–32.9% | 28.1–33.5% | 27.6–34.0% | 26.7–35.1% |
 | [7–9 July 2023](2023-07-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
 | [5–7 July 2023](2023-07-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 29.9% | 28.1–31.7% | 27.6–32.3% | 27.2–32.7% | 26.4–33.6% |
@@ -872,7 +872,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [18–21 August 2023](2023-08-21-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
 | [18–20 August 2023](2023-08-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
 | [11–14 August 2023](2023-08-14-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [11–14 August 2023](2023-08-14-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [11–14 August 2023](2023-08-14-ResearchPartner.html) | Research Partner <br> Ariadna | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [28–31 July 2023](2023-07-31-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [29–30 July 2023](2023-07-30-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [29–30 July 2023](2023-07-30-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
@@ -884,7 +884,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [14–17 July 2023](2023-07-17-ResearchPartner.html) | Research Partner <br> Ariadna | 16 | 16–18 | 15–18 | 15–18 | 15–19 |
 | [17 July 2023](2023-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
 | [13–14 July 2023](2023-07-14-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
-| [11–13 July 2023](2023-07-13-PGBOpinium.html) | PGB Opinium | 16 | 15–17 | 15–17 | 14–17 | 14–18 |
+| [11–13 July 2023](2023-07-13-PGBOpinium.html) | PGB Opinium |  |  |  |  |  |
 | [6–10 July 2023](2023-07-10-IBSP.html) | IBSP <br> StanPolityki.pl | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [7–9 July 2023](2023-07-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [5–7 July 2023](2023-07-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 15–18 | 15–19 | 15–19 |

@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.2% | 26.8–33.0% | 20.1–33.9% | 19.1–34.6% | 17.9–36.1% |
+| N/A | [Poll Average](average.html) | 30.3% | 27.9–33.1% | 27.3–34.0% | 26.7–34.7% | 25.7–36.1% |
+| [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 29.8% | 28.0–31.6% | 27.5–32.2% | 27.1–32.6% | 26.3–33.5% |
+| [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 30.4% | 28.6–32.3% | 28.1–32.9% | 27.7–33.3% | 26.8–34.3% |
 | [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
 | [18–19 September 2023](2023-09-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 29.6% | 27.8–31.5% | 27.3–32.0% | 26.8–32.5% | 26.0–33.4% |
 | [15–18 September 2023](2023-09-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.3–32.9% | 26.5–33.8% |
+| [15–18 September 2023](2023-09-18-ResearchPartner.html) | Research Partner <br> Ariadna | 28.2% | 26.4–30.0% | 26.0–30.5% | 25.5–31.0% | 24.7–31.8% |
 | [16–17 September 2023](2023-09-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 28.3% | 26.5–30.2% | 26.0–30.7% | 25.6–31.2% | 24.8–32.1% |
 | [15–17 September 2023](2023-09-17-IBRiS.html) | IBRiS <br> Wydarzenia | 29.3% | 27.5–31.2% | 27.0–31.7% | 26.6–32.2% | 25.7–33.1% |
 | [15–16 September 2023](2023-09-16-Estymator.html) | Estymator <br> DoRzeczy.pl | 29.4% | 27.6–31.2% | 27.1–31.7% | 26.7–32.2% | 25.9–33.1% |
@@ -776,11 +779,11 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 26.7% | 25.0–28.6% | 24.5–29.1% | 24.1–29.6% | 23.3–30.5% |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 27.0% | 25.3–28.8% | 24.9–29.3% | 24.4–29.7% | 23.7–30.6% |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 30.2% | N/A | N/A | N/A | N/A |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 26.9% | N/A | N/A | N/A | N/A |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 29.5% | N/A | N/A | N/A | N/A |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
@@ -819,28 +822,28 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.3% | 100% |  |
-| 17.5–18.5% | 1.1% | 99.7% |  |
-| 18.5–19.5% | 2% | 98.6% |  |
-| 19.5–20.5% | 2% | 96% |  |
-| 20.5–21.5% | 2% | 94% |  |
-| 21.5–22.5% | 0.6% | 92% |  |
-| 22.5–23.5% | 0.1% | 92% |  |
-| 23.5–24.5% | 0% | 92% |  |
-| 24.5–25.5% | 0.1% | 92% |  |
-| 25.5–26.5% | 0.9% | 92% |  |
-| 26.5–27.5% | 4% | 91% |  |
-| 27.5–28.5% | 9% | 87% |  |
-| 28.5–29.5% | 16% | 78% |  |
-| 29.5–30.5% | 19% | 62% | Median |
-| 30.5–31.5% | 17% | 43% |  |
-| 31.5–32.5% | 12% | 26% |  |
-| 32.5–33.5% | 7% | 14% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0% | 100% |  |
+| 18.5–19.5% | 0% | 100% |  |
+| 19.5–20.5% | 0% | 100% |  |
+| 20.5–21.5% | 0% | 100% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0.3% | 100% |  |
+| 25.5–26.5% | 2% | 99.6% |  |
+| 26.5–27.5% | 5% | 98% |  |
+| 27.5–28.5% | 11% | 93% |  |
+| 28.5–29.5% | 17% | 83% |  |
+| 29.5–30.5% | 20% | 66% | Median |
+| 30.5–31.5% | 18% | 46% |  |
+| 31.5–32.5% | 13% | 28% |  |
+| 32.5–33.5% | 8% | 15% |  |
 | 33.5–34.5% | 4% | 7% |  |
 | 34.5–35.5% | 2% | 3% |  |
-| 35.5–36.5% | 0.7% | 0.9% |  |
+| 35.5–36.5% | 0.7% | 1.0% |  |
 | 36.5–37.5% | 0.2% | 0.3% |  |
-| 37.5–38.5% | 0% | 0.1% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
 
@@ -852,10 +855,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–18 | 11–19 | 11–19 | 10–20 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 15–19 | 14–20 |
+| [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [18–19 September 2023](2023-09-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 17 | 16–18 | 15–18 | 15–18 | 14–19 |
 | [15–18 September 2023](2023-09-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [15–18 September 2023](2023-09-18-ResearchPartner.html) | Research Partner <br> Ariadna | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [16–17 September 2023](2023-09-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 14–17 | 14–17 | 14–18 |
 | [15–17 September 2023](2023-09-17-IBRiS.html) | IBRiS <br> Wydarzenia | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [15–16 September 2023](2023-09-16-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
@@ -1655,18 +1661,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 2% | 99.8% |  |
-| 11 | 4% | 98% |  |
-| 12 | 2% | 94% |  |
-| 13 | 0.3% | 92% |  |
-| 14 | 0.8% | 92% |  |
-| 15 | 8% | 91% |  |
-| 16 | 27% | 82% |  |
-| 17 | 32% | 56% | Median |
-| 18 | 18% | 24% |  |
-| 19 | 5% | 6% |  |
-| 20 | 1.0% | 1.2% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 1.2% | 100% |  |
+| 15 | 10% | 98.8% |  |
+| 16 | 28% | 89% |  |
+| 17 | 34% | 61% | Median |
+| 18 | 20% | 27% |  |
+| 19 | 6% | 7% |  |
+| 20 | 1.1% | 1.3% |  |
 | 21 | 0.2% | 0.2% |  |
 | 22 | 0% | 0% |  |
 

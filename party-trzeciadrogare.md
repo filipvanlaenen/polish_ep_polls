@@ -10,10 +10,13 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 6.1–11.4% | 4.3–12.0% | 3.8–12.4% | 3.2–13.2% |
+| N/A | [Poll Average](average.html) | 9.2% | 7.1–11.3% | 6.6–11.8% | 6.3–12.2% | 5.6–13.1% |
+| [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.9% | 8.8–11.1% | 8.5–11.5% | 8.2–11.8% | 7.7–12.5% |
+| [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.8% | 8.6–11.1% | 8.3–11.4% | 8.1–11.7% | 7.6–12.4% |
 | [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 10.1% | 9.0–11.4% | 8.6–11.8% | 8.4–12.1% | 7.9–12.8% |
 | [18–19 September 2023](2023-09-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 11.1% | 9.9–12.5% | 9.6–12.9% | 9.3–13.2% | 8.7–13.9% |
 | [15–18 September 2023](2023-09-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.4% |
+| [15–18 September 2023](2023-09-18-ResearchPartner.html) | Research Partner <br> Ariadna | 10.9% | 9.8–12.2% | 9.4–12.6% | 9.2–12.9% | 8.6–13.6% |
 | [16–17 September 2023](2023-09-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 11.4% | 10.2–12.8% | 9.9–13.2% | 9.6–13.5% | 9.0–14.2% |
 | [15–17 September 2023](2023-09-17-IBRiS.html) | IBRiS <br> Wydarzenia | 11.7% | 10.5–13.1% | 10.1–13.5% | 9.8–13.9% | 9.3–14.5% |
 | [15–16 September 2023](2023-09-16-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.4% | 8.3–10.6% | 8.0–10.9% | 7.7–11.3% | 7.3–11.9% |
@@ -805,18 +808,18 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.4% | 100% |  |
-| 3.5–4.5% | 5% | 98.6% |  |
-| 4.5–5.5% | 2% | 94% |  |
-| 5.5–6.5% | 4% | 92% |  |
-| 6.5–7.5% | 11% | 88% |  |
-| 7.5–8.5% | 18% | 77% |  |
-| 8.5–9.5% | 19% | 59% | Median |
-| 9.5–10.5% | 17% | 39% |  |
-| 10.5–11.5% | 14% | 22% |  |
-| 11.5–12.5% | 7% | 9% |  |
-| 12.5–13.5% | 2% | 2% |  |
-| 13.5–14.5% | 0.2% | 0.2% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 0.4% | 100% |  |
+| 5.5–6.5% | 4% | 99.6% |  |
+| 6.5–7.5% | 12% | 96% |  |
+| 7.5–8.5% | 19% | 84% |  |
+| 8.5–9.5% | 22% | 64% | Median |
+| 9.5–10.5% | 21% | 42% |  |
+| 10.5–11.5% | 14% | 21% |  |
+| 11.5–12.5% | 6% | 7% |  |
+| 12.5–13.5% | 1.3% | 1.5% |  |
+| 13.5–14.5% | 0.1% | 0.2% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
 
@@ -828,10 +831,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 0–6 | 0–7 | 0–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
+| [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [18–19 September 2023](2023-09-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 6 | 5–7 | 5–7 | 5–7 | 5–7 |
 | [15–18 September 2023](2023-09-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [15–18 September 2023](2023-09-18-ResearchPartner.html) | Research Partner <br> Ariadna | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [16–17 September 2023](2023-09-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [15–17 September 2023](2023-09-17-IBRiS.html) | IBRiS <br> Wydarzenia | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
 | [15–16 September 2023](2023-09-16-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -1622,13 +1628,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 0.5% | 92% |  |
-| 3 | 9% | 92% |  |
-| 4 | 29% | 83% |  |
-| 5 | 31% | 54% | Median |
-| 6 | 21% | 23% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 9% | 99.8% |  |
+| 4 | 31% | 90% |  |
+| 5 | 36% | 60% | Median |
+| 6 | 21% | 24% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |

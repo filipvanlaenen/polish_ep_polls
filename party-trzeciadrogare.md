@@ -10,14 +10,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 7.9–11.8% | 7.5–12.3% | 7.2–12.8% | 6.6–13.6% |
+| N/A | [Poll Average](average.html) | 9.5% | 7.8–11.7% | 7.5–12.3% | 7.2–12.7% | 6.6–13.6% |
 | [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 11.6% | 10.4–13.0% | 10.0–13.4% | 9.8–13.7% | 9.2–14.4% |
 | [29 September–2 October 2023](2023-10-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.4% |
 | [30 September–1 October 2023](2023-10-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 13.2% | N/A | N/A | N/A | N/A |
 | [29–30 September 2023](2023-09-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.6% | 8.5–10.9% | 8.2–11.2% | 8.0–11.6% | 7.5–12.2% |
 | [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
-| [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | N/A | N/A | N/A | N/A |
-| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 8.7% | N/A | N/A | N/A | N/A |
+| [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
+| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.8% | N/A | N/A | N/A | N/A |
 | [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.9% | 8.8–11.1% | 8.5–11.5% | 8.2–11.8% | 7.7–12.5% |
 | [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 9.8% | 8.6–11.1% | 8.3–11.4% | 8.1–11.7% | 7.6–12.4% |
@@ -820,14 +820,14 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0.4% | 100% |  |
-| 6.5–7.5% | 5% | 99.6% |  |
-| 7.5–8.5% | 18% | 94% |  |
-| 8.5–9.5% | 24% | 77% |  |
-| 9.5–10.5% | 22% | 53% | Median |
-| 10.5–11.5% | 17% | 31% |  |
-| 11.5–12.5% | 10% | 13% |  |
-| 12.5–13.5% | 3% | 4% |  |
-| 13.5–14.5% | 0.5% | 0.6% |  |
+| 6.5–7.5% | 6% | 99.6% |  |
+| 7.5–8.5% | 19% | 94% |  |
+| 8.5–9.5% | 26% | 75% |  |
+| 9.5–10.5% | 21% | 49% | Median |
+| 10.5–11.5% | 16% | 28% |  |
+| 11.5–12.5% | 9% | 12% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.5% | 0.5% |  |
 | 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 
@@ -846,8 +846,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [30 September–1 October 2023](2023-10-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [29–30 September 2023](2023-09-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
-| [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
-| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM |  |  |  |  |  |
+| [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
@@ -1649,10 +1649,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 26% | 98% |  |
-| 5 | 40% | 72% | Median |
-| 6 | 26% | 32% |  |
-| 7 | 6% | 6% |  |
+| 4 | 29% | 98% |  |
+| 5 | 40% | 69% | Median |
+| 6 | 24% | 29% |  |
+| 7 | 5% | 5% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |
 

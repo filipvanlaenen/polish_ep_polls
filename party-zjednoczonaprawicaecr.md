@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 37.6% | 34.1–40.3% | 33.1–41.1% | 32.4–41.8% | 31.2–43.2% |
+| N/A | [Poll Average](average.html) | 37.2% | 34.0–39.7% | 33.1–40.4% | 32.4–41.0% | 31.2–42.0% |
+| [2–4 October 2023](2023-10-04-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 36.0% | 34.4–37.6% | 34.0–38.1% | 33.6–38.5% | 32.9–39.2% |
 | [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 33.7% | 31.8–35.7% | 31.3–36.2% | 30.8–36.7% | 29.9–37.6% |
 | [29 September–2 October 2023](2023-10-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 39.0% | 37.1–40.9% | 36.5–41.4% | 36.1–41.9% | 35.2–42.8% |
 | [30 September–1 October 2023](2023-10-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 35.3% | N/A | N/A | N/A | N/A |
@@ -18,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 37.2% | 35.3–39.2% | 34.7–39.8% | 34.2–40.3% | 33.3–41.2% |
 | [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 39.0% | 37.1–40.9% | 36.5–41.5% | 36.1–42.0% | 35.2–42.9% |
 | [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 38.1% | 36.2–40.1% | 35.6–40.7% | 35.1–41.2% | 34.2–42.1% |
-| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 36.7% | N/A | N/A | N/A | N/A |
+| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 36.7% | 34.8–38.7% | 34.2–39.2% | 33.8–39.7% | 32.8–40.7% |
 | [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 37.3% | 35.4–39.2% | 34.9–39.8% | 34.4–40.3% | 33.5–41.2% |
 | [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 36.8% | 34.9–38.8% | 34.4–39.4% | 33.9–39.9% | 33.0–40.8% |
 | [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 38.6% | 36.7–40.6% | 36.1–41.2% | 35.6–41.7% | 34.7–42.6% |
@@ -416,7 +417,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 34.6% | 32.7–36.5% | 32.1–37.1% | 31.7–37.6% | 30.8–38.5% |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 35.0% | N/A | N/A | N/A | N/A |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 38.9% | N/A | N/A | N/A | N/A |
-| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 40.3% | N/A | N/A | N/A | N/A |
+| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 38.8% | N/A | N/A | N/A | N/A |
 | [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 37.0% | N/A | N/A | N/A | N/A |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 33.0% | N/A | N/A | N/A | N/A |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 39.1% | N/A | N/A | N/A | N/A |
@@ -745,7 +746,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 48.2% | 46.2–50.2% | 45.6–50.8% | 45.1–51.3% | 44.1–52.2% |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 46.0% | 44.0–48.0% | 43.4–48.6% | 43.0–49.1% | 42.0–50.1% |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 47.1% | 45.1–49.2% | 44.6–49.8% | 44.1–50.3% | 43.1–51.2% |
-| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 41.7% | 40.7–44.6% | 40.2–45.1% | 39.7–45.6% | 38.8–46.5% |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 42.6% | 40.7–44.6% | 40.2–45.1% | 39.7–45.6% | 38.8–46.5% |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 44.3% | 42.4–46.2% | 41.8–46.8% | 41.4–47.2% | 40.5–48.2% |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 42.0% | 40.0–44.0% | 39.4–44.6% | 39.0–45.1% | 38.0–46.0% |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 45.1% | 43.2–47.0% | 42.6–47.6% | 42.2–48.1% | 41.3–49.0% |
@@ -789,7 +790,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 45.9% | N/A | N/A | N/A | N/A |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 44.9% | N/A | N/A | N/A | N/A |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 45.8% | N/A | N/A | N/A | N/A |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 45.0% | N/A | N/A | N/A | N/A |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -847,19 +848,17 @@ The following table shows the probability mass function per percentage block of 
 | 30.5–31.5% | 0.7% | 99.8% |  |
 | 31.5–32.5% | 2% | 99.1% |  |
 | 32.5–33.5% | 4% | 97% |  |
-| 33.5–34.5% | 6% | 93% |  |
-| 34.5–35.5% | 8% | 87% |  |
-| 35.5–36.5% | 12% | 79% |  |
-| 36.5–37.5% | 16% | 67% |  |
-| 37.5–38.5% | 18% | 51% | Median |
-| 38.5–39.5% | 15% | 33% |  |
-| 39.5–40.5% | 10% | 18% |  |
-| 40.5–41.5% | 5% | 8% |  |
-| 41.5–42.5% | 2% | 3% |  |
-| 42.5–43.5% | 0.7% | 1.0% |  |
-| 43.5–44.5% | 0.2% | 0.3% |  |
-| 44.5–45.5% | 0.1% | 0.1% |  |
-| 45.5–46.5% | 0% | 0% |  |
+| 33.5–34.5% | 7% | 93% |  |
+| 34.5–35.5% | 11% | 86% |  |
+| 35.5–36.5% | 15% | 75% |  |
+| 36.5–37.5% | 18% | 60% | Median |
+| 37.5–38.5% | 17% | 43% |  |
+| 38.5–39.5% | 14% | 25% |  |
+| 39.5–40.5% | 8% | 12% |  |
+| 40.5–41.5% | 3% | 4% |  |
+| 41.5–42.5% | 0.9% | 1.1% |  |
+| 42.5–43.5% | 0.2% | 0.2% |  |
+| 43.5–44.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -871,6 +870,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–22 | 18–23 | 18–23 | 17–24 |
+| [2–4 October 2023](2023-10-04-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 20 | 19–21 | 19–22 | 19–22 | 18–22 |
 | [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
 | [29 September–2 October 2023](2023-10-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 21–23 | 20–24 | 20–24 |
 | [30 September–1 October 2023](2023-10-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
@@ -878,7 +878,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 21 | 19–22 | 19–22 | 19–22 | 18–23 |
 | [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 21 | 20–22 | 19–22 | 19–22 | 19–23 |
-| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 20–22 | 19–22 | 19–22 | 18–23 |
 | [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
 | [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 21 | 20–22 | 20–22 | 19–23 | 19–23 |
 | [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
@@ -1276,7 +1276,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
+| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP |  |  |  |  |  |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
@@ -1605,7 +1605,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 26 | 25–28 | 25–28 | 24–29 | 24–29 |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 25 | 24–26 | 23–26 | 23–27 | 22–27 |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 25 | 24–27 | 24–27 | 23–28 | 23–28 |
-| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 24 | 22–25 | 22–25 | 22–25 | 21–26 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 24 | 23–26 | 23–26 | 23–26 | 22–27 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 24 | 22–25 | 22–26 | 22–26 | 21–27 |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 25 | 24–26 | 23–27 | 23–27 | 23–28 |
@@ -1694,13 +1694,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0% | 100% |  |
 | 17 | 0.6% | 100% |  |
 | 18 | 5% | 99.4% |  |
-| 19 | 11% | 94% |  |
-| 20 | 20% | 83% |  |
-| 21 | 31% | 63% | Median |
-| 22 | 23% | 33% |  |
-| 23 | 8% | 9% |  |
-| 24 | 2% | 2% |  |
-| 25 | 0.2% | 0.2% |  |
-| 26 | 0% | 0% |  |
+| 19 | 12% | 94% |  |
+| 20 | 24% | 82% |  |
+| 21 | 32% | 58% | Median |
+| 22 | 20% | 26% |  |
+| 23 | 5% | 6% |  |
+| 24 | 0.6% | 0.7% |  |
+| 25 | 0% | 0% |  |
 
 

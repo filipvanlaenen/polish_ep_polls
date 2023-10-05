@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.4% | 0.0–1.9% | 0.0–2.1% | 0.0–2.3% | 0.0–2.7% |
+| [2–4 October 2023](2023-10-04-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0.0% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
 | [29 September–2 October 2023](2023-10-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [30 September–1 October 2023](2023-10-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -18,7 +19,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 0.0% | N/A | N/A | N/A | N/A |
-| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.1% | N/A | N/A | N/A | N/A |
+| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.7% |
 | [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
 | [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
@@ -416,7 +417,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
-| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0.0% | N/A | N/A | N/A | N/A |
+| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 0.0% | N/A | N/A | N/A | N/A |
@@ -745,7 +746,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 0.0% | N/A | N/A | N/A | N/A |
-| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
@@ -829,6 +830,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [2–4 October 2023](2023-10-04-Kantar.html) | Kantar <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0 | 0 | 0 | 0 | 0 |
 | [29 September–2 October 2023](2023-10-02-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [30 September–1 October 2023](2023-10-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
@@ -836,7 +838,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0 | 0 | 0 | 0 |
 | [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM |  |  |  |  |  |
-| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
 | [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0 | 0 | 0 | 0 |
@@ -1234,7 +1236,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
+| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP |  |  |  |  |  |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
@@ -1563,7 +1565,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS |  |  |  |  |  |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
-| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM |  |  |  |  |  |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |

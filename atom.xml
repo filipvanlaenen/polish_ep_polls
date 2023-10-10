@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-10-09T21:51:07.150124+02:00</updated>
+  <updated>2023-10-10T19:43:58.580676+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Lewica (S&amp;D): 6.7–10.1%, 3–5 seats</li><li>Zjednoczona Prawica (ECR): 31.5–37.3%, 18–21 seats</li><li>Trzecia Droga (RE): 10.0–14.0%, 5–8 seats</li><li>Polska Jest Jedna (*): 0.5–1.7%, 0 seats</li><li>Koalicja Obywatelska (EPP): 27.3–32.9%, 15–19 seats</li><li>Bezpartyjni Samorządowcy (*): 1.0–2.5%, 0 seats</li><li>Konfederacja (NI): 8.7–12.5%, 5–7 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2023-10-07-InstytutBadańPollster.html</id>
@@ -14,6 +14,14 @@
     <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 6–7 October 2023</title>
     <updated>2023-10-09T21:38:23.328099+02:00</updated>
     <dc:date>2023-10-09T21:38:23.328099+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Lewica (S&amp;D): 10.5–14.6%, 5–8 seats</li><li>Zjednoczona Prawica (ECR): 34.6–40.6%, 19–23 seats</li><li>Trzecia Droga (RE): 6.7–10.2%, 3–5 seats</li><li>Polska Jest Jedna (*): 0.5–1.7%, 0 seats</li><li>Koalicja Obywatelska (EPP): 27.6–33.3%, 15–19 seats</li><li>Bezpartyjni Samorządowcy (*): 1.3–3.1%, 0 seats</li><li>Konfederacja (NI): 6.8–10.3%, 3–5 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2023-10-07-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2023-10-07-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for Wydarzenia, 5–7 October 2023</title>
+    <updated>2023-10-10T19:43:58.580676+02:00</updated>
+    <dc:date>2023-10-10T19:43:58.580676+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Lewica (S&amp;D): 7.7–11.2%, 4–6 seats</li><li>Zjednoczona Prawica (ECR): 34.0–39.8%, 19–23 seats</li><li>Trzecia Droga (RE): 7.8–11.4%, 4–6 seats</li><li>Koalicja Obywatelska (EPP): 27.8–33.3%, 16–19 seats</li><li>Bezpartyjni Samorządowcy (*): 2.5–4.7%, 0 seats</li><li>Konfederacja (NI): 8.0–11.6%, 4–6 seats</li></ul></div></content>
@@ -4691,7 +4699,7 @@
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica (ECR): 39.7–45.6%, 22–25 seats</li><li>Koalicja Obywatelska (EPP): 20.2–25.1%, 11–14 seats</li><li>Lewica (S&amp;D): 11.2–15.2%, 6–8 seats</li><li>Koalicja Polska (EPP): 5.5–8.6%, 3–4 seats</li><li>Konfederacja (NI): 3.2–5.6%, 0–3 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2019-10-09-IBRiS.html</id>
     <link href="https://filipvanlaenen.github.io/polish_ep_polls/2019-10-09-IBRiS.html"/>
-    <title>Opinion Poll by IBRiS for Rzeczpospolita, 8–9 October 2019</title>
+    <title>Opinion Poll by IBRiS for Radio ZET, 9 October 2019</title>
     <updated>2020-07-12T21:24:56+02:00</updated>
     <dc:date>2020-07-12T21:24:56+02:00</dc:date>
   </entry>
@@ -5175,5 +5183,5 @@
     <updated>2020-03-23T18:19:37+01:00</updated>
     <dc:date>2020-03-23T18:19:37+01:00</dc:date>
   </entry>
-  <dc:date>2023-10-09T21:51:07.150124+02:00</dc:date>
+  <dc:date>2023-10-10T19:43:58.580676+02:00</dc:date>
 </feed>

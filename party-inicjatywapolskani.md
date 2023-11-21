@@ -1,4 +1,4 @@
-# Polska Jest Jedna (*)
+# Inicjatywa Polska (NI)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,40 +10,40 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 1.0–3.1% |
-| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
-| [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [11–13 October 2023](2023-10-13-IBSP.html) | IBSP <br> StanPolityki.pl | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
+| [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [11–13 October 2023](2023-10-13-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 October 2023](2023-10-12-PGBOpinium.html) | PGB Opinium | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 October 2023](2023-10-12-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
-| [11–12 October 2023](2023-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
-| [10–11 October 2023](2023-10-11-IBRiS.html) | IBRiS <br> Onet.pl | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
-| [8–10 October 2023](2023-10-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
+| [11–12 October 2023](2023-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [10–11 October 2023](2023-10-11-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [8–10 October 2023](2023-10-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 October 2023](2023-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [6–10 October 2023](2023-10-10-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 October 2023](2023-10-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [6–9 October 2023](2023-10-09-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
-| [6–7 October 2023](2023-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% | 0.4–2.0% |
-| [5–7 October 2023](2023-10-07-IBRiS.html) | IBRiS <br> Wydarzenia | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
+| [6–7 October 2023](2023-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [5–7 October 2023](2023-10-07-IBRiS.html) | IBRiS <br> Wydarzenia | 0.0% | N/A | N/A | N/A | N/A |
 | [5–6 October 2023](2023-10-06-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 October 2023](2023-10-04-PGBOpinium.html) | PGB Opinium | 0.0% | N/A | N/A | N/A | N/A |
 | [3–4 October 2023](2023-10-04-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 0.0% | N/A | N/A | N/A | N/A |
 | [2–4 October 2023](2023-10-04-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
-| [3–4 October 2023](2023-10-04-IBRiS.html) | IBRiS <br> Onet.pl | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
-| [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0.0% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
+| [3–4 October 2023](2023-10-04-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0.0% | N/A | N/A | N/A | N/A |
 | [29 September–2 October 2023](2023-10-02-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [30 September–1 October 2023](2023-10-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [29–30 September 2023](2023-09-30-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 0.0% | N/A | N/A | N/A | N/A |
-| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.1% | 0.0–0.4% | 0.0–0.5% | 0.0–0.6% | 0.0–0.7% |
+| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
-| [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
-| [18–19 September 2023](2023-09-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0.0% | 0.0–0.2% | 0.0–0.3% | 0.0–0.4% | 0.0–0.5% |
+| [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [18–19 September 2023](2023-09-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 September 2023](2023-09-18-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [15–18 September 2023](2023-09-18-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
 | [16–17 September 2023](2023-09-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -830,16 +830,14 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Polska Jest Jedna (*).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Inicjatywa Polska (NI).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 24% | 100% |  |
-| 1.5–2.5% | 70% | 76% | Median |
-| 2.5–3.5% | 7% | 7% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.0–0.5% | 29% | 100% | Last Result |
+| 0.5–1.5% | 70% | 71% | Median |
+| 1.5–2.5% | 0.5% | 0.5% |  |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -851,39 +849,39 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
-| [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [11–13 October 2023](2023-10-13-IBSP.html) | IBSP <br> StanPolityki.pl | 0 | 0 | 0 | 0 | 0 |
+| [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [11–13 October 2023](2023-10-13-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
 | [11–12 October 2023](2023-10-12-PGBOpinium.html) | PGB Opinium |  |  |  |  |  |
 | [10–12 October 2023](2023-10-12-Kantar.html) | Kantar <br> Fakty TVN and TVN24 |  |  |  |  |  |
-| [11–12 October 2023](2023-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
-| [10–11 October 2023](2023-10-11-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0 | 0 | 0 | 0 |
-| [8–10 October 2023](2023-10-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [11–12 October 2023](2023-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [10–11 October 2023](2023-10-11-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [8–10 October 2023](2023-10-10-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [9–10 October 2023](2023-10-10-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [6–10 October 2023](2023-10-10-Ipsos.html) | Ipsos <br> OKO.press and TOK FM |  |  |  |  |  |
 | [9–10 October 2023](2023-10-10-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [6–9 October 2023](2023-10-09-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
-| [6–7 October 2023](2023-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
-| [5–7 October 2023](2023-10-07-IBRiS.html) | IBRiS <br> Wydarzenia | 0 | 0 | 0 | 0 | 0 |
+| [6–7 October 2023](2023-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [5–7 October 2023](2023-10-07-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
 | [5–6 October 2023](2023-10-06-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [3–4 October 2023](2023-10-04-PGBOpinium.html) | PGB Opinium |  |  |  |  |  |
 | [3–4 October 2023](2023-10-04-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza |  |  |  |  |  |
 | [2–4 October 2023](2023-10-04-Kantar.html) | Kantar <br> Fakty TVN and TVN24 |  |  |  |  |  |
-| [3–4 October 2023](2023-10-04-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0 | 0 | 0 | 0 |
-| [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0 | 0 | 0 | 0 | 0 |
+| [3–4 October 2023](2023-10-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [2 October 2023](2023-10-02-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
 | [29 September–2 October 2023](2023-10-02-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [30 September–1 October 2023](2023-10-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [29–30 September 2023](2023-09-30-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0 | 0 | 0 | 0 |
+| [27 September 2023](2023-09-27-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [22–25 September 2023](2023-09-25-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos <br> OKO.press and TOK FM |  |  |  |  |  |
-| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [22–24 September 2023](2023-09-24-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [22–23 September 2023](2023-09-23-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
-| [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0 | 0 | 0 | 0 |
-| [18–19 September 2023](2023-09-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0 | 0 | 0 | 0 | 0 |
+| [21–22 September 2023](2023-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [20 September 2023](2023-09-20-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [18–19 September 2023](2023-09-19-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
 | [15–18 September 2023](2023-09-18-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [15–18 September 2023](2023-09-18-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [16–17 September 2023](2023-09-17-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
@@ -1670,9 +1668,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-polskajestjedna.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-inicjatywapolskani.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Polska Jest Jedna (*).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Inicjatywa Polska (NI).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

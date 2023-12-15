@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 6.8–9.4% | 6.5–9.8% | 6.2–10.2% | 5.7–10.8% |
+| N/A | [Poll Average](average.html) | 8.6% | 7.0–10.4% | 6.7–10.8% | 6.4–11.3% | 5.8–12.0% |
+| [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
+| [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
 | [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7.3% | 6.4–8.4% | 6.1–8.7% | 5.9–9.0% | 5.5–9.6% |
 | [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
@@ -381,7 +383,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [17 December 2021](2021-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
 | [10–13 December 2021](2021-12-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14.0% | 12.7–15.5% | 12.4–15.9% | 12.1–16.2% | 11.5–17.0% |
 | [10–13 December 2021](2021-12-13-ResearchPartner.html) | Research Partner <br> Ariadna | 13.2% | 11.9–14.6% | 11.5–15.0% | 11.2–15.4% | 10.7–16.1% |
-| [8–12 December 2021](2021-12-12-Kantar.html) | Kantar <br> Polityka | 18.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
+| [10–12 December 2021](2021-12-12-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [11–12 December 2021](2021-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 14.6% | 13.3–16.1% | 12.9–16.5% | 12.6–16.9% | 12.0–17.6% |
 | [3–8 December 2021](2021-12-08-KantarPublic.html) | Kantar Public | 13.0% | 11.7–14.5% | 11.4–14.9% | 11.0–15.3% | 10.5–16.0% |
 | [3–6 December 2021](2021-12-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 13.0% | 11.7–14.4% | 11.4–14.8% | 11.1–15.1% | 10.5–15.8% |
@@ -615,7 +617,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–12 October 2020](2020-10-12-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [28 September–8 October 2020](2020-10-08-CBOS.html) | CBOS | 8.0% | N/A | N/A | N/A | N/A |
 | [2–7 October 2020](2020-10-07-KantarPublic.html) | Kantar Public | 9.0% | N/A | N/A | N/A | N/A |
-| [2–5 October 2020](2020-10-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 15.0% | N/A | N/A | N/A | N/A |
+| [2–5 October 2020](2020-10-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [2 October 2020](2020-10-02-IBRiS.html) | IBRiS <br> WP.pl | 9.0% | N/A | N/A | N/A | N/A |
 | [25–28 September 2020](2020-09-28-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [25–26 September 2020](2020-09-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -767,7 +769,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 0.0% | N/A | N/A | N/A | N/A |
-| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
+| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
@@ -841,14 +843,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 6% | 99.8% |  |
-| 6.5–7.5% | 25% | 94% |  |
-| 7.5–8.5% | 37% | 69% | Median |
-| 8.5–9.5% | 24% | 31% |  |
-| 9.5–10.5% | 7% | 8% |  |
-| 10.5–11.5% | 1.0% | 1.0% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 4% | 99.8% |  |
+| 6.5–7.5% | 16% | 96% |  |
+| 7.5–8.5% | 28% | 80% |  |
+| 8.5–9.5% | 28% | 52% | Median |
+| 9.5–10.5% | 17% | 25% |  |
+| 10.5–11.5% | 6% | 8% |  |
+| 11.5–12.5% | 1.3% | 1.4% |  |
+| 12.5–13.5% | 0.1% | 0.1% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -859,7 +862,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 3–7 |
+| [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 7 | 6–7 | 5–7 | 5–7 | 5–7 |
+| [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
@@ -1230,7 +1235,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [17 December 2021](2021-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [10–13 December 2021](2021-12-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 8 | 7–8 | 7–9 | 6–9 | 6–9 |
 | [10–13 December 2021](2021-12-13-ResearchPartner.html) | Research Partner <br> Ariadna | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
-| [8–12 December 2021](2021-12-12-Kantar.html) | Kantar <br> Polityka | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
+| [10–12 December 2021](2021-12-12-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [11–12 December 2021](2021-12-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 8 | 7–9 | 7–9 | 7–9 | 6–10 |
 | [3–8 December 2021](2021-12-08-KantarPublic.html) | Kantar Public | 7 | 6–8 | 6–8 | 6–9 | 6–9 |
 | [3–6 December 2021](2021-12-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
@@ -1616,7 +1621,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS |  |  |  |  |  |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
-| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
+| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM |  |  |  |  |  |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
@@ -1689,11 +1694,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 2% | 100% |  |
-| 4 | 42% | 98% |  |
-| 5 | 45% | 56% | Median |
-| 6 | 10% | 11% |  |
-| 7 | 1.2% | 1.3% |  |
+| 3 | 1.2% | 100% |  |
+| 4 | 34% | 98.8% |  |
+| 5 | 32% | 65% | Median |
+| 6 | 18% | 33% |  |
+| 7 | 15% | 15% |  |
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 

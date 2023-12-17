@@ -864,9 +864,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
 | [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
-| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
+| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [11–13 October 2023](2023-10-13-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
@@ -1693,9 +1693,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 3% | 100% |  |
-| 3 | 38% | 97% |  |
-| 4 | 43% | 59% | Median |
-| 5 | 16% | 16% |  |
+| 3 | 46% | 97% |  |
+| 4 | 33% | 51% | Median |
+| 5 | 18% | 18% |  |
 | 6 | 0% | 0% |  |
 
 

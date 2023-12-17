@@ -883,13 +883,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 14–18 | 14–18 | 14–19 | 13–19 |
+| N/A | [Poll Average](average.html) | 16 | 14–17 | 14–18 | 14–18 | 13–19 |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 16 | 15–16 | 14–17 | 14–17 | 13–18 |
 | [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 15 | 14–15 | 14–16 | 13–16 | 13–17 |
 | [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 15–17 | 14–17 | 14–17 |
-| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–16 | 14–17 | 14–17 | 13–18 |
-| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 18 | 17–19 | 17–19 | 16–19 | 16–20 |
-| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 18 | 17–19 | 17–19 | 16–19 | 15–20 |
+| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 17 | 16–18 | 15–18 | 15–18 | 15–19 |
+| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
 | [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–18 | 17–19 | 16–19 | 15–20 |
 | [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–19 | 17–19 | 16–20 | 16–21 |
 | [11–13 October 2023](2023-10-13-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
@@ -1728,12 +1728,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 1.5% | 100% |  |
 | 14 | 14% | 98% |  |
-| 15 | 27% | 84% |  |
-| 16 | 22% | 57% | Median |
-| 17 | 14% | 35% |  |
-| 18 | 17% | 21% |  |
-| 19 | 4% | 5% |  |
-| 20 | 0.4% | 0.5% |  |
+| 15 | 29% | 84% |  |
+| 16 | 22% | 56% | Median |
+| 17 | 27% | 34% |  |
+| 18 | 6% | 7% |  |
+| 19 | 0.4% | 0.5% |  |
+| 20 | 0.1% | 0.1% |  |
 | 21 | 0% | 0% |  |
 
 

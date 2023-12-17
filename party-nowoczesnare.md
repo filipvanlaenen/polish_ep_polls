@@ -853,13 +853,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
-| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
+| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [11–13 October 2023](2023-10-13-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
@@ -1683,8 +1683,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Last Result, Median |
-| 1 | 30% | 30% |  |
+| 0 | 49% | 100% | Last Result |
+| 1 | 51% | 51% | Median |
 | 2 | 0% | 0% |  |
 
 

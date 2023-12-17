@@ -890,11 +890,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–22 | 19–23 | 18–23 | 18–23 |
-| [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 21 | 20–22 | 19–23 | 19–23 | 18–23 |
-| [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 19 | 18–20 | 18–21 | 18–22 | 18–22 |
-| [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 21 | 20–23 | 20–23 | 20–23 | 18–24 |
-| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 16–21 | 16–22 |
+| [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
+| [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 17 | 16–18 | 16–19 | 16–19 | 16–19 |
+| [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
+| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 20 | 19–21 | 19–21 | 19–21 | 18–22 |
 | [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 22 | 21–23 | 21–23 | 20–24 | 19–25 |
 | [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 20–22 | 20–22 | 20–22 | 19–24 |
@@ -1736,15 +1736,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0% | 100% |  |
-| 17 | 0.1% | 100% |  |
-| 18 | 4% | 99.9% |  |
-| 19 | 25% | 96% |  |
-| 20 | 28% | 70% | Median |
-| 21 | 30% | 42% |  |
-| 22 | 7% | 12% |  |
-| 23 | 5% | 5% |  |
-| 24 | 0.3% | 0.4% |  |
-| 25 | 0% | 0% |  |
+| 16 | 4% | 100% |  |
+| 17 | 14% | 96% |  |
+| 18 | 26% | 82% |  |
+| 19 | 26% | 56% | Median |
+| 20 | 20% | 30% |  |
+| 21 | 10% | 11% |  |
+| 22 | 0.4% | 0.5% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 

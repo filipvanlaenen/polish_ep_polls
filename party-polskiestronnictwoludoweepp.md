@@ -861,11 +861,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
-| [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 4 | 3–4 | 3–5 | 3–5 | 0–6 |
-| [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
+| [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–6 | 4–6 | 3–6 | 0–6 |
 | [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -1691,13 +1691,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.6% | 100% | Last Result |
-| 1 | 0% | 99.4% |  |
-| 2 | 0% | 99.4% |  |
-| 3 | 28% | 99.4% |  |
-| 4 | 53% | 72% | Median |
-| 5 | 18% | 19% |  |
-| 6 | 1.1% | 1.2% |  |
+| 0 | 0.4% | 100% | Last Result |
+| 1 | 0% | 99.6% |  |
+| 2 | 0.1% | 99.6% |  |
+| 3 | 28% | 99.5% |  |
+| 4 | 54% | 72% | Median |
+| 5 | 17% | 18% |  |
+| 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 
 

@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.7% | 31.3–36.6% | 30.7–37.4% | 30.2–38.0% | 29.2–39.2% |
+| N/A | [Poll Average](average.html) | 33.3% | 31.3–35.4% | 30.7–36.0% | 30.2–36.5% | 29.2–37.5% |
+| [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 33.8% | 31.9–35.8% | 31.4–36.3% | 30.9–36.8% | 30.0–37.7% |
+| [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 33.1% | 31.3–35.0% | 30.7–35.6% | 30.3–36.0% | 29.4–37.0% |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
 | [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 32.3% | 30.4–34.2% | 29.9–34.8% | 29.5–35.3% | 28.6–36.2% |
 | [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
@@ -869,17 +871,16 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 0.1% | 100% |  |
 | 28.5–29.5% | 0.8% | 99.9% |  |
 | 29.5–30.5% | 3% | 99.1% |  |
-| 30.5–31.5% | 8% | 96% |  |
-| 31.5–32.5% | 15% | 88% |  |
-| 32.5–33.5% | 19% | 72% |  |
-| 33.5–34.5% | 18% | 54% | Median |
-| 34.5–35.5% | 14% | 35% |  |
-| 35.5–36.5% | 10% | 21% |  |
-| 36.5–37.5% | 6% | 11% |  |
-| 37.5–38.5% | 3% | 4% |  |
-| 38.5–39.5% | 1.0% | 1.3% |  |
-| 39.5–40.5% | 0.2% | 0.3% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 30.5–31.5% | 9% | 96% |  |
+| 31.5–32.5% | 18% | 86% |  |
+| 32.5–33.5% | 24% | 68% | Median |
+| 33.5–34.5% | 22% | 45% |  |
+| 34.5–35.5% | 14% | 23% |  |
+| 35.5–36.5% | 6% | 9% |  |
+| 36.5–37.5% | 2% | 2% |  |
+| 37.5–38.5% | 0.4% | 0.5% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -890,7 +891,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
+| N/A | [Poll Average](average.html) | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
+| [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–19 | 17–19 | 17–19 | 17–20 |
+| [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 17–20 | 17–20 | 17–20 | 17–20 |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 17 | 16–18 | 16–19 | 16–19 | 16–19 |
 | [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 18–21 | 17–21 | 17–21 |
@@ -1737,12 +1740,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 4% | 99.9% |  |
-| 17 | 20% | 96% |  |
-| 18 | 37% | 76% | Median |
-| 19 | 27% | 39% |  |
-| 20 | 9% | 12% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.1% | 0.1% |  |
-| 23 | 0% | 0% |  |
+| 17 | 23% | 96% |  |
+| 18 | 32% | 73% | Median |
+| 19 | 32% | 41% |  |
+| 20 | 8% | 9% |  |
+| 21 | 0.4% | 0.4% |  |
+| 22 | 0% | 0% |  |
 
 

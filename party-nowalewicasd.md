@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 5.7–8.8% | 5.3–9.2% | 5.0–9.6% | 4.5–10.2% |
+| N/A | [Poll Average](average.html) | 7.2% | 5.7–8.5% | 5.3–8.9% | 5.0–9.2% | 4.5–9.8% |
+| [26–28 January 2024](2024-01-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [19–22 January 2024](2024-01-22-ResearchPartner.html) | Research Partner <br> Ariadna | 7.8% | 6.8–8.9% | 6.6–9.2% | 6.3–9.5% | 5.9–10.1% |
 | [12–14 January 2024](2024-01-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [13–14 January 2024](2024-01-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.7% | 4.9–6.8% | 4.7–7.0% | 4.5–7.3% | 4.1–7.8% |
@@ -819,12 +820,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.4–12.0% | 7.8–12.7% |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 10.9% | 9.7–12.2% | 9.4–12.6% | 9.1–13.0% | 8.6–13.6% |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 11.6% | 10.5–13.0% | 10.2–13.4% | 9.9–13.7% | 9.3–14.3% |
-| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 10.1% | N/A | N/A | N/A | N/A |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 14.9% | N/A | N/A | N/A | N/A |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 11.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 10.7% | N/A | N/A | N/A | N/A |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
@@ -852,12 +853,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.7% | 100% |  |
 | 4.5–5.5% | 7% | 99.3% |  |
-| 5.5–6.5% | 17% | 92% |  |
-| 6.5–7.5% | 29% | 75% | Median |
-| 7.5–8.5% | 30% | 45% |  |
-| 8.5–9.5% | 13% | 15% |  |
-| 9.5–10.5% | 2% | 3% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 19% | 92% |  |
+| 6.5–7.5% | 34% | 73% | Median |
+| 7.5–8.5% | 29% | 39% |  |
+| 8.5–9.5% | 9% | 10% |  |
+| 9.5–10.5% | 0.9% | 1.0% |  |
+| 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -869,7 +870,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–5 | 2–5 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 2–5 | 2–5 | 2–5 |
+| [26–28 January 2024](2024-01-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [19–22 January 2024](2024-01-22-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [12–14 January 2024](2024-01-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [13–14 January 2024](2024-01-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -1710,10 +1712,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 9% | 100% |  |
-| 3 | 13% | 91% |  |
-| 4 | 60% | 78% | Median |
-| 5 | 17% | 18% |  |
-| 6 | 0.8% | 0.8% |  |
+| 3 | 16% | 91% |  |
+| 4 | 55% | 76% | Median |
+| 5 | 20% | 21% |  |
+| 6 | 0.4% | 0.4% |  |
 | 7 | 0% | 0% |  |
 
 

@@ -11,10 +11,10 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Zjednoczona Prawica (ECR) | 0.0% | 34.1% | 32.3–36.1% |31.7–36.6% |31.3–37.1% |30.4–38.1% |
-| Polska 2050 (*) | 0.0% | 25.2% | 23.5–27.0% |23.0–27.6% |22.6–28.0% |21.8–28.9% |
+| Polska 2050 (RE) | 0.0% | 25.2% | N/A |N/A |N/A |N/A |
 | Koalicja Obywatelska (EPP) | 0.0% | 15.8% | 14.4–17.4% |14.0–17.8% |13.7–18.2% |13.1–19.0% |
 | Konfederacja (NI) | 0.0% | 9.4% | 8.3–10.7% |8.0–11.0% |7.7–11.4% |7.3–12.0% |
-| Lewica (S&D) | 0.0% | 8.7% | 7.7–10.0% |7.4–10.3% |7.1–10.6% |6.6–11.2% |
+| Nowa Lewica (S&D) | 0.0% | 8.7% | 7.7–10.0% |7.4–10.3% |7.1–10.6% |6.6–11.2% |
 | Koalicja Polska (EPP) | 0.0% | 3.8% | 3.1–4.6% |2.9–4.9% |2.7–5.1% |2.5–5.6% |
 | Kukiz’15 (NI) | 0.0% | 0.8% | 0.5–1.3% |0.5–1.4% |0.4–1.6% |0.3–1.8% |
 
@@ -31,10 +31,10 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 19 | 18–21 |18–21 |18–21 |17–22 |
-| <a href="#polska-2050-(*)">Polska 2050 (*)</a> | 0 | 14 | 13–15 |13–16 |13–16 |12–16 |
+| <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 9 | 8–10 |8–10 |7–10 |7–11 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–6 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 5 | 4–5 |4–5 |4–6 |3–6 |
+| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 5 | 4–5 |4–5 |4–6 |3–6 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 0 | 0 |0 |0–2 |0–3 |
 | <a href="#kukiz’15-(ni)">Kukiz’15 (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
@@ -71,33 +71,11 @@
 | 22 | 0.9% | 1.0% |  |
 | 23 | 0% | 0% |  |
 
-### Polska 2050 (*)
+### Polska 2050 (RE)
 
-*For a full overview of the results for this party, see the [Polska 2050 (*)](party-polska2050.html) page.*
+*For a full overview of the results for this party, see the [Polska 2050 (RE)](party-polska2050re.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-05-20-PGBOpinium-seats-pmf-polska2050.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0% | 100% |  |
-| 12 | 2% | 100% |  |
-| 13 | 16% | 98% |  |
-| 14 | 46% | 82% | Median |
-| 15 | 31% | 36% |  |
-| 16 | 5% | 5% |  |
-| 17 | 0.2% | 0.2% |  |
-| 18 | 0% | 0% |  |
+![Graph with seats probability mass function not yet produced](2021-05-20-PGBOpinium-seats-pmf-polska2050re.png "Seats Probability Mass Function")
 
 ### Koalicja Obywatelska (EPP)
 
@@ -139,11 +117,11 @@
 | 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
-### Lewica (S&D)
+### Nowa Lewica (S&D)
 
-*For a full overview of the results for this party, see the [Lewica (S&D)](party-lewicasd.html) page.*
+*For a full overview of the results for this party, see the [Nowa Lewica (S&D)](party-nowalewicasd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-05-20-PGBOpinium-seats-pmf-lewicasd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-05-20-PGBOpinium-seats-pmf-nowalewicasd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

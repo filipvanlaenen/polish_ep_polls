@@ -1,4 +1,4 @@
-# Opinion Poll by United Survey for DGP & RMF FM, 25 May 2021
+# Opinion Poll by United Survey for DGP and RMF FM, 25 May 2021
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a> | <a href="#coalitions">Coalitions</a> | <a href="#technical-information">Technical Information</a></p>
 
@@ -11,10 +11,10 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Zjednoczona Prawica (ECR) | 0.0% | 37.4% | 35.5–39.4% |34.9–40.0% |34.4–40.5% |33.5–41.4% |
-| Polska 2050 (*) | 0.0% | 25.2% | 23.5–27.0% |23.0–27.5% |22.6–28.0% |21.8–28.9% |
+| Polska 2050 (RE) | 0.0% | 25.2% | N/A |N/A |N/A |N/A |
 | Koalicja Obywatelska (EPP) | 0.0% | 14.4% | 13.1–15.9% |12.7–16.3% |12.4–16.7% |11.7–17.5% |
 | Konfederacja (NI) | 0.0% | 9.1% | 8.0–10.4% |7.7–10.7% |7.5–11.1% |7.0–11.7% |
-| Lewica (S&D) | 0.0% | 8.9% | 7.8–10.2% |7.5–10.5% |7.3–10.8% |6.8–11.5% |
+| Nowa Lewica (S&D) | 0.0% | 8.9% | 7.8–10.2% |7.5–10.5% |7.3–10.8% |6.8–11.5% |
 | Koalicja Polska (EPP) | 0.0% | 4.8% | 4.0–5.8% |3.8–6.1% |3.6–6.3% |3.3–6.8% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -30,10 +30,10 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 21 | 19–22 |19–22 |19–23 |18–23 |
-| <a href="#polska-2050-(*)">Polska 2050 (*)</a> | 0 | 14 | 13–15 |12–15 |12–15 |12–16 |
+| <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 8 | 7–8 |7–9 |6–9 |6–9 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 5 | 4–5 |4–6 |4–6 |3–6 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 5 | 4–5 |4–5 |4–6 |3–6 |
+| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 5 | 4–5 |4–5 |4–6 |3–6 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 0 | 0–3 |0–3 |0–3 |0–3 |
 
 ### Zjednoczona Prawica (ECR)
@@ -71,32 +71,11 @@
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
-### Polska 2050 (*)
+### Polska 2050 (RE)
 
-*For a full overview of the results for this party, see the [Polska 2050 (*)](party-polska2050.html) page.*
+*For a full overview of the results for this party, see the [Polska 2050 (RE)](party-polska2050re.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-05-25-UnitedSurvey-seats-pmf-polska2050.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 0% | 100% |  |
-| 10 | 0% | 100% |  |
-| 11 | 0.4% | 100% |  |
-| 12 | 8% | 99.6% |  |
-| 13 | 33% | 91% |  |
-| 14 | 41% | 58% | Median |
-| 15 | 16% | 17% |  |
-| 16 | 1.3% | 1.3% |  |
-| 17 | 0% | 0% |  |
+![Graph with seats probability mass function not yet produced](2021-05-25-UnitedSurvey-seats-pmf-polska2050re.png "Seats Probability Mass Function")
 
 ### Koalicja Obywatelska (EPP)
 
@@ -137,11 +116,11 @@
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
-### Lewica (S&D)
+### Nowa Lewica (S&D)
 
-*For a full overview of the results for this party, see the [Lewica (S&D)](party-lewicasd.html) page.*
+*For a full overview of the results for this party, see the [Nowa Lewica (S&D)](party-nowalewicasd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-05-25-UnitedSurvey-seats-pmf-lewicasd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-05-25-UnitedSurvey-seats-pmf-nowalewicasd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -185,7 +164,7 @@
 ### Opinion Poll
 
 + **Polling firm:** United Survey
-+ **Commissioner(s):** DGP & RMF FM
++ **Commissioner(s):** DGP and RMF FM
 + **Fieldwork period:** 25 May 2021
 
 ### Calculations

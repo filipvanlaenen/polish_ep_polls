@@ -10,21 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.0% | 25.9–33.7% | 24.8–34.4% | 24.1–35.0% | 23.0–36.1% |
-| [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
-| [12–15 February 2024](2024-02-15-OGB.html) | OGB | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.2–36.9% |
-| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna | 32.6% | 30.8–34.4% | 30.3–35.0% | 29.8–35.4% | 29.0–36.3% |
-| [10–11 February 2024](2024-02-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.8% | 28.9–32.7% | 28.4–33.2% | 28.0–33.7% | 27.1–34.6% |
-| [11 February 2024](2024-02-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 30.3% | N/A | N/A | N/A | N/A |
-| [6–7 February 2024](2024-02-07-Opinia24.html) | Opinia24 | 25.5% | 23.8–27.3% | 23.3–27.8% | 22.9–28.3% | 22.1–29.2% |
+| N/A | [Poll Average](average.html) | 30.0% | 28.3–31.9% | 27.7–32.4% | 27.3–32.9% | 26.5–33.8% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 30.0% | 28.2–31.9% | 27.7–32.4% | 27.3–32.9% | 26.5–33.8% |
-| [26–28 January 2024](2024-01-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.2% | 28.4–32.1% | 27.9–32.6% | 27.4–33.1% | 26.6–34.0% |
-| [19–22 January 2024](2024-01-22-ResearchPartner.html) | Research Partner <br> Ariadna | 32.2% | 30.4–34.0% | 29.9–34.5% | 29.5–35.0% | 28.7–35.9% |
-| [12–14 January 2024](2024-01-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.0% | 29.2–32.9% | 28.7–33.5% | 28.2–33.9% | 27.3–34.9% |
-| [13–14 January 2024](2024-01-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 32.8% | 31.0–34.7% | 30.5–35.2% | 30.0–35.7% | 29.2–36.6% |
-| [12–13 January 2024](2024-01-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 34.9% | 33.0–36.8% | 32.5–37.3% | 32.1–37.8% | 31.2–38.7% |
-| [8–9 January 2024](2024-01-09-Opinia24.html) | Opinia24 | 28.9% | 27.1–30.8% | 26.6–31.4% | 26.2–31.8% | 25.4–32.8% |
-| [5–8 January 2024](2024-01-08-IBRiS.html) | IBRiS <br> Onet.pl | 36.0% | 34.1–38.0% | 33.5–38.5% | 33.1–39.0% | 32.2–40.0% |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 33.8% | 31.9–35.8% | 31.4–36.3% | 30.9–36.8% | 30.0–37.7% |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 33.1% | 31.3–35.0% | 30.7–35.6% | 30.3–36.0% | 29.4–37.0% |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 34.0% | 32.1–36.0% | 31.6–36.5% | 31.1–37.0% | 30.2–38.0% |
@@ -876,23 +863,21 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0% | 100% |  |
 | 19.5–20.5% | 0% | 100% |  |
 | 20.5–21.5% | 0% | 100% |  |
-| 21.5–22.5% | 0.2% | 100% |  |
-| 22.5–23.5% | 1.0% | 99.8% |  |
-| 23.5–24.5% | 3% | 98.8% |  |
-| 24.5–25.5% | 4% | 96% |  |
-| 25.5–26.5% | 5% | 91% |  |
-| 26.5–27.5% | 3% | 87% |  |
-| 27.5–28.5% | 4% | 84% |  |
-| 28.5–29.5% | 9% | 79% |  |
-| 29.5–30.5% | 14% | 71% |  |
-| 30.5–31.5% | 17% | 57% | Median |
-| 31.5–32.5% | 16% | 40% |  |
-| 32.5–33.5% | 12% | 24% |  |
-| 33.5–34.5% | 7% | 11% |  |
-| 34.5–35.5% | 3% | 4% |  |
-| 35.5–36.5% | 0.9% | 1.1% |  |
-| 36.5–37.5% | 0.2% | 0.2% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 21.5–22.5% | 0% | 100% |  |
+| 22.5–23.5% | 0% | 100% |  |
+| 23.5–24.5% | 0% | 100% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0.5% | 99.9% |  |
+| 26.5–27.5% | 3% | 99.4% |  |
+| 27.5–28.5% | 11% | 96% |  |
+| 28.5–29.5% | 22% | 86% |  |
+| 29.5–30.5% | 27% | 64% | Median |
+| 30.5–31.5% | 22% | 37% |  |
+| 31.5–32.5% | 11% | 15% |  |
+| 32.5–33.5% | 3% | 4% |  |
+| 33.5–34.5% | 0.7% | 0.8% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -903,21 +888,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 14–20 | 13–20 | 12–20 |
-| [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP | 17 | 17 | 17 | 16–18 | 16–18 |
-| [12–15 February 2024](2024-02-15-OGB.html) | OGB | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
-| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 17–20 | 17–20 | 16–20 |
-| [10–11 February 2024](2024-02-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–17 | 16–17 | 15–17 | 14–18 |
-| [11 February 2024](2024-02-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [6–7 February 2024](2024-02-07-Opinia24.html) | Opinia24 | 15 | 13–16 | 13–16 | 12–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 16 | 16–17 | 16–17 | 15–17 | 14–18 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 16 | 16–17 | 16–17 | 15–17 | 14–18 |
-| [26–28 January 2024](2024-01-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
-| [19–22 January 2024](2024-01-22-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 16–19 | 16–20 | 16–20 | 16–20 |
-| [12–14 January 2024](2024-01-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
-| [13–14 January 2024](2024-01-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 18 | 17–19 | 17–19 | 17–19 | 17–20 |
-| [12–13 January 2024](2024-01-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
-| [8–9 January 2024](2024-01-09-Opinia24.html) | Opinia24 | 16 | 15–17 | 15–17 | 15–17 | 14–18 |
-| [5–8 January 2024](2024-01-08-IBRiS.html) | IBRiS <br> Onet.pl | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–19 | 17–19 | 17–19 | 17–20 |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 17–20 | 17–20 | 17–20 | 17–20 |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
@@ -1761,16 +1733,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 100% |  |
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
-| 12 | 0.7% | 100% |  |
-| 13 | 2% | 99.3% |  |
-| 14 | 5% | 97% |  |
-| 15 | 8% | 92% |  |
-| 16 | 20% | 84% |  |
-| 17 | 40% | 65% | Median |
-| 18 | 12% | 25% |  |
-| 19 | 7% | 13% |  |
-| 20 | 7% | 7% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 0.6% | 99.9% |  |
+| 15 | 4% | 99.3% |  |
+| 16 | 66% | 95% | Median |
+| 17 | 29% | 29% |  |
+| 18 | 0.7% | 0.8% |  |
+| 19 | 0% | 0% |  |
 
 

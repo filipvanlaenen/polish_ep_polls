@@ -16,7 +16,7 @@
 | Polskie Stronnictwo Ludowe (EPP) | 0.0% | 6.8% | 5.9–7.9% |5.7–8.3% |5.4–8.5% |5.0–9.1% |
 | Nowa Lewica (S&D) | 0.0% | 6.5% | 5.7–7.6% |5.4–8.0% |5.2–8.2% |4.8–8.8% |
 | Nowa Nadzieja–Ruch Narodowy (NI) | 0.0% | 6.3% | 5.4–7.3% |5.1–7.6% |4.9–7.9% |4.5–8.4% |
-| Lewica Razem (*) | 0.0% | 2.4% | 1.9–3.1% |1.8–3.4% |1.6–3.5% |1.4–3.9% |
+| Lewica Razem (NI) | 0.0% | 2.4% | 1.9–3.1% |1.8–3.4% |1.6–3.5% |1.4–3.9% |
 | .Nowoczesna (RE) | 0.0% | 1.8% | 1.4–2.5% |1.3–2.7% |1.2–2.9% |1.0–3.2% |
 | Konfederacja Korony Polskiej (ID) | 0.0% | 1.7% | 1.3–2.4% |1.2–2.6% |1.1–2.7% |0.9–3.1% |
 | Inicjatywa Polska (NI) | 0.0% | 0.8% | 0.5–1.2% |0.4–1.4% |0.4–1.5% |0.3–1.8% |
@@ -41,7 +41,7 @@
 | <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 4 | 4 |3–5 |3–5 |3–5 |
 | <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 4 | 3–4 |3–4 |3–4 |2–5 |
 | <a href="#nowa-nadzieja–ruch-narodowy-(ni)">Nowa Nadzieja–Ruch Narodowy (NI)</a> | 0 | 3 | 3–4 |3–4 |3–4 |2–4 |
-| <a href="#lewica-razem-(*)">Lewica Razem (*)</a> | 0 | 1 | 1 |1 |0–1 |0–2 |
+| <a href="#lewica-razem-(ni)">Lewica Razem (NI)</a> | 0 | 1 | 1 |1 |0–1 |0–2 |
 | <a href="#.nowoczesna-(re)">.Nowoczesna (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#konfederacja-korony-polskiej-(id)">Konfederacja Korony Polskiej (ID)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#inicjatywa-polska-(ni)">Inicjatywa Polska (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -176,11 +176,11 @@
 | 5 | 0.4% | 0.4% |  |
 | 6 | 0% | 0% |  |
 
-### Lewica Razem (*)
+### Lewica Razem (NI)
 
-*For a full overview of the results for this party, see the [Lewica Razem (*)](party-lewicarazem.html) page.*
+*For a full overview of the results for this party, see the [Lewica Razem (NI)](party-lewicarazemni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-lewicarazem.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2024-01-31-PortlandCommunications-seats-pmf-lewicarazemni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

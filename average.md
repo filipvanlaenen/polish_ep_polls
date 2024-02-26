@@ -25,7 +25,7 @@ Only polls for which at least the sample size has been published are included in
 + **PSL:** Polskie Stronnictwo Ludowe (EPP)
 + **SLD:** Sojusz Lewicy Demokratycznej (S&D)
 + **W:** KORWiN (NI)
-+ **R:** Lewica Razem (*)
++ **R:** Lewica Razem (NI)
 + **Wi:** Wiosna (S&D)
 + **W–PR:** Wiosna–Partia Razem (S&D)
 + **KE:** Koalicja Europejska (EPP)
@@ -67,7 +67,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0.0% | 6.9% | 5.9–7.9% |5.7–8.3% | 5.4–8.5% | 5.1–9.1% |
 | <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#korwin-(ni)">KORWiN (NI)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#lewica-razem-(*)">Lewica Razem (*)</a> | 0.0% | 2.5% | 1.9–3.1% |1.8–3.3% | 1.6–3.5% | 1.4–3.9% |
+| <a href="#lewica-razem-(ni)">Lewica Razem (NI)</a> | 0.0% | 2.5% | 1.9–3.1% |1.8–3.3% | 1.6–3.5% | 1.4–3.9% |
 | <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
@@ -317,9 +317,9 @@ Only polls for which at least the sample size has been published are included in
 | 8.5–9.5% | 0.9% | 1.0% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
-### Lewica Razem (*)
+### Lewica Razem (NI)
 
-*For a full overview of the results for this party, see the [Lewica Razem (*)](party-lewicarazem.html) page.*
+*For a full overview of the results for this party, see the [Lewica Razem (NI)](party-lewicarazemni.html) page.*
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -348,7 +348,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 4 | 4 |3–5 | 3–5 | 3–5 |
 | <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#korwin-(ni)">KORWiN (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#lewica-razem-(*)">Lewica Razem (*)</a> | 0 | 1 | 1 |1 | 0–1 | 0–2 |
+| <a href="#lewica-razem-(ni)">Lewica Razem (NI)</a> | 0 | 1 | 1 |1 | 0–1 | 0–2 |
 | <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#koalicja-europejska-(epp)">Koalicja Europejska (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -459,11 +459,11 @@ Only polls for which at least the sample size has been published are included in
 
 ![Graph with seats probability mass function not yet produced](average-seats-pmf-korwinni.png "Seats Probability Mass Function")
 
-### Lewica Razem (*)
+### Lewica Razem (NI)
 
-*For a full overview of the results for this party, see the [Lewica Razem (*)](party-lewicarazem.html) page.*
+*For a full overview of the results for this party, see the [Lewica Razem (NI)](party-lewicarazemni.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-lewicarazem.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-lewicarazemni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -689,10 +689,10 @@ Only polls for which at least the sample size has been published are included in
 | AGROunia–Porozumienie (EPP) – Koalicja Europejska (EPP) – Koalicja Obywatelska (EPP) – Koalicja Polska (EPP) – Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) – Porozumienie (EPP) | 0 | 23 | 0% | 22–24 | 22–24 | 22–24 | 22–25 |
 | Prawo i Sprawiedliwość (ECR) – Zjednoczona Prawica (ECR) | 0 | 16 | 0% | 16–17 | 16–17 | 15–17 | 14–18 |
 | .Nowoczesna (RE) – Polska 2050 (RE) – Trzecia Droga (RE) | 0 | 5 | 0% | 5 | 4–5 | 4–6 | 4–7 |
-| Inicjatywa Polska (NI) – KORWiN (NI) – Konfederacja (NI) – Kukiz’15 (NI) – Nowa Nadzieja–Ruch Narodowy (NI) | 0 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–5 |
+| Inicjatywa Polska (NI) – KORWiN (NI) – Konfederacja (NI) – Kukiz’15 (NI) – Lewica Razem (NI) – Nowa Nadzieja–Ruch Narodowy (NI) | 0 | 4 | 0% | 4–5 | 4–5 | 4–5 | 3–6 |
 | Nowa Lewica (S&D) – Sojusz Lewicy Demokratycznej (S&D) – Wiosna (S&D) – Wiosna–Partia Razem (S&D) | 0 | 4 | 0% | 3–4 | 3–4 | 3–4 | 2–5 |
-| AGROunia (*) – Bezpartyjni Samorządowcy (*) – Centrum dla Polski (*) – Lewica Razem (*) – Polska Jest Jedna (*) – Tak! Dla Polski (*) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–2 |
 | Konfederacja Korony Polskiej (ID) | 0 | 1 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+| AGROunia (*) – Bezpartyjni Samorządowcy (*) – Centrum dla Polski (*) – Polska Jest Jedna (*) – Tak! Dla Polski (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 | Partia Zieloni (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### AGROunia–Porozumienie (EPP) – Koalicja Europejska (EPP) – Koalicja Obywatelska (EPP) – Koalicja Polska (EPP) – Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) – Porozumienie (EPP)
@@ -773,19 +773,20 @@ Only polls for which at least the sample size has been published are included in
 | 8 | 0.1% | 0.1% |  |
 | 9 | 0% | 0% |  |
 
-### Inicjatywa Polska (NI) – KORWiN (NI) – Konfederacja (NI) – Kukiz’15 (NI) – Nowa Nadzieja–Ruch Narodowy (NI)
+### Inicjatywa Polska (NI) – KORWiN (NI) – Konfederacja (NI) – Kukiz’15 (NI) – Lewica Razem (NI) – Nowa Nadzieja–Ruch Narodowy (NI)
 
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ip–w–konf–k–nn–rn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ip–w–konf–k–r–nn–rn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.6% | 100% |  |
-| 3 | 87% | 99.4% | Median |
-| 4 | 11% | 12% |  |
-| 5 | 0.8% | 0.8% |  |
-| 6 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 2% | 100% |  |
+| 4 | 85% | 98% | Median |
+| 5 | 11% | 12% |  |
+| 6 | 1.1% | 1.1% |  |
+| 7 | 0% | 0% |  |
 
 ### Nowa Lewica (S&D) – Sojusz Lewicy Demokratycznej (S&D) – Wiosna (S&D) – Wiosna–Partia Razem (S&D)
 
@@ -801,18 +802,6 @@ Only polls for which at least the sample size has been published are included in
 | 5 | 0.8% | 0.8% |  |
 | 6 | 0% | 0% |  |
 
-### AGROunia (*) – Bezpartyjni Samorządowcy (*) – Centrum dla Polski (*) – Lewica Razem (*) – Polska Jest Jedna (*) – Tak! Dla Polski (*)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-au–bs–cp–r–pjj–tdpl.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 95% | 97% | Median |
-| 2 | 2% | 2% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
-
 ### Konfederacja Korony Polskiej (ID)
 
 ![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kkp.png "Seats Probability Mass Function")
@@ -821,6 +810,16 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 12% | 100% | Last Result |
 | 1 | 88% | 88% | Median |
+| 2 | 0% | 0% |  |
+
+### AGROunia (*) – Bezpartyjni Samorządowcy (*) – Centrum dla Polski (*) – Polska Jest Jedna (*) – Tak! Dla Polski (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-au–bs–cp–pjj–tdpl.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.3% | 100% | Last Result, Median |
+| 1 | 0.7% | 0.7% |  |
 | 2 | 0% | 0% |  |
 
 ### Partia Zieloni (Greens/EFA)

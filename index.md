@@ -21,7 +21,7 @@ Only polls for which at least the sample size has been published are included in
 + **PSL:** Polskie Stronnictwo Ludowe (EPP)
 + **SLD:** Sojusz Lewicy Demokratycznej (S&D)
 + **W:** KORWiN (NI)
-+ **R:** Lewica Razem (*)
++ **R:** Lewica Razem (NI)
 + **Wi:** Wiosna (S&D)
 + **W–PR:** Wiosna–Partia Razem (S&D)
 + **KE:** Koalicja Europejska (EPP)

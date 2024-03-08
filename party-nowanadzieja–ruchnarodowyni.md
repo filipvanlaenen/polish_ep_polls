@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.3% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
+| N/A | [Poll Average](average.html) | 3.4% | 1.5–7.0% | 1.4–7.3% | 1.3–7.6% | 1.1–8.2% |
+| [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 1.7% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% | 1.1–2.6% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 6.3% | 5.4–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.7–7.3% |
@@ -163,6 +164,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–6 March 2023](2023-03-06-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
 | [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
+| [26 February 2024–28 February 2023](2023-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 February 2023](2023-02-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -842,15 +844,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 14% | 99.5% |  |
-| 5.5–6.5% | 48% | 85% | Median |
-| 6.5–7.5% | 31% | 38% |  |
-| 7.5–8.5% | 6% | 6% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 15% | 100% |  |
+| 1.5–2.5% | 35% | 85% |  |
+| 2.5–3.5% | 0.3% | 50% | Median |
+| 3.5–4.5% | 0.3% | 50% |  |
+| 4.5–5.5% | 7% | 50% |  |
+| 5.5–6.5% | 24% | 43% |  |
+| 6.5–7.5% | 16% | 19% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.2% | 0.2% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -862,7 +864,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 0 | 0 | 0 | 0 | 0 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -1015,6 +1018,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–6 March 2023](2023-03-06-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
+| [26 February 2024–28 February 2023](2023-02-28-Opinia24.html) | Opinia24 <br> TOK FM |  |  |  |  |  |
 | [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
 | [23–24 February 2023](2023-02-24-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
@@ -1695,12 +1699,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0.6% | 100% |  |
-| 3 | 87% | 99.4% | Median |
-| 4 | 12% | 12% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 50% | 100% | Last Result, Median |
+| 1 | 0% | 50% |  |
+| 2 | 0.3% | 50% |  |
+| 3 | 44% | 50% |  |
+| 4 | 6% | 6% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 

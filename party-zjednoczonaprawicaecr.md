@@ -890,8 +890,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–17 | 16–17 | 15–17 | 15–18 |
-| [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 17 | 16–17 | 16–17 | 16–17 | 15–18 |
+| N/A | [Poll Average](average.html) | 16 | 16–17 | 16–17 | 15–18 | 15–18 |
+| [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 17 | 16–17 | 16–18 | 16–18 | 15–18 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 16 | 16–17 | 16–17 | 15–17 | 14–18 |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–19 | 17–19 | 17–19 | 17–20 |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 17–20 | 17–20 | 17–20 | 17–20 |
@@ -1740,10 +1740,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.3% | 100% |  |
-| 15 | 3% | 99.6% |  |
-| 16 | 47% | 97% |  |
-| 17 | 49% | 50% | Median |
-| 18 | 1.1% | 1.1% |  |
-| 19 | 0% | 0% |  |
+| 15 | 2% | 99.7% |  |
+| 16 | 48% | 97% | Median |
+| 17 | 46% | 49% |  |
+| 18 | 3% | 3% |  |
+| 19 | 0.1% | 0.1% |  |
+| 20 | 0% | 0% |  |
 
 

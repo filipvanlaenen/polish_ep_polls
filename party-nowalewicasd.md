@@ -163,6 +163,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [3–6 March 2023](2023-03-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | N/A | N/A | N/A | N/A |
 | [3–6 March 2023](2023-03-06-ResearchPartner.html) | Research Partner <br> Ariadna | 9.6% | N/A | N/A | N/A | N/A |
 | [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.8% | N/A | N/A | N/A | N/A |
+| [23 February 2024–5 March 2023](2023-03-05-Ipsos.html) | Ipsos <br> Euronews | 8.4% | N/A | N/A | N/A | N/A |
 | [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET | 10.0% | N/A | N/A | N/A | N/A |
 | [26 February 2024–28 February 2023](2023-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 12.0% | N/A | N/A | N/A | N/A |
 | [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.4–10.9% | 7.0–11.5% |
@@ -1017,6 +1018,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–6 March 2023](2023-03-06-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [3–6 March 2023](2023-03-06-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [23 February 2024–5 March 2023](2023-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [26 February 2024–28 February 2023](2023-02-28-Opinia24.html) | Opinia24 <br> TOK FM |  |  |  |  |  |
 | [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |

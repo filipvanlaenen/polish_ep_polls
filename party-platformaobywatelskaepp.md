@@ -852,8 +852,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17 | 16–18 | 16–18 | 16–18 | 15–18 |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM |  |  |  |  |  |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 18 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 19 | 19–20 | 18–20 | 18–20 | 18–22 |
@@ -1664,13 +1664,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0.1% | 100% |  |
-| 14 | 0.1% | 99.9% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0.2% | 100% |  |
 | 15 | 2% | 99.8% |  |
-| 16 | 25% | 98% |  |
-| 17 | 57% | 73% | Median |
-| 18 | 16% | 16% |  |
-| 19 | 0.3% | 0.3% |  |
+| 16 | 18% | 98% |  |
+| 17 | 67% | 80% | Median |
+| 18 | 12% | 14% |  |
+| 19 | 1.2% | 1.2% |  |
 | 20 | 0% | 0% |  |
 
 

@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
+| N/A | [Poll Average](average.html) | 30.2% | 27.3–33.2% | 26.7–33.8% | 26.2–34.4% | 25.3–35.4% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 28.5% | 26.7–30.4% | 26.2–30.9% | 25.8–31.4% | 25.0–32.3% |
-| [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 31.9% | N/A | N/A | N/A | N/A |
+| [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 32.5% | 31.2–33.9% | 30.8–34.3% | 30.5–34.6% | 29.9–35.2% |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 33.7% | 31.8–35.6% | 31.3–36.2% | 30.9–36.6% | 30.0–37.6% |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 26.5% | 24.8–28.3% | 24.3–28.9% | 23.9–29.3% | 23.0–30.2% |
@@ -831,17 +831,21 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.2% | 100% |  |
-| 24.5–25.5% | 1.4% | 99.8% |  |
-| 25.5–26.5% | 6% | 98% |  |
-| 26.5–27.5% | 17% | 92% |  |
-| 27.5–28.5% | 26% | 75% |  |
-| 28.5–29.5% | 26% | 49% | Median |
-| 29.5–30.5% | 16% | 24% |  |
-| 30.5–31.5% | 6% | 8% |  |
-| 31.5–32.5% | 2% | 2% |  |
-| 32.5–33.5% | 0.3% | 0.3% |  |
-| 33.5–34.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.1% | 100% |  |
+| 24.5–25.5% | 0.7% | 99.9% |  |
+| 25.5–26.5% | 3% | 99.2% |  |
+| 26.5–27.5% | 8% | 96% |  |
+| 27.5–28.5% | 13% | 88% |  |
+| 28.5–29.5% | 15% | 74% |  |
+| 29.5–30.5% | 14% | 59% | Median |
+| 30.5–31.5% | 14% | 45% |  |
+| 31.5–32.5% | 14% | 31% |  |
+| 32.5–33.5% | 10% | 17% |  |
+| 33.5–34.5% | 5% | 7% |  |
+| 34.5–35.5% | 2% | 2% |  |
+| 35.5–36.5% | 0.3% | 0.4% |  |
+| 36.5–37.5% | 0% | 0.1% |  |
+| 37.5–38.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -852,9 +856,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
+| N/A | [Poll Average](average.html) | 18 | 17–21 | 16–21 | 16–21 | 15–22 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 17 | 16–18 | 16–18 | 16–18 | 15–19 |
-| [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM |  |  |  |  |  |
+| [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 19 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 18 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 19 | 19–20 | 18–20 | 18–20 | 18–22 |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–15 | 14–16 | 14–16 | 14–18 |
@@ -1665,12 +1669,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.2% | 100% |  |
-| 15 | 2% | 99.8% |  |
-| 16 | 18% | 98% |  |
-| 17 | 67% | 80% | Median |
-| 18 | 12% | 14% |  |
-| 19 | 1.2% | 1.2% |  |
-| 20 | 0% | 0% |  |
+| 14 | 0.1% | 100% |  |
+| 15 | 0.8% | 99.9% |  |
+| 16 | 9% | 99.1% |  |
+| 17 | 34% | 90% |  |
+| 18 | 20% | 56% | Median |
+| 19 | 15% | 36% |  |
+| 20 | 11% | 21% |  |
+| 21 | 9% | 11% |  |
+| 22 | 2% | 2% |  |
+| 23 | 0% | 0% |  |
 
 

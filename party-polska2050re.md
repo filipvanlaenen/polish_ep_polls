@@ -835,7 +835,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5–6 | 5–7 | 5–7 | 5–7 |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 5 | 4–6 | 4–6 | 4–6 | 4–6 |

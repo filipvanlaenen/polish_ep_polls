@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 2.7% | N/A | N/A | N/A | N/A |
-| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 2.6% | N/A | N/A | N/A | N/A |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 0.0% | N/A | N/A | N/A | N/A |
@@ -830,7 +830,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska |  |  |  |  |  |
-| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications |  |  |  |  |  |
+| [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 1 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska |  |  |  |  |  |

@@ -861,8 +861,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 19 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 18 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 19 | 18–20 | 18–20 | 17–21 | 17–22 |
-| [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–15 | 14–16 | 14–16 | 14–18 |
-| [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
+| [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 15–17 | 15–18 | 14–19 |
+| [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 18 | 17–20 | 17–21 | 16–21 | 16–21 |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 16 | 15–16 | 14–17 | 14–17 | 13–18 |
 | [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 15 | 14–15 | 14–16 | 13–16 | 13–17 |
 | [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–17 | 15–17 | 14–17 | 14–17 |

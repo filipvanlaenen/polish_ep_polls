@@ -10,21 +10,49 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 2.0–3.8% | 1.8–4.0% | 1.7–4.3% | 1.4–4.7% |
+| N/A | [Poll Average](average.html) | 2.3% | 1.2–3.1% | 1.0–3.3% | 0.9–3.5% | 0.7–3.9% |
+| [23–24 April 2024](2024-04-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2.5% | 2.0–3.3% | 1.9–3.5% | 1.7–3.7% | 1.5–4.0% |
+| [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.6% | 1.5–4.0% |
+| [8–9 April 2024](2024-04-09-Opinia24.html) | Opinia24 | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
+| [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
+| [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl | 2.8% | N/A | N/A | N/A | N/A |
+| [2–3 April 2024](2024-04-03-Opinia24.html) | Opinia24 | 2.2% | N/A | N/A | N/A | N/A |
+| [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [22–23 March 2024](2024-03-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2.8% | 2.3–3.6% | 2.1–3.8% | 2.0–4.0% | 1.7–4.4% |
+| [16–17 March 2024](2024-03-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2.5% | 2.0–3.2% | 1.9–3.5% | 1.7–3.6% | 1.5–4.0% |
+| [8–11 March 2024](2024-03-11-ResearchPartner.html) | Research Partner <br> Ariadna | 2.6% | 2.0–3.3% | 1.9–3.5% | 1.8–3.7% | 1.6–4.1% |
+| [6–7 March 2024](2024-03-07-Opinia24.html) | Opinia24 | 2.6% | N/A | N/A | N/A | N/A |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [22–26 February 2024](2024-02-26-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 1.7% | N/A | N/A | N/A | N/A |
+| [23–25 February 2024](2024-02-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [23–24 February 2024](2024-02-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2.5% | N/A | N/A | N/A | N/A |
+| [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP | 2.2% | N/A | N/A | N/A | N/A |
+| [12–15 February 2024](2024-02-15-OGB.html) | OGB | 1.3% | 0.9–1.9% | 0.8–2.1% | 0.8–2.2% | 0.6–2.5% |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 2.5% | 2.1–3.0% | 2.0–3.1% | 1.9–3.2% | 1.7–3.5% |
+| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna | 2.7% | N/A | N/A | N/A | N/A |
+| [10–11 February 2024](2024-02-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.9% | N/A | N/A | N/A | N/A |
+| [11 February 2024](2024-02-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 2.5% | N/A | N/A | N/A | N/A |
+| [6–7 February 2024](2024-02-07-Opinia24.html) | Opinia24 | 2.6% | N/A | N/A | N/A | N/A |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 2.4% | 1.9–3.1% | 1.8–3.4% | 1.6–3.5% | 1.4–3.9% |
-| [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 0.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 0.0% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
-| [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
-| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
-| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | 1.9–3.1% | 1.8–3.3% | 1.6–3.5% | 1.4–3.9% |
-| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
-| [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
-| [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
+| [26–28 January 2024](2024-01-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.8% | N/A | N/A | N/A | N/A |
+| [19–22 January 2024](2024-01-22-ResearchPartner.html) | Research Partner <br> Ariadna | 2.9% | N/A | N/A | N/A | N/A |
+| [12–14 January 2024](2024-01-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.1% | N/A | N/A | N/A | N/A |
+| [13–14 January 2024](2024-01-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 2.1% | N/A | N/A | N/A | N/A |
+| [12–13 January 2024](2024-01-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2.6% | N/A | N/A | N/A | N/A |
+| [8–9 January 2024](2024-01-09-Opinia24.html) | Opinia24 | 2.8% | N/A | N/A | N/A | N/A |
+| [5–8 January 2024](2024-01-08-IBRiS.html) | IBRiS <br> Onet.pl | 2.5% | N/A | N/A | N/A | N/A |
+| [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.4% | N/A | N/A | N/A | N/A |
+| [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 2.2% | N/A | N/A | N/A | N/A |
+| [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [5–6 December 2023](2023-12-06-Opinia24.html) | Opinia24 | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [1–3 December 2023](2023-12-03-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| [17–19 November 2023](2023-11-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [10–13 November 2023](2023-11-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 2.4% | 1.9–3.1% | 1.8–3.3% | 1.6–3.5% | 1.4–3.9% |
+| [7–8 November 2023](2023-11-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.9% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
+| [3–5 November 2023](2023-11-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.4% | 1.9–3.2% | 1.7–3.4% | 1.6–3.6% | 1.4–3.9% |
+| [20–22 October 2023](2023-10-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [11–13 October 2023](2023-10-13-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [11–12 October 2023](2023-10-12-PGBOpinium.html) | PGB Opinium | 0.0% | N/A | N/A | N/A | N/A |
 | [10–12 October 2023](2023-10-12-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
@@ -145,6 +173,43 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [31 March–3 April 2023](2023-04-03-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–3 April 2023](2023-04-03-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
 | [30 March–2 April 2023](2023-04-02-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [24–27 March 2023](2023-03-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [22–25 March 2023](2023-03-25-PGBOpinium.html) | PGB Opinium | 0.0% | N/A | N/A | N/A | N/A |
+| [23–24 March 2023](2023-03-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [20–23 March 2023](2023-03-23-Ipsos.html) | Ipsos <br> OKO.press | 0.0% | N/A | N/A | N/A | N/A |
+| [20–23 March 2023](2023-03-23-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [17–22 March 2023](2023-03-22-KantarPublic.html) | Kantar Public <br> Gazeta Wyborcza | 0.0% | N/A | N/A | N/A | N/A |
+| [17–20 March 2023](2023-03-20-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [17–19 March 2023](2023-03-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [17–18 March 2023](2023-03-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
+| [14–16 March 2023](2023-03-16-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
+| [13–16 March 2023](2023-03-16-IPSOS.html) | IPSOS <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [13–14 March 2023](2023-03-14-IBRiS.html) | IBRiS <br> Onet.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [10–13 March 2023](2023-03-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [10–13 March 2023](2023-03-13-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
+| [1–13 March 2023](2023-03-13-KantarPublic.html) | Kantar Public <br> Forum Długiego Stołu | 0.0% | N/A | N/A | N/A | N/A |
+| [10–13 March 2023](2023-03-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [8–9 March 2023](2023-03-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 March 2023](2023-03-06-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [3–6 March 2023](2023-03-06-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
+| [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
+| [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [23–24 February 2023](2023-02-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 February 2023](2023-02-21-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [17–20 February 2023](2023-02-20-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
+| [15–20 February 2023](2023-02-20-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
+| [17–19 February 2023](2023-02-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [15–18 February 2023](2023-02-18-PGBOpinium.html) | PGB Opinium | 0.0% | N/A | N/A | N/A | N/A |
+| [17–18 February 2023](2023-02-18-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
+| [10–13 February 2023](2023-02-13-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [9–10 February 2023](2023-02-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
+| [3–7 February 2023](2023-02-07-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [5–6 February 2023](2023-02-06-ResearchPartner.html) | Research Partner <br> Ariadna | 0.0% | N/A | N/A | N/A | N/A |
+| [3–5 February 2023](2023-02-05-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [3–4 February 2023](2023-02-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 January 2023](2023-01-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [28–29 January 2023](2023-01-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 January 2023](2023-01-27-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -410,7 +475,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
-| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 0.0% | N/A | N/A | N/A | N/A |
+| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP | 0.0% | N/A | N/A | N/A | N/A |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia | 0.0% | N/A | N/A | N/A | N/A |
@@ -739,7 +804,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 0.0% | N/A | N/A | N/A | N/A |
-| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 0.0% | N/A | N/A | N/A | N/A |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
@@ -781,25 +846,25 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
-| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 1.3% | N/A | N/A | N/A | N/A |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3.0% | N/A | N/A | N/A | N/A |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
-| [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
-| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
-| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
-| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
-| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
-| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
+| [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.1% | N/A | N/A | N/A | N/A |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 1.4% | N/A | N/A | N/A | N/A |
+| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.5% | N/A | N/A | N/A | N/A |
+| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 1.2% | N/A | N/A | N/A | N/A |
+| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 1.0% | N/A | N/A | N/A | N/A |
+| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 2.0% | N/A | N/A | N/A | N/A |
+| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.4% | N/A | N/A | N/A | N/A |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 1.0% | N/A | N/A | N/A | N/A |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
-| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
-| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
-| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
-| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
-| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
-| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
-| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 0.9% | N/A | N/A | N/A | N/A |
+| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 1.2% | N/A | N/A | N/A | N/A |
+| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.8% | N/A | N/A | N/A | N/A |
+| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0.3% | N/A | N/A | N/A | N/A |
+| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.7% | N/A | N/A | N/A | N/A |
+| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 2.2% | N/A | N/A | N/A | N/A |
+| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 1.8% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -807,13 +872,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.4% | 100% |  |
-| 1.5–2.5% | 35% | 98.6% |  |
-| 2.5–3.5% | 47% | 64% | Median |
-| 3.5–4.5% | 15% | 16% |  |
-| 4.5–5.5% | 1.0% | 1.0% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 19% | 99.9% |  |
+| 1.5–2.5% | 47% | 81% | Median |
+| 2.5–3.5% | 31% | 34% |  |
+| 3.5–4.5% | 2% | 2% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -824,11 +888,39 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [23–24 April 2024](2024-04-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 1 | 1 | 1 | 0–2 |
+| [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 1 | 1 | 1 | 1 | 1 |
+| [8–9 April 2024](2024-04-09-Opinia24.html) | Opinia24 | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [2–3 April 2024](2024-04-03-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [22–23 March 2024](2024-03-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1 | 1 | 1 | 1–2 | 1–2 |
+| [16–17 March 2024](2024-03-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [8–11 March 2024](2024-03-11-ResearchPartner.html) | Research Partner <br> Ariadna | 1 | 1 | 1 | 1 | 1–2 |
+| [6–7 March 2024](2024-03-07-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1 | 1 | 1 | 0–2 |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [22–26 February 2024](2024-02-26-Ipsos.html) | Ipsos <br> OKO.press and TOK FM |  |  |  |  |  |
+| [23–25 February 2024](2024-02-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [23–24 February 2024](2024-02-24-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP |  |  |  |  |  |
+| [12–15 February 2024](2024-02-15-OGB.html) | OGB | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 1 | 1 | 1 | 1 | 1–2 |
+| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [10–11 February 2024](2024-02-11-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [11 February 2024](2024-02-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [6–7 February 2024](2024-02-07-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [24–31 January 2024](2024-01-31-PortlandCommunications.html) | Portland Communications | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [26–28 January 2024](2024-01-28-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [19–22 January 2024](2024-01-22-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [12–14 January 2024](2024-01-14-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [13–14 January 2024](2024-01-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [12–13 January 2024](2024-01-13-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [8–9 January 2024](2024-01-09-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [5–8 January 2024](2024-01-08-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [15–17 December 2023](2023-12-17-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [17 December 2023](2023-12-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [1–8 December 2023](2023-12-08-Ipsos.html) | Ipsos <br> More in Common Polska | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
@@ -959,6 +1051,43 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [31 March–3 April 2023](2023-04-03-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [31 March–3 April 2023](2023-04-03-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [30 March–2 April 2023](2023-04-02-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [24–27 March 2023](2023-03-27-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [22–25 March 2023](2023-03-25-PGBOpinium.html) | PGB Opinium |  |  |  |  |  |
+| [23–24 March 2023](2023-03-24-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [20–23 March 2023](2023-03-23-Ipsos.html) | Ipsos <br> OKO.press |  |  |  |  |  |
+| [20–23 March 2023](2023-03-23-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
+| [17–22 March 2023](2023-03-22-KantarPublic.html) | Kantar Public <br> Gazeta Wyborcza |  |  |  |  |  |
+| [17–20 March 2023](2023-03-20-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [17–19 March 2023](2023-03-19-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [17–18 March 2023](2023-03-18-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [14–16 March 2023](2023-03-16-Kantar.html) | Kantar <br> Fakty TVN and TVN24 |  |  |  |  |  |
+| [13–16 March 2023](2023-03-16-IPSOS.html) | IPSOS <br> DoRzeczy.pl |  |  |  |  |  |
+| [13–14 March 2023](2023-03-14-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [10–13 March 2023](2023-03-13-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [10–13 March 2023](2023-03-13-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [1–13 March 2023](2023-03-13-KantarPublic.html) | Kantar Public <br> Forum Długiego Stołu |  |  |  |  |  |
+| [10–13 March 2023](2023-03-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [8–9 March 2023](2023-03-09-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [3–6 March 2023](2023-03-06-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [3–6 March 2023](2023-03-06-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [3–5 March 2023](2023-03-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [28 February–1 March 2023](2023-03-01-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
+| [24–27 February 2023](2023-02-27-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [24–27 February 2023](2023-02-27-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
+| [23–24 February 2023](2023-02-24-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [17–21 February 2023](2023-02-21-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [17–20 February 2023](2023-02-20-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [15–20 February 2023](2023-02-20-KantarPublic.html) | Kantar Public |  |  |  |  |  |
+| [17–19 February 2023](2023-02-19-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [15–18 February 2023](2023-02-18-PGBOpinium.html) | PGB Opinium |  |  |  |  |  |
+| [17–18 February 2023](2023-02-18-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [10–13 February 2023](2023-02-13-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [9–10 February 2023](2023-02-10-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [7–8 February 2023](2023-02-08-Kantar.html) | Kantar <br> Fakty TVN and TVN24 |  |  |  |  |  |
+| [3–7 February 2023](2023-02-07-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
+| [5–6 February 2023](2023-02-06-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [3–5 February 2023](2023-02-05-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [3–4 February 2023](2023-02-04-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [27–30 January 2023](2023-01-30-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [28–29 January 2023](2023-01-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [26–27 January 2023](2023-01-27-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
@@ -1224,7 +1353,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [1 September 2021](2021-09-01-IBSP.html) | IBSP <br> StanPolityki.pl |  |  |  |  |  |
 | [27–30 August 2021](2021-08-30-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [27–28 August 2021](2021-08-28-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM |  |  |  |  |  |
+| [27 August 2021](2021-08-27-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [26–27 August 2021](2021-08-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Wiadomości TVP |  |  |  |  |  |
 | [23–26 August 2021](2021-08-26-SocialChanges.html) | Social Changes <br> wPolityce.pl |  |  |  |  |  |
 | [24 August 2021](2021-08-24-IBRiS.html) | IBRiS <br> Wydarzenia |  |  |  |  |  |
@@ -1553,7 +1682,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS |  |  |  |  |  |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
-| [8–9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET |  |  |  |  |  |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM |  |  |  |  |  |
 | [4–5 October 2019](2019-10-05-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
@@ -1623,9 +1752,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.5% | 100% | Last Result |
-| 1 | 69% | 99.5% | Median |
-| 2 | 31% | 31% |  |
+| 0 | 20% | 100% | Last Result |
+| 1 | 76% | 80% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 

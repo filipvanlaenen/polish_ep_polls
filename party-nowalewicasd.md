@@ -902,10 +902,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [2–3 April 2024](2024-04-03-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [22–23 March 2024](2024-03-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [16–17 March 2024](2024-03-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [8–11 March 2024](2024-03-11-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [22–23 March 2024](2024-03-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| [16–17 March 2024](2024-03-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [8–11 March 2024](2024-03-11-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [6–7 March 2024](2024-03-07-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 5 | 4–5 | 4–6 | 4–6 | 4–6 |

@@ -896,7 +896,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [2–3 April 2024](2024-04-03-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
 | [22–23 March 2024](2024-03-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–1 |
-| [16–17 March 2024](2024-03-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0 |
+| [16–17 March 2024](2024-03-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0–1 |
 | [8–11 March 2024](2024-03-11-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0–1 |
 | [6–7 March 2024](2024-03-07-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0 | 0 | 0 | 0 |

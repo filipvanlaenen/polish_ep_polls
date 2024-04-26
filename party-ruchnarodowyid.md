@@ -894,7 +894,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–9 April 2024](2024-04-09-Opinia24.html) | Opinia24 | 1 | 1–2 | 1–2 | 1–3 | 1–3 |
-| [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [2–3 April 2024](2024-04-03-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 2 | 1–2 | 1–2 | 1–3 | 1–3 |

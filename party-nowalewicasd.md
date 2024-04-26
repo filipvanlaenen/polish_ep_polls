@@ -899,7 +899,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [8–9 April 2024](2024-04-09-Opinia24.html) | Opinia24 | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 0 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [2–3 April 2024](2024-04-03-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
@@ -1758,10 +1758,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 0% | 83% |  |
-| 2 | 7% | 83% |  |
-| 3 | 43% | 76% | Median |
+| 0 | 13% | 100% | Last Result |
+| 1 | 0% | 87% |  |
+| 2 | 7% | 87% |  |
+| 3 | 48% | 80% | Median |
 | 4 | 27% | 32% |  |
 | 5 | 6% | 6% |  |
 | 6 | 0.1% | 0.1% |  |

@@ -894,9 +894,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [23–24 April 2024](2024-04-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–5 | 3–5 | 2–5 | 2–5 |
-| [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3 | 3–4 | 2–4 | 2–4 |
-| [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23–24 April 2024](2024-04-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
+| [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
+| [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [8–9 April 2024](2024-04-09-Opinia24.html) | Opinia24 | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 2 | 2–4 | 2–4 | 2–5 | 2–5 |
 | [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
@@ -1759,10 +1759,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 25% | 100% |  |
-| 3 | 60% | 75% | Median |
-| 4 | 11% | 15% |  |
-| 5 | 4% | 4% |  |
+| 2 | 26% | 100% |  |
+| 3 | 53% | 74% | Median |
+| 4 | 18% | 21% |  |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 

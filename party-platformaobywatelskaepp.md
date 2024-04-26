@@ -921,10 +921,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 16–21 | 15–21 |
-| [23–24 April 2024](2024-04-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 16–18 | 16–18 | 15–19 | 15–19 |
-| [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 17–19 | 17–19 | 17–19 | 17–20 |
-| [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 17–18 | 17–18 | 17–18 | 17–19 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–21 | 16–21 | 14–21 |
+| [23–24 April 2024](2024-04-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 17 | 16–18 | 15–18 | 14–18 | 14–19 |
+| [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 17–19 | 17–19 | 17–20 | 16–20 |
+| [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 17–18 | 17–18 | 17–19 | 16–19 |
 | [8–9 April 2024](2024-04-09-Opinia24.html) | Opinia24 | 20 | 20–21 | 19–21 | 18–21 | 17–22 |
 | [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 18 | 18 | 17–19 | 17–20 | 17–21 |
 | [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
@@ -1799,13 +1799,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0% | 100% |  |
-| 15 | 1.0% | 100% |  |
-| 16 | 10% | 99.0% |  |
-| 17 | 14% | 89% |  |
-| 18 | 38% | 75% | Median |
-| 19 | 17% | 38% |  |
-| 20 | 15% | 20% |  |
+| 14 | 0.9% | 100% |  |
+| 15 | 1.1% | 99.1% |  |
+| 16 | 7% | 98% |  |
+| 17 | 20% | 91% |  |
+| 18 | 39% | 71% | Median |
+| 19 | 11% | 32% |  |
+| 20 | 15% | 21% |  |
 | 21 | 5% | 6% |  |
 | 22 | 0.3% | 0.4% |  |
 | 23 | 0.1% | 0.1% |  |

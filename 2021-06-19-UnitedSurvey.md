@@ -11,9 +11,9 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Zjednoczona Prawica (ECR) | 0.0% | 37.7% | 35.8–39.7% |35.2–40.3% |34.7–40.8% |33.8–41.7% |
-| Polska 2050 (*) | 0.0% | 20.9% | 19.3–22.6% |18.9–23.1% |18.5–23.5% |17.8–24.4% |
+| Polska 2050 (RE) | 0.0% | 20.9% | N/A |N/A |N/A |N/A |
 | Koalicja Obywatelska (EPP) | 0.0% | 16.2% | 14.8–17.8% |14.4–18.2% |14.0–18.6% |13.4–19.4% |
-| Lewica (S&D) | 0.0% | 11.5% | 10.3–12.9% |10.0–13.3% |9.7–13.6% |9.1–14.3% |
+| Nowa Lewica (S&D) | 0.0% | 11.5% | 10.3–12.9% |10.0–13.3% |9.7–13.6% |9.1–14.3% |
 | Konfederacja (NI) | 0.0% | 7.8% | 6.8–9.0% |6.5–9.3% |6.3–9.6% |5.8–10.2% |
 | Koalicja Polska (EPP) | 0.0% | 5.8% | 5.0–6.9% |4.7–7.2% |4.5–7.4% |4.1–8.0% |
 
@@ -30,9 +30,9 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 20 | 19–21 |19–22 |18–22 |18–23 |
-| <a href="#polska-2050-(*)">Polska 2050 (*)</a> | 0 | 11 | 10–12 |10–12 |10–13 |9–13 |
+| <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | N/A | N/A |N/A |N/A |N/A |
 | <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 8 | 8–9 |7–10 |7–10 |7–10 |
-| <a href="#lewica-(s&d)">Lewica (S&D)</a> | 0 | 6 | 5–7 |5–7 |5–7 |5–7 |
+| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 6 | 5–7 |5–7 |5–7 |5–7 |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | 4 | 3–4 |3–5 |3–5 |3–5 |
 | <a href="#koalicja-polska-(epp)">Koalicja Polska (EPP)</a> | 0 | 3 | 0–3 |0–3 |0–4 |0–4 |
 
@@ -71,30 +71,11 @@
 | 24 | 0.1% | 0.1% |  |
 | 25 | 0% | 0% |  |
 
-### Polska 2050 (*)
+### Polska 2050 (RE)
 
-*For a full overview of the results for this party, see the [Polska 2050 (*)](party-polska2050.html) page.*
+*For a full overview of the results for this party, see the [Polska 2050 (RE)](party-polska2050re.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-19-UnitedSurvey-seats-pmf-polska2050.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0% | 100% |  |
-| 5 | 0% | 100% |  |
-| 6 | 0% | 100% |  |
-| 7 | 0% | 100% |  |
-| 8 | 0% | 100% |  |
-| 9 | 1.3% | 100% |  |
-| 10 | 22% | 98.7% |  |
-| 11 | 49% | 76% | Median |
-| 12 | 25% | 27% |  |
-| 13 | 2% | 3% |  |
-| 14 | 0.1% | 0.1% |  |
-| 15 | 0% | 0% |  |
+![Graph with seats probability mass function not yet produced](2021-06-19-UnitedSurvey-seats-pmf-polska2050re.png "Seats Probability Mass Function")
 
 ### Koalicja Obywatelska (EPP)
 
@@ -118,11 +99,11 @@
 | 11 | 0.2% | 0.2% |  |
 | 12 | 0% | 0% |  |
 
-### Lewica (S&D)
+### Nowa Lewica (S&D)
 
-*For a full overview of the results for this party, see the [Lewica (S&D)](party-lewicasd.html) page.*
+*For a full overview of the results for this party, see the [Nowa Lewica (S&D)](party-nowalewicasd.html) page.*
 
-![Graph with seats probability mass function not yet produced](2021-06-19-UnitedSurvey-seats-pmf-lewicasd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2021-06-19-UnitedSurvey-seats-pmf-nowalewicasd.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

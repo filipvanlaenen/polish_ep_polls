@@ -10,28 +10,17 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.9–3.1% |
-| [23–24 April 2024](2024-04-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.7% |
-| [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
-| [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
-| [8–9 April 2024](2024-04-09-Opinia24.html) | Opinia24 | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
-| [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 1.7% | 1.3–2.3% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
-| [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl | 1.7% | N/A | N/A | N/A | N/A |
-| [2–3 April 2024](2024-04-03-Opinia24.html) | Opinia24 | 1.8% | N/A | N/A | N/A | N/A |
-| [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
-| [22–23 March 2024](2024-03-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.8% | 1.4–2.4% | 1.2–2.6% | 1.1–2.8% | 1.0–3.1% |
-| [16–17 March 2024](2024-03-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
-| [8–11 March 2024](2024-03-11-ResearchPartner.html) | Research Partner <br> Ariadna | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.7% | 0.9–3.0% |
-| [6–7 March 2024](2024-03-07-Opinia24.html) | Opinia24 | 1.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.3% | 1.1–2.6% | 1.0–2.8% | 0.8–3.1% |
+| [22–25 April 2024](2024-04-25-OGB.html) | OGB <br> StanPolityki.pl | 1.6% | 1.2–2.3% | 1.1–2.6% | 0.9–2.8% | 0.8–3.2% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
 | [22–26 February 2024](2024-02-26-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 1.5% | N/A | N/A | N/A | N/A |
 | [23–25 February 2024](2024-02-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
-| [23–24 February 2024](2024-02-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.8% | N/A | N/A | N/A | N/A |
-| [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP | 1.6% | N/A | N/A | N/A | N/A |
+| [23–24 February 2024](2024-02-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.8% | 1.4–2.4% | 1.2–2.6% | 1.1–2.8% | 1.0–3.1% |
+| [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [12–15 February 2024](2024-02-15-OGB.html) | OGB | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 1.8% | 1.4–2.2% | 1.4–2.3% | 1.3–2.5% | 1.1–2.7% |
-| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna | 1.6% | N/A | N/A | N/A | N/A |
+| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.8% |
 | [10–11 February 2024](2024-02-11-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.7% | N/A | N/A | N/A | N/A |
 | [11 February 2024](2024-02-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.6% | N/A | N/A | N/A | N/A |
 | [6–7 February 2024](2024-02-07-Opinia24.html) | Opinia24 | 1.6% | N/A | N/A | N/A | N/A |
@@ -873,10 +862,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 33% | 100% |  |
-| 1.5–2.5% | 62% | 67% | Median |
+| 0.5–1.5% | 37% | 100% |  |
+| 1.5–2.5% | 57% | 63% | Median |
 | 2.5–3.5% | 5% | 5% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -888,28 +877,17 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–24 April 2024](2024-04-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [19–21 April 2024](2024-04-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [18–19 April 2024](2024-04-19-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–9 April 2024](2024-04-09-Opinia24.html) | Opinia24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [3–5 April 2024](2024-04-05-OGB.html) | OGB <br> StanPolityki.pl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [4 April 2024](2024-04-04-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
-| [2–3 April 2024](2024-04-03-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [25–26 March 2024](2024-03-26-Opinia24.html) | Opinia24 | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [22–23 March 2024](2024-03-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–17 March 2024](2024-03-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–11 March 2024](2024-03-11-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–7 March 2024](2024-03-07-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [22–25 April 2024](2024-04-25-OGB.html) | OGB <br> StanPolityki.pl | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–26 February 2024](2024-02-26-Ipsos.html) | Ipsos <br> OKO.press and TOK FM |  |  |  |  |  |
 | [23–25 February 2024](2024-02-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [23–24 February 2024](2024-02-24-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP |  |  |  |  |  |
+| [23–24 February 2024](2024-02-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–15 February 2024](2024-02-15-OGB.html) | OGB | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–11 February 2024](2024-02-11-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [11 February 2024](2024-02-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [6–7 February 2024](2024-02-07-Opinia24.html) | Opinia24 |  |  |  |  |  |
@@ -1752,9 +1730,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 64% | 64% | Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 29% | 100% | Last Result |
+| 1 | 70% | 71% | Median |
+| 2 | 0.9% | 0.9% |  |
 | 3 | 0% | 0% |  |
 
 

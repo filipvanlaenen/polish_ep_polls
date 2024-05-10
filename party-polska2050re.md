@@ -890,7 +890,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [22–26 February 2024](2024-02-26-Ipsos.html) | Ipsos <br> OKO.press and TOK FM |  |  |  |  |  |
 | [23–25 February 2024](2024-02-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [23–24 February 2024](2024-02-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| [23–24 February 2024](2024-02-24-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP | 6 | 4–7 | 4–7 | 4–7 | 4–7 |
 | [12–15 February 2024](2024-02-15-OGB.html) | OGB | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 4 | 4–5 | 4–5 | 4–5 | 3–5 |

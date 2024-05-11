@@ -919,7 +919,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [15–16 February 2024](2024-02-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP | 17 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [12–15 February 2024](2024-02-15-OGB.html) | OGB | 19 | 17–20 | 17–21 | 17–21 | 16–22 |
 | [2–13 February 2024](2024-02-13-Opinia24.html) | Opinia24 <br> More in Common Polska | 18 | 18–20 | 18–20 | 18–20 | 17–21 |
-| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–20 | 17–20 | 16–20 | 15–20 |
+| [9–12 February 2024](2024-02-12-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–20 | 16–20 | 16–20 | 15–20 |
 | [10–11 February 2024](2024-02-11-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [11 February 2024](2024-02-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [6–7 February 2024](2024-02-07-Opinia24.html) | Opinia24 |  |  |  |  |  |

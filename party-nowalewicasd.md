@@ -10,8 +10,12 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.8% | 3.6–8.2% | 3.3–8.6% | 3.1–8.9% | 2.7–9.5% |
+| N/A | [Poll Average](average.html) | 5.9% | 4.0–7.8% | 3.6–8.3% | 3.3–8.6% | 2.9–9.3% |
+| [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
+| [13–14 May 2024](2024-05-14-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
 | [10–12 May 2024](2024-05-12-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [6–8 May 2024](2024-05-08-Opinia24.html) | Opinia24 <br> TOK FM | 7.4% | N/A | N/A | N/A | N/A |
+| [7–8 May 2024](2024-05-08-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 7.8% | N/A | N/A | N/A | N/A |
 | [22–25 April 2024](2024-04-25-OGB.html) | OGB <br> StanPolityki.pl | 4.1% | 3.3–5.2% | 3.1–5.5% | 2.9–5.7% | 2.6–6.3% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 8.8% | 7.7–10.1% | 7.4–10.4% | 7.2–10.7% | 6.7–11.4% |
@@ -864,15 +868,15 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 9% | 99.8% |  |
-| 3.5–4.5% | 26% | 91% |  |
-| 4.5–5.5% | 13% | 65% |  |
-| 5.5–6.5% | 8% | 52% | Median |
-| 6.5–7.5% | 21% | 44% |  |
-| 7.5–8.5% | 18% | 23% |  |
-| 8.5–9.5% | 5% | 5% |  |
-| 9.5–10.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 4% | 99.9% |  |
+| 3.5–4.5% | 18% | 96% |  |
+| 4.5–5.5% | 21% | 78% |  |
+| 5.5–6.5% | 20% | 56% | Median |
+| 6.5–7.5% | 21% | 36% |  |
+| 7.5–8.5% | 12% | 15% |  |
+| 8.5–9.5% | 3% | 3% |  |
+| 9.5–10.5% | 0.2% | 0.3% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -884,8 +888,12 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 0–5 | 0–5 |
+| [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [13–14 May 2024](2024-05-14-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3 | 2–4 | 2–4 | 2–4 | 0–4 |
 | [10–12 May 2024](2024-05-12-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [6–8 May 2024](2024-05-08-Opinia24.html) | Opinia24 <br> TOK FM |  |  |  |  |  |
+| [7–8 May 2024](2024-05-08-IBRiS.html) | IBRiS <br> Wydarzenia Polsat |  |  |  |  |  |
 | [22–25 April 2024](2024-04-25-OGB.html) | OGB <br> StanPolityki.pl | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [26–28 February 2024](2024-02-28-Opinia24.html) | Opinia24 <br> TOK FM | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
@@ -1738,12 +1746,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 0.9% | 93% |  |
-| 2 | 35% | 92% |  |
-| 3 | 8% | 56% | Median |
-| 4 | 43% | 48% |  |
-| 5 | 6% | 6% |  |
+| 0 | 4% | 100% | Last Result |
+| 1 | 0.5% | 96% |  |
+| 2 | 21% | 96% |  |
+| 3 | 26% | 75% | Median |
+| 4 | 45% | 49% |  |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 

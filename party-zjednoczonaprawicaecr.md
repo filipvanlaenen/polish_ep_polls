@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.4% | 31.3–35.6% | 30.7–36.2% | 30.2–36.8% | 29.2–37.8% |
+| N/A | [Poll Average](average.html) | 33.5% | 31.5–35.6% | 30.9–36.2% | 30.4–36.7% | 29.5–37.8% |
+| [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 33.4% | 31.5–35.4% | 31.0–35.9% | 30.5–36.4% | 29.7–37.3% |
 | [13–14 May 2024](2024-05-14-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [10–12 May 2024](2024-05-12-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 34.5% | 32.6–36.5% | 32.1–37.0% | 31.6–37.5% | 30.7–38.5% |
@@ -895,13 +896,13 @@ The following table shows the probability mass function per percentage block of 
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0% | 100% |  |
 | 27.5–28.5% | 0.1% | 100% |  |
-| 28.5–29.5% | 0.8% | 99.8% |  |
-| 29.5–30.5% | 3% | 99.1% |  |
-| 30.5–31.5% | 9% | 96% |  |
-| 31.5–32.5% | 17% | 87% |  |
-| 32.5–33.5% | 23% | 70% | Median |
-| 33.5–34.5% | 22% | 47% |  |
-| 34.5–35.5% | 15% | 25% |  |
+| 28.5–29.5% | 0.5% | 99.9% |  |
+| 29.5–30.5% | 2% | 99.5% |  |
+| 30.5–31.5% | 8% | 97% |  |
+| 31.5–32.5% | 17% | 89% |  |
+| 32.5–33.5% | 23% | 72% | Median |
+| 33.5–34.5% | 23% | 48% |  |
+| 34.5–35.5% | 15% | 26% |  |
 | 35.5–36.5% | 7% | 11% |  |
 | 36.5–37.5% | 3% | 3% |  |
 | 37.5–38.5% | 0.6% | 0.7% |  |
@@ -917,7 +918,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
+| N/A | [Poll Average](average.html) | 18 | 18–20 | 17–20 | 17–20 | 16–20 |
+| [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 18 | 17–20 | 17–20 | 16–20 | 16–20 |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 18–19 | 18–19 | 17–19 | 17–20 |
 | [13–14 May 2024](2024-05-14-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 18 | 18–20 | 17–20 | 17–20 | 17–20 |
 | [10–12 May 2024](2024-05-12-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 20 | 17–20 | 17–20 | 17–20 | 17–21 |
@@ -1790,13 +1792,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 1.0% | 99.9% |  |
-| 17 | 12% | 99.0% |  |
-| 18 | 46% | 87% | Median |
-| 19 | 16% | 41% |  |
-| 20 | 25% | 25% |  |
-| 21 | 0.5% | 0.5% |  |
+| 15 | 0% | 100% |  |
+| 16 | 1.3% | 100% |  |
+| 17 | 8% | 98.7% |  |
+| 18 | 48% | 90% | Median |
+| 19 | 11% | 42% |  |
+| 20 | 31% | 32% |  |
+| 21 | 0.4% | 0.4% |  |
 | 22 | 0% | 0% |  |
 
 

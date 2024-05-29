@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 3.7–6.6% | 3.4–7.0% | 3.2–7.3% | 2.8–8.0% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.6–6.1% | 3.3–6.5% | 3.1–6.8% | 2.8–7.4% |
+| [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [13–14 May 2024](2024-05-14-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [10–12 May 2024](2024-05-12-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
@@ -869,14 +870,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 6% | 99.9% |  |
-| 3.5–4.5% | 24% | 93% |  |
-| 4.5–5.5% | 32% | 70% | Median |
-| 5.5–6.5% | 27% | 38% |  |
-| 6.5–7.5% | 9% | 11% |  |
-| 7.5–8.5% | 1.4% | 2% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 9% | 99.9% |  |
+| 3.5–4.5% | 36% | 91% |  |
+| 4.5–5.5% | 34% | 55% | Median |
+| 5.5–6.5% | 17% | 21% |  |
+| 6.5–7.5% | 4% | 4% |  |
+| 7.5–8.5% | 0.3% | 0.3% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -887,7 +887,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13–14 May 2024](2024-05-14-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 2 | 2 | 2–3 | 1–3 | 1–3 |
 | [10–12 May 2024](2024-05-12-UnitedSurveys.html) | United Surveys <br> DGP and RMF FM | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -1746,11 +1747,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.9% | 100% |  |
-| 2 | 39% | 99.1% |  |
-| 3 | 45% | 60% | Median |
-| 4 | 15% | 15% |  |
-| 5 | 0.5% | 0.5% |  |
-| 6 | 0% | 0% |  |
+| 1 | 1.3% | 100% |  |
+| 2 | 57% | 98.7% | Median |
+| 3 | 41% | 42% |  |
+| 4 | 0.9% | 0.9% |  |
+| 5 | 0% | 0% |  |
 
 

@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.1% | 31.1–35.0% | 30.6–35.6% | 30.1–36.0% | 29.3–37.0% |
+| N/A | [Poll Average](average.html) | 33.1% | 31.1–35.0% | 30.6–35.6% | 30.1–36.1% | 29.2–37.0% |
+| [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 33.4% | 31.5–35.4% | 31.0–35.9% | 30.5–36.4% | 29.7–37.3% |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.7% | 30.8–34.6% | 30.3–35.2% | 29.9–35.7% | 29.0–36.6% |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 33.4% | 31.5–35.4% | 31.0–35.9% | 30.5–36.4% | 29.7–37.3% |
@@ -905,7 +906,7 @@ The following table shows the probability mass function per percentage block of 
 | 33.5–34.5% | 21% | 37% |  |
 | 34.5–35.5% | 11% | 16% |  |
 | 35.5–36.5% | 4% | 5% |  |
-| 36.5–37.5% | 0.9% | 1.1% |  |
+| 36.5–37.5% | 1.0% | 1.2% |  |
 | 37.5–38.5% | 0.2% | 0.2% |  |
 | 38.5–39.5% | 0% | 0% |  |
 
@@ -918,7 +919,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–20 | 15–20 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 16–20 | 15–20 |
+| [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 16–19 | 16–19 | 16–20 | 15–20 |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 18 | 17–20 | 16–20 | 16–20 | 16–20 |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 18–19 | 18–19 | 17–19 | 17–20 |
@@ -1793,13 +1795,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.5% | 100% |  |
-| 16 | 6% | 99.5% |  |
-| 17 | 10% | 93% |  |
-| 18 | 58% | 83% | Median |
-| 19 | 12% | 24% |  |
-| 20 | 12% | 12% |  |
-| 21 | 0.2% | 0.2% |  |
+| 15 | 0.7% | 100% |  |
+| 16 | 9% | 99.3% |  |
+| 17 | 24% | 90% |  |
+| 18 | 38% | 66% | Median |
+| 19 | 16% | 27% |  |
+| 20 | 11% | 11% |  |
+| 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 
 

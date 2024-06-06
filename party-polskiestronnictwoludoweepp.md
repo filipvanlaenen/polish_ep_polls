@@ -892,7 +892,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 2 | 2 | 2–3 | 1–3 |
+| [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -1754,8 +1754,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.9% | 100% |  |
-| 2 | 63% | 99.1% | Median |
-| 3 | 32% | 36% |  |
+| 2 | 59% | 99.1% | Median |
+| 3 | 36% | 40% |  |
 | 4 | 4% | 4% |  |
 | 5 | 0% | 0% |  |
 

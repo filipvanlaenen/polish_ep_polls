@@ -891,7 +891,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 2 | 2 | 1–2 | 1–2 |
+| [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 2 | 2 | 2 | 1–2 |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 2 | 2–3 | 2–4 | 1–4 | 1–4 |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

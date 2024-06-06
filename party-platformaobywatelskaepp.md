@@ -918,9 +918,9 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–21 | 16–21 | 15–21 | 15–21 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 15–21 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 17 | 16–19 | 16–19 | 15–19 | 15–19 |
-| [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 21 | 19–21 | 18–21 | 18–21 | 17–21 |
+| [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 17–18 | 17–19 | 17–19 | 17–20 |
@@ -1797,11 +1797,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.1% | 100% |  |
 | 15 | 3% | 99.9% |  |
 | 16 | 13% | 97% |  |
-| 17 | 27% | 84% |  |
-| 18 | 19% | 57% | Median |
-| 19 | 16% | 38% |  |
-| 20 | 3% | 22% |  |
-| 21 | 19% | 19% |  |
+| 17 | 27% | 83% |  |
+| 18 | 26% | 56% | Median |
+| 19 | 19% | 30% |  |
+| 20 | 2% | 11% |  |
+| 21 | 9% | 9% |  |
 | 22 | 0% | 0% |  |
 
 

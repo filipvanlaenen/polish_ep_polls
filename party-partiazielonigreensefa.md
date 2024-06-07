@@ -10,10 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.2% | 0.4–1.3% | 0.3–1.4% | 0.3–1.7% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.3–1.7% |
+| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
+| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> TVP | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 0.7% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [3 June 2024](2024-06-03-IBRiS.html) | IBRiS <br> Onet.pl | 0.7% | N/A | N/A | N/A | N/A |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
@@ -886,9 +892,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 0 | 0 | 0 | 0 | 0–1 |
+| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 0 | 0 | 0 | 0–1 | 0–1 |
+| [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0 |
+| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 0 | 0 | 0 | 0 | 0 |
+| [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 0 | 0 | 0 | 0 | 0 |
 | [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> TVP | 0 | 0 | 0 | 0 | 0 |
 | [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
+| [3 June 2024](2024-06-03-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 0 | 0 | 0 | 0 | 0 |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 0 | 0 | 0 | 0 | 0 |

@@ -10,10 +10,16 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.0% | 28.9–33.0% | 28.3–33.6% | 27.8–34.1% | 26.8–35.0% |
+| N/A | [Poll Average](average.html) | 31.2% | 29.1–33.2% | 28.5–33.8% | 28.0–34.3% | 27.0–35.3% |
+| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 34.1% | 32.2–36.1% | 31.7–36.6% | 31.2–37.1% | 30.3–38.1% |
+| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
+| [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 31.7% | 29.9–33.6% | 29.4–34.2% | 28.9–34.6% | 28.1–35.6% |
+| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 31.8% | 29.9–33.7% | 29.4–34.2% | 29.0–34.7% | 28.1–35.7% |
+| [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 31.9% | 30.1–33.8% | 29.5–34.4% | 29.1–34.9% | 28.2–35.8% |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.6% |
 | [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> TVP | 31.4% | 29.6–33.3% | 29.0–33.9% | 28.6–34.4% | 27.7–35.3% |
 | [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 31.3% | 29.5–33.2% | 29.0–33.7% | 28.6–34.2% | 27.8–35.1% |
+| [3 June 2024](2024-06-03-IBRiS.html) | IBRiS <br> Onet.pl | 32.2% | N/A | N/A | N/A | N/A |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.3% | 29.5–33.2% | 28.9–33.8% | 28.5–34.2% | 27.6–35.2% |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 29.1% | 27.3–31.0% | 26.8–31.5% | 26.4–32.0% | 25.5–32.9% |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 31.2% | 29.4–33.1% | 28.8–33.7% | 28.4–34.1% | 27.5–35.1% |
@@ -898,16 +904,16 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.2% | 100% |  |
-| 26.5–27.5% | 1.4% | 99.7% |  |
-| 27.5–28.5% | 5% | 98% |  |
-| 28.5–29.5% | 12% | 94% |  |
-| 29.5–30.5% | 20% | 82% |  |
-| 30.5–31.5% | 25% | 61% | Median |
-| 31.5–32.5% | 20% | 37% |  |
-| 32.5–33.5% | 11% | 16% |  |
-| 33.5–34.5% | 4% | 5% |  |
-| 34.5–35.5% | 1.0% | 1.2% |  |
-| 35.5–36.5% | 0.2% | 0.2% |  |
+| 26.5–27.5% | 1.1% | 99.8% |  |
+| 27.5–28.5% | 4% | 98.7% |  |
+| 28.5–29.5% | 10% | 95% |  |
+| 29.5–30.5% | 19% | 84% |  |
+| 30.5–31.5% | 24% | 66% | Median |
+| 31.5–32.5% | 22% | 41% |  |
+| 32.5–33.5% | 13% | 20% |  |
+| 33.5–34.5% | 5% | 7% |  |
+| 34.5–35.5% | 1.4% | 2% |  |
+| 35.5–36.5% | 0.3% | 0.3% |  |
 | 36.5–37.5% | 0% | 0% |  |
 
 
@@ -920,9 +926,15 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 17–20 | 16–21 | 16–21 | 15–21 |
+| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 20 | 19–21 | 19–22 | 18–23 | 18–23 |
+| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 19 | 17–20 | 17–20 | 17–20 | 17–21 |
+| [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 17–20 | 17–20 | 17–20 | 16–21 |
+| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 18 | 18–19 | 17–19 | 17–19 |
+| [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 17 | 16–19 | 16–19 | 15–19 | 15–19 |
 | [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> TVP | 17 | 17–19 | 17–19 | 17–19 | 17–20 |
 | [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–21 | 18–21 | 18–21 | 17–21 |
+| [3 June 2024](2024-06-03-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [24–26 May 2024](2024-05-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
 | [22–25 May 2024](2024-05-25-Ipsos.html) | Ipsos <br> TVP | 17 | 16–18 | 15–19 | 15–19 | 15–19 |
 | [20 May 2024](2024-05-20-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 17–18 | 17–19 | 17–19 | 17–20 |
@@ -1797,13 +1809,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 1.1% | 100% |  |
-| 16 | 5% | 98.9% |  |
-| 17 | 33% | 94% |  |
-| 18 | 29% | 61% | Median |
-| 19 | 20% | 31% |  |
-| 20 | 2% | 12% |  |
-| 21 | 9% | 9% |  |
+| 15 | 0.9% | 100% |  |
+| 16 | 4% | 99.1% |  |
+| 17 | 26% | 95% |  |
+| 18 | 27% | 68% | Median |
+| 19 | 26% | 42% |  |
+| 20 | 8% | 16% |  |
+| 21 | 8% | 8% |  |
 | 22 | 0% | 0% |  |
 
 

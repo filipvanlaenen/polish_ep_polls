@@ -896,11 +896,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
-| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–4 | 1–4 |
+| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
 | [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 2 | 2 | 2 | 2–3 | 2–3 |
+| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> TVP | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -1766,9 +1766,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 54% | 99.6% | Median |
-| 3 | 42% | 45% |  |
+| 1 | 0.6% | 100% |  |
+| 2 | 52% | 99.4% | Median |
+| 3 | 44% | 47% |  |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 

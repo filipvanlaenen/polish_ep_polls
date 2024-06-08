@@ -929,11 +929,11 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
-| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 20 | 19–21 | 19–22 | 19–22 | 17–22 |
-| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 17 | 16–17 | 16–18 | 15–18 | 15–19 |
-| [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–19 | 16–19 | 16–20 | 15–20 |
-| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 18 | 18 | 18 | 18–19 |
-| [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 18 | 18–19 | 18–19 | 18–19 | 17–20 |
+| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 20 | 19–21 | 19–22 | 19–22 | 17–23 |
+| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 17 | 15–18 | 15–18 | 15–19 | 15–19 |
+| [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 18 | 18 | 18 | 17–19 |
+| [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 18 | 18–19 | 18–19 | 17–19 | 16–21 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> TVP | 18 | 16–18 | 16–18 | 16–18 | 15–18 |
 | [31 May–3 June 2024](2024-06-03-ResearchPartner.html) | Research Partner <br> Ariadna | 19 | 18–20 | 18–20 | 18–20 | 18–21 |
@@ -1815,8 +1815,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.7% | 99.9% |  |
 | 16 | 7% | 99.2% |  |
 | 17 | 17% | 92% |  |
-| 18 | 43% | 75% | Median |
-| 19 | 23% | 32% |  |
+| 18 | 45% | 75% | Median |
+| 19 | 21% | 30% |  |
 | 20 | 9% | 9% |  |
 | 21 | 0.3% | 0.3% |  |
 | 22 | 0% | 0% |  |

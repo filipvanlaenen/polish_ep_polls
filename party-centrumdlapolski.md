@@ -893,8 +893,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 0 | 0 | 0 | 0 | 0 |
-| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0 |
+| [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 0 | 0 | 0 | 0 | 0–1 |
+| [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0–1 |
 | [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 0 | 0 | 0 | 0 | 0 |
 | [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 0 | 0 | 0 | 0 | 0–1 |

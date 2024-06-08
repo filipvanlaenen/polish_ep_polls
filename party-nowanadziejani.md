@@ -899,10 +899,10 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
-| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [6 June 2024](2024-06-06-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [4–5 June 2024](2024-06-05-Kantar.html) | Kantar <br> Fakty TVN and TVN24 | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [5 June 2024](2024-06-05-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [3–4 June 2024](2024-06-04-Ipsos.html) | Ipsos <br> TVP | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -1769,8 +1769,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
-| 2 | 21% | 99.9% |  |
-| 3 | 63% | 78% | Median |
+| 2 | 24% | 99.9% |  |
+| 3 | 60% | 75% | Median |
 | 4 | 15% | 15% |  |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |

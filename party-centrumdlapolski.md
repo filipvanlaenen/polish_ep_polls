@@ -10,7 +10,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% | 0.2–1.5% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% | 0.1–1.5% |
 | [4–7 June 2024](2024-06-07-OGB.html) | OGB <br> StanPolityki.pl | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [4–6 June 2024](2024-06-06-Ipsos.html) | Ipsos <br> OKO.press and TOK FM | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [5–6 June 2024](2024-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.6% | 0.4–1.0% | 0.3–1.2% | 0.3–1.3% | 0.2–1.5% |
@@ -877,8 +877,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 42% | 100% | Last Result |
-| 0.5–1.5% | 58% | 58% | Median |
+| 0.0–0.5% | 44% | 100% | Last Result |
+| 0.5–1.5% | 56% | 56% | Median |
 | 1.5–2.5% | 0.3% | 0.3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -1760,8 +1760,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0.2% | 0.2% |  |
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
 | 2 | 0% | 0% |  |
 
 

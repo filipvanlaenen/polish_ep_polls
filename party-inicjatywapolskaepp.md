@@ -1,4 +1,4 @@
-# Partia Zieloni (Greens/EFA)
+# Inicjatywa Polska (EPP)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -25,7 +25,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Partia Zieloni (Greens/EFA).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Inicjatywa Polska (EPP).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
@@ -47,8 +47,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 0 | 0 | 0 | 0 | 0 |
 | [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
-| [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0–1 |
-| [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0–1 |
+| [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
+| [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0–1 | 0–1 |
 | [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [21–23 June 2024](2024-06-23-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [21–22 June 2024](2024-06-22-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
@@ -58,14 +58,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-partiazielonigreensefa.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-inicjatywapolskaepp.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Partia Zieloni (Greens/EFA).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Inicjatywa Polska (EPP).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.5% | 100% | Last Result, Median |
-| 1 | 0.5% | 0.5% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
 | 2 | 0% | 0% |  |
 
 

@@ -16,12 +16,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 30.3% | 28.5–32.2% | 28.0–32.7% | 27.6–33.2% | 26.7–34.1% |
 | [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.1–32.8% | 26.3–33.7% |
 | [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 31.9% | 30.1–33.8% | 29.6–34.4% | 29.1–34.8% | 28.3–35.8% |
-| [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.9% | 31.0–34.9% | 30.5–35.4% | 30.1–35.9% | 29.2–36.8% |
-| [21–23 June 2024](2024-06-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.1% | 30.2–34.0% | 29.7–34.6% | 29.3–35.1% | 28.4–36.0% |
-| [21–22 June 2024](2024-06-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 31.9% | 30.1–33.7% | 29.6–34.3% | 29.1–34.7% | 28.3–35.6% |
+| [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.9% | N/A | N/A | N/A | N/A |
+| [21–23 June 2024](2024-06-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.1% | N/A | N/A | N/A | N/A |
+| [21–22 June 2024](2024-06-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 31.9% | N/A | N/A | N/A | N/A |
 | [23–21 June 2024](2024-06-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.1% | N/A | N/A | N/A | N/A |
 | [18–19 June 2024](2024-06-19-IBRiS.html) | IBRiS <br> Onet.pl | 33.8% | N/A | N/A | N/A | N/A |
-| [10–11 June 2024](2024-06-11-Opinia24.html) | Opinia24 | 32.2% | 30.3–34.1% | 29.8–34.7% | 29.3–35.1% | 28.5–36.1% |
+| [10–11 June 2024](2024-06-11-Opinia24.html) | Opinia24 | 32.2% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -84,12 +84,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 18 | 18 | 17–19 | 17–20 |
 | [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 18 | 16–19 | 16–19 | 16–20 | 16–20 |
 | [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 17–20 | 17–20 | 17–20 | 16–20 |
-| [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–21 | 17–21 | 17–21 | 16–21 |
-| [21–23 June 2024](2024-06-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–19 | 17–20 | 17–20 | 17–21 |
-| [21–22 June 2024](2024-06-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 17 | 17–18 | 17–19 | 17–19 | 16–20 |
+| [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [21–23 June 2024](2024-06-23-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [21–22 June 2024](2024-06-22-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [23–21 June 2024](2024-06-21-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [18–19 June 2024](2024-06-19-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
-| [10–11 June 2024](2024-06-11-Opinia24.html) | Opinia24 | 19 | 19 | 18–20 | 18–21 | 17–22 |
+| [10–11 June 2024](2024-06-11-Opinia24.html) | Opinia24 |  |  |  |  |  |
 
 ### Probability Mass Function
 

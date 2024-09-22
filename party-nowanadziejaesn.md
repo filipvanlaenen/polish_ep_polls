@@ -53,7 +53,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -76,11 +76,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.4% | 100% |  |
-| 2 | 17% | 99.6% |  |
-| 3 | 61% | 82% | Median |
-| 4 | 20% | 21% |  |
-| 5 | 0.6% | 0.6% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 17% | 99.8% |  |
+| 3 | 61% | 83% | Median |
+| 4 | 21% | 22% |  |
+| 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
 

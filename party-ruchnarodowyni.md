@@ -50,9 +50,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
-| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 2 | 2 | 2–3 | 2–3 | 1–3 |
 | [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -74,9 +74,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 6% | 100% |  |
-| 2 | 63% | 94% | Median |
-| 3 | 31% | 31% |  |
+| 1 | 4% | 100% |  |
+| 2 | 73% | 96% | Median |
+| 3 | 23% | 23% |  |
 | 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 

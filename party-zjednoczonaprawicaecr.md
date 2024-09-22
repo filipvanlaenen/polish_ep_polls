@@ -79,10 +79,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–18 | 15–19 | 15–19 | 14–19 |
-| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 17 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 16–18 | 16–19 | 16–19 | 16–19 |
-| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–17 | 15–18 | 15–18 | 14–18 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 15–19 | 14–19 |
+| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
+| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 15–17 | 15–17 | 15–18 | 14–18 |
 | [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 18–19 | 17–19 | 17–19 | 15–19 |
 | [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 17 | 15–17 | 14–17 | 14–17 | 13–18 |
@@ -116,13 +116,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 2% | 99.9% |  |
-| 15 | 6% | 98% |  |
-| 16 | 26% | 92% |  |
-| 17 | 36% | 66% | Median |
-| 18 | 21% | 30% |  |
+| 14 | 1.1% | 100% |  |
+| 15 | 11% | 98.8% |  |
+| 16 | 26% | 88% |  |
+| 17 | 30% | 61% | Median |
+| 18 | 22% | 31% |  |
 | 19 | 9% | 9% |  |
-| 20 | 0.1% | 0.1% |  |
+| 20 | 0.3% | 0.3% |  |
 | 21 | 0% | 0% |  |
 
 

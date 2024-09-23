@@ -56,8 +56,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
+| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
@@ -77,9 +77,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 5% | 100% |  |
-| 3 | 50% | 94% | Median |
-| 4 | 44% | 45% |  |
+| 2 | 6% | 100% |  |
+| 3 | 54% | 94% | Median |
+| 4 | 39% | 40% |  |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 

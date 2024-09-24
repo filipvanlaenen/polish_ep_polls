@@ -10,14 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.8% | 28.5–32.9% | 27.9–33.5% | 27.4–34.0% | 26.4–35.0% |
-| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 29.2% | 27.4–31.1% | 26.9–31.6% | 26.4–32.1% | 25.6–33.0% |
-| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 31.6% | 29.7–33.5% | 29.2–34.0% | 28.8–34.5% | 27.9–35.5% |
-| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.2% | 28.4–32.1% | 27.9–32.6% | 27.4–33.1% | 26.6–34.0% |
-| [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 31.3% | 29.5–33.1% | 29.0–33.6% | 28.6–34.1% | 27.8–35.0% |
-| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 31.3% | 29.5–33.2% | 29.0–33.8% | 28.6–34.2% | 27.7–35.1% |
-| [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 28.4% | 26.6–30.3% | 26.1–30.8% | 25.7–31.3% | 24.8–32.2% |
-| [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 33.3% | 31.4–35.2% | 30.9–35.7% | 30.5–36.2% | 29.6–37.1% |
+| N/A | [Poll Average](average.html) | 32.9% | 31.1–34.8% | 30.5–35.3% | 30.1–35.8% | 29.2–36.7% |
+| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 32.9% | 31.0–34.8% | 30.5–35.3% | 30.1–35.8% | 29.2–36.7% |
+| [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 34.3% | N/A | N/A | N/A | N/A |
+| [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita | 34.6% | N/A | N/A | N/A | N/A |
+| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 29.2% | N/A | N/A | N/A | N/A |
+| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 31.6% | N/A | N/A | N/A | N/A |
+| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.2% | N/A | N/A | N/A | N/A |
+| [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 31.3% | N/A | N/A | N/A | N/A |
+| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 31.3% | N/A | N/A | N/A | N/A |
+| [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 28.4% | N/A | N/A | N/A | N/A |
+| [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 33.3% | N/A | N/A | N/A | N/A |
 | [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.6% | N/A | N/A | N/A | N/A |
 | [21–23 June 2024](2024-06-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 34.6% | N/A | N/A | N/A | N/A |
 | [21–22 June 2024](2024-06-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 36.4% | N/A | N/A | N/A | N/A |
@@ -56,19 +59,21 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.1% | 100% |  |
-| 25.5–26.5% | 0.6% | 99.9% |  |
-| 26.5–27.5% | 3% | 99.3% |  |
-| 27.5–28.5% | 7% | 97% |  |
-| 28.5–29.5% | 14% | 90% |  |
-| 29.5–30.5% | 20% | 76% |  |
-| 30.5–31.5% | 23% | 56% | Median |
-| 31.5–32.5% | 18% | 33% |  |
-| 32.5–33.5% | 10% | 14% |  |
-| 33.5–34.5% | 4% | 5% |  |
-| 34.5–35.5% | 0.9% | 1.0% |  |
-| 35.5–36.5% | 0.1% | 0.2% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 24.5–25.5% | 0% | 100% |  |
+| 25.5–26.5% | 0% | 100% |  |
+| 26.5–27.5% | 0% | 100% |  |
+| 27.5–28.5% | 0.1% | 100% |  |
+| 28.5–29.5% | 0.8% | 99.9% |  |
+| 29.5–30.5% | 4% | 99.1% |  |
+| 30.5–31.5% | 12% | 95% |  |
+| 31.5–32.5% | 23% | 83% |  |
+| 32.5–33.5% | 26% | 60% | Median |
+| 33.5–34.5% | 20% | 33% |  |
+| 34.5–35.5% | 9% | 13% |  |
+| 35.5–36.5% | 3% | 4% |  |
+| 36.5–37.5% | 0.6% | 0.7% |  |
+| 37.5–38.5% | 0.1% | 0.1% |  |
+| 38.5–39.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -79,14 +84,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 15–19 | 15–19 | 15–19 | 14–19 |
-| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
-| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 15–17 | 15–17 | 15–18 | 14–18 |
-| [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 17 | 16–19 | 16–19 | 15–19 | 15–19 |
-| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 17–19 | 17–19 | 15–19 |
-| [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 17 | 15–17 | 14–17 | 14–17 | 13–18 |
-| [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
+| N/A | [Poll Average](average.html) | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
+| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
+| [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat |  |  |  |  |  |
+| [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
+| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
+| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [21–23 June 2024](2024-06-23-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [21–22 June 2024](2024-06-22-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
@@ -116,13 +124,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 1.2% | 100% |  |
-| 15 | 12% | 98.8% |  |
-| 16 | 28% | 87% |  |
-| 17 | 28% | 60% | Median |
-| 18 | 20% | 32% |  |
-| 19 | 11% | 12% |  |
-| 20 | 0.2% | 0.2% |  |
-| 21 | 0% | 0% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 1.2% | 99.9% |  |
+| 17 | 12% | 98.7% |  |
+| 18 | 50% | 87% | Median |
+| 19 | 33% | 37% |  |
+| 20 | 4% | 4% |  |
+| 21 | 0.4% | 0.5% |  |
+| 22 | 0% | 0% |  |
 
 

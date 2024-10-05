@@ -14,12 +14,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 33.6% | 31.7–35.5% | 31.2–36.0% | 30.7–36.5% | 29.9–37.4% |
 | [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 29.9% | 28.1–31.8% | 27.6–32.3% | 27.2–32.8% | 26.4–33.7% |
 | [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 32.0% | 30.1–33.9% | 29.6–34.4% | 29.1–34.9% | 28.3–35.9% |
-| [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita | 33.0% | 31.2–34.9% | 30.7–35.4% | 30.2–35.9% | 29.4–36.8% |
+| [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita | 33.0% | N/A | N/A | N/A | N/A |
 | [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 32.4% | 30.5–34.3% | 30.0–34.9% | 29.5–35.3% | 28.7–36.3% |
 | [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 28.7% | 26.9–30.6% | 26.4–31.1% | 26.0–31.6% | 25.1–32.5% |
-| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.1% | 30.2–34.0% | 29.7–34.6% | 29.3–35.1% | 28.4–36.0% |
+| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.1% | N/A | N/A | N/A | N/A |
 | [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl | 30.5% | N/A | N/A | N/A | N/A |
-| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 30.3% | 28.5–32.2% | 28.0–32.7% | 27.6–33.2% | 26.7–34.1% |
+| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 30.3% | N/A | N/A | N/A | N/A |
 | [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 | 29.9% | N/A | N/A | N/A | N/A |
 | [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 31.9% | N/A | N/A | N/A | N/A |
 | [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.9% | N/A | N/A | N/A | N/A |
@@ -85,16 +85,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
-| [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 18–20 | 18–20 | 17–21 |
-| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 16–20 | 16–20 | 15–20 |
-| [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 17–20 | 16–20 | 16–20 | 16–20 |
-| [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–19 | 17–20 | 17–20 | 17–21 |
-| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 19 | 18–20 | 18–21 | 18–21 | 17–21 |
-| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 17–20 | 16–21 | 16–21 |
+| [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 18–20 | 18–20 | 18–20 | 17–21 |
+| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–20 | 16–20 | 16–20 | 16–20 |
+| [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 17–19 | 17–19 | 17–20 | 16–21 |
+| [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 19 | 18–21 | 18–21 | 17–21 | 17–21 |
+| [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 17–18 | 16–19 | 16–19 | 15–19 |
+| [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
-| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 16–18 | 16–18 | 16–19 | 16–20 |
+| [19–22 July 2024](2024-07-22-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
 | [8–11 July 2024](2024-07-11-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [8–9 July 2024](2024-07-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [5–8 July 2024](2024-07-08-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
@@ -127,13 +127,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.5% | 100% |  |
-| 16 | 5% | 99.5% |  |
-| 17 | 17% | 95% |  |
-| 18 | 35% | 77% | Median |
-| 19 | 23% | 42% |  |
-| 20 | 17% | 19% |  |
-| 21 | 2% | 2% |  |
+| 15 | 0.2% | 100% |  |
+| 16 | 3% | 99.8% |  |
+| 17 | 16% | 97% |  |
+| 18 | 45% | 80% | Median |
+| 19 | 19% | 36% |  |
+| 20 | 14% | 17% |  |
+| 21 | 3% | 3% |  |
 | 22 | 0% | 0% |  |
 
 

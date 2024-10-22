@@ -10,8 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 3.9–6.7% | 3.7–7.1% | 3.4–7.4% | 3.0–8.1% |
+| N/A | [Poll Average](average.html) | 5.8% | 4.6–7.8% | 4.3–8.4% | 4.1–8.8% | 3.7–9.5% |
+| [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 5.8% | 4.9–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
+| [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 5.9% | N/A | N/A | N/A | N/A |
+| [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6.2% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.4% |
+| [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 5.5% | 4.7–6.6% | 4.5–6.8% | 4.3–7.1% | 3.9–7.6% |
+| [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.1–5.5% | 2.8–6.0% |
+| [10–18 September 2024](2024-09-18-Ipsos.html) | Ipsos <br> Krytyka Polityczna | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.8–10.1% |
 | [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.7–7.3% |
 | [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 4.5% | 3.7–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.9% | N/A | N/A | N/A | N/A |
@@ -38,14 +45,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 23% | 96% |  |
-| 4.5–5.5% | 32% | 73% | Median |
-| 5.5–6.5% | 28% | 41% |  |
-| 6.5–7.5% | 11% | 13% |  |
-| 7.5–8.5% | 2% | 2% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 9% | 99.7% |  |
+| 4.5–5.5% | 31% | 90% |  |
+| 5.5–6.5% | 29% | 59% | Median |
+| 6.5–7.5% | 16% | 30% |  |
+| 7.5–8.5% | 10% | 13% |  |
+| 8.5–9.5% | 3% | 4% |  |
+| 9.5–10.5% | 0.4% | 0.5% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -56,8 +64,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
+| [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza |  |  |  |  |  |
+| [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [10–18 September 2024](2024-09-18-Ipsos.html) | Ipsos <br> Krytyka Polityczna | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
@@ -84,11 +99,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 24% | 96% |  |
-| 3 | 64% | 71% | Median |
-| 4 | 7% | 7% |  |
-| 5 | 0.4% | 0.4% |  |
-| 6 | 0% | 0% |  |
+| 1 | 0% | 100% |  |
+| 2 | 11% | 100% |  |
+| 3 | 51% | 89% | Median |
+| 4 | 32% | 39% |  |
+| 5 | 7% | 7% |  |
+| 6 | 0.1% | 0.1% |  |
+| 7 | 0% | 0% |  |
 
 

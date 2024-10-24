@@ -58,11 +58,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 0–2 | 0–2 |
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 1 | 1 | 1 | 1 | 0–2 |
 | [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza |  |  |  |  |  |
-| [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 1 | 1 | 1 | 1–2 | 0–2 |
+| [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
 | [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 1 | 0–1 | 0–2 | 0–2 |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 1 | 1 | 1–2 | 0–2 |
@@ -93,8 +93,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% | Last Result |
-| 1 | 93% | 96% | Median |
-| 2 | 4% | 4% |  |
+| 1 | 91% | 96% | Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 

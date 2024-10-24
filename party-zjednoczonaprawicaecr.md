@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 18 | 18–19 | 17–20 | 17–20 | 16–20 |
 | [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 17–20 | 17–20 | 17–20 | 17–21 |
 | [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza |  |  |  |  |  |
-| [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 17–18 | 16–19 | 16–20 | 15–20 |
+| [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 17–18 | 16–19 | 16–19 | 15–20 |
 | [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 17 | 17–19 | 16–19 | 16–19 | 16–19 |
 | [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–18 | 15–18 | 15–18 | 15–18 |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–18 | 17–19 | 17–19 | 17–20 |
@@ -145,8 +145,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 2% | 100% |  |
 | 16 | 5% | 98% |  |
-| 17 | 20% | 93% |  |
-| 18 | 53% | 73% | Median |
+| 17 | 24% | 93% |  |
+| 18 | 49% | 68% | Median |
 | 19 | 13% | 19% |  |
 | 20 | 6% | 6% |  |
 | 21 | 0.2% | 0.3% |  |

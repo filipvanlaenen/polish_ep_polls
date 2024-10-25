@@ -102,11 +102,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
 | [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–18 | 17–19 | 17–19 | 17–20 |
-| [10–18 September 2024](2024-09-18-Ipsos.html) | Ipsos <br> Krytyka Polityczna | 18 | 18–19 | 17–19 | 17–20 | 16–20 |
-| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
-| [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 19 | 17–19 | 17–19 | 17–20 | 16–21 |
+| [10–18 September 2024](2024-09-18-Ipsos.html) | Ipsos <br> Krytyka Polityczna | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
+| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
+| [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 19 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 17 | 15–17 | 14–17 | 14–18 | 14–18 |
+| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 16 | 16–18 | 16–19 | 16–19 | 16–19 |
 | [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
@@ -144,12 +144,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 2% | 100% |  |
-| 16 | 7% | 98% |  |
-| 17 | 23% | 90% |  |
-| 18 | 48% | 67% | Median |
+| 16 | 8% | 98% |  |
+| 17 | 24% | 90% |  |
+| 18 | 47% | 66% | Median |
 | 19 | 13% | 19% |  |
-| 20 | 6% | 6% |  |
-| 21 | 0.2% | 0.3% |  |
+| 20 | 6% | 7% |  |
+| 21 | 0.3% | 0.3% |  |
 | 22 | 0% | 0% |  |
 
 

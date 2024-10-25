@@ -67,10 +67,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 1 | 0–2 | 0–2 | 0–2 |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 1 | 1 | 1–2 | 0–2 |
 | [10–18 September 2024](2024-09-18-Ipsos.html) | Ipsos <br> Krytyka Polityczna | 1 | 1 | 1–2 | 1–2 | 0–2 |
-| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 1 | 1 | 0–2 | 0–2 | 0–2 |
-| [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 1 | 1 | 1–2 | 0–2 | 0–2 |
+| [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 | 1 | 1 | 1 | 0–2 | 0–2 |
 | [8 August 2024](2024-08-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [26–28 July 2024](2024-07-28-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [24–25 July 2024](2024-07-25-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |

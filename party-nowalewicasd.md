@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza |  |  |  |  |  |
 | [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–18 September 2024](2024-09-18-Ipsos.html) | Ipsos <br> Krytyka Polityczna | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
@@ -101,9 +101,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 41% | 98% |  |
-| 4 | 45% | 57% | Median |
-| 5 | 12% | 12% |  |
+| 3 | 42% | 98% |  |
+| 4 | 45% | 56% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 
 

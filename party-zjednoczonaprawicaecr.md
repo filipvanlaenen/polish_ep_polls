@@ -99,8 +99,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 18 | 17–20 | 17–20 | 17–20 | 17–21 |
 | [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza |  |  |  |  |  |
 | [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 17–18 | 16–19 | 16–19 | 15–20 |
-| [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 17 | 17–19 | 16–19 | 16–19 | 16–19 |
-| [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–18 | 15–18 | 15–18 | 15–18 |
+| [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
+| [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 15–18 | 15–18 | 15–18 | 15–19 |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–18 | 17–19 | 17–19 | 17–20 |
 | [10–18 September 2024](2024-09-18-Ipsos.html) | Ipsos <br> Krytyka Polityczna | 18 | 18–19 | 17–19 | 17–20 | 16–20 |
 | [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 17–19 | 17–20 | 16–20 |
@@ -144,9 +144,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 2% | 100% |  |
-| 16 | 5% | 98% |  |
-| 17 | 24% | 93% |  |
-| 18 | 49% | 68% | Median |
+| 16 | 7% | 98% |  |
+| 17 | 23% | 90% |  |
+| 18 | 48% | 67% | Median |
 | 19 | 13% | 19% |  |
 | 20 | 6% | 6% |  |
 | 21 | 0.2% | 0.3% |  |

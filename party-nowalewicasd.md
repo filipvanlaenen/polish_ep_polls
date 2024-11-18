@@ -66,14 +66,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 0–4 |
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
-| [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 2–4 | 2–4 | 0–4 | 0–4 |
+| [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 3 | 2–3 | 2–4 | 2–4 | 0–4 |
 | [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza |  |  |  |  |  |
-| [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
+| [5–6 October 2024](2024-10-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 3 | 3–4 | 2–4 | 0–4 |
 | [29–30 September 2024](2024-09-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP Info |  |  |  |  |  |
-| [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 2–4 | 0–4 |
+| [27–29 September 2024](2024-09-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–4 | 0–4 |
 | [20–21 September 2024](2024-09-21-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [10–18 September 2024](2024-09-18-Ipsos.html) | Ipsos <br> Krytyka Polityczna | 4 | 2–4 | 2–4 | 2–4 | 0–4 |
-| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [13–16 September 2024](2024-09-16-ResearchPartner.html) | Research Partner <br> Ariadna | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [9–10 September 2024](2024-09-10-IBRiS.html) | IBRiS <br> Wydarzenia Polsat |  |  |  |  |  |
 | [30–31 August 2024](2024-08-31-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–8 August 2024](2024-08-08-Opinia24.html) | Opinia24 |  |  |  |  |  |
@@ -100,10 +100,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 2% | 100% | Last Result |
 | 1 | 0% | 98% |  |
-| 2 | 6% | 98% |  |
-| 3 | 50% | 92% | Median |
-| 4 | 41% | 41% |  |
-| 5 | 0.2% | 0.2% |  |
+| 2 | 5% | 98% |  |
+| 3 | 57% | 93% | Median |
+| 4 | 36% | 36% |  |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 

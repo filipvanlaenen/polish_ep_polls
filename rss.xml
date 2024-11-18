@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 16 Nov 2024 22:10:30 +0100</pubDate>
+    <pubDate>Mon, 18 Nov 2024 20:05:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by Opinia24 for TVN24, 15–18 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2024-10-18-Opinia24.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 18–20 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–4 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–3 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 18–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 18–20 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–4 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–3 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 17–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2024-10-18-Opinia24-seats.png"
-        length="264480"
+        length="277580"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 19:56:43 +0100</pubDate>
-      <dc:date>2024-11-16T19:56:43.154624+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 20:05:46 +0100</pubDate>
+      <dc:date>2024-11-18T20:05:46.602591+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinia24 for TVN24, 15–18 October 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2024-10-18-Opinia24.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2024-10-18-Opinia24-coalitions-seats.png"
-        length="173633"
+        length="179879"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 19:56:43 +0100</pubDate>
-      <dc:date>2024-11-16T19:56:43.154624+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 20:05:46 +0100</pubDate>
+      <dc:date>2024-11-18T20:05:46.602591+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinia24 for TVN24, 15–18 October 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2024-10-18-Opinia24.png"
         length="358002"
         type="image/png"/>
-      <pubDate>Sat, 16 Nov 2024 19:56:43 +0100</pubDate>
-      <dc:date>2024-11-16T19:56:43.154624+01:00</dc:date>
+      <pubDate>Mon, 18 Nov 2024 20:05:46 +0100</pubDate>
+      <dc:date>2024-11-18T20:05:46.602591+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Wydarzenia Polsat, 11–14 October 2024 – Seat Projections for the Parties</title>
@@ -189,6 +189,6 @@
       <pubDate>Sat, 16 Nov 2024 22:10:30 +0100</pubDate>
       <dc:date>2024-11-16T22:10:30.906352+01:00</dc:date>
     </item>
-    <dc:date>2024-11-16T22:10:30.906352+01:00</dc:date>
+    <dc:date>2024-11-18T20:05:46.602591+01:00</dc:date>
   </channel>
 </rss>

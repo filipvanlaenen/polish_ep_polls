@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 33.3% | 30.3–36.1% | 29.6–36.7% | 29.1–37.3% | 28.1–38.4% |
+| N/A | [Poll Average](average.html) | 32.7% | 30.1–35.3% | 29.5–36.0% | 29.0–36.5% | 28.0–37.6% |
+| [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.3% | 29.5–33.2% | 28.9–33.8% | 28.5–34.2% | 27.6–35.2% |
+| [25–26 October 2024](2024-10-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 32.6% | N/A | N/A | N/A | N/A |
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 34.1% | 32.2–36.0% | 31.6–36.6% | 31.2–37.1% | 30.3–38.0% |
 | [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 35.4% | 33.5–37.3% | 33.0–37.8% | 32.6–38.2% | 31.7–39.2% |
 | [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 34.8% | N/A | N/A | N/A | N/A |
@@ -70,20 +72,19 @@ The following table shows the probability mass function per percentage block of 
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0% | 100% |  |
 | 26.5–27.5% | 0.2% | 100% |  |
-| 27.5–28.5% | 0.9% | 99.8% |  |
-| 28.5–29.5% | 3% | 98.9% |  |
-| 29.5–30.5% | 8% | 95% |  |
-| 30.5–31.5% | 12% | 88% |  |
-| 31.5–32.5% | 14% | 76% |  |
-| 32.5–33.5% | 15% | 61% | Median |
-| 33.5–34.5% | 16% | 46% |  |
-| 34.5–35.5% | 14% | 30% |  |
-| 35.5–36.5% | 9% | 16% |  |
-| 36.5–37.5% | 4% | 6% |  |
-| 37.5–38.5% | 1.4% | 2% |  |
-| 38.5–39.5% | 0.3% | 0.4% |  |
-| 39.5–40.5% | 0% | 0.1% |  |
-| 40.5–41.5% | 0% | 0% |  |
+| 27.5–28.5% | 1.1% | 99.8% |  |
+| 28.5–29.5% | 4% | 98.7% |  |
+| 29.5–30.5% | 9% | 95% |  |
+| 30.5–31.5% | 15% | 85% |  |
+| 31.5–32.5% | 18% | 70% |  |
+| 32.5–33.5% | 17% | 53% | Median |
+| 33.5–34.5% | 16% | 35% |  |
+| 34.5–35.5% | 11% | 19% |  |
+| 35.5–36.5% | 6% | 8% |  |
+| 36.5–37.5% | 2% | 2% |  |
+| 37.5–38.5% | 0.5% | 0.5% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -94,7 +95,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–20 | 16–20 | 16–21 |
+| N/A | [Poll Average](average.html) | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
+| [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 17 | 17–18 | 17–18 | 16–18 |
+| [25–26 October 2024](2024-10-26-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 19 | 19–20 | 18–20 | 17–20 | 17–20 |
 | [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
 | [7–9 October 2024](2024-10-09-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza |  |  |  |  |  |
@@ -143,14 +146,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.2% | 100% |  |
-| 16 | 4% | 99.8% |  |
-| 17 | 20% | 95% |  |
-| 18 | 24% | 75% |  |
-| 19 | 38% | 51% | Median |
-| 20 | 11% | 13% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.3% | 0.3% |  |
+| 15 | 0.1% | 100% |  |
+| 16 | 2% | 99.9% |  |
+| 17 | 32% | 98% |  |
+| 18 | 18% | 66% | Median |
+| 19 | 38% | 48% |  |
+| 20 | 9% | 10% |  |
+| 21 | 0.7% | 0.9% |  |
+| 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 
 

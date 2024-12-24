@@ -10,8 +10,22 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.8–7.9% | 5.5–8.2% | 5.3–8.5% | 4.9–9.0% |
-| [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
+| N/A | [Poll Average](average.html) | 7.3% | 5.7–9.0% | 5.4–9.4% | 5.1–9.7% | 4.6–10.4% |
+| [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
+| [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.4% | 6.4–8.5% | 6.1–8.9% | 5.9–9.2% | 5.5–9.7% |
+| [6–8 December 2024](2024-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.4–11.0% |
+| [6–7 December 2024](2024-12-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.9% | 7.0–9.1% | 6.7–9.4% | 6.4–9.7% | 6.0–10.3% |
+| [3–6 December 2024](2024-12-06-Opinia24.html) | Opinia24 | 7.0% | N/A | N/A | N/A | N/A |
+| [25–26 November 2024](2024-11-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 8.2% | 7.2–9.4% | 6.9–9.7% | 6.6–10.0% | 6.2–10.6% |
+| [22–24 November 2024](2024-11-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
+| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 | 7.0% | N/A | N/A | N/A | N/A |
+| [13–18 November 2024](2024-11-18-Opinia24.html) | Opinia24 <br> Radio ZET | 10.0% | N/A | N/A | N/A | N/A |
+| [12–15 November 2024](2024-11-15-Opinia24.html) | Opinia24 | 8.7% | N/A | N/A | N/A | N/A |
+| [12–13 November 2024](2024-11-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5.8% | N/A | N/A | N/A | N/A |
+| [8–11 November 2024](2024-11-11-ResearchPartner.html) | Research Partner <br> Ariadna | 7.9% | N/A | N/A | N/A | N/A |
+| [11–10 November 2024](2024-11-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 7.1% | N/A | N/A | N/A | N/A |
+| [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.5% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [25–26 October 2024](2024-10-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.5–8.6% | 5.1–9.2% |
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 | [11–14 October 2024](2024-10-14-IBRiS.html) | IBRiS <br> Wydarzenia Polsat | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
@@ -48,14 +62,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 6% | 99.9% |  |
-| 5.5–6.5% | 34% | 94% |  |
-| 6.5–7.5% | 43% | 61% | Median |
-| 7.5–8.5% | 16% | 18% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 7% | 99.6% |  |
+| 5.5–6.5% | 22% | 93% |  |
+| 6.5–7.5% | 28% | 71% | Median |
+| 7.5–8.5% | 26% | 43% |  |
+| 8.5–9.5% | 13% | 17% |  |
+| 9.5–10.5% | 3% | 4% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -66,7 +81,21 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 0–5 | 0–6 |
+| [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
+| [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [6–8 December 2024](2024-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [6–7 December 2024](2024-12-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 4 | 4 | 4 | 4 |
+| [3–6 December 2024](2024-12-06-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [25–26 November 2024](2024-11-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [22–24 November 2024](2024-11-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5 | 4–5 | 4–5 | 4–5 |
+| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 |  |  |  |  |  |
+| [13–18 November 2024](2024-11-18-Opinia24.html) | Opinia24 <br> Radio ZET |  |  |  |  |  |
+| [12–15 November 2024](2024-11-15-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [12–13 November 2024](2024-11-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
+| [8–11 November 2024](2024-11-11-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [11–10 November 2024](2024-11-10-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [25–26 October 2024](2024-10-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
@@ -102,12 +131,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.8% | 100% | Last Result |
-| 1 | 0% | 99.2% |  |
-| 2 | 3% | 99.2% |  |
-| 3 | 48% | 96% | Median |
-| 4 | 48% | 48% |  |
-| 5 | 0.7% | 0.7% |  |
-| 6 | 0% | 0% |  |
+| 0 | 3% | 100% | Last Result |
+| 1 | 0% | 97% |  |
+| 2 | 0.7% | 97% |  |
+| 3 | 37% | 96% |  |
+| 4 | 44% | 59% | Median |
+| 5 | 15% | 15% |  |
+| 6 | 0.6% | 0.6% |  |
+| 7 | 0% | 0% |  |
 
 

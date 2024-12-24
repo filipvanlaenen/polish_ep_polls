@@ -10,7 +10,21 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.3% | 3.2–5.5% | 2.9–5.8% | 2.7–6.0% | 2.4–6.6% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.3–5.3% | 3.1–5.6% | 2.9–5.9% | 2.5–6.4% |
+| [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
+| [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 4.4% | 3.7–5.3% | 3.5–5.6% | 3.3–5.9% | 3.0–6.4% |
+| [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
+| [6–8 December 2024](2024-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
+| [6–7 December 2024](2024-12-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.9% | 3.2–4.8% | 3.1–5.0% | 2.9–5.3% | 2.6–5.7% |
+| [3–6 December 2024](2024-12-06-Opinia24.html) | Opinia24 | 4.5% | N/A | N/A | N/A | N/A |
+| [25–26 November 2024](2024-11-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3.9% | 3.3–4.8% | 3.1–5.1% | 2.9–5.3% | 2.6–5.8% |
+| [22–24 November 2024](2024-11-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.6% | 3.9–5.6% | 3.6–5.9% | 3.5–6.1% | 3.1–6.6% |
+| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 | 3.0% | N/A | N/A | N/A | N/A |
+| [13–18 November 2024](2024-11-18-Opinia24.html) | Opinia24 <br> Radio ZET | 3.4% | N/A | N/A | N/A | N/A |
+| [12–15 November 2024](2024-11-15-Opinia24.html) | Opinia24 | 3.6% | N/A | N/A | N/A | N/A |
+| [12–13 November 2024](2024-11-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3.3% | N/A | N/A | N/A | N/A |
+| [8–11 November 2024](2024-11-11-ResearchPartner.html) | Research Partner <br> Ariadna | 4.4% | N/A | N/A | N/A | N/A |
+| [11–10 November 2024](2024-11-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.8% | N/A | N/A | N/A | N/A |
 | [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [25–26 October 2024](2024-10-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.6–6.1% | 3.2–6.6% |
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
@@ -46,12 +60,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 1.2% | 100% |  |
-| 2.5–3.5% | 20% | 98.8% |  |
-| 3.5–4.5% | 39% | 79% | Median |
-| 4.5–5.5% | 32% | 40% |  |
-| 5.5–6.5% | 8% | 8% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
+| 1.5–2.5% | 0.6% | 100% |  |
+| 2.5–3.5% | 17% | 99.4% |  |
+| 3.5–4.5% | 46% | 83% | Median |
+| 4.5–5.5% | 31% | 37% |  |
+| 5.5–6.5% | 6% | 6% |  |
+| 6.5–7.5% | 0.3% | 0.3% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -63,7 +77,21 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–4 | 1–4 | 1–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 1–4 | 1–4 | 1–4 |
+| [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
+| [6–8 December 2024](2024-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–4 | 2–4 | 2–4 | 1–4 |
+| [6–7 December 2024](2024-12-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2 | 2 | 2 | 2 | 2 |
+| [3–6 December 2024](2024-12-06-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [25–26 November 2024](2024-11-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [22–24 November 2024](2024-11-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 |  |  |  |  |  |
+| [13–18 November 2024](2024-11-18-Opinia24.html) | Opinia24 <br> Radio ZET |  |  |  |  |  |
+| [12–15 November 2024](2024-11-15-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [12–13 November 2024](2024-11-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
+| [8–11 November 2024](2024-11-11-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [11–10 November 2024](2024-11-10-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [25–26 October 2024](2024-10-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [15–18 October 2024](2024-10-18-Opinia24.html) | Opinia24 <br> TVN24 | 2 | 2 | 2 | 2–3 | 1–3 |
@@ -100,10 +128,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 42% | 91% | Median |
-| 3 | 35% | 49% |  |
-| 4 | 14% | 14% |  |
+| 1 | 10% | 100% |  |
+| 2 | 51% | 90% | Median |
+| 3 | 32% | 39% |  |
+| 4 | 8% | 8% |  |
 | 5 | 0% | 0% |  |
 
 

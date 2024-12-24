@@ -19,11 +19,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–6 December 2024](2024-12-06-Opinia24.html) | Opinia24 | 30.5% | N/A | N/A | N/A | N/A |
 | [25–26 November 2024](2024-11-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 30.4% | 28.6–32.3% | 28.1–32.9% | 27.7–33.3% | 26.8–34.3% |
 | [22–24 November 2024](2024-11-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.8% | 30.9–34.8% | 30.4–35.3% | 29.9–35.8% | 29.1–36.7% |
-| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 | 33.0% | N/A | N/A | N/A | N/A |
+| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 | 33.0% | 31.1–34.9% | 30.6–35.5% | 30.1–36.0% | 29.3–36.9% |
 | [13–18 November 2024](2024-11-18-Opinia24.html) | Opinia24 <br> Radio ZET | 33.0% | N/A | N/A | N/A | N/A |
 | [12–15 November 2024](2024-11-15-Opinia24.html) | Opinia24 | 31.8% | N/A | N/A | N/A | N/A |
 | [12–13 November 2024](2024-11-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 34.3% | N/A | N/A | N/A | N/A |
-| [8–11 November 2024](2024-11-11-ResearchPartner.html) | Research Partner <br> Ariadna | 32.3% | N/A | N/A | N/A | N/A |
+| [8–11 November 2024](2024-11-11-ResearchPartner.html) | Research Partner <br> Ariadna | 32.3% | 30.5–34.2% | 30.0–34.7% | 29.6–35.2% | 28.7–36.1% |
 | [11–10 November 2024](2024-11-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.7% | N/A | N/A | N/A | N/A |
 | [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.3% | 29.5–33.2% | 28.9–33.8% | 28.5–34.2% | 27.6–35.2% |
 | [25–26 October 2024](2024-10-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 32.6% | 30.8–34.4% | 30.2–35.0% | 29.8–35.4% | 29.0–36.3% |
@@ -120,11 +120,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [3–6 December 2024](2024-12-06-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [25–26 November 2024](2024-11-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 16–18 | 16–19 | 16–19 | 15–19 |
 | [22–24 November 2024](2024-11-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 17–19 | 16–19 | 16–19 | 16–20 |
-| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 |  |  |  |  |  |
+| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 | 17 | 17–19 | 17–19 | 17–20 | 16–20 |
 | [13–18 November 2024](2024-11-18-Opinia24.html) | Opinia24 <br> Radio ZET |  |  |  |  |  |
 | [12–15 November 2024](2024-11-15-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [12–13 November 2024](2024-11-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [8–11 November 2024](2024-11-11-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
+| [8–11 November 2024](2024-11-11-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [11–10 November 2024](2024-11-10-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [25–27 October 2024](2024-10-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–17 | 16–18 | 16–18 | 15–19 |
 | [25–26 October 2024](2024-10-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 17–19 | 17–19 | 17–20 | 16–20 |

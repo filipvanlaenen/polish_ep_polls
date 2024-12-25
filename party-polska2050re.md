@@ -78,16 +78,16 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 1–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 3 | 3 | 3–4 | 2–4 |
-| [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [6–8 December 2024](2024-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [6–7 December 2024](2024-12-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3 | 3 | 3 | 2–3 |
 | [3–6 December 2024](2024-12-06-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [25–26 November 2024](2024-11-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [22–24 November 2024](2024-11-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3 | 3 | 3–4 | 2–4 |
-| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
+| [25–26 November 2024](2024-11-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [22–24 November 2024](2024-11-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [24 November 2024](2024-11-24-Opinia24.html) | Opinia24 <br> TVN24 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [13–18 November 2024](2024-11-18-Opinia24.html) | Opinia24 <br> Radio ZET |  |  |  |  |  |
 | [12–15 November 2024](2024-11-15-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [12–13 November 2024](2024-11-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
@@ -129,11 +129,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.6% | 100% |  |
-| 2 | 16% | 99.4% |  |
-| 3 | 74% | 84% | Median |
-| 4 | 10% | 10% |  |
-| 5 | 0.3% | 0.3% |  |
+| 1 | 0.2% | 100% |  |
+| 2 | 18% | 99.8% |  |
+| 3 | 64% | 82% | Median |
+| 4 | 17% | 17% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 

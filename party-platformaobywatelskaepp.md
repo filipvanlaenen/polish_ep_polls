@@ -10,10 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.3% | 28.0–34.1% | 27.2–34.8% | 26.6–35.4% | 25.5–36.5% |
+| N/A | [Poll Average](average.html) | 29.3% | 27.1–31.4% | 26.5–32.0% | 26.0–32.6% | 25.0–33.6% |
+| [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 28.7% | 26.8–30.7% | 26.3–31.2% | 25.9–31.7% | 25.0–32.7% |
+| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 28.1% | 26.3–30.1% | 25.8–30.6% | 25.3–31.1% | 24.5–32.0% |
+| [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.7% |
+| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 31.3% | N/A | N/A | N/A | N/A |
+| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.0% | N/A | N/A | N/A | N/A |
 | [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 28.2% | 26.4–30.1% | 25.9–30.6% | 25.5–31.1% | 24.7–32.0% |
 | [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 31.4% | 29.6–33.3% | 29.0–33.9% | 28.6–34.4% | 27.7–35.3% |
-| [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 30.2% | 28.4–32.2% | 27.9–32.7% | 27.5–33.2% | 26.6–34.1% |
+| [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 28.8% | 28.4–32.2% | 27.9–32.7% | 27.5–33.2% | 26.6–34.1% |
 | [6–8 December 2024](2024-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.2% | 30.3–34.1% | 29.8–34.7% | 29.4–35.2% | 28.5–36.1% |
 | [6–7 December 2024](2024-12-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 33.6% | 31.8–35.5% | 31.2–36.0% | 30.8–36.5% | 29.9–37.4% |
 | [3–6 December 2024](2024-12-06-Opinia24.html) | Opinia24 | 30.6% | N/A | N/A | N/A | N/A |
@@ -82,22 +87,19 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
-| 23.5–24.5% | 0.1% | 100% |  |
-| 24.5–25.5% | 0.5% | 99.9% |  |
-| 25.5–26.5% | 2% | 99.5% |  |
-| 26.5–27.5% | 5% | 98% |  |
-| 27.5–28.5% | 8% | 93% |  |
-| 28.5–29.5% | 11% | 85% |  |
-| 29.5–30.5% | 13% | 75% |  |
-| 30.5–31.5% | 16% | 61% | Median |
-| 31.5–32.5% | 16% | 45% |  |
-| 32.5–33.5% | 13% | 29% |  |
-| 33.5–34.5% | 9% | 16% |  |
-| 34.5–35.5% | 5% | 7% |  |
-| 35.5–36.5% | 2% | 2% |  |
-| 36.5–37.5% | 0.4% | 0.5% |  |
-| 37.5–38.5% | 0.1% | 0.1% |  |
-| 38.5–39.5% | 0% | 0% |  |
+| 23.5–24.5% | 0.2% | 100% |  |
+| 24.5–25.5% | 1.1% | 99.8% |  |
+| 25.5–26.5% | 4% | 98.7% |  |
+| 26.5–27.5% | 11% | 95% |  |
+| 27.5–28.5% | 18% | 84% |  |
+| 28.5–29.5% | 23% | 66% | Median |
+| 29.5–30.5% | 21% | 43% |  |
+| 30.5–31.5% | 14% | 23% |  |
+| 31.5–32.5% | 6% | 9% |  |
+| 32.5–33.5% | 2% | 3% |  |
+| 33.5–34.5% | 0.4% | 0.5% |  |
+| 34.5–35.5% | 0.1% | 0.1% |  |
+| 35.5–36.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -108,7 +110,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 16–17 | 16–17 | 15–18 | 14–18 |
+| [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 16–17 | 16–18 | 16–18 | 16–19 |
+| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
+| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 18 | 18–19 | 17–19 | 17–19 | 16–21 |
 | [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 17–19 | 17–19 | 17–20 | 16–22 |
@@ -172,14 +179,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
-| 15 | 0.6% | 99.9% |  |
-| 16 | 7% | 99.4% |  |
-| 17 | 11% | 92% |  |
-| 18 | 54% | 81% | Median |
-| 19 | 17% | 27% |  |
-| 20 | 5% | 10% |  |
-| 21 | 4% | 5% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 2% | 99.8% |  |
+| 16 | 41% | 98% |  |
+| 17 | 26% | 58% | Median |
+| 18 | 25% | 32% |  |
+| 19 | 6% | 7% |  |
+| 20 | 0.9% | 1.3% |  |
+| 21 | 0.2% | 0.4% |  |
 | 22 | 0.2% | 0.2% |  |
 | 23 | 0% | 0% |  |
 

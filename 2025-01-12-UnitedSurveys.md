@@ -36,11 +36,11 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 18 | 18–20 |18–20 |18–21 |17–22 |
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 16 | 16–17 |16–17 |15–18 |14–18 |
-| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 4 | 4–5 |3–5 |3–5 |3–5 |
-| <a href="#nowa-nadzieja-(esn)">Nowa Nadzieja (ESN)</a> | 0 | 3 | 3–4 |3–4 |3–4 |2–5 |
-| <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | 3 | 2–3 |2–4 |2–4 |2–4 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 19 | 18–20 |17–20 |17–21 |17–22 |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 16 | 16–18 |16–18 |15–18 |14–19 |
+| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 4 | 3–5 |3–5 |3–5 |3–5 |
+| <a href="#nowa-nadzieja-(esn)">Nowa Nadzieja (ESN)</a> | 0 | 3 | 3–4 |3–5 |3–5 |2–5 |
+| <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | 3 | 2–3 |2–3 |2–4 |2–4 |
 | <a href="#ruch-narodowy-(pfe)">Ruch Narodowy (PfE)</a> | 0 | 3 | 2–3 |2–3 |2–4 |2–4 |
 | <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 3 | 2–3 |2–3 |2–3 |1–3 |
 | <a href="#konfederacja-korony-polskiej-(ni)">Konfederacja Korony Polskiej (NI)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–3 |
@@ -75,12 +75,12 @@
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
 | 16 | 0.1% | 100% |  |
-| 17 | 0.8% | 99.9% |  |
-| 18 | 56% | 99.1% | Median |
-| 19 | 31% | 43% |  |
-| 20 | 8% | 12% |  |
-| 21 | 2% | 4% |  |
-| 22 | 2% | 2% |  |
+| 17 | 8% | 99.9% |  |
+| 18 | 38% | 92% |  |
+| 19 | 34% | 54% | Median |
+| 20 | 16% | 20% |  |
+| 21 | 3% | 4% |  |
+| 22 | 1.4% | 1.4% |  |
 | 23 | 0% | 0% |  |
 
 ### Platforma Obywatelska (EPP)
@@ -105,13 +105,14 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.6% | 100% |  |
-| 15 | 4% | 99.4% |  |
-| 16 | 62% | 95% | Median |
-| 17 | 30% | 33% |  |
-| 18 | 2% | 3% |  |
-| 19 | 0.3% | 0.4% |  |
-| 20 | 0% | 0% |  |
+| 14 | 0.8% | 100% |  |
+| 15 | 4% | 99.2% |  |
+| 16 | 50% | 95% | Median |
+| 17 | 32% | 45% |  |
+| 18 | 12% | 13% |  |
+| 19 | 0.8% | 0.9% |  |
+| 20 | 0.1% | 0.1% |  |
+| 21 | 0% | 0% |  |
 
 ### Nowa Lewica (S&D)
 
@@ -124,9 +125,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 8% | 100% |  |
-| 4 | 73% | 92% | Median |
-| 5 | 19% | 19% |  |
+| 3 | 16% | 100% |  |
+| 4 | 72% | 84% | Median |
+| 5 | 13% | 13% |  |
 | 6 | 0% | 0% |  |
 
 ### Nowa Nadzieja (ESN)
@@ -140,9 +141,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.7% | 100% |  |
-| 3 | 78% | 99.3% | Median |
-| 4 | 21% | 22% |  |
-| 5 | 0.5% | 0.6% |  |
+| 3 | 67% | 99.3% | Median |
+| 4 | 25% | 33% |  |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
 ### Polska 2050 (RE)
@@ -155,10 +156,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 14% | 100% |  |
-| 3 | 80% | 86% | Median |
-| 4 | 6% | 6% |  |
-| 5 | 0% | 0% |  |
+| 2 | 19% | 100% |  |
+| 3 | 76% | 81% | Median |
+| 4 | 4% | 5% |  |
+| 5 | 0.4% | 0.4% |  |
+| 6 | 0% | 0% |  |
 
 ### Ruch Narodowy (PfE)
 
@@ -169,9 +171,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 31% | 99.9% |  |
-| 3 | 65% | 68% | Median |
+| 1 | 0.4% | 100% |  |
+| 2 | 28% | 99.6% |  |
+| 3 | 68% | 72% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -184,10 +186,10 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 2% | 100% |  |
-| 2 | 35% | 98% |  |
-| 3 | 63% | 63% | Median |
-| 4 | 0.1% | 0.1% |  |
+| 1 | 1.3% | 100% |  |
+| 2 | 45% | 98.7% |  |
+| 3 | 53% | 54% | Median |
+| 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
 ### Konfederacja Korony Polskiej (NI)
@@ -199,9 +201,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 38% | 100% |  |
-| 2 | 61% | 62% | Median |
-| 3 | 1.2% | 1.2% |  |
+| 1 | 40% | 100% |  |
+| 2 | 59% | 60% | Median |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 ### Lewica Razem (GUE/NGL)
@@ -222,8 +224,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 87% | 87% | Median |
+| 0 | 38% | 100% | Last Result |
+| 1 | 62% | 62% | Median |
 | 2 | 0% | 0% |  |
 
 ### Partia Zieloni (Greens/EFA)
@@ -271,7 +273,7 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Nowa Nadzieja (ESN) | 0 | 3 | 0% | 3–4 | 3–4 | 3–4 | 2–5 |
+| Nowa Nadzieja (ESN) | 0 | 3 | 0% | 3–4 | 3–5 | 3–5 | 2–5 |
 | Ruch Narodowy (PfE) | 0 | 3 | 0% | 2–3 | 2–3 | 2–4 | 2–4 |
 | Lewica Razem (GUE/NGL) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 | Partia Zieloni (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
@@ -285,9 +287,9 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.7% | 100% |  |
-| 3 | 78% | 99.3% | Median |
-| 4 | 21% | 22% |  |
-| 5 | 0.5% | 0.6% |  |
+| 3 | 67% | 99.3% | Median |
+| 4 | 25% | 33% |  |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
 ### Ruch Narodowy (PfE)
@@ -297,9 +299,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.1% | 100% |  |
-| 2 | 31% | 99.9% |  |
-| 3 | 65% | 68% | Median |
+| 1 | 0.4% | 100% |  |
+| 2 | 28% | 99.6% |  |
+| 3 | 68% | 72% | Median |
 | 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
@@ -333,6 +335,6 @@
 ### Calculations
 
 + **Sample size:** 946
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 2.68%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 2.80%
 

@@ -85,10 +85,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
-| [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3 | 3 | 3 | 2–4 |
-| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3 | 2–3 | 2–3 | 2–4 |
+| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
@@ -140,10 +140,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.2% | 100% |  |
-| 2 | 25% | 99.8% |  |
-| 3 | 65% | 75% | Median |
-| 4 | 11% | 11% |  |
-| 5 | 0.1% | 0.1% |  |
+| 2 | 28% | 99.8% |  |
+| 3 | 60% | 72% | Median |
+| 4 | 12% | 12% |  |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 

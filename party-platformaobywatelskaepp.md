@@ -111,12 +111,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–19 | 16–21 | 15–21 |
-| [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 16–17 | 16–17 | 15–18 | 14–18 |
-| [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 16–17 | 16–18 | 16–18 | 16–19 |
-| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 18 | 17–21 | 17–21 | 17–21 | 16–21 |
-| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 16–19 | 15–20 | 15–21 |
+| [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
+| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 16–18 | 16–18 | 15–18 | 14–19 |
+| [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 16–19 | 15–19 | 15–19 | 15–19 |
+| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 18 | 17–20 | 17–21 | 17–21 | 16–21 |
+| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 18–20 | 18–20 | 17–20 | 16–20 |
 | [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 18 | 16–19 | 16–19 | 15–20 | 15–20 |
 | [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 18 | 18–19 | 17–19 | 17–19 | 16–21 |
 | [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 17–19 | 17–19 | 17–20 | 16–22 |
@@ -180,14 +180,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.1% | 100% |  |
-| 15 | 1.3% | 99.9% |  |
-| 16 | 33% | 98.6% |  |
-| 17 | 27% | 66% | Median |
-| 18 | 28% | 39% |  |
-| 19 | 7% | 11% |  |
-| 20 | 2% | 5% |  |
-| 21 | 3% | 3% |  |
+| 14 | 0.2% | 100% |  |
+| 15 | 3% | 99.8% |  |
+| 16 | 25% | 97% |  |
+| 17 | 24% | 73% | Median |
+| 18 | 31% | 49% |  |
+| 19 | 14% | 18% |  |
+| 20 | 3% | 4% |  |
+| 21 | 1.2% | 1.3% |  |
 | 22 | 0.1% | 0.1% |  |
 | 23 | 0% | 0% |  |
 

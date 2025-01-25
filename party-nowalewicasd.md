@@ -86,12 +86,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–5 | 2–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 2–5 | 0–5 |
 | [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
-| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5 | 4–6 | 4–6 | 4–6 |
 | [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 3–4 | 3–4 | 0–4 | 0–4 |
 | [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -141,12 +141,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 2% | 97% |  |
-| 3 | 45% | 95% | Median |
-| 4 | 39% | 49% |  |
-| 5 | 10% | 10% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 0% | 98% |  |
+| 2 | 1.3% | 98% |  |
+| 3 | 42% | 96% |  |
+| 4 | 45% | 54% | Median |
+| 5 | 9% | 9% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 

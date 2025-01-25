@@ -84,12 +84,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
-| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3 | 3–4 | 3–4 | 3–4 |
-| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
-| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [7–9 January 2025](2025-01-09-Opinia24.html) | Opinia24 <br> RMF FM | 4 | 3–5 | 3–5 | 3–5 | 2–5 |
+| [20–22 December 2024](2024-12-22-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [17–18 December 2024](2024-12-18-Ipsos.html) | Ipsos <br> TVP | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [17 December 2024](2024-12-17-Opinia24.html) | Opinia24 <br> RMF FM | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [10–11 December 2024](2024-12-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 3–4 | 3–4 | 2–4 | 2–5 |
@@ -142,9 +142,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 2% | 100% |  |
-| 3 | 52% | 98% | Median |
-| 4 | 45% | 47% |  |
-| 5 | 2% | 2% |  |
+| 3 | 48% | 98% |  |
+| 4 | 44% | 50% | Median |
+| 5 | 7% | 7% |  |
 | 6 | 0% | 0% |  |
 
 

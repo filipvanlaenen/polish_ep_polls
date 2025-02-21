@@ -20,10 +20,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [31 January–2 February 2025](2025-02-02-IBRiS.html) | IBRiS <br> Onet.pl | 30.9% | N/A | N/A | N/A | N/A |
 | [23–29 January 2025](2025-01-29-Opinia24.html) | Opinia24 <br> Radio ZET | 31.6% | 29.7–33.7% | 29.2–34.2% | 28.7–34.7% | 27.8–35.7% |
 | [24–27 January 2025](2025-01-27-ResearchPartner.html) | Research Partner <br> Ariadna | 29.0% | 27.1–30.9% | 26.6–31.4% | 26.2–31.9% | 25.3–32.8% |
-| [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.6% | N/A | N/A | N/A | N/A |
+| [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.6% | 29.6–33.6% | 29.1–34.1% | 28.6–34.6% | 27.7–35.6% |
 | [20–24 January 2025](2025-01-24-Opinia24.html) | Opinia24 | 29.7% | N/A | N/A | N/A | N/A |
-| [21–23 January 2025](2025-01-23-OGB.html) | OGB | 30.1% | N/A | N/A | N/A | N/A |
-| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 28.8% | N/A | N/A | N/A | N/A |
+| [21–23 January 2025](2025-01-23-OGB.html) | OGB | 30.1% | 28.3–32.0% | 27.8–32.6% | 27.3–33.0% | 26.5–33.9% |
+| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 28.8% | 27.0–30.7% | 26.5–31.2% | 26.1–31.7% | 25.2–32.6% |
 | [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 28.7% | 26.8–30.7% | 26.3–31.2% | 25.9–31.7% | 25.0–32.7% |
 | [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 28.1% | 26.3–30.1% | 25.8–30.6% | 25.3–31.1% | 24.5–32.0% |
 | [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 29.8% | 28.0–31.7% | 27.5–32.3% | 27.0–32.7% | 26.2–33.7% |
@@ -134,11 +134,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–8 February 2025](2025-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
 | [31 January–2 February 2025](2025-02-02-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [23–29 January 2025](2025-01-29-Opinia24.html) | Opinia24 <br> Radio ZET | 19 | 17–20 | 17–20 | 17–20 | 16–21 |
-| [24–27 January 2025](2025-01-27-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
-| [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [24–27 January 2025](2025-01-27-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 16–18 | 16–19 | 16–19 | 15–19 |
+| [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 19 | 19–20 | 17–20 | 17–20 |
 | [20–24 January 2025](2025-01-24-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [21–23 January 2025](2025-01-23-OGB.html) | OGB |  |  |  |  |  |
-| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
+| [21–23 January 2025](2025-01-23-OGB.html) | OGB | 19 | 18–19 | 17–19 | 17–19 | 16–20 |
+| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 19 | 16–19 | 15–19 | 15–19 | 15–20 |
 | [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 16–18 | 16–18 | 15–18 | 14–19 |
 | [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 16–19 | 15–19 | 15–19 | 15–19 |

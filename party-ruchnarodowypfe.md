@@ -98,7 +98,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
-| [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -167,9 +167,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 2% | 100% |  |
-| 2 | 45% | 98% |  |
-| 3 | 37% | 53% | Median |
-| 4 | 15% | 16% |  |
+| 2 | 47% | 98% |  |
+| 3 | 34% | 51% | Median |
+| 4 | 17% | 18% |  |
 | 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 

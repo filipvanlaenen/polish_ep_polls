@@ -100,9 +100,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
-| [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
+| [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 5 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [8–9 February 2025](2025-02-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4 | 3–4 | 3–4 | 2–5 |
@@ -171,11 +171,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 3% | 100% |  |
-| 3 | 15% | 97% |  |
-| 4 | 48% | 81% | Median |
-| 5 | 29% | 33% |  |
-| 6 | 4% | 4% |  |
-| 7 | 0.2% | 0.2% |  |
+| 3 | 14% | 97% |  |
+| 4 | 51% | 83% | Median |
+| 5 | 26% | 31% |  |
+| 6 | 6% | 6% |  |
+| 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 
 

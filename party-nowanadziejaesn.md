@@ -103,7 +103,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 5 | 4–5 | 3–5 | 3–6 | 3–6 |
-| [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4 | 4 | 3–4 | 3–5 | 3–5 |
 | [8–9 February 2025](2025-02-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4 | 3–4 | 3–4 | 2–5 |
 | [7–8 February 2025](2025-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
@@ -172,10 +172,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 3% | 100% |  |
 | 3 | 14% | 97% |  |
-| 4 | 51% | 83% | Median |
-| 5 | 26% | 31% |  |
+| 4 | 52% | 83% | Median |
+| 5 | 25% | 31% |  |
 | 6 | 6% | 6% |  |
-| 7 | 0.1% | 0.1% |  |
+| 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 
 

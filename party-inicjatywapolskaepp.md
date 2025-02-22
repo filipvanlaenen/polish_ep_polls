@@ -103,7 +103,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [20–24 January 2025](2025-01-24-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [21–23 January 2025](2025-01-23-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0–1 |
-| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0 |
+| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0–1 |
 | [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 0 | 0 | 0 | 0–1 | 0–1 |
 | [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |

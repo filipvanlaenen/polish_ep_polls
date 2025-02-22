@@ -135,10 +135,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [31 January–2 February 2025](2025-02-02-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [23–29 January 2025](2025-01-29-Opinia24.html) | Opinia24 <br> Radio ZET | 18 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [24–27 January 2025](2025-01-27-ResearchPartner.html) | Research Partner <br> Ariadna | 17 | 16–18 | 16–19 | 16–19 | 15–19 |
-| [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 19 | 19–20 | 17–20 | 17–20 |
+| [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 19 | 17–20 | 17–20 | 17–20 |
 | [20–24 January 2025](2025-01-24-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [21–23 January 2025](2025-01-23-OGB.html) | OGB | 19 | 18–19 | 17–19 | 17–19 | 16–20 |
-| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 19 | 16–19 | 15–19 | 15–19 | 15–20 |
+| [21–23 January 2025](2025-01-23-OGB.html) | OGB | 19 | 18–19 | 17–19 | 16–20 | 16–20 |
+| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
 | [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 16–18 | 16–18 | 15–18 | 14–19 |
 | [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 16–19 | 15–19 | 15–19 | 15–19 |

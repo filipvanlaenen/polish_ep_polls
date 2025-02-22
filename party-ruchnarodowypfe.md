@@ -109,8 +109,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–27 January 2025](2025-01-27-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [20–24 January 2025](2025-01-24-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [21–23 January 2025](2025-01-23-OGB.html) | OGB | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [21–23 January 2025](2025-01-23-OGB.html) | OGB | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [14–16 January 2025](2025-01-16-Ipsos.html) | Ipsos <br> TVP | 2 | 2–3 | 2–3 | 1–4 | 1–4 |
 | [10–12 January 2025](2025-01-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [10–11 January 2025](2025-01-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 2–3 | 2–3 | 2–3 | 2–3 |

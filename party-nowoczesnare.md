@@ -102,7 +102,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [31 January–2 February 2025](2025-02-02-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [23–29 January 2025](2025-01-29-Opinia24.html) | Opinia24 <br> Radio ZET | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–27 January 2025](2025-01-27-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–24 January 2025](2025-01-24-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [21–23 January 2025](2025-01-23-OGB.html) | OGB | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–18 January 2025](2025-01-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 1 | 0–1 | 0–1 | 0–1 | 0–1 |

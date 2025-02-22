@@ -97,10 +97,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–9 February 2025](2025-02-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [8–9 February 2025](2025-02-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [7–8 February 2025](2025-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [31 January–2 February 2025](2025-02-02-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
-| [23–29 January 2025](2025-01-29-Opinia24.html) | Opinia24 <br> Radio ZET | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23–29 January 2025](2025-01-29-Opinia24.html) | Opinia24 <br> Radio ZET | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–27 January 2025](2025-01-27-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [24–26 January 2025](2025-01-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [20–24 January 2025](2025-01-24-Opinia24.html) | Opinia24 |  |  |  |  |  |
@@ -160,9 +160,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 38% | 39% |  |
-| 2 | 0.7% | 0.7% |  |
+| 0 | 60% | 100% | Last Result, Median |
+| 1 | 39% | 40% |  |
+| 2 | 0.9% | 0.9% |  |
 | 3 | 0% | 0% |  |
 
 

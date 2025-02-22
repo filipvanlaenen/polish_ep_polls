@@ -101,7 +101,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 2 | 2 | 1–2 | 1–3 |
 | [8–9 February 2025](2025-02-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–8 February 2025](2025-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [7–8 February 2025](2025-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [31 January–2 February 2025](2025-02-02-IBRiS.html) | IBRiS <br> Onet.pl |  |  |  |  |  |
 | [23–29 January 2025](2025-01-29-Opinia24.html) | Opinia24 <br> Radio ZET | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [24–27 January 2025](2025-01-27-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 1–2 | 1–2 | 1–2 | 1–3 |

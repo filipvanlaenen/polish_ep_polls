@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Feb 2025 11:50:59 +0100</pubDate>
+    <pubDate>Sat, 22 Feb 2025 12:13:46 +0100</pubDate>
     <item>
       <title>Opinion Poll by Social Changes, 1–28 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-28-SocialChanges.html#seats</link>
@@ -224,20 +224,20 @@
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-01-27-ResearchPartner.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 1–3 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 16–19 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–5 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 17–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-01-27-ResearchPartner-seats.png"
-        length="284570"
+        length="284752"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:34:43 +0100</pubDate>
-      <dc:date>2025-02-21T13:34:43.004723+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 12:13:46 +0100</pubDate>
+      <dc:date>2025-02-22T12:13:46.843654+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Partner for Ariadna, 24–27 January 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-01-27-ResearchPartner.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-01-27-ResearchPartner-coalitions-seats.png"
-        length="193032"
+        length="199567"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:34:43 +0100</pubDate>
-      <dc:date>2025-02-21T13:34:43.004723+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 12:13:46 +0100</pubDate>
+      <dc:date>2025-02-22T12:13:46.843654+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Partner for Ariadna, 24–27 January 2025 – Voting Intentions</title>
@@ -246,8 +246,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-01-27-ResearchPartner.png"
         length="342925"
         type="image/png"/>
-      <pubDate>Fri, 21 Feb 2025 13:34:43 +0100</pubDate>
-      <dc:date>2025-02-21T13:34:43.004723+01:00</dc:date>
+      <pubDate>Sat, 22 Feb 2025 12:13:46 +0100</pubDate>
+      <dc:date>2025-02-22T12:13:46.843654+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by United Surveys for WP.pl, 24–26 January 2025 – Seat Projections for the Parties</title>
@@ -999,6 +999,6 @@
       <pubDate>Mon, 18 Nov 2024 22:12:38 +0100</pubDate>
       <dc:date>2024-11-18T22:12:38.006875+01:00</dc:date>
     </item>
-    <dc:date>2025-02-22T11:50:59.016725+01:00</dc:date>
+    <dc:date>2025-02-22T12:13:46.843654+01:00</dc:date>
   </channel>
 </rss>

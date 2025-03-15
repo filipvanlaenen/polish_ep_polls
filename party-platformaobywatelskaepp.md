@@ -126,10 +126,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–21 | 15–21 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 18–20 | 18–20 | 17–21 | 16–22 |
 | [7–9 March 2025](2025-03-09-Pollster.html) | Pollster <br> SE.pl | 19 | 17–19 | 17–19 | 16–19 | 16–20 |
-| [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–21 | 18–21 | 17–22 | 17–22 |
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 18 | 16–19 | 16–19 | 15–19 | 14–19 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
@@ -215,11 +215,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 1.0% | 99.9% |  |
 | 16 | 7% | 98.9% |  |
 | 17 | 22% | 92% |  |
-| 18 | 33% | 70% | Median |
-| 19 | 24% | 37% |  |
-| 20 | 9% | 12% |  |
-| 21 | 2% | 3% |  |
-| 22 | 0.3% | 0.3% |  |
-| 23 | 0% | 0% |  |
+| 18 | 31% | 70% | Median |
+| 19 | 28% | 38% |  |
+| 20 | 8% | 11% |  |
+| 21 | 2% | 2% |  |
+| 22 | 0.4% | 0.5% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 

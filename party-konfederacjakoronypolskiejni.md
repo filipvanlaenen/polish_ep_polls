@@ -10,12 +10,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.0–4.8% | 2.8–5.1% | 2.6–5.4% | 2.3–5.9% |
-| [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 3.6% | 2.8–4.8% | 2.5–5.1% | 2.3–5.4% | 2.0–6.0% |
-| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.8% | 3.1–4.8% | 2.9–5.1% | 2.8–5.3% | 2.5–5.8% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.1–5.2% | 2.9–5.6% | 2.7–6.0% | 2.4–6.8% |
+| [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 4.9% | 3.9–6.2% | 3.6–6.6% | 3.4–7.0% | 3.0–7.7% |
+| [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 3.9% | 3.0–5.1% | 2.8–5.4% | 2.6–5.7% | 2.2–6.4% |
+| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.3% | 3.5–5.3% | 3.3–5.6% | 3.1–5.8% | 2.8–6.4% |
 | [7–9 March 2025](2025-03-09-Pollster.html) | Pollster <br> SE.pl | 3.7% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.6% |
-| [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.7% | 3.0–4.6% | 2.9–4.9% | 2.7–5.2% | 2.4–5.6% |
+| [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4.3% | 3.5–5.2% | 3.3–5.5% | 3.1–5.8% | 2.8–6.3% |
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 3.6% | 2.9–4.6% | 2.7–4.8% | 2.6–5.0% | 2.3–5.5% |
+| [19–26 February 2025](2025-02-26-OGB.html) | OGB | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.7% | 3.0–4.6% | 2.8–4.9% | 2.7–5.1% | 2.4–5.6% |
+| [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.8% | 2.2–5.2% |
+| [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 3.8% | 3.2–4.8% | 3.0–5.0% | 2.8–5.3% | 2.5–5.7% |
+| [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.5–4.8% | 2.2–5.3% |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 3.8% | 2.9–5.0% | 2.7–5.3% | 2.5–5.6% | 2.1–6.3% |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 4.3% | 3.6–5.3% | 3.4–5.5% | 3.2–5.8% | 2.9–6.3% |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.1% |
@@ -82,13 +88,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 30% | 98% |  |
-| 3.5–4.5% | 51% | 68% | Median |
-| 4.5–5.5% | 16% | 17% |  |
-| 5.5–6.5% | 1.5% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 1.1% | 100% |  |
+| 2.5–3.5% | 23% | 98.9% |  |
+| 3.5–4.5% | 47% | 76% | Median |
+| 4.5–5.5% | 23% | 28% |  |
+| 5.5–6.5% | 5% | 6% |  |
+| 6.5–7.5% | 0.7% | 0.8% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -99,12 +106,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–4 |
+| [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
-| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2–3 | 2–3 | 1–3 | 1–3 |
 | [7–9 March 2025](2025-03-09-Pollster.html) | Pollster <br> SE.pl | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [19–26 February 2025](2025-02-26-OGB.html) | OGB | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2 | 1–2 | 1–3 | 1–3 |
+| [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 2 | 2 | 1–3 | 1–3 | 1–3 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 2 | 2–3 | 1–3 | 1–3 | 1–4 |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 2 | 2 | 1–2 | 1–3 |
@@ -172,10 +185,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 15% | 100% |  |
-| 2 | 66% | 85% | Median |
+| 1 | 17% | 100% |  |
+| 2 | 63% | 83% | Median |
 | 3 | 19% | 19% |  |
-| 4 | 0.4% | 0.4% |  |
+| 4 | 0.7% | 0.7% |  |
 | 5 | 0% | 0% |  |
 
 

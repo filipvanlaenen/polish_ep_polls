@@ -114,7 +114,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2 | 1–2 | 1–2 | 1–2 | 0–3 |
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [19–26 February 2025](2025-02-26-OGB.html) | OGB | 2 | 0–2 | 0–2 | 0–2 | 0–3 |
-| [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 3 | 3 | 3 | 2–3 | 2–4 |
 | [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 3 | 3–4 | 3–4 | 2–4 | 2–5 |

@@ -103,11 +103,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 0 | 0 | 0 | 0–1 | 0–1 |
-| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
+| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [7–9 March 2025](2025-03-09-Pollster.html) | Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0–1 |
-| [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–1 |
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0–1 |
-| [19–26 February 2025](2025-02-26-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
+| [19–26 February 2025](2025-02-26-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0–1 |
 | [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
 | [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |

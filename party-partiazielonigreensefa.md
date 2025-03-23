@@ -101,10 +101,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 0 | 0 | 0 | 0 | 0–1 |
-| [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
-| [7–9 March 2025](2025-03-09-Pollster.html) | Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
+| [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 0 | 0 | 0 | 0–1 | 0–1 |
+| [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 0 | 0 | 0 | 0–1 | 0–1 |
+| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [7–9 March 2025](2025-03-09-Pollster.html) | Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–1 |
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0–1 |
 | [19–26 February 2025](2025-02-26-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
@@ -178,8 +178,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.9% | 100% | Last Result, Median |
-| 1 | 1.1% | 1.1% |  |
+| 0 | 98.8% | 100% | Last Result, Median |
+| 1 | 1.2% | 1.2% |  |
 | 2 | 0% | 0% |  |
 
 

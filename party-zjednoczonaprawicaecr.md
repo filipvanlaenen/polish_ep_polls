@@ -135,14 +135,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–19 | 15–19 | 14–19 | 13–20 |
-| [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 16 | 14–17 | 14–17 | 13–18 | 12–18 |
-| [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 18 | 15–19 | 15–19 | 14–19 | 13–20 |
-| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [7–9 March 2025](2025-03-09-Pollster.html) | Pollster <br> SE.pl | 18 | 17–19 | 17–20 | 16–20 | 16–20 |
-| [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 17 | 16–18 | 16–18 | 16–18 | 15–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 14–20 | 13–21 |
+| [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 16 | 14–17 | 13–17 | 13–18 | 12–18 |
+| [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 17 | 15–18 | 14–19 | 14–19 | 14–19 |
+| [7–9 March 2025](2025-03-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
+| [7–9 March 2025](2025-03-09-Pollster.html) | Pollster <br> SE.pl | 17 | 16–19 | 16–20 | 16–20 | 16–20 |
+| [7–8 March 2025](2025-03-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 17 | 16–19 | 16–19 | 16–19 | 16–19 |
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
-| [19–26 February 2025](2025-02-26-OGB.html) | OGB | 19 | 18–19 | 18–19 | 18–20 | 16–20 |
+| [19–26 February 2025](2025-02-26-OGB.html) | OGB | 19 | 18–20 | 16–21 | 16–21 | 16–21 |
 | [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–17 | 15–17 | 15–17 | 15–18 |
 | [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 16–18 | 16–18 | 16–18 | 16–20 |
 | [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 18 | 17–18 | 17–18 | 17–19 | 16–21 |
@@ -226,15 +226,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0.1% | 100% |  |
-| 13 | 0.5% | 99.9% |  |
-| 14 | 3% | 99.4% |  |
-| 15 | 3% | 97% |  |
-| 16 | 19% | 94% |  |
-| 17 | 23% | 75% |  |
-| 18 | 30% | 52% | Median |
-| 19 | 20% | 22% |  |
-| 20 | 2% | 2% |  |
-| 21 | 0.1% | 0.1% |  |
+| 13 | 0.7% | 99.9% |  |
+| 14 | 3% | 99.2% |  |
+| 15 | 4% | 96% |  |
+| 16 | 16% | 92% |  |
+| 17 | 27% | 76% | Median |
+| 18 | 26% | 48% |  |
+| 19 | 20% | 23% |  |
+| 20 | 2% | 3% |  |
+| 21 | 0.8% | 0.8% |  |
 | 22 | 0% | 0% |  |
 
 

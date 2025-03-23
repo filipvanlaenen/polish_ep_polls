@@ -114,7 +114,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [19–26 February 2025](2025-02-26-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna |  |  |  |  |  |
-| [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
+| [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0–3 |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 0 | 0 | 0 | 0 | 0 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 0 | 0 | 0 | 0 | 0 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 0 | 0 | 0 | 0 | 0 |

@@ -113,8 +113,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
 | [19–26 February 2025](2025-02-26-OGB.html) | OGB | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 1–2 | 1–3 | 1–3 | 1–3 |
-| [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 2 | 2–3 | 2–3 | 1–3 | 1–4 |
+| [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
+| [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 2 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
@@ -183,9 +183,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 3% | 100% | Last Result |
-| 1 | 30% | 97% |  |
-| 2 | 59% | 67% | Median |
-| 3 | 8% | 8% |  |
+| 1 | 29% | 97% |  |
+| 2 | 58% | 68% | Median |
+| 3 | 9% | 10% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 

@@ -109,7 +109,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0–1 |
 | [19–26 February 2025](2025-02-26-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
-| [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0 |
+| [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 0 | 0 | 0 | 0 | 0–1 |
 | [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
 | [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 0 | 0 | 0 | 0 | 0–1 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 0 | 0 | 0 | 0 | 0–1 |
@@ -178,8 +178,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.8% | 100% | Last Result, Median |
-| 1 | 1.2% | 1.2% |  |
+| 0 | 98.7% | 100% | Last Result, Median |
+| 1 | 1.3% | 1.3% |  |
 | 2 | 0% | 0% |  |
 
 

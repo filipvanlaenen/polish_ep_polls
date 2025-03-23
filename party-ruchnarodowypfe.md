@@ -120,7 +120,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 4 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 2–3 | 2–3 | 2–3 | 2–4 |

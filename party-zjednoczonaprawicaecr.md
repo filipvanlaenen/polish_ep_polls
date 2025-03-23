@@ -144,9 +144,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–28 February 2025](2025-02-28-SocialChanges.html) | Social Changes | 18 | 17–19 | 16–19 | 16–19 | 15–20 |
 | [19–26 February 2025](2025-02-26-OGB.html) | OGB | 19 | 18–20 | 16–21 | 16–21 | 16–21 |
 | [21–24 February 2025](2025-02-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 15–17 | 15–17 | 15–17 | 15–18 |
-| [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 16–18 | 16–18 | 16–18 | 16–20 |
-| [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 18 | 17–18 | 17–18 | 17–19 | 16–21 |
-| [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 17 | 17–19 | 16–20 | 16–20 | 15–21 |
+| [21–24 February 2025](2025-02-24-ResearchPartner.html) | Research Partner <br> Ariadna | 18 | 16–18 | 16–19 | 16–19 | 16–20 |
+| [17–21 February 2025](2025-02-21-Opinia24.html) | Opinia24 | 18 | 17–18 | 17–18 | 16–19 | 16–20 |
+| [19–21 February 2025](2025-02-21-Ipsos.html) | Ipsos <br> Liberté! | 17 | 17–20 | 16–20 | 16–20 | 15–21 |
 | [17–18 February 2025](2025-02-18-Ipsos.html) | Ipsos <br> TVP | 17 | 16–18 | 15–19 | 15–19 | 15–20 |
 | [10–13 February 2025](2025-02-13-Opinia24.html) | Opinia24 <br> RMF FM | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [8–10 February 2025](2025-02-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 19 | 17–19 | 17–20 | 17–20 | 17–20 |
@@ -230,8 +230,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 3% | 99.2% |  |
 | 15 | 4% | 96% |  |
 | 16 | 16% | 92% |  |
-| 17 | 27% | 76% | Median |
-| 18 | 26% | 48% |  |
+| 17 | 28% | 76% | Median |
+| 18 | 24% | 47% |  |
 | 19 | 20% | 23% |  |
 | 20 | 2% | 3% |  |
 | 21 | 0.8% | 0.8% |  |

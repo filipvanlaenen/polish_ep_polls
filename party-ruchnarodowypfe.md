@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.9–7.2% | 4.6–7.6% | 4.3–7.9% | 3.9–8.5% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.8–7.2% | 4.5–7.5% | 4.3–7.8% | 3.9–8.5% |
 | [21–24 March 2025](2025-03-24-ResearchPartner.html) | Research Partner | 5.2% | 4.4–6.2% | 4.1–6.5% | 3.9–6.8% | 3.6–7.3% |
+| [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.5% | N/A | N/A | N/A | N/A |
 | [17–21 March 2025](2025-03-21-Opinia24.html) | Opinia24 | 6.4% | 5.5–7.6% | 5.2–7.9% | 5.0–8.2% | 4.6–8.7% |
 | [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 7.3% | 6.1–8.9% | 5.7–9.3% | 5.4–9.7% | 4.9–10.5% |
 | [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 5.7% | 4.7–7.1% | 4.4–7.5% | 4.1–7.9% | 3.7–8.6% |
@@ -93,11 +94,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
 | 3.5–4.5% | 5% | 99.9% |  |
-| 4.5–5.5% | 25% | 95% |  |
-| 5.5–6.5% | 41% | 70% | Median |
-| 6.5–7.5% | 23% | 29% |  |
-| 7.5–8.5% | 5% | 6% |  |
-| 8.5–9.5% | 0.5% | 0.5% |  |
+| 4.5–5.5% | 27% | 95% |  |
+| 5.5–6.5% | 41% | 67% | Median |
+| 6.5–7.5% | 21% | 26% |  |
+| 7.5–8.5% | 4% | 5% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -111,6 +112,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 2–5 |
 | [21–24 March 2025](2025-03-24-ResearchPartner.html) | Research Partner | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [17–21 March 2025](2025-03-21-Opinia24.html) | Opinia24 | 4 | 3–4 | 3–4 | 2–5 | 2–5 |
 | [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
 | [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
@@ -191,9 +193,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 10% | 100% |  |
-| 3 | 58% | 90% | Median |
-| 4 | 26% | 32% |  |
+| 2 | 12% | 100% |  |
+| 3 | 60% | 88% | Median |
+| 4 | 22% | 28% |  |
 | 5 | 6% | 6% |  |
 | 6 | 0% | 0% |  |
 

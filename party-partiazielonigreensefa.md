@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.2% | 0.4–1.3% | 0.3–1.5% | 0.2–1.8% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.4–1.2% | 0.4–1.4% | 0.3–1.5% | 0.2–1.8% |
+| [31 March–1 April 2025](2025-04-01-Pollster.html) | Pollster <br> SE.pl | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [21–24 March 2025](2025-03-24-ResearchPartner.html) | Research Partner | 0.7% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.2–1.4% | 0.2–1.6% |
 | [17–21 March 2025](2025-03-21-Opinia24.html) | Opinia24 | 0.7% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
@@ -104,6 +105,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [31 March–1 April 2025](2025-04-01-Pollster.html) | Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
 | [21–24 March 2025](2025-03-24-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0–1 | 0–1 |
 | [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [17–21 March 2025](2025-03-21-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0–1 |

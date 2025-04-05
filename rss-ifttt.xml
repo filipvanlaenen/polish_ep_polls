@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 23 Jul 2024 18:38:29 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Pollster for SE.pl, 31 March–1 April 2025 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Pollster for SE.pl, 31 March–1 April 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster-seating-plan.png" length="388142" type="image/png"/>
+      <pubDate>Sat, 5 Apr 2025 09:44:36 +0200</pubDate>
+      <dc:date>2025-04-05T09:44:36.274050508+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pollster for SE.pl, 31 March–1 April 2025 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Pollster for SE.pl, 31 March–1 April 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster-seats.png" length="305759" type="image/png"/>
+      <pubDate>Sat, 5 Apr 2025 09:44:36 +0200</pubDate>
+      <dc:date>2025-04-05T09:44:36.274050508+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Pollster for SE.pl, 31 March–1 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Pollster for SE.pl, 31 March–1 April 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.png" length="363662" type="image/png"/>
+      <pubDate>Sat, 5 Apr 2025 09:44:36 +0200</pubDate>
+      <dc:date>2025-04-05T09:44:36.274050508+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Research Partner, 21–24 March 2025 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-03-24-ResearchPartner.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner, 21–24 March 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-03-24-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-03-24-ResearchPartner-seating-plan.png"/>]]></description>
@@ -220,78 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-28-SocialChanges.png" length="364762" type="image/png"/>
       <pubDate>Fri, 21 Feb 2025 16:25:50 +0100</pubDate>
       <dc:date>2025-02-21T16:25:50.216917654+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OGB, 19–26 February 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by OGB, 19–26 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB-seating-plan.png" length="385645" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 17:59:47 +0100</pubDate>
-      <dc:date>2025-03-23T17:59:47.171517529+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OGB, 19–26 February 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by OGB, 19–26 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB-seats.png" length="295436" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 17:59:47 +0100</pubDate>
-      <dc:date>2025-03-23T17:59:47.171517529+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by OGB, 19–26 February 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by OGB, 19–26 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-26-OGB.png" length="355568" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 17:59:47 +0100</pubDate>
-      <dc:date>2025-03-23T17:59:47.171517529+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 21–24 February 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner for Ariadna, 21–24 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner-seating-plan.png" length="388775" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 19:20:53 +0100</pubDate>
-      <dc:date>2025-03-23T19:20:53.65139419+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 21–24 February 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Research Partner for Ariadna, 21–24 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner-seats.png" length="291590" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 19:20:53 +0100</pubDate>
-      <dc:date>2025-03-23T19:20:53.65139419+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Research Partner for Ariadna, 21–24 February 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Research Partner for Ariadna, 21–24 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-ResearchPartner.png" length="345066" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 19:20:53 +0100</pubDate>
-      <dc:date>2025-03-23T19:20:53.65139419+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Surveys for WP.pl, 21–24 February 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Surveys for WP.pl, 21–24 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys-seating-plan.png" length="395150" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 18:45:38 +0100</pubDate>
-      <dc:date>2025-03-23T18:45:38.686164026+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Surveys for WP.pl, 21–24 February 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by United Surveys for WP.pl, 21–24 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys-seats.png" length="301092" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 18:45:38 +0100</pubDate>
-      <dc:date>2025-03-23T18:45:38.686164026+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by United Surveys for WP.pl, 21–24 February 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by United Surveys for WP.pl, 21–24 February 2025<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-02-24-UnitedSurveys.png" length="367404" type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 18:45:38 +0100</pubDate>
-      <dc:date>2025-03-23T18:45:38.686164026+01:00</dc:date>
     </item>
   </channel>
 </rss>

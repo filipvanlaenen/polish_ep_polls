@@ -107,7 +107,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [31 March–1 April 2025](2025-04-01-Pollster.html) | Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
 | [21–24 March 2025](2025-03-24-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0 |
-| [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [17–21 March 2025](2025-03-21-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
 | [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 0 | 0 | 0 | 0 | 0–1 |
 | [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 0 | 0–1 | 0–1 | 0–1 | 0–1 |

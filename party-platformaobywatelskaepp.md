@@ -140,10 +140,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 16–21 | 16–22 |
+| N/A | [Poll Average](average.html) | 18 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [31 March–1 April 2025](2025-04-01-Pollster.html) | Pollster <br> SE.pl | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [21–24 March 2025](2025-03-24-ResearchPartner.html) | Research Partner | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
-| [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 19–20 | 19–20 | 18–21 | 17–22 |
+| [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 18–21 | 18–22 | 17–22 |
 | [17–21 March 2025](2025-03-21-Opinia24.html) | Opinia24 | 20 | 18–21 | 18–21 | 18–23 | 18–23 |
 | [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 20 | 18–22 | 17–22 | 16–22 | 16–23 |
 | [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 18 | 16–20 | 16–20 | 16–21 | 15–21 |
@@ -240,11 +240,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0.4% | 100% |  |
 | 16 | 2% | 99.6% |  |
 | 17 | 10% | 97% |  |
-| 18 | 37% | 87% |  |
-| 19 | 31% | 51% | Median |
+| 18 | 38% | 87% | Median |
+| 19 | 29% | 49% |  |
 | 20 | 14% | 20% |  |
 | 21 | 5% | 6% |  |
-| 22 | 0.5% | 1.0% |  |
+| 22 | 0.8% | 1.3% |  |
 | 23 | 0.5% | 0.5% |  |
 | 24 | 0% | 0% |  |
 

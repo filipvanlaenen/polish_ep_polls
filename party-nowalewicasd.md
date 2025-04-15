@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.5% | 4.3–8.1% | 4.1–8.7% | 3.9–9.2% | 3.5–9.9% |
+| N/A | [Poll Average](average.html) | 5.9% | 4.5–8.3% | 4.3–8.8% | 4.0–9.3% | 3.6–10.0% |
+| [7–9 April 2025](2025-04-09-Opinia24.html) | Opinia24 <br> RMF FM | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.6% | 4.2–8.1% |
 | [4–6 April 2025](2025-04-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.0% | 4.2–6.0% | 3.9–6.3% | 3.7–6.6% | 3.4–7.1% |
 | [3–4 April 2025](2025-04-04-Pollster.html) | Pollster <br> TV Republika | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
 | [31 March–1 April 2025](2025-04-01-Pollster.html) | Pollster <br> SE.pl | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
@@ -95,14 +96,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 16% | 99.3% |  |
-| 4.5–5.5% | 36% | 84% | Median |
-| 5.5–6.5% | 21% | 48% |  |
-| 6.5–7.5% | 11% | 27% |  |
-| 7.5–8.5% | 10% | 16% |  |
-| 8.5–9.5% | 5% | 6% |  |
-| 9.5–10.5% | 1.1% | 1.2% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 10% | 99.6% |  |
+| 4.5–5.5% | 29% | 90% |  |
+| 5.5–6.5% | 26% | 61% | Median |
+| 6.5–7.5% | 16% | 36% |  |
+| 7.5–8.5% | 12% | 20% |  |
+| 8.5–9.5% | 6% | 7% |  |
+| 9.5–10.5% | 1.3% | 1.4% |  |
 | 10.5–11.5% | 0.1% | 0.1% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
@@ -115,7 +116,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [7–9 April 2025](2025-04-09-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 0–3 | 0–4 | 0–4 | 0–5 |
 | [4–6 April 2025](2025-04-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [3–4 April 2025](2025-04-04-Pollster.html) | Pollster <br> TV Republika | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [31 March–1 April 2025](2025-04-01-Pollster.html) | Pollster <br> SE.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -199,12 +201,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 30% | 100% | Last Result |
-| 1 | 0% | 70% |  |
-| 2 | 9% | 70% |  |
-| 3 | 39% | 61% | Median |
-| 4 | 18% | 22% |  |
-| 5 | 4% | 4% |  |
+| 0 | 26% | 100% | Last Result |
+| 1 | 0% | 74% |  |
+| 2 | 4% | 74% |  |
+| 3 | 42% | 70% | Median |
+| 4 | 23% | 28% |  |
+| 5 | 5% | 5% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 

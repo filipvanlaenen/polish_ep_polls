@@ -21,7 +21,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–4 April 2025](2025-04-04-Pollster.html) | Pollster <br> TV Republika | 0.0% | N/A | N/A | N/A | N/A |
 | [31 March–1 April 2025](2025-04-01-Pollster.html) | Pollster <br> SE.pl | 3.5% | 2.8–4.3% | 2.7–4.6% | 2.5–4.8% | 2.2–5.2% |
 | [21–24 March 2025](2025-03-24-ResearchPartner.html) | Research Partner | 0.0% | N/A | N/A | N/A | N/A |
-| [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.8% | 0.5–1.4% | 0.5–1.5% | 0.4–1.7% | 0.3–2.0% |
+| [21–23 March 2025](2025-03-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.9% | 0.6–1.5% | 0.5–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [17–21 March 2025](2025-03-21-Opinia24.html) | Opinia24 | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [10–13 March 2025](2025-03-13-Opinia24.html) | Opinia24 <br> RMF FM | 2.4% | 1.8–3.5% | 1.6–3.8% | 1.5–4.1% | 1.2–4.6% |
 | [11–13 March 2025](2025-03-13-Ipsos.html) | Ipsos <br> TVP | 3.2% | 2.4–4.3% | 2.2–4.7% | 2.1–5.0% | 1.8–5.5% |

@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.7% | 2.8–4.7% | 2.5–5.0% | 2.3–5.2% | 2.0–5.8% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.7% | 2.8–5.0% | 2.6–5.3% | 2.2–5.8% |
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 3.6% | 2.8–4.8% | 2.6–5.2% | 2.4–5.5% | 2.0–6.1% |
+| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [17–19 April 2025](2025-04-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.8% | 3.1–4.8% | 2.9–5.0% | 2.8–5.3% | 2.5–5.8% |
 | [15–16 April 2025](2025-04-16-Pollster.html) | Pollster <br> SE.pl | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.3% | 2.6–5.7% |
 | [14–16 April 2025](2025-04-16-Opinia24.html) | Opinia24 | 3.7% | 3.0–4.6% | 2.8–4.9% | 2.7–5.1% | 2.4–5.6% |
@@ -102,10 +103,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 5% | 100% |  |
-| 2.5–3.5% | 37% | 95% |  |
-| 3.5–4.5% | 45% | 58% | Median |
-| 4.5–5.5% | 12% | 13% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 34% | 98% |  |
+| 3.5–4.5% | 50% | 63% | Median |
+| 4.5–5.5% | 13% | 14% |  |
 | 5.5–6.5% | 1.0% | 1.0% |  |
 | 6.5–7.5% | 0% | 0% |  |
 | 7.5–8.5% | 0% | 0% |  |
@@ -121,6 +122,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–3 | 1–3 | 1–3 | 1–3 |
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
+| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
 | [17–19 April 2025](2025-04-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [15–16 April 2025](2025-04-16-Pollster.html) | Pollster <br> SE.pl | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [14–16 April 2025](2025-04-16-Opinia24.html) | Opinia24 | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
@@ -211,10 +213,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 13% | 99.9% |  |
-| 2 | 57% | 87% | Median |
-| 3 | 29% | 30% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 12% | 100% |  |
+| 2 | 57% | 88% | Median |
+| 3 | 30% | 30% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 

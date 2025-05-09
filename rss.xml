@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 May 2025 11:41:07 +0200</pubDate>
+    <pubDate>Fri, 09 May 2025 18:04:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by Opinia24 for Fakty TVN and TVN24, 1–30 April 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-30-Opinia24.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Sat, 26 Apr 2025 18:39:58 +0200</pubDate>
       <dc:date>2025-04-26T18:39:58.364196+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by United Surveys for WP.pl, 28–29 April 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-UnitedSurveys.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 16–20 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0–3 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–5 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 15–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-UnitedSurveys-seats.png"
+        length="306698"
+        type="image/png"/>
+      <pubDate>Fri, 09 May 2025 16:53:23 +0200</pubDate>
+      <dc:date>2025-05-09T16:53:23.824984+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by United Surveys for WP.pl, 28–29 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-UnitedSurveys.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-UnitedSurveys-coalitions-seats.png"
+        length="201045"
+        type="image/png"/>
+      <pubDate>Fri, 09 May 2025 16:53:23 +0200</pubDate>
+      <dc:date>2025-05-09T16:53:23.824984+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by United Surveys for WP.pl, 28–29 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-UnitedSurveys.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 5.8–9.2%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.0–2.7%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 3.7–6.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.0–5.6%&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0.2–1.1%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 27.0–33.0%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 3.1–5.7%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5.5–8.9%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 3.9–6.8%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 26.6–32.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-UnitedSurveys.png"
+        length="369082"
+        type="image/png"/>
+      <pubDate>Fri, 09 May 2025 16:53:23 +0200</pubDate>
+      <dc:date>2025-05-09T16:53:23.824984+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 28–29 April 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-InstytutBadańPollster.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 15–19 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0–3 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–5 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–3 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 15–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-InstytutBadańPollster-seats.png"
+        length="325790"
+        type="image/png"/>
+      <pubDate>Fri, 09 May 2025 18:04:35 +0200</pubDate>
+      <dc:date>2025-05-09T18:04:35.253227+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 28–29 April 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-InstytutBadańPollster.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-InstytutBadańPollster-coalitions-seats.png"
+        length="215591"
+        type="image/png"/>
+      <pubDate>Fri, 09 May 2025 18:04:35 +0200</pubDate>
+      <dc:date>2025-05-09T18:04:35.253227+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 28–29 April 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 4.6–7.5%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 25.8–31.4%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 3.7–6.4%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4.2–7.1%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 28.3–34.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-29-InstytutBadańPollster.png"
+        length="368960"
+        type="image/png"/>
+      <pubDate>Fri, 09 May 2025 18:04:35 +0200</pubDate>
+      <dc:date>2025-05-09T18:04:35.253227+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGB, 23–25 April 2025 – Seat Projections for the Parties</title>
@@ -98,36 +158,6 @@
         type="image/png"/>
       <pubDate>Fri, 25 Apr 2025 19:23:31 +0200</pubDate>
       <dc:date>2025-04-25T19:23:31.009872+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 15–16 April 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-16-Pollster.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–20 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–5 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 16–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-16-Pollster-seats.png"
-        length="303062"
-        type="image/png"/>
-      <pubDate>Sat, 19 Apr 2025 18:20:56 +0200</pubDate>
-      <dc:date>2025-04-19T18:20:56.059577+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 15–16 April 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-16-Pollster.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-16-Pollster-coalitions-seats.png"
-        length="197084"
-        type="image/png"/>
-      <pubDate>Sat, 19 Apr 2025 18:20:56 +0200</pubDate>
-      <dc:date>2025-04-19T18:20:56.059577+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 15–16 April 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-16-Pollster.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 4.6–7.5%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 3.5–6.2%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 27.1–32.8%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 28.6–34.4%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-16-Pollster.png"
-        length="361789"
-        type="image/png"/>
-      <pubDate>Sat, 19 Apr 2025 18:20:56 +0200</pubDate>
-      <dc:date>2025-04-19T18:20:56.059577+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Opinia24, 14–16 April 2025 – Seat Projections for the Parties</title>
@@ -248,66 +278,6 @@
         type="image/png"/>
       <pubDate>Mon, 21 Apr 2025 16:34:07 +0200</pubDate>
       <dc:date>2025-04-21T16:34:07.052924+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for TV Republika, 3–4 April 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-04-Pollster.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 1–3 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 16–21 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–3 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 16–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-04-Pollster-seats.png"
-        length="304175"
-        type="image/png"/>
-      <pubDate>Thu, 10 Apr 2025 20:13:06 +0200</pubDate>
-      <dc:date>2025-04-10T20:13:06.107458+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for TV Republika, 3–4 April 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-04-Pollster.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-04-Pollster-coalitions-seats.png"
-        length="213347"
-        type="image/png"/>
-      <pubDate>Thu, 10 Apr 2025 20:13:06 +0200</pubDate>
-      <dc:date>2025-04-10T20:13:06.107458+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for TV Republika, 3–4 April 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-04-Pollster.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 3.5–6.2%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 27.3–32.9%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 6.2–9.5%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 28.2–33.9%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-04-Pollster.png"
-        length="342992"
-        type="image/png"/>
-      <pubDate>Thu, 10 Apr 2025 20:13:06 +0200</pubDate>
-      <dc:date>2025-04-10T20:13:06.107458+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 31 March–1 April 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 1–3 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–20 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 4–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–3 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 16–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster-seats.png"
-        length="307387"
-        type="image/png"/>
-      <pubDate>Sat, 05 Apr 2025 10:28:55 +0200</pubDate>
-      <dc:date>2025-04-05T10:28:55.918745+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 31 March–1 April 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster-coalitions-seats.png"
-        length="204668"
-        type="image/png"/>
-      <pubDate>Sat, 05 Apr 2025 10:28:55 +0200</pubDate>
-      <dc:date>2025-04-05T10:28:55.918745+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 31 March–1 April 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3.8–6.5%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0.2–1.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 26.7–32.3%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4.6–7.6%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 29.0–34.7%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-04-01-Pollster.png"
-        length="363662"
-        type="image/png"/>
-      <pubDate>Sat, 05 Apr 2025 10:28:55 +0200</pubDate>
-      <dc:date>2025-04-05T10:28:55.918745+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Partner, 21–24 March 2025 – Seat Projections for the Parties</title>
@@ -488,36 +458,6 @@
         type="image/png"/>
       <pubDate>Sun, 23 Mar 2025 16:57:00 +0100</pubDate>
       <dc:date>2025-03-23T16:57:00.953839+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 7–9 March 2025 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-03-09-Pollster.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2–4 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 1–3 seats&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 16–20 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 1–3 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 16–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-03-09-Pollster-seats.png"
-        length="312128"
-        type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 17:11:31 +0100</pubDate>
-      <dc:date>2025-03-23T17:11:31.87061+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 7–9 March 2025 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-03-09-Pollster.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-03-09-Pollster-coalitions-seats.png"
-        length="204362"
-        type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 17:11:31 +0100</pubDate>
-      <dc:date>2025-03-23T17:11:31.87061+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Pollster for SE.pl, 7–9 March 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-03-09-Pollster.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 4.4–7.3%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 3.7–6.3%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Centrum dla Polski (*): 0.2–1.2%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 27.3–33.0%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 1.1–2.7%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 6.2–9.5%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4.4–7.3%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 29.0–34.8%&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-03-09-Pollster.png"
-        length="358901"
-        type="image/png"/>
-      <pubDate>Sun, 23 Mar 2025 17:11:31 +0100</pubDate>
-      <dc:date>2025-03-23T17:11:31.87061+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 March 2025 – Seat Projections for the Parties</title>
@@ -1689,6 +1629,6 @@
       <pubDate>Mon, 18 Nov 2024 22:12:38 +0100</pubDate>
       <dc:date>2024-11-18T22:12:38.006875+01:00</dc:date>
     </item>
-    <dc:date>2025-05-04T11:41:07.721465+02:00</dc:date>
+    <dc:date>2025-05-09T18:04:35.253227+02:00</dc:date>
   </channel>
 </rss>

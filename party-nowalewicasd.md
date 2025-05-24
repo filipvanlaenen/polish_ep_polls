@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.0% | 5.1–9.5% | 4.7–10.1% | 4.5–10.5% | 4.1–11.3% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.1–8.7% | 4.7–9.2% | 4.5–9.6% | 4.1–10.3% |
+| [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM | 6.7% | 5.7–7.8% | 5.5–8.2% | 5.3–8.5% | 4.8–9.1% |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.9% | 5.1–7.0% | 4.9–7.3% | 4.7–7.5% | 4.3–8.0% |
 | [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.3% | 7.3–9.6% | 7.0–10.0% | 6.7–10.3% | 6.2–11.0% |
@@ -112,15 +113,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 3% | 100% |  |
-| 4.5–5.5% | 18% | 97% |  |
-| 5.5–6.5% | 22% | 79% |  |
-| 6.5–7.5% | 13% | 56% | Median |
-| 7.5–8.5% | 17% | 43% |  |
-| 8.5–9.5% | 16% | 26% |  |
-| 9.5–10.5% | 8% | 10% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.3% | 0.3% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 19% | 97% |  |
+| 5.5–6.5% | 28% | 78% |  |
+| 6.5–7.5% | 20% | 50% | Median |
+| 7.5–8.5% | 17% | 30% |  |
+| 8.5–9.5% | 10% | 12% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -131,7 +131,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3 | 0–3 | 0–4 | 0–4 |
 | [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -232,11 +233,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 11% | 100% | Last Result |
 | 1 | 0% | 89% |  |
-| 2 | 1.5% | 89% |  |
-| 3 | 39% | 88% | Median |
-| 4 | 25% | 49% |  |
-| 5 | 23% | 24% |  |
-| 6 | 1.2% | 1.2% |  |
+| 2 | 2% | 89% |  |
+| 3 | 49% | 88% | Median |
+| 4 | 25% | 38% |  |
+| 5 | 13% | 13% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 

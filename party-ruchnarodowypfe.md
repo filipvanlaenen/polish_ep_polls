@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.0–6.5% | 3.7–6.9% | 3.4–7.3% | 3.0–8.0% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.9–5.7% | 3.7–6.0% | 3.5–6.3% | 3.2–6.8% |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3.5% | N/A | N/A | N/A | N/A |
+| [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 5.9% | N/A | N/A | N/A | N/A |
+| [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet | 5.6% | N/A | N/A | N/A | N/A |
+| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.4% | N/A | N/A | N/A | N/A |
 | [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM | 5.3% | 4.5–6.4% | 4.2–6.7% | 4.0–6.9% | 3.7–7.5% |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.0% | 4.3–6.0% | 4.0–6.2% | 3.9–6.5% | 3.5–7.0% |
@@ -111,14 +115,12 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 22% | 96% |  |
-| 4.5–5.5% | 38% | 74% | Median |
-| 5.5–6.5% | 26% | 36% |  |
-| 6.5–7.5% | 8% | 9% |  |
-| 7.5–8.5% | 1.3% | 1.4% |  |
-| 8.5–9.5% | 0.1% | 0.1% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 35% | 97% |  |
+| 4.5–5.5% | 48% | 63% | Median |
+| 5.5–6.5% | 14% | 15% |  |
+| 6.5–7.5% | 1.1% | 1.2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -129,7 +131,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 1–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner |  |  |  |  |  |
+| [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
+| [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet |  |  |  |  |  |
+| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet | 2 | 2–3 | 1–3 | 1–3 | 1–3 |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
@@ -230,11 +236,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 1.2% | 100% |  |
-| 2 | 33% | 98.8% |  |
-| 3 | 52% | 66% | Median |
-| 4 | 13% | 13% |  |
-| 5 | 0.5% | 0.5% |  |
-| 6 | 0% | 0% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 39% | 99.9% |  |
+| 3 | 54% | 61% | Median |
+| 4 | 7% | 7% |  |
+| 5 | 0% | 0% |  |
 
 

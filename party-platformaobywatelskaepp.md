@@ -160,7 +160,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 16–21 | 16–21 | 16–22 |
+| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 16–21 | 16–22 |
 | [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 19 | 19–21 | 18–21 | 18–22 | 17–22 |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 20 | 17–21 | 17–21 | 17–21 | 16–22 |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
@@ -279,14 +279,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.3% | 100% |  |
-| 16 | 5% | 99.7% |  |
-| 17 | 15% | 94% |  |
-| 18 | 18% | 79% |  |
-| 19 | 38% | 61% | Median |
-| 20 | 12% | 23% |  |
+| 15 | 0.5% | 100% |  |
+| 16 | 4% | 99.5% |  |
+| 17 | 17% | 96% |  |
+| 18 | 20% | 78% |  |
+| 19 | 36% | 58% | Median |
+| 20 | 12% | 22% |  |
 | 21 | 10% | 11% |  |
-| 22 | 1.0% | 1.1% |  |
+| 22 | 1.1% | 1.2% |  |
 | 23 | 0% | 0.1% |  |
 | 24 | 0% | 0% |  |
 

@@ -166,7 +166,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 20 | 19–21 | 19–22 | 18–22 | 17–22 |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 19 | 18–20 | 17–20 | 17–20 | 16–21 |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet | 18 | 16–20 | 16–20 | 16–21 | 16–21 |
-| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 17–20 | 17–21 | 17–21 |
+| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 17–21 | 17–21 | 17–21 |
 | [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM | 16 | 15–17 | 15–17 | 14–18 | 14–18 |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet | 18 | 17–20 | 16–20 | 16–20 | 16–22 |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
@@ -285,9 +285,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 9% | 98.7% |  |
 | 17 | 13% | 89% |  |
 | 18 | 23% | 76% |  |
-| 19 | 23% | 53% | Median |
-| 20 | 23% | 30% |  |
-| 21 | 6% | 8% |  |
+| 19 | 24% | 54% | Median |
+| 20 | 22% | 30% |  |
+| 21 | 7% | 8% |  |
 | 22 | 1.2% | 1.3% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |

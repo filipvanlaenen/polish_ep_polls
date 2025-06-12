@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.4–4.5% | 2.2–4.8% | 2.0–5.1% | 1.7–5.7% |
+| N/A | [Poll Average](average.html) | 3.2% | 2.3–4.4% | 2.1–4.8% | 1.9–5.1% | 1.7–5.7% |
+| [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2.7% | 2.2–3.5% | 2.0–3.7% | 1.9–3.9% | 1.7–4.3% |
+| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 3.2% | 2.6–4.2% | 2.4–4.4% | 2.2–4.7% | 2.0–5.2% |
 | [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 3.2% | 2.6–4.0% | 2.4–4.2% | 2.3–4.4% | 2.0–4.8% |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet | 3.3% | 2.6–4.1% | 2.5–4.4% | 2.3–4.6% | 2.0–5.1% |
@@ -114,9 +116,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.2% | 100% |  |
-| 1.5–2.5% | 13% | 99.8% |  |
-| 2.5–3.5% | 46% | 87% | Median |
-| 3.5–4.5% | 32% | 40% |  |
+| 1.5–2.5% | 19% | 99.8% |  |
+| 2.5–3.5% | 47% | 81% | Median |
+| 3.5–4.5% | 26% | 34% |  |
 | 4.5–5.5% | 7% | 8% |  |
 | 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -131,6 +133,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1 | 0–2 | 0–2 | 0–2 | 0–3 |
+| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 2 | 2–3 | 2–3 | 1–3 | 0–3 |
 | [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 2 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet | 2 | 1–3 | 0–3 | 0–3 | 0–3 |
@@ -234,10 +238,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 18% | 87% |  |
-| 2 | 53% | 69% | Median |
-| 3 | 15% | 16% |  |
+| 0 | 15% | 100% | Last Result |
+| 1 | 15% | 85% |  |
+| 2 | 48% | 70% | Median |
+| 3 | 22% | 22% |  |
 | 4 | 0.6% | 0.6% |  |
 | 5 | 0% | 0% |  |
 

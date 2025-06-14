@@ -138,7 +138,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 2–5 | 1–5 |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
 | [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 2 | 2 | 2 | 2–3 | 1–3 |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -243,12 +243,11 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.5% | 100% |  |
-| 2 | 35% | 99.5% |  |
-| 3 | 41% | 64% | Median |
-| 4 | 16% | 23% |  |
-| 5 | 8% | 8% |  |
-| 6 | 0.1% | 0.1% |  |
-| 7 | 0% | 0% |  |
+| 1 | 0.7% | 100% |  |
+| 2 | 39% | 99.3% |  |
+| 3 | 36% | 61% | Median |
+| 4 | 15% | 24% |  |
+| 5 | 9% | 9% |  |
+| 6 | 0% | 0% |  |
 
 

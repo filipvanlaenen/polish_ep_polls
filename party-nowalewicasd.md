@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.7% | 4.9–8.6% | 4.5–9.1% | 4.2–9.5% | 3.7–10.3% |
+| N/A | [Poll Average](average.html) | 6.2% | 4.8–7.6% | 4.5–8.0% | 4.2–8.3% | 3.7–9.0% |
+| [12–14 June 2025](2025-06-14-IBRiS.html) | IBRiS <br> Polsat News | 6.0% | 5.1–7.1% | 4.9–7.5% | 4.7–7.7% | 4.3–8.3% |
+| [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 6.4% | 5.5–7.5% | 5.2–7.9% | 5.0–8.1% | 4.6–8.7% |
+| [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.3% | 5.3–7.4% | 5.1–7.7% | 4.9–8.0% | 4.5–8.6% |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.5% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.8% |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 4.9% | 4.1–6.0% | 3.8–6.3% | 3.6–6.6% | 3.3–7.2% |
 | [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 7.1% | 6.1–8.3% | 5.9–8.6% | 5.6–8.9% | 5.2–9.5% |
@@ -118,15 +121,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 5% | 99.7% |  |
-| 4.5–5.5% | 14% | 94% |  |
-| 5.5–6.5% | 26% | 80% |  |
-| 6.5–7.5% | 27% | 54% | Median |
-| 7.5–8.5% | 17% | 27% |  |
-| 8.5–9.5% | 8% | 10% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.3% | 0.3% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 3.5–4.5% | 6% | 99.7% |  |
+| 4.5–5.5% | 20% | 94% |  |
+| 5.5–6.5% | 36% | 74% | Median |
+| 6.5–7.5% | 28% | 38% |  |
+| 7.5–8.5% | 9% | 11% |  |
+| 8.5–9.5% | 1.3% | 1.4% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -137,7 +139,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 0–5 | 0–5 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
+| [12–14 June 2025](2025-06-14-IBRiS.html) | IBRiS <br> Polsat News | 3 | 3 | 3–4 | 3–4 | 0–4 |
+| [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–4 | 0–4 | 0–4 | 0–4 |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
 | [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3 | 3–5 | 3–5 | 3–5 | 3–6 |
@@ -243,13 +248,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 1.1% | 92% |  |
-| 3 | 50% | 91% | Median |
-| 4 | 33% | 41% |  |
-| 5 | 7% | 8% |  |
-| 6 | 0.4% | 0.4% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 0% | 91% |  |
+| 2 | 1.1% | 91% |  |
+| 3 | 60% | 90% | Median |
+| 4 | 28% | 31% |  |
+| 5 | 2% | 2% |  |
+| 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 
 

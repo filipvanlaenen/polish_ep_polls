@@ -12,11 +12,10 @@
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Platforma Obywatelska (EPP) | 0.0% | 31.3% | 29.4–33.3% |28.9–33.8% |28.4–34.3% |27.5–35.3% |
 | Zjednoczona Prawica (ECR) | 0.0% | 31.3% | 29.4–33.3% |28.9–33.8% |28.4–34.3% |27.5–35.3% |
-| Nowa Nadzieja (ESN) | 0.0% | 7.5% | 6.5–8.7% |6.2–9.1% |6.0–9.4% |5.6–10.0% |
+| Nowa Nadzieja (ESN) | 0.0% | 9.6% | 8.5–10.9% |8.2–11.3% |7.9–11.6% |7.4–12.3% |
+| Ruch Narodowy (PfE) | 0.0% | 7.1% | 6.1–8.3% |5.9–8.6% |5.6–8.9% |5.2–9.5% |
 | Nowa Lewica (S&D) | 0.0% | 6.3% | 5.3–7.4% |5.1–7.7% |4.9–8.0% |4.5–8.6% |
-| Ruch Narodowy (PfE) | 0.0% | 5.5% | 4.7–6.6% |4.5–6.9% |4.3–7.2% |3.9–7.7% |
 | Lewica Razem (GUE/NGL) | 0.0% | 5.4% | 4.6–6.5% |4.4–6.8% |4.2–7.1% |3.8–7.6% |
-| Konfederacja Korony Polskiej (NI) | 0.0% | 3.6% | 3.0–4.6% |2.8–4.8% |2.6–5.0% |2.3–5.5% |
 | Polska 2050 (RE) | 0.0% | 3.0% | 2.4–3.9% |2.3–4.1% |2.1–4.3% |1.9–4.8% |
 | Polskie Stronnictwo Ludowe (EPP) | 0.0% | 2.5% | 2.0–3.3% |1.8–3.5% |1.7–3.7% |1.5–4.1% |
 | .Nowoczesna (RE) | 0.0% | 1.8% | 1.3–2.5% |1.2–2.7% |1.1–2.8% |0.9–3.2% |
@@ -36,18 +35,17 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 18 | 18–20 |17–20 |17–20 |16–21 |
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 18 | 16–20 |15–20 |15–20 |15–20 |
-| <a href="#nowa-nadzieja-(esn)">Nowa Nadzieja (ESN)</a> | 0 | 5 | 4–5 |3–5 |3–5 |3–6 |
-| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 3 | 2–4 |0–4 |0–4 |0–4 |
-| <a href="#ruch-narodowy-(pfe)">Ruch Narodowy (PfE)</a> | 0 | 3 | 3–4 |2–4 |2–4 |2–4 |
-| <a href="#lewica-razem-(gue/ngl)">Lewica Razem (GUE/NGL)</a> | 0 | 2 | 0–3 |0–4 |0–4 |0–4 |
-| <a href="#konfederacja-korony-polskiej-(ni)">Konfederacja Korony Polskiej (NI)</a> | 0 | 2 | 2 |2 |1–3 |1–3 |
-| <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | 1 | 0–2 |0–2 |0–3 |0–3 |
-| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 1 | 0–1 |0–2 |0–2 |0–2 |
-| <a href="#.nowoczesna-(re)">.Nowoczesna (RE)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 20 | 17–21 |17–21 |17–21 |16–21 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 16 | 16–18 |15–19 |15–19 |14–20 |
+| <a href="#nowa-nadzieja-(esn)">Nowa Nadzieja (ESN)</a> | 0 | 6 | 4–6 |4–7 |4–7 |4–7 |
+| <a href="#ruch-narodowy-(pfe)">Ruch Narodowy (PfE)</a> | 0 | 3 | 3–4 |3–4 |3–5 |3–5 |
+| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 3 | 3 |0–4 |0–4 |0–5 |
+| <a href="#lewica-razem-(gue/ngl)">Lewica Razem (GUE/NGL)</a> | 0 | 2 | 0–3 |0–3 |0–3 |0–4 |
+| <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |0–3 |
+| <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 1 | 1–2 |1–2 |1–2 |0–2 |
+| <a href="#.nowoczesna-(re)">.Nowoczesna (RE)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#partia-zieloni-(greens/efa)">Partia Zieloni (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
-| <a href="#inicjatywa-polska-(epp)">Inicjatywa Polska (EPP)</a> | 0 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#inicjatywa-polska-(epp)">Inicjatywa Polska (EPP)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#centrum-dla-polski-(*)">Centrum dla Polski (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Platforma Obywatelska (EPP)
@@ -73,16 +71,15 @@
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0% | 100% |  |
-| 16 | 0.5% | 100% |  |
-| 17 | 9% | 99.5% |  |
-| 18 | 62% | 91% | Median |
-| 19 | 6% | 28% |  |
-| 20 | 21% | 22% |  |
-| 21 | 0.8% | 1.1% |  |
-| 22 | 0.3% | 0.3% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 15 | 0.3% | 100% |  |
+| 16 | 2% | 99.7% |  |
+| 17 | 9% | 98% |  |
+| 18 | 8% | 89% |  |
+| 19 | 22% | 81% |  |
+| 20 | 22% | 59% | Median |
+| 21 | 38% | 38% |  |
+| 22 | 0.1% | 0.1% |  |
+| 23 | 0% | 0% |  |
 
 ### Zjednoczona Prawica (ECR)
 
@@ -106,15 +103,14 @@
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.2% | 100% |  |
-| 15 | 8% | 99.8% |  |
-| 16 | 8% | 92% |  |
-| 17 | 34% | 84% |  |
-| 18 | 7% | 50% | Median |
-| 19 | 0.6% | 44% |  |
-| 20 | 43% | 43% |  |
-| 21 | 0.1% | 0.1% |  |
-| 22 | 0% | 0% |  |
+| 14 | 0.7% | 100% |  |
+| 15 | 7% | 99.3% |  |
+| 16 | 64% | 92% | Median |
+| 17 | 9% | 27% |  |
+| 18 | 12% | 18% |  |
+| 19 | 6% | 6% |  |
+| 20 | 0.8% | 0.8% |  |
+| 21 | 0% | 0% |  |
 
 ### Nowa Nadzieja (ESN)
 
@@ -126,28 +122,14 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 6% | 99.9% |  |
-| 4 | 40% | 94% |  |
-| 5 | 53% | 53% | Median |
-| 6 | 0.6% | 0.6% |  |
-| 7 | 0% | 0% |  |
-
-### Nowa Lewica (S&D)
-
-*For a full overview of the results for this party, see the [Nowa Lewica (S&D)](party-nowalewicasd.html) page.*
-
-![Graph with seats probability mass function not yet produced](2025-06-08-UnitedSurveys-seats-pmf-nowalewicasd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 0% | 91% |  |
-| 2 | 5% | 91% |  |
-| 3 | 72% | 86% | Median |
-| 4 | 14% | 14% |  |
-| 5 | 0.2% | 0.2% |  |
-| 6 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 10% | 100% |  |
+| 5 | 22% | 90% |  |
+| 6 | 61% | 67% | Median |
+| 7 | 6% | 6% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 ### Ruch Narodowy (PfE)
 
@@ -159,10 +141,26 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 7% | 100% |  |
-| 3 | 76% | 93% | Median |
-| 4 | 17% | 17% |  |
-| 5 | 0.2% | 0.2% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 66% | 99.8% | Median |
+| 4 | 31% | 34% |  |
+| 5 | 3% | 3% |  |
+| 6 | 0% | 0% |  |
+
+### Nowa Lewica (S&D)
+
+*For a full overview of the results for this party, see the [Nowa Lewica (S&D)](party-nowalewicasd.html) page.*
+
+![Graph with seats probability mass function not yet produced](2025-06-08-UnitedSurveys-seats-pmf-nowalewicasd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 6% | 100% | Last Result |
+| 1 | 0% | 94% |  |
+| 2 | 2% | 94% |  |
+| 3 | 83% | 93% | Median |
+| 4 | 9% | 10% |  |
+| 5 | 0.6% | 0.6% |  |
 | 6 | 0% | 0% |  |
 
 ### Lewica Razem (GUE/NGL)
@@ -173,26 +171,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 0% | 83% |  |
-| 2 | 51% | 83% | Median |
-| 3 | 24% | 32% |  |
-| 4 | 8% | 8% |  |
+| 0 | 47% | 100% | Last Result |
+| 1 | 0% | 53% |  |
+| 2 | 33% | 53% | Median |
+| 3 | 19% | 20% |  |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
-
-### Konfederacja Korony Polskiej (NI)
-
-*For a full overview of the results for this party, see the [Konfederacja Korony Polskiej (NI)](party-konfederacjakoronypolskiejni.html) page.*
-
-![Graph with seats probability mass function not yet produced](2025-06-08-UnitedSurveys-seats-pmf-konfederacjakoronypolskiejni.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 4% | 100% |  |
-| 2 | 91% | 96% | Median |
-| 3 | 4% | 5% |  |
-| 4 | 0% | 0% |  |
 
 ### Polska 2050 (RE)
 
@@ -202,11 +186,12 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 12% | 52% | Median |
-| 2 | 35% | 40% |  |
-| 3 | 5% | 5% |  |
-| 4 | 0% | 0% |  |
+| 0 | 1.2% | 100% | Last Result |
+| 1 | 21% | 98.8% |  |
+| 2 | 77% | 78% | Median |
+| 3 | 0.7% | 0.8% |  |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
 
 ### Polskie Stronnictwo Ludowe (EPP)
 
@@ -216,10 +201,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 48% | 100% | Last Result |
-| 1 | 42% | 52% | Median |
-| 2 | 9% | 9% |  |
-| 3 | 0% | 0% |  |
+| 0 | 1.4% | 100% | Last Result |
+| 1 | 74% | 98.6% | Median |
+| 2 | 24% | 24% |  |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
 
 ### .Nowoczesna (RE)
 
@@ -229,9 +215,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Last Result, Median |
-| 1 | 34% | 34% |  |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 30% | 100% | Last Result |
+| 1 | 70% | 70% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 ### Partia Zieloni (Greens/EFA)
@@ -254,8 +240,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 ### Centrum dla Polski (*)
@@ -279,9 +265,9 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Nowa Nadzieja (ESN) | 0 | 5 | 0% | 4–5 | 3–5 | 3–5 | 3–6 |
-| Ruch Narodowy (PfE) | 0 | 3 | 0% | 3–4 | 2–4 | 2–4 | 2–4 |
-| Lewica Razem (GUE/NGL) | 0 | 2 | 0% | 0–3 | 0–4 | 0–4 | 0–4 |
+| Nowa Nadzieja (ESN) | 0 | 6 | 0% | 4–6 | 4–7 | 4–7 | 4–7 |
+| Ruch Narodowy (PfE) | 0 | 3 | 0% | 3–4 | 3–4 | 3–5 | 3–5 |
+| Lewica Razem (GUE/NGL) | 0 | 2 | 0% | 0–3 | 0–3 | 0–3 | 0–4 |
 | Partia Zieloni (Greens/EFA) | 0 | 0 | 0% | 0 | 0 | 0 | 0–1 |
 
 ### Nowa Nadzieja (ESN)
@@ -292,12 +278,14 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.1% | 100% |  |
-| 3 | 6% | 99.9% |  |
-| 4 | 40% | 94% |  |
-| 5 | 53% | 53% | Median |
-| 6 | 0.6% | 0.6% |  |
-| 7 | 0% | 0% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 10% | 100% |  |
+| 5 | 22% | 90% |  |
+| 6 | 61% | 67% | Median |
+| 7 | 6% | 6% |  |
+| 8 | 0.1% | 0.1% |  |
+| 9 | 0% | 0% |  |
 
 ### Ruch Narodowy (PfE)
 
@@ -307,10 +295,10 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 7% | 100% |  |
-| 3 | 76% | 93% | Median |
-| 4 | 17% | 17% |  |
-| 5 | 0.2% | 0.2% |  |
+| 2 | 0.2% | 100% |  |
+| 3 | 66% | 99.8% | Median |
+| 4 | 31% | 34% |  |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 ### Lewica Razem (GUE/NGL)
@@ -319,11 +307,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 17% | 100% | Last Result |
-| 1 | 0% | 83% |  |
-| 2 | 51% | 83% | Median |
-| 3 | 24% | 32% |  |
-| 4 | 8% | 8% |  |
+| 0 | 47% | 100% | Last Result |
+| 1 | 0% | 53% |  |
+| 2 | 33% | 53% | Median |
+| 3 | 19% | 20% |  |
+| 4 | 1.0% | 1.0% |  |
 | 5 | 0% | 0% |  |
 
 ### Partia Zieloni (Greens/EFA)
@@ -348,6 +336,6 @@
 ### Calculations
 
 + **Sample size:** 959
-+ **Simulations done:** 2,097,152
-+ **Error estimate:** 4.60%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.51%
 

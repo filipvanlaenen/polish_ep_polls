@@ -135,7 +135,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [12–14 June 2025](2025-06-14-IBRiS.html) | IBRiS <br> Polsat News | 0 | 0 | 0 | 0 | 0 |
-| [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
+| [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0–1 |
 | [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 0 | 0 | 0 | 0 | 0–1 |

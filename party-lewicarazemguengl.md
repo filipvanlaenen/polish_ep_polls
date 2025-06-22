@@ -142,9 +142,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [12–14 June 2025](2025-06-14-IBRiS.html) | IBRiS <br> Polsat News | 0 | 0 | 0 | 0 | 0 |
 | [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 2 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 0 | 0 | 0 | 0 | 0 |
 | [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
@@ -250,10 +250,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 0% | 27% |  |
-| 2 | 9% | 27% |  |
-| 3 | 17% | 17% |  |
+| 0 | 72% | 100% | Last Result, Median |
+| 1 | 0% | 28% |  |
+| 2 | 4% | 28% |  |
+| 3 | 23% | 23% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 

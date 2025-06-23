@@ -15,7 +15,7 @@ The table below lists the polls on which the average is based. They are the most
 | [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 4–7% <br> 0–3 | 0–2% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | 1–3% <br> 0–1 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 28–34% <br> 17–21 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 28–34% <br> 15–19 | 6–9% <br> 3–5 | 8–12% <br> 4–7 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 4–7% <br> 0–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 4–7% <br> 0–3 | N/A <br> N/A | 1–3% <br> 0–1 | 2–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 25–31% <br> 14–19 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 30–36% <br> 17–21 | 4–8% <br> 2–4 | 6–10% <br> 3–6 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 2–5% <br> 0 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 4–6 | N/A <br> N/A | 1–2% <br> 0–1 | 2–5% <br> 1–3 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 25–31% <br> 16–19 | 2–4% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | 29–35% <br> 17–20 | 4–7% <br> 2–4 | 6–9% <br> 3–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 3–6% <br> 0–3 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3–6% <br> 0–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–5 | N/A <br> N/A | 1–3% <br> 0–1 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 27–33% <br> 16–21 | 1–3% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 30–36% <br> 17–21 | 3–6% <br> 2–4 | 5–8% <br> 2–5 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3–6% <br> 0–3 | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 3–5 | N/A <br> N/A | 1–3% <br> 0–1 | 2–4% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 27–33% <br> 17–20 | 1–3% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | 30–36% <br> 17–21 | 3–6% <br> 2–3 | 5–8% <br> 3–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–4 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 0–1% <br> 0 |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -377,7 +377,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#sojusz-lewicy-demokratycznej-(s&d)">Sojusz Lewicy Demokratycznej (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wiosna-(s&d)">Wiosna (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 3 | 0–6 |0–6 | 0–6 | 0–6 |
+| <a href="#nowa-lewica-(s&d)">Nowa Lewica (S&D)</a> | 0 | 3 | 0–5 |0–6 | 0–6 | 0–6 |
 | <a href="#wiosna–partia-razem-(s&d)">Wiosna–Partia Razem (S&D)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#.nowoczesna-(re)">.Nowoczesna (RE)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#polska-2050-(re)">Polska 2050 (RE)</a> | 0 | 2 | 0–2 |0–3 | 0–3 | 0–3 |
@@ -391,9 +391,9 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#polskie-stronnictwo-ludowe-(epp)">Polskie Stronnictwo Ludowe (EPP)</a> | 0 | 1 | 0–2 |0–2 | 0–2 | 0–3 |
 | <a href="#porozumienie-(epp)">Porozumienie (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#prawo-i-sprawiedliwość-(ecr)">Prawo i Sprawiedliwość (ECR)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 18 | 16–20 |16–21 | 15–21 | 15–22 |
+| <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 18 | 16–20 |16–21 | 15–21 | 15–21 |
 | <a href="#ruch-narodowy-(pfe)">Ruch Narodowy (PfE)</a> | 0 | 3 | 2–4 |2–5 | 2–5 | 2–5 |
-| <a href="#nowa-nadzieja-(esn)">Nowa Nadzieja (ESN)</a> | 0 | 5 | 3–6 |3–6 | 3–7 | 2–7 |
+| <a href="#nowa-nadzieja-(esn)">Nowa Nadzieja (ESN)</a> | 0 | 5 | 4–6 |3–6 | 3–7 | 3–7 |
 | <a href="#kukiz’15-(ni)">Kukiz’15 (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#korwin-(ni)">KORWiN (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#konfederacja-(ni)">Konfederacja (NI)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
@@ -412,10 +412,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 0% | 28% |  |
-| 2 | 4% | 28% |  |
-| 3 | 23% | 23% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 0% | 25% |  |
+| 2 | 4% | 25% |  |
+| 3 | 20% | 21% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -460,11 +460,11 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 13% | 100% | Last Result |
 | 1 | 0% | 87% |  |
 | 2 | 1.5% | 87% |  |
-| 3 | 46% | 86% | Median |
-| 4 | 20% | 40% |  |
-| 5 | 8% | 20% |  |
-| 6 | 12% | 12% |  |
-| 7 | 0.1% | 0.1% |  |
+| 3 | 42% | 86% | Median |
+| 4 | 29% | 44% |  |
+| 5 | 10% | 15% |  |
+| 6 | 5% | 5% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 ### .Nowoczesna (RE)
@@ -475,8 +475,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 49% | 49% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 48% | 48% |  |
 | 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
@@ -488,9 +488,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 21% | 86% |  |
-| 2 | 59% | 65% | Median |
+| 0 | 12% | 100% | Last Result |
+| 1 | 17% | 88% |  |
+| 2 | 65% | 71% | Median |
 | 3 | 6% | 6% |  |
 | 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
@@ -560,14 +560,15 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0.7% | 100% |  |
-| 15 | 8% | 99.3% |  |
-| 16 | 15% | 91% |  |
-| 17 | 38% | 76% | Median |
-| 18 | 14% | 38% |  |
-| 19 | 17% | 24% |  |
-| 20 | 4% | 7% |  |
+| 15 | 8% | 99.2% |  |
+| 16 | 16% | 91% |  |
+| 17 | 33% | 75% | Median |
+| 18 | 17% | 42% |  |
+| 19 | 20% | 25% |  |
+| 20 | 3% | 5% |  |
 | 21 | 2% | 2% |  |
-| 22 | 0% | 0% |  |
+| 22 | 0.2% | 0.2% |  |
+| 23 | 0% | 0% |  |
 
 ### Polskie Stronnictwo Ludowe (EPP)
 
@@ -577,9 +578,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 45% | 86% | Median |
-| 2 | 40% | 41% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 52% | 88% | Median |
+| 2 | 35% | 36% |  |
 | 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
@@ -620,13 +621,14 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0.2% | 100% |  |
 | 15 | 3% | 99.7% |  |
 | 16 | 13% | 97% |  |
-| 17 | 11% | 84% |  |
+| 17 | 10% | 84% |  |
 | 18 | 41% | 73% | Median |
-| 19 | 13% | 32% |  |
-| 20 | 13% | 19% |  |
-| 21 | 5% | 6% |  |
-| 22 | 0.6% | 0.7% |  |
-| 23 | 0% | 0% |  |
+| 19 | 19% | 32% |  |
+| 20 | 8% | 13% |  |
+| 21 | 5% | 5% |  |
+| 22 | 0.3% | 0.4% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 ### Ruch Narodowy (PfE)
 
@@ -637,10 +639,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 15% | 99.8% |  |
-| 3 | 51% | 85% | Median |
-| 4 | 26% | 34% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 21% | 99.9% |  |
+| 3 | 43% | 79% | Median |
+| 4 | 28% | 36% |  |
 | 5 | 7% | 8% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -655,10 +657,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.9% | 100% |  |
-| 3 | 13% | 99.1% |  |
-| 4 | 27% | 87% |  |
-| 5 | 42% | 60% | Median |
+| 2 | 0.2% | 100% |  |
+| 3 | 6% | 99.8% |  |
+| 4 | 37% | 93% |  |
+| 5 | 38% | 56% | Median |
 | 6 | 15% | 18% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
@@ -689,11 +691,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 0% | 75% |  |
-| 2 | 0.6% | 75% |  |
-| 3 | 48% | 74% | Median |
-| 4 | 24% | 27% |  |
+| 0 | 19% | 100% | Last Result |
+| 1 | 0% | 81% |  |
+| 2 | 0.9% | 81% |  |
+| 3 | 54% | 80% | Median |
+| 4 | 23% | 26% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
@@ -743,9 +745,9 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | AGROunia–Porozumienie (EPP) – Inicjatywa Polska (EPP) – Koalicja Europejska (EPP) – Koalicja Obywatelska (EPP) – Koalicja Polska (EPP) – Platforma Obywatelska (EPP) – Polskie Stronnictwo Ludowe (EPP) – Porozumienie (EPP) | 0 | 19 | 0% | 17–20 | 16–21 | 16–22 | 16–22 |
-| Prawo i Sprawiedliwość (ECR) – Zjednoczona Prawica (ECR) | 0 | 18 | 0% | 16–20 | 16–21 | 15–21 | 15–22 |
-| Nowa Nadzieja (ESN) | 0 | 5 | 0% | 3–6 | 3–6 | 3–7 | 2–7 |
-| Nowa Lewica (S&D) – Sojusz Lewicy Demokratycznej (S&D) – Wiosna (S&D) – Wiosna–Partia Razem (S&D) | 0 | 3 | 0% | 0–6 | 0–6 | 0–6 | 0–6 |
+| Prawo i Sprawiedliwość (ECR) – Zjednoczona Prawica (ECR) | 0 | 18 | 0% | 16–20 | 16–21 | 15–21 | 15–21 |
+| Nowa Nadzieja (ESN) | 0 | 5 | 0% | 4–6 | 3–6 | 3–7 | 3–7 |
+| Nowa Lewica (S&D) – Sojusz Lewicy Demokratycznej (S&D) – Wiosna (S&D) – Wiosna–Partia Razem (S&D) | 0 | 3 | 0% | 0–5 | 0–6 | 0–6 | 0–6 |
 | Ruch Narodowy (PfE) | 0 | 3 | 0% | 2–4 | 2–5 | 2–5 | 2–5 |
 | .Nowoczesna (RE) – Polska 2050 (RE) – Trzecia Droga (RE) | 0 | 2 | 0% | 1–3 | 0–3 | 0–4 | 0–4 |
 | KORWiN (NI) – Konfederacja (NI) – Konfederacja Korony Polskiej (NI) – Kukiz’15 (NI) | 0 | 3 | 0% | 0–4 | 0–4 | 0–4 | 0–5 |
@@ -774,13 +776,13 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
+| 15 | 0.2% | 100% |  |
 | 16 | 6% | 99.8% |  |
-| 17 | 11% | 94% |  |
-| 18 | 25% | 82% | Median |
-| 19 | 37% | 57% |  |
-| 20 | 10% | 20% |  |
-| 21 | 5% | 9% |  |
+| 17 | 10% | 94% |  |
+| 18 | 28% | 83% | Median |
+| 19 | 33% | 55% |  |
+| 20 | 14% | 22% |  |
+| 21 | 4% | 8% |  |
 | 22 | 4% | 4% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
@@ -808,13 +810,14 @@ Only polls for which at least the sample size has been published are included in
 | 14 | 0.2% | 100% |  |
 | 15 | 3% | 99.7% |  |
 | 16 | 13% | 97% |  |
-| 17 | 11% | 84% |  |
+| 17 | 10% | 84% |  |
 | 18 | 41% | 73% | Median |
-| 19 | 13% | 32% |  |
-| 20 | 13% | 19% |  |
-| 21 | 5% | 6% |  |
-| 22 | 0.6% | 0.7% |  |
-| 23 | 0% | 0% |  |
+| 19 | 19% | 32% |  |
+| 20 | 8% | 13% |  |
+| 21 | 5% | 5% |  |
+| 22 | 0.3% | 0.4% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 ### Nowa Nadzieja (ESN)
 
@@ -824,10 +827,10 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.9% | 100% |  |
-| 3 | 13% | 99.1% |  |
-| 4 | 27% | 87% |  |
-| 5 | 42% | 60% | Median |
+| 2 | 0.2% | 100% |  |
+| 3 | 6% | 99.8% |  |
+| 4 | 37% | 93% |  |
+| 5 | 38% | 56% | Median |
 | 6 | 15% | 18% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |
@@ -841,11 +844,11 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 13% | 100% | Last Result |
 | 1 | 0% | 87% |  |
 | 2 | 1.5% | 87% |  |
-| 3 | 46% | 86% | Median |
-| 4 | 20% | 40% |  |
-| 5 | 8% | 20% |  |
-| 6 | 12% | 12% |  |
-| 7 | 0.1% | 0.1% |  |
+| 3 | 42% | 86% | Median |
+| 4 | 29% | 44% |  |
+| 5 | 10% | 15% |  |
+| 6 | 5% | 5% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 ### Ruch Narodowy (PfE)
@@ -855,10 +858,10 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 15% | 99.8% |  |
-| 3 | 51% | 85% | Median |
-| 4 | 26% | 34% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 21% | 99.9% |  |
+| 3 | 43% | 79% | Median |
+| 4 | 28% | 36% |  |
 | 5 | 7% | 8% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
@@ -869,10 +872,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% | Last Result |
-| 1 | 13% | 93% |  |
-| 2 | 50% | 80% | Median |
-| 3 | 26% | 30% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 12% | 94% |  |
+| 2 | 48% | 82% | Median |
+| 3 | 30% | 34% |  |
 | 4 | 4% | 4% |  |
 | 5 | 0.1% | 0.1% |  |
 | 6 | 0% | 0% |  |
@@ -883,11 +886,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 37% | 100% | Last Result |
-| 1 | 0% | 63% |  |
-| 2 | 0.5% | 63% |  |
-| 3 | 40% | 62% | Median |
-| 4 | 20% | 22% |  |
+| 0 | 33% | 100% | Last Result |
+| 1 | 0% | 67% |  |
+| 2 | 0.7% | 67% |  |
+| 3 | 45% | 67% | Median |
+| 4 | 19% | 21% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
@@ -897,10 +900,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 0% | 28% |  |
-| 2 | 4% | 28% |  |
-| 3 | 23% | 23% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 0% | 25% |  |
+| 2 | 4% | 25% |  |
+| 3 | 20% | 21% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -928,6 +931,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 6
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 10,485,760
-+ **Error estimate:** 2.96%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 12,582,912
++ **Error estimate:** 3.55%

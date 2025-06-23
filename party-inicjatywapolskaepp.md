@@ -148,15 +148,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [5–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Newsweek |  |  |  |  |  |
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
+| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0–1 |
 | [17–19 April 2025](2025-04-19-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [14–16 April 2025](2025-04-16-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 0 | 0 | 0 | 0 | 0 |
+| [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 0 | 0 | 0 | 0 | 0–1 |
 | [15–16 April 2025](2025-04-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [9–14 April 2025](2025-04-14-OGB.html) | OGB |  |  |  |  |  |
 | [7–9 April 2025](2025-04-09-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |

@@ -147,8 +147,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 3 | 3–4 | 0–4 | 0–4 | 0–5 |
-| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 0 | 0 | 0–3 | 0–3 | 0–3 |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3 | 3 | 3 | 0–4 | 0–4 |
 | [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet |  |  |  |  |  |
@@ -252,11 +252,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 25% | 100% | Last Result |
-| 1 | 0% | 75% |  |
-| 2 | 0.6% | 75% |  |
-| 3 | 48% | 74% | Median |
-| 4 | 24% | 27% |  |
+| 0 | 19% | 100% | Last Result |
+| 1 | 0% | 81% |  |
+| 2 | 0.9% | 81% |  |
+| 3 | 54% | 80% | Median |
+| 4 | 23% | 26% |  |
 | 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 

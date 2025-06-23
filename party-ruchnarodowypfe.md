@@ -147,12 +147,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 3 | 3 | 2–4 | 2–4 | 2–4 |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 2 | 2–3 | 2–4 | 2–4 | 1–4 |
+| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
+| [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet |  |  |  |  |  |
-| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
@@ -161,10 +161,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [17–19 April 2025](2025-04-19-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [14–16 April 2025](2025-04-16-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 5 | 4–6 | 4–6 | 3–6 | 3–6 |
+| [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [15–16 April 2025](2025-04-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [9–14 April 2025](2025-04-14-OGB.html) | OGB |  |  |  |  |  |
 | [7–9 April 2025](2025-04-09-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
@@ -253,10 +253,10 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.2% | 100% |  |
-| 2 | 15% | 99.8% |  |
-| 3 | 51% | 85% | Median |
-| 4 | 26% | 34% |  |
+| 1 | 0.1% | 100% |  |
+| 2 | 21% | 99.9% |  |
+| 3 | 43% | 79% | Median |
+| 4 | 28% | 36% |  |
 | 5 | 7% | 8% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |

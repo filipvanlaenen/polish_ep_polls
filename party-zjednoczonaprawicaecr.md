@@ -169,30 +169,30 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 15–22 |
+| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–21 | 15–21 | 15–21 |
 | [12–14 June 2025](2025-06-14-IBRiS.html) | IBRiS <br> Polsat News | 16 | 16–19 | 15–19 | 15–20 | 14–20 |
 | [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 18 | 16–18 | 15–19 | 15–19 | 15–19 |
 | [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 16–19 | 16–19 | 15–19 | 14–20 |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 19 | 18–21 | 17–21 | 17–21 | 16–22 |
 | [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 18 | 18–19 | 18–19 | 17–20 | 16–21 |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 20 | 18–21 | 17–21 | 17–21 | 16–22 |
-| [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM | 17 | 15–18 | 15–19 | 15–19 | 15–21 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 19 | 18–21 | 17–21 | 17–21 | 17–22 |
+| [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM | 16 | 15–18 | 15–19 | 15–21 | 15–21 |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet |  |  |  |  |  |
-| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–19 | 17–20 | 17–21 | 17–21 |
+| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–18 | 16–18 | 15–18 | 15–19 |
+| [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 16–18 | 15–18 | 15–19 | 14–19 |
 | [5–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Newsweek |  |  |  |  |  |
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 19 | 18–20 | 17–20 | 17–20 | 17–21 |
+| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 19 | 19–20 | 18–20 | 17–20 | 16–21 |
 | [17–19 April 2025](2025-04-19-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [14–16 April 2025](2025-04-16-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
+| [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 16 | 15–17 | 15–18 | 15–19 | 14–20 |
 | [15–16 April 2025](2025-04-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [9–14 April 2025](2025-04-14-OGB.html) | OGB |  |  |  |  |  |
 | [7–9 April 2025](2025-04-09-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
@@ -297,12 +297,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0.2% | 100% |  |
 | 15 | 3% | 99.7% |  |
 | 16 | 13% | 97% |  |
-| 17 | 11% | 84% |  |
+| 17 | 10% | 84% |  |
 | 18 | 41% | 73% | Median |
-| 19 | 13% | 32% |  |
-| 20 | 13% | 19% |  |
-| 21 | 5% | 6% |  |
-| 22 | 0.6% | 0.7% |  |
-| 23 | 0% | 0% |  |
+| 19 | 19% | 32% |  |
+| 20 | 8% | 13% |  |
+| 21 | 5% | 5% |  |
+| 22 | 0.3% | 0.4% |  |
+| 23 | 0% | 0.1% |  |
+| 24 | 0% | 0% |  |
 
 

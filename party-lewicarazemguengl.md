@@ -145,12 +145,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 0 | 0 | 0 | 0 | 0 |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
+| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 0 | 0 | 0 | 0 | 0–2 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM | 3 | 2–3 | 0–4 | 0–4 | 0–4 |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet |  |  |  |  |  |
-| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0–2 | 0–3 | 0–3 |
+| [25 May 2025](2025-05-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [12–14 May 2025](2025-05-14-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
@@ -250,10 +250,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 72% | 100% | Last Result, Median |
-| 1 | 0% | 28% |  |
-| 2 | 4% | 28% |  |
-| 3 | 23% | 23% |  |
+| 0 | 75% | 100% | Last Result, Median |
+| 1 | 0% | 25% |  |
+| 2 | 4% | 25% |  |
+| 3 | 20% | 21% |  |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 

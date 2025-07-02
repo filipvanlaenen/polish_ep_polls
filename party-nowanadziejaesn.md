@@ -10,17 +10,17 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.6–11.3% | 8.2–11.7% | 7.9–12.1% | 7.3–12.8% |
+| N/A | [Poll Average](average.html) | 8.6% | 6.8–10.7% | 6.5–11.2% | 6.1–11.6% | 5.6–12.4% |
 | [27–29 June 2025](2025-06-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.4% | 8.2–10.7% | 7.9–11.1% | 7.7–11.4% | 7.1–12.1% |
 | [27–28 June 2025](2025-06-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10.3% | 9.2–11.6% | 8.8–12.0% | 8.6–12.3% | 8.0–13.0% |
 | [23–24 June 2025](2025-06-24-IBRiS.html) | IBRiS <br> Onet | 10.0% | N/A | N/A | N/A | N/A |
 | [12–14 June 2025](2025-06-14-IBRiS.html) | IBRiS <br> Polsat News | 9.1% | N/A | N/A | N/A | N/A |
-| [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 8.4% | N/A | N/A | N/A | N/A |
+| [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 8.4% | 7.3–9.7% | 7.0–10.0% | 6.8–10.3% | 6.3–11.0% |
 | [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.6% | N/A | N/A | N/A | N/A |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 12.5% | N/A | N/A | N/A | N/A |
-| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 7.8% | N/A | N/A | N/A | N/A |
-| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 7.1% | N/A | N/A | N/A | N/A |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 6.2% | N/A | N/A | N/A | N/A |
+| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 7.8% | 6.7–9.1% | 6.4–9.5% | 6.2–9.8% | 5.7–10.5% |
+| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 7.1% | 6.1–8.3% | 5.9–8.6% | 5.6–8.9% | 5.2–9.5% |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.9% | 4.4–8.4% |
 | [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM | 10.0% | N/A | N/A | N/A | N/A |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet | 10.2% | N/A | N/A | N/A | N/A |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet | 9.7% | N/A | N/A | N/A | N/A |
@@ -127,17 +127,16 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.9% | 100% |  |
-| 7.5–8.5% | 9% | 99.1% |  |
-| 8.5–9.5% | 28% | 90% |  |
-| 9.5–10.5% | 35% | 62% | Median |
-| 10.5–11.5% | 21% | 27% |  |
-| 11.5–12.5% | 6% | 7% |  |
-| 12.5–13.5% | 0.8% | 0.9% |  |
-| 13.5–14.5% | 0.1% | 0.1% |  |
-| 14.5–15.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.4% | 100% |  |
+| 5.5–6.5% | 6% | 99.6% |  |
+| 6.5–7.5% | 18% | 94% |  |
+| 7.5–8.5% | 25% | 76% |  |
+| 8.5–9.5% | 23% | 51% | Median |
+| 9.5–10.5% | 17% | 28% |  |
+| 10.5–11.5% | 9% | 11% |  |
+| 11.5–12.5% | 2% | 3% |  |
+| 12.5–13.5% | 0.3% | 0.3% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -148,17 +147,17 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 5–7 | 5–7 | 5–8 | 5–8 |
+| N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 3–8 |
 | [27–29 June 2025](2025-06-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5 | 5–6 | 5–6 | 4–7 |
 | [27–28 June 2025](2025-06-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7 | 5–7 | 5–8 | 5–8 | 5–8 |
 | [23–24 June 2025](2025-06-24-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [12–14 June 2025](2025-06-14-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
-| [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [6–8 June 2025](2025-06-08-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas |  |  |  |  |  |
-| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet |  |  |  |  |  |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner |  |  |  |  |  |
+| [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 5 | 4–7 | 4–7 | 3–7 | 3–7 |
+| [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet |  |  |  |  |  |
@@ -265,12 +264,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0% | 100% |  |
-| 4 | 0.3% | 100% |  |
-| 5 | 52% | 99.7% | Median |
-| 6 | 17% | 47% |  |
-| 7 | 26% | 31% |  |
-| 8 | 5% | 5% |  |
+| 3 | 1.1% | 100% |  |
+| 4 | 16% | 98.9% |  |
+| 5 | 56% | 83% | Median |
+| 6 | 11% | 27% |  |
+| 7 | 14% | 16% |  |
+| 8 | 2% | 2% |  |
 | 9 | 0% | 0% |  |
 
 

@@ -154,7 +154,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 4 | 3–4 | 0–4 | 0–4 | 0–5 |
 | [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 0 | 0 | 0–3 | 0–3 | 0–3 |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3 | 0–4 | 0–4 | 0–4 | 0–5 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet |  |  |  |  |  |

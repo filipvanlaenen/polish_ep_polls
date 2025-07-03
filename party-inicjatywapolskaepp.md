@@ -33,7 +33,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 0.7% | N/A | N/A | N/A | N/A |
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.6% | N/A | N/A | N/A | N/A |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.6% | N/A | N/A | N/A | N/A |
-| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 0.7% | N/A | N/A | N/A | N/A |
+| [23–25 April 2025](2025-04-25-OGB.html) | OGB | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% | 0.2–1.7% |
 | [17–19 April 2025](2025-04-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.7% | N/A | N/A | N/A | N/A |
 | [14–16 April 2025](2025-04-16-Opinia24.html) | Opinia24 | 0.7% | N/A | N/A | N/A | N/A |
 | [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 0.7% | N/A | N/A | N/A | N/A |
@@ -146,7 +146,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [6–7 June 2025](2025-06-07-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [5–6 June 2025](2025-06-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Najwyższy Czas | 0 | 0 | 0 | 0 | 0 |
 | [28–29 May 2025](2025-05-29-SocialChanges.html) | Social Changes <br> Radio Wnet | 0 | 0 | 0 | 0 | 0–1 |
-| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0 |
+| [27–28 May 2025](2025-05-28-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0–1 |
 | [25–27 May 2025](2025-05-27-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
 | [26–27 May 2025](2025-05-27-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [23–26 May 2025](2025-05-26-Opinia24.html) | Opinia24 <br> Radio Zet |  |  |  |  |  |

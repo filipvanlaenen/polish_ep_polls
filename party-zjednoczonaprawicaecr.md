@@ -173,8 +173,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19 | 17–21 | 17–21 | 17–22 | 16–23 |
-| [27–29 June 2025](2025-06-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–19 | 18–19 | 17–20 | 16–21 |
-| [27–28 June 2025](2025-06-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
+| [27–29 June 2025](2025-06-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 19 | 18–19 | 18–19 | 16–21 |
+| [27–28 June 2025](2025-06-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 20 | 17–20 | 17–20 | 17–21 | 16–22 |
 | [23–24 June 2025](2025-06-24-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [12–14 June 2025](2025-06-14-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
 | [9–12 June 2025](2025-06-12-Opinia24.html) | Opinia24 | 19 | 17–20 | 16–20 | 16–20 | 16–20 |
@@ -303,14 +303,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.1% | 100% |  |
 | 16 | 2% | 99.9% |  |
-| 17 | 13% | 98% |  |
-| 18 | 8% | 84% |  |
-| 19 | 42% | 77% | Median |
-| 20 | 24% | 35% |  |
+| 17 | 8% | 98% |  |
+| 18 | 5% | 90% |  |
+| 19 | 44% | 85% | Median |
+| 20 | 31% | 41% |  |
 | 21 | 8% | 10% |  |
 | 22 | 2% | 3% |  |
 | 23 | 0.5% | 0.6% |  |
-| 24 | 0.1% | 0.1% |  |
-| 25 | 0% | 0% |  |
+| 24 | 0% | 0% |  |
 
 

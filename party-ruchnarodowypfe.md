@@ -152,11 +152,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 2–6 |
-| [25–28 July 2025](2025-07-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
-| [25–27 July 2025](2025-07-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
-| [25–26 July 2025](2025-07-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [24–25 July 2025](2025-07-25-Ipsos.html) | Ipsos <br> TVP Info | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–5 | 2–5 |
+| [25–28 July 2025](2025-07-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [25–27 July 2025](2025-07-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [25–26 July 2025](2025-07-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| [24–25 July 2025](2025-07-25-Ipsos.html) | Ipsos <br> TVP Info | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [11–13 July 2025](2025-07-13-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
 | [4–11 July 2025](2025-07-11-OGB.html) | OGB | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [7–9 July 2025](2025-07-09-Opinia24.html) | Opinia24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -276,11 +276,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 2% | 100% |  |
-| 3 | 25% | 98% |  |
-| 4 | 58% | 73% | Median |
-| 5 | 15% | 15% |  |
-| 6 | 0.6% | 0.6% |  |
+| 2 | 3% | 100% |  |
+| 3 | 30% | 97% |  |
+| 4 | 46% | 67% | Median |
+| 5 | 21% | 21% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

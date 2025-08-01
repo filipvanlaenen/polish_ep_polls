@@ -151,11 +151,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
-| [25–28 July 2025](2025-07-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
-| [25–27 July 2025](2025-07-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–5 |
+| [25–28 July 2025](2025-07-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [25–27 July 2025](2025-07-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [25–26 July 2025](2025-07-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
-| [24–25 July 2025](2025-07-25-Ipsos.html) | Ipsos <br> TVP Info | 4 | 3–4 | 3–4 | 0–4 | 0–5 |
+| [24–25 July 2025](2025-07-25-Ipsos.html) | Ipsos <br> TVP Info | 3 | 3–4 | 3–5 | 3–5 | 0–5 |
 | [11–13 July 2025](2025-07-13-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [4–11 July 2025](2025-07-11-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0–3 |
 | [7–9 July 2025](2025-07-09-Opinia24.html) | Opinia24 | 0 | 0 | 0–3 | 0–3 | 0–3 |
@@ -273,12 +273,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 73% | 100% | Last Result, Median |
-| 1 | 0% | 27% |  |
-| 2 | 0.4% | 27% |  |
-| 3 | 18% | 27% |  |
-| 4 | 9% | 9% |  |
-| 5 | 0.4% | 0.4% |  |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 0% | 21% |  |
+| 2 | 0.1% | 21% |  |
+| 3 | 16% | 21% |  |
+| 4 | 4% | 5% |  |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 

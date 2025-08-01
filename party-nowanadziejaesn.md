@@ -156,11 +156,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–7 | 3–7 | 3–7 |
-| [25–28 July 2025](2025-07-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| [25–27 July 2025](2025-07-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [25–26 July 2025](2025-07-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
-| [24–25 July 2025](2025-07-25-Ipsos.html) | Ipsos <br> TVP Info | 6 | 4–6 | 4–6 | 4–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
+| [25–28 July 2025](2025-07-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
+| [25–27 July 2025](2025-07-27-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5–6 | 5–7 | 5–7 | 5–8 |
+| [25–26 July 2025](2025-07-26-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
+| [24–25 July 2025](2025-07-25-Ipsos.html) | Ipsos <br> TVP Info | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [11–13 July 2025](2025-07-13-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 5–6 | 4–6 | 4–6 | 3–6 |
 | [4–11 July 2025](2025-07-11-OGB.html) | OGB | 6 | 6 | 6 | 5–6 | 5–7 |
 | [7–9 July 2025](2025-07-09-Opinia24.html) | Opinia24 | 5 | 4–6 | 4–7 | 4–7 | 4–7 |
@@ -281,11 +281,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 6% | 100% |  |
-| 4 | 15% | 94% |  |
-| 5 | 33% | 80% | Median |
-| 6 | 38% | 47% |  |
-| 7 | 9% | 9% |  |
+| 3 | 1.4% | 100% |  |
+| 4 | 21% | 98.6% |  |
+| 5 | 44% | 78% | Median |
+| 6 | 30% | 34% |  |
+| 7 | 4% | 4% |  |
 | 8 | 0.4% | 0.4% |  |
 | 9 | 0% | 0% |  |
 

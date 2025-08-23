@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Aug 2025 18:13:19 +0200</pubDate>
+    <pubDate>Sat, 23 Aug 2025 23:05:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by United Surveys for SE.pl, 13–16 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-08-16-UnitedSurveys.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–21 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 6–8 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4–6 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 0–3 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 16–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–21 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0–3 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5–8 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4–6 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 0–3 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 16–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-16-UnitedSurveys-seats.png"
-        length="291465"
+        length="303432"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 17:56:42 +0200</pubDate>
-      <dc:date>2025-08-23T17:56:42.655193+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 23:05:49 +0200</pubDate>
+      <dc:date>2025-08-23T23:05:49.227836+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by United Surveys for SE.pl, 13–16 August 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-08-16-UnitedSurveys.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-16-UnitedSurveys-coalitions-seats.png"
-        length="211515"
+        length="219229"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 17:56:42 +0200</pubDate>
-      <dc:date>2025-08-23T17:56:42.655193+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 23:05:49 +0200</pubDate>
+      <dc:date>2025-08-23T23:05:49.227836+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by United Surveys for SE.pl, 13–16 August 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-16-UnitedSurveys.png"
         length="355368"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 17:56:42 +0200</pubDate>
-      <dc:date>2025-08-23T17:56:42.655193+02:00</dc:date>
+      <pubDate>Sat, 23 Aug 2025 23:05:49 +0200</pubDate>
+      <dc:date>2025-08-23T23:05:49.227836+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGB, 6–13 August 2025 – Seat Projections for the Parties</title>
@@ -609,6 +609,6 @@
       <pubDate>Sun, 06 Jul 2025 13:54:29 +0200</pubDate>
       <dc:date>2025-07-06T13:54:29.765922+02:00</dc:date>
     </item>
-    <dc:date>2025-08-23T18:13:19.2541+02:00</dc:date>
+    <dc:date>2025-08-23T23:05:49.227836+02:00</dc:date>
   </channel>
 </rss>

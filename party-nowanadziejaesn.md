@@ -162,7 +162,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–7 | 4–7 | 4–7 | 4–8 |
-| [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 7 | 6–7 | 6–8 | 6–8 | 5–10 |
+| [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 7 | 6–7 | 6–8 | 5–8 | 5–9 |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 6 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [8–9 August 2025](2025-08-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [4–6 August 2025](2025-08-06-Opinia24.html) | Opinia24 | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
@@ -296,7 +296,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 43% | 82% | Median |
 | 6 | 27% | 39% |  |
 | 7 | 11% | 12% |  |
-| 8 | 1.1% | 1.3% |  |
+| 8 | 1.0% | 1.2% |  |
 | 9 | 0.1% | 0.2% |  |
 | 10 | 0.1% | 0.1% |  |
 | 11 | 0% | 0% |  |

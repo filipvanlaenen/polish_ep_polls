@@ -158,7 +158,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–5 |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 0 | 0 | 0 | 0–3 | 0–3 |
-| [6–13 August 2025](2025-08-13-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
+| [6–13 August 2025](2025-08-13-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0–3 |
 | [8–9 August 2025](2025-08-09-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–2 | 0–3 | 0–3 | 0–3 |
 | [4–6 August 2025](2025-08-06-Opinia24.html) | Opinia24 | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [25–28 July 2025](2025-07-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |

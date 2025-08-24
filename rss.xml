@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 23 Aug 2025 23:05:49 +0200</pubDate>
+    <pubDate>Sun, 24 Aug 2025 09:39:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by United Surveys for SE.pl, 13–16 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-08-16-UnitedSurveys.html#seats</link>
@@ -42,22 +42,22 @@
     <item>
       <title>Opinion Poll by OGB, 6–13 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-08-13-OGB.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 3–5 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 0–4 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 17–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 19–22 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 3–5 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 0–4 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 17–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-13-OGB-seats.png"
-        length="284166"
+        length="287153"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 18:13:19 +0200</pubDate>
-      <dc:date>2025-08-23T18:13:19.2541+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 09:39:35 +0200</pubDate>
+      <dc:date>2025-08-24T09:39:35.98518+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGB, 6–13 August 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-08-13-OGB.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-13-OGB-coalitions-seats.png"
-        length="201579"
+        length="201507"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 18:13:19 +0200</pubDate>
-      <dc:date>2025-08-23T18:13:19.2541+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 09:39:35 +0200</pubDate>
+      <dc:date>2025-08-24T09:39:35.98518+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGB, 6–13 August 2025 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-13-OGB.png"
         length="346245"
         type="image/png"/>
-      <pubDate>Sat, 23 Aug 2025 18:13:19 +0200</pubDate>
-      <dc:date>2025-08-23T18:13:19.2541+02:00</dc:date>
+      <pubDate>Sun, 24 Aug 2025 09:39:35 +0200</pubDate>
+      <dc:date>2025-08-24T09:39:35.98518+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 8–9 August 2025 – Seat Projections for the Parties</title>
@@ -609,6 +609,6 @@
       <pubDate>Sun, 06 Jul 2025 13:54:29 +0200</pubDate>
       <dc:date>2025-07-06T13:54:29.765922+02:00</dc:date>
     </item>
-    <dc:date>2025-08-23T23:05:49.227836+02:00</dc:date>
+    <dc:date>2025-08-24T09:39:35.98518+02:00</dc:date>
   </channel>
 </rss>

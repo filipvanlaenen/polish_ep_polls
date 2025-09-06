@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 28.3% | 26.2–30.8% | 25.6–31.5% | 25.1–32.1% | 24.2–33.2% |
+| N/A | [Poll Average](average.html) | 28.4% | 26.3–30.8% | 25.7–31.5% | 25.2–32.1% | 24.3–33.2% |
+| [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 28.0% | 26.1–29.9% | 25.6–30.5% | 25.2–31.0% | 24.3–31.9% |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 27.4% | 25.5–29.3% | 25.0–29.9% | 24.5–30.4% | 23.7–31.3% |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet | 27.8% | 26.0–29.6% | 25.5–30.1% | 25.1–30.6% | 24.3–31.5% |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 28.4% | 26.0–29.6% | 25.5–30.1% | 25.1–30.6% | 24.3–31.5% |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 28.1% | 26.2–30.0% | 25.7–30.6% | 25.2–31.1% | 24.4–32.0% |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 28.2% | 26.3–30.2% | 25.8–30.7% | 25.4–31.2% | 24.5–32.2% |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 30.4% | 28.5–32.3% | 28.0–32.8% | 27.6–33.3% | 26.7–34.2% |
@@ -162,13 +163,13 @@ The following table shows the probability mass function per percentage block of 
 | 20.5–21.5% | 0% | 100% |  |
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0.1% | 100% |  |
-| 23.5–24.5% | 0.8% | 99.9% |  |
-| 24.5–25.5% | 4% | 99.0% |  |
-| 25.5–26.5% | 10% | 95% |  |
-| 26.5–27.5% | 18% | 85% |  |
-| 27.5–28.5% | 22% | 67% | Median |
-| 28.5–29.5% | 20% | 45% |  |
-| 29.5–30.5% | 13% | 26% |  |
+| 23.5–24.5% | 0.7% | 99.9% |  |
+| 24.5–25.5% | 3% | 99.2% |  |
+| 25.5–26.5% | 9% | 96% |  |
+| 26.5–27.5% | 18% | 87% |  |
+| 27.5–28.5% | 22% | 69% | Median |
+| 28.5–29.5% | 20% | 47% |  |
+| 29.5–30.5% | 14% | 27% |  |
 | 30.5–31.5% | 8% | 13% |  |
 | 31.5–32.5% | 3% | 5% |  |
 | 32.5–33.5% | 1.1% | 1.4% |  |
@@ -185,9 +186,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 16–20 | 16–21 | 16–21 | 16–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–20 | 17–21 | 16–21 | 16–21 |
+| [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 17 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 17–19 | 16–19 | 16–20 | 16–20 |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet | 19 | 17–19 | 17–20 | 17–20 | 16–20 |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 20 | 19–21 | 19–21 | 19–22 | 17–23 |
@@ -330,12 +332,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.3% | 100% |  |
-| 16 | 10% | 99.7% |  |
-| 17 | 21% | 89% |  |
-| 18 | 15% | 69% |  |
-| 19 | 39% | 54% | Median |
-| 20 | 9% | 15% |  |
+| 15 | 0.5% | 100% |  |
+| 16 | 4% | 99.5% |  |
+| 17 | 23% | 95% |  |
+| 18 | 18% | 73% |  |
+| 19 | 39% | 55% | Median |
+| 20 | 10% | 16% |  |
 | 21 | 6% | 6% |  |
 | 22 | 0.3% | 0.5% |  |
 | 23 | 0.2% | 0.2% |  |

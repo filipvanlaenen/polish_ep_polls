@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.9% | 4.9–8.9% | 4.5–9.4% | 4.2–9.8% | 3.6–10.6% |
+| N/A | [Poll Average](average.html) | 6.8% | 4.9–8.6% | 4.5–9.2% | 4.2–9.6% | 3.6–10.4% |
+| [13–15 September 2025](2025-09-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 7.2% | 6.2–8.4% | 6.0–8.8% | 5.7–9.1% | 5.3–9.7% |
 | [10–11 September 2025](2025-09-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6.7% | 5.8–7.8% | 5.5–8.1% | 5.3–8.4% | 4.9–8.9% |
 | [2–9 September 2025](2025-09-09-OGB.html) | OGB | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [29 August–5 September 2025](2025-09-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6.4% | 5.5–7.6% | 5.3–7.9% | 5.1–8.2% | 4.6–8.7% |
@@ -148,12 +149,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0.4% | 100% |  |
 | 3.5–4.5% | 5% | 99.6% |  |
 | 4.5–5.5% | 13% | 94% |  |
-| 5.5–6.5% | 23% | 82% |  |
-| 6.5–7.5% | 25% | 59% | Median |
-| 7.5–8.5% | 19% | 34% |  |
-| 8.5–9.5% | 11% | 15% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.5% | 0.5% |  |
+| 5.5–6.5% | 25% | 81% |  |
+| 6.5–7.5% | 28% | 57% | Median |
+| 7.5–8.5% | 17% | 28% |  |
+| 8.5–9.5% | 8% | 11% |  |
+| 9.5–10.5% | 2% | 3% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -165,7 +166,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–5 |
+| [13–15 September 2025](2025-09-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [10–11 September 2025](2025-09-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 3–4 | 3–5 | 0–5 |
 | [2–9 September 2025](2025-09-09-OGB.html) | OGB | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [29 August–5 September 2025](2025-09-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -302,10 +304,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 15% | 100% | Last Result |
 | 1 | 0% | 85% |  |
 | 2 | 0.4% | 85% |  |
-| 3 | 20% | 85% |  |
-| 4 | 38% | 64% | Median |
-| 5 | 26% | 27% |  |
-| 6 | 0.8% | 0.8% |  |
+| 3 | 21% | 85% |  |
+| 4 | 40% | 64% | Median |
+| 5 | 23% | 23% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

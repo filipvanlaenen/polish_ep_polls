@@ -197,9 +197,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–22 | 17–22 | 16–23 | 16–23 |
+| N/A | [Poll Average](average.html) | 20 | 17–22 | 17–22 | 16–23 | 16–23 |
 | [13–15 September 2025](2025-09-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 21 | 19–21 | 18–21 | 18–21 | 17–21 |
-| [12–15 September 2025](2025-09-15-SocialChanges.html) | Social Changes <br> wPolsce24 | 19 | 18–21 | 17–21 | 17–22 | 17–22 |
+| [12–15 September 2025](2025-09-15-SocialChanges.html) | Social Changes <br> wPolsce24 | 19 | 17–21 | 17–21 | 17–22 | 17–22 |
 | [10–11 September 2025](2025-09-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [2–9 September 2025](2025-09-09-OGB.html) | OGB | 20 | 16–20 | 16–20 | 16–20 | 16–21 |
 | [29 August–5 September 2025](2025-09-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 22–23 | 21–23 | 21–23 | 20–23 |
@@ -351,12 +351,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
 | 16 | 3% | 99.8% |  |
-| 17 | 6% | 97% |  |
-| 18 | 14% | 91% |  |
-| 19 | 24% | 77% |  |
-| 20 | 20% | 53% | Median |
-| 21 | 22% | 32% |  |
-| 22 | 8% | 11% |  |
+| 17 | 7% | 97% |  |
+| 18 | 14% | 90% |  |
+| 19 | 25% | 76% |  |
+| 20 | 20% | 51% | Median |
+| 21 | 20% | 31% |  |
+| 22 | 7% | 11% |  |
 | 23 | 3% | 3% |  |
 | 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |

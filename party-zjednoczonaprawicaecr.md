@@ -10,13 +10,15 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 32.6% | 29.5–36.6% | 28.9–37.4% | 28.4–38.1% | 27.4–39.3% |
+| N/A | [Poll Average](average.html) | 32.3% | 29.5–35.7% | 28.9–36.6% | 28.3–37.4% | 27.4–38.8% |
 | [13–15 September 2025](2025-09-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.6% | 30.7–34.6% | 30.2–35.2% | 29.7–35.7% | 28.8–36.7% |
+| [12–15 September 2025](2025-09-15-SocialChanges.html) | Social Changes <br> wPolsce24 | 33.0% | 31.1–34.9% | 30.5–35.5% | 30.1–36.0% | 29.2–36.9% |
 | [10–11 September 2025](2025-09-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 33.5% | 31.7–35.5% | 31.1–36.0% | 30.7–36.5% | 29.8–37.4% |
 | [2–9 September 2025](2025-09-09-OGB.html) | OGB | 30.8% | 29.0–32.7% | 28.5–33.3% | 28.0–33.7% | 27.1–34.7% |
 | [29 August–5 September 2025](2025-09-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 36.0% | 34.0–38.0% | 33.5–38.5% | 33.0–39.0% | 32.1–40.0% |
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 30.8% | 28.9–32.8% | 28.3–33.3% | 27.9–33.8% | 27.0–34.8% |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.1% | 30.2–34.2% | 29.6–34.7% | 29.1–35.2% | 28.2–36.2% |
+| [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 31.6% | N/A | N/A | N/A | N/A |
 | [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 31.9% | 28.5–32.2% | 28.0–32.7% | 27.6–33.2% | 26.7–34.1% |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 35.9% | 33.9–37.9% | 33.3–38.5% | 32.8–39.0% | 31.9–40.0% |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 30.2% | 28.3–32.2% | 27.7–32.8% | 27.3–33.2% | 26.4–34.2% |
@@ -174,18 +176,17 @@ The following table shows the probability mass function per percentage block of 
 | 27.5–28.5% | 3% | 99.3% |  |
 | 28.5–29.5% | 7% | 97% |  |
 | 29.5–30.5% | 12% | 90% |  |
-| 30.5–31.5% | 14% | 78% |  |
-| 31.5–32.5% | 13% | 64% |  |
-| 32.5–33.5% | 12% | 51% | Median |
-| 33.5–34.5% | 11% | 39% |  |
-| 34.5–35.5% | 10% | 29% |  |
-| 35.5–36.5% | 9% | 19% |  |
-| 36.5–37.5% | 6% | 10% |  |
-| 37.5–38.5% | 3% | 4% |  |
-| 38.5–39.5% | 1.1% | 1.4% |  |
-| 39.5–40.5% | 0.3% | 0.3% |  |
-| 40.5–41.5% | 0% | 0.1% |  |
-| 41.5–42.5% | 0% | 0% |  |
+| 30.5–31.5% | 16% | 78% |  |
+| 31.5–32.5% | 16% | 62% | Median |
+| 32.5–33.5% | 15% | 45% |  |
+| 33.5–34.5% | 12% | 31% |  |
+| 34.5–35.5% | 8% | 19% |  |
+| 35.5–36.5% | 5% | 11% |  |
+| 36.5–37.5% | 3% | 5% |  |
+| 37.5–38.5% | 1.5% | 2% |  |
+| 38.5–39.5% | 0.5% | 0.7% |  |
+| 39.5–40.5% | 0.1% | 0.2% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -196,13 +197,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 18–23 | 17–23 | 16–23 | 16–23 |
+| N/A | [Poll Average](average.html) | 20 | 18–22 | 17–22 | 16–23 | 16–23 |
 | [13–15 September 2025](2025-09-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 21 | 19–21 | 18–21 | 18–21 | 17–21 |
+| [12–15 September 2025](2025-09-15-SocialChanges.html) | Social Changes <br> wPolsce24 | 19 | 18–21 | 17–21 | 17–22 | 17–22 |
 | [10–11 September 2025](2025-09-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 20 | 18–21 | 18–22 | 18–22 | 17–23 |
 | [2–9 September 2025](2025-09-09-OGB.html) | OGB | 20 | 16–20 | 16–20 | 16–20 | 16–21 |
 | [29 August–5 September 2025](2025-09-05-SocialChanges.html) | Social Changes <br> wPolityce.pl | 23 | 22–23 | 21–23 | 21–23 | 20–23 |
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 18–20 | 18–21 | 18–21 | 17–22 |
+| [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–19 | 17–20 | 17–20 | 17–20 |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 18 | 17–20 | 17–21 | 16–21 | 16–22 |
@@ -348,14 +351,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 0% | 100% |  |
 | 15 | 0.2% | 100% |  |
 | 16 | 3% | 99.8% |  |
-| 17 | 5% | 97% |  |
-| 18 | 11% | 92% |  |
-| 19 | 20% | 80% |  |
-| 20 | 18% | 61% | Median |
-| 21 | 20% | 43% |  |
-| 22 | 8% | 23% |  |
-| 23 | 15% | 16% |  |
-| 24 | 0.2% | 0.3% |  |
+| 17 | 6% | 97% |  |
+| 18 | 14% | 91% |  |
+| 19 | 24% | 77% |  |
+| 20 | 20% | 53% | Median |
+| 21 | 22% | 32% |  |
+| 22 | 8% | 11% |  |
+| 23 | 3% | 3% |  |
+| 24 | 0.2% | 0.2% |  |
 | 25 | 0% | 0% |  |
 
 

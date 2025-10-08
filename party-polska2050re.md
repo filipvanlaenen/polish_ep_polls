@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.2–4.8% | 1.0–5.1% | 0.8–5.4% | 0.6–6.0% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.0–4.8% | 0.8–5.1% | 0.7–5.4% | 0.6–6.0% |
 | [27–28 September 2025](2025-09-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
+| [26–27 September 2025](2025-09-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.1% | 0.8–1.7% | 0.7–1.9% | 0.6–2.0% | 0.5–2.3% |
 | [13–15 September 2025](2025-09-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.1% | 0.7–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [12–15 September 2025](2025-09-15-SocialChanges.html) | Social Changes <br> wPolsce24 | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.1% | 3.1–6.6% |
 | [10–11 September 2025](2025-09-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
@@ -146,10 +147,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.3% | 100% | Last Result |
-| 0.5–1.5% | 15% | 99.7% |  |
-| 1.5–2.5% | 24% | 85% |  |
-| 2.5–3.5% | 25% | 60% | Median |
+| 0.0–0.5% | 0.4% | 100% | Last Result |
+| 0.5–1.5% | 29% | 99.6% |  |
+| 1.5–2.5% | 18% | 71% |  |
+| 2.5–3.5% | 18% | 53% | Median |
 | 3.5–4.5% | 21% | 35% |  |
 | 4.5–5.5% | 12% | 14% |  |
 | 5.5–6.5% | 2% | 2% |  |
@@ -167,6 +168,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [27–28 September 2025](2025-09-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [26–27 September 2025](2025-09-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [13–15 September 2025](2025-09-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [12–15 September 2025](2025-09-15-SocialChanges.html) | Social Changes <br> wPolsce24 | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [10–11 September 2025](2025-09-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–3 | 0–4 | 0–4 | 0–4 |

@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 11 Oct 2025 13:21:31 +0200</pubDate>
+    <pubDate>Sat, 11 Oct 2025 19:56:25 +0200</pubDate>
     <item>
       <title>Opinion Poll by IBRiS for Onet, 8–9 October 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-10-09-IBRiS.html#seats</link>
@@ -68,6 +68,36 @@
         type="image/png"/>
       <pubDate>Fri, 10 Oct 2025 22:40:07 +0200</pubDate>
       <dc:date>2025-10-10T22:40:07.793029+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Partner, 26–29 September 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-09-29-ResearchPartner.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–19 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 4–5 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 18–21 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-09-29-ResearchPartner-seats.png"
+        length="282353"
+        type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 19:56:25 +0200</pubDate>
+      <dc:date>2025-10-11T19:56:25.151148+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Partner, 26–29 September 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-09-29-ResearchPartner.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-09-29-ResearchPartner-coalitions-seats.png"
+        length="185278"
+        type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 19:56:25 +0200</pubDate>
+      <dc:date>2025-10-11T19:56:25.151148+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Research Partner, 26–29 September 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-09-29-ResearchPartner.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 6.0–9.1%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0.9–2.4%&lt;/li&gt;&lt;li&gt;Bezpartyjni Samorządowcy (*): 0.1–1.0%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.2%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 24.6–29.9%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 2.7–5.0%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 6.0–9.1%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 5.0–7.9%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 29.7–35.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-09-29-ResearchPartner.png"
+        length="364861"
+        type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 19:56:25 +0200</pubDate>
+      <dc:date>2025-10-11T19:56:25.151148+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by United Surveys for WP.pl, 26–28 September 2025 – Seat Projections for the Parties</title>
@@ -1029,6 +1059,6 @@
       <pubDate>Sun, 06 Jul 2025 13:54:29 +0200</pubDate>
       <dc:date>2025-07-06T13:54:29.765922+02:00</dc:date>
     </item>
-    <dc:date>2025-10-11T13:21:31.236385+02:00</dc:date>
+    <dc:date>2025-10-11T19:56:25.151148+02:00</dc:date>
   </channel>
 </rss>

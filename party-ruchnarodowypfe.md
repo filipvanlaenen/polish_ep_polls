@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.3–7.6% | 4.0–8.0% | 3.7–8.3% | 3.3–9.0% |
+| N/A | [Poll Average](average.html) | 5.9% | 4.4–7.5% | 4.0–7.9% | 3.8–8.3% | 3.3–9.0% |
 | [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 6.7% | 5.8–7.9% | 5.5–8.2% | 5.3–8.5% | 4.9–9.1% |
+| [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.9–7.5% |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [27–28 September 2025](2025-09-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
 | [26–27 September 2025](2025-09-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.2% | 5.3–7.3% | 5.1–7.7% | 4.9–7.9% | 4.5–8.5% |
@@ -153,13 +154,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.4% | 100% |  |
-| 3.5–4.5% | 13% | 98.6% |  |
-| 4.5–5.5% | 22% | 86% |  |
-| 5.5–6.5% | 30% | 64% | Median |
-| 6.5–7.5% | 24% | 34% |  |
-| 7.5–8.5% | 9% | 10% |  |
-| 8.5–9.5% | 1.4% | 2% |  |
+| 2.5–3.5% | 1.2% | 100% |  |
+| 3.5–4.5% | 12% | 98.8% |  |
+| 4.5–5.5% | 26% | 87% |  |
+| 5.5–6.5% | 31% | 61% | Median |
+| 6.5–7.5% | 21% | 30% |  |
+| 7.5–8.5% | 8% | 9% |  |
+| 8.5–9.5% | 1.2% | 1.3% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
@@ -175,6 +176,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 3 | 2–5 | 2–5 | 2–5 | 2–5 |
 | [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 3 | 3 | 3 | 2–4 | 2–4 |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [27–28 September 2025](2025-09-28-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [26–27 September 2025](2025-09-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
@@ -316,11 +318,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
-| 2 | 17% | 99.9% |  |
-| 3 | 36% | 83% | Median |
-| 4 | 30% | 47% |  |
-| 5 | 17% | 17% |  |
-| 6 | 0.4% | 0.4% |  |
+| 2 | 15% | 99.9% |  |
+| 3 | 44% | 85% | Median |
+| 4 | 27% | 41% |  |
+| 5 | 14% | 15% |  |
+| 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
 

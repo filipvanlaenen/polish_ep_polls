@@ -16,7 +16,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.6% | 1.2–2.3% | 1.1–2.5% | 1.0–2.6% | 0.8–3.0% |
 | [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
-| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 1.5% | 1.2–2.1% | 1.1–2.3% | 1.0–2.5% | 0.8–2.8% |
+| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 1.6% | 1.2–2.3% | 1.1–2.5% | 1.0–2.6% | 0.9–3.0% |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 1.6% | 1.2–2.3% | 1.1–2.5% | 1.0–2.6% | 0.8–3.0% |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.7% |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
@@ -157,10 +157,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 38% | 100% |  |
-| 1.5–2.5% | 58% | 62% | Median |
+| 0.5–1.5% | 37% | 100% |  |
+| 1.5–2.5% | 59% | 63% | Median |
 | 2.5–3.5% | 4% | 4% |  |
 | 3.5–4.5% | 0% | 0% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -177,7 +178,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -319,8 +320,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 73% | 74% | Median |
+| 0 | 34% | 100% | Last Result |
+| 1 | 66% | 66% | Median |
 | 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 

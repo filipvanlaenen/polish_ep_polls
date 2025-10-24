@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.0–6.0% | 1.8–6.4% | 1.6–6.7% | 1.3–7.3% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.0–6.0% | 1.8–6.4% | 1.6–6.7% | 1.3–7.3% |
 | [15–22 October 2025](2025-10-22-OGB.html) | OGB | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 5.5% | 4.7–6.6% | 4.4–6.9% | 4.2–7.2% | 3.9–7.7% |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.6% | 2.0–3.4% | 1.8–3.6% | 1.7–3.8% | 1.5–4.2% |
 | [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
-| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.1–4.1% | 1.8–4.5% |
+| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 1.9–4.8% |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.4% | 3.2–6.9% |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–5.0% | 2.4–5.4% |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
@@ -158,10 +158,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 23% | 98% |  |
-| 2.5–3.5% | 29% | 75% | Median |
-| 3.5–4.5% | 14% | 47% |  |
-| 4.5–5.5% | 15% | 32% |  |
+| 1.5–2.5% | 22% | 98% |  |
+| 2.5–3.5% | 28% | 76% | Median |
+| 3.5–4.5% | 16% | 48% |  |
+| 4.5–5.5% | 15% | 33% |  |
 | 5.5–6.5% | 14% | 17% |  |
 | 6.5–7.5% | 3% | 3% |  |
 | 7.5–8.5% | 0.2% | 0.2% |  |

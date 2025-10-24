@@ -10,10 +10,12 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 1.3–6.5% | 1.1–7.2% | 1.0–7.6% | 0.7–8.4% |
+| N/A | [Poll Average](average.html) | 2.7% | 1.2–4.8% | 1.0–5.2% | 0.9–5.5% | 0.7–6.1% |
+| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–4.1% |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.1% | 3.4–5.1% | 3.2–5.4% | 3.0–5.6% | 2.7–6.1% |
+| [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 4.6% | 3.9–5.6% | 3.7–5.8% | 3.5–6.1% | 3.2–6.5% |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.4% | 0.7–2.7% |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.6–2.4% |
@@ -154,17 +156,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 17% | 100% |  |
-| 1.5–2.5% | 18% | 83% |  |
-| 2.5–3.5% | 14% | 64% |  |
-| 3.5–4.5% | 22% | 50% | Median |
-| 4.5–5.5% | 13% | 29% |  |
-| 5.5–6.5% | 6% | 16% |  |
-| 6.5–7.5% | 6% | 9% |  |
-| 7.5–8.5% | 3% | 3% |  |
-| 8.5–9.5% | 0.3% | 0.3% |  |
-| 9.5–10.5% | 0% | 0% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 23% | 99.9% |  |
+| 1.5–2.5% | 23% | 77% |  |
+| 2.5–3.5% | 21% | 54% | Median |
+| 3.5–4.5% | 18% | 33% |  |
+| 4.5–5.5% | 13% | 15% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -175,10 +175,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–4 | 0–4 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0–3 |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
 | [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0 |
@@ -321,12 +323,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 78% | 100% | Last Result, Median |
-| 1 | 0% | 22% |  |
-| 2 | 0.1% | 22% |  |
-| 3 | 13% | 22% |  |
-| 4 | 9% | 9% |  |
-| 5 | 0.4% | 0.4% |  |
-| 6 | 0% | 0% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 0% | 9% |  |
+| 2 | 0.1% | 9% |  |
+| 3 | 9% | 9% |  |
+| 4 | 0% | 0% |  |
 
 

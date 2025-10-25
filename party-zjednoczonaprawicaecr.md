@@ -204,13 +204,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
-| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 18 | 16–19 | 16–20 | 16–20 | 15–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–20 | 16–20 | 16–20 | 14–21 |
+| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 17 | 17–18 | 17–19 | 16–19 | 16–20 |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 17 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 17 | 16–19 | 16–19 | 16–19 | 15–21 |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 17–18 | 16–19 | 16–20 | 16–21 |
 | [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 16–18 | 16–19 | 16–19 | 15–20 |
-| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 17 | 16–18 | 15–18 | 15–18 | 14–20 |
+| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 18 | 16–18 | 15–18 | 14–18 | 14–19 |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 18 | 16–19 | 15–19 | 15–20 | 15–21 |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 20 | 19–20 | 19–20 | 18–21 | 18–21 |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–19 | 17–20 | 16–21 | 16–21 |
@@ -366,13 +366,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
-| 14 | 0.3% | 100% |  |
-| 15 | 1.5% | 99.6% |  |
-| 16 | 14% | 98% |  |
-| 17 | 34% | 84% |  |
-| 18 | 27% | 50% | Median |
-| 19 | 8% | 24% |  |
-| 20 | 14% | 15% |  |
+| 14 | 0.8% | 100% |  |
+| 15 | 1.3% | 99.2% |  |
+| 16 | 11% | 98% |  |
+| 17 | 38% | 87% | Median |
+| 18 | 26% | 48% |  |
+| 19 | 9% | 23% |  |
+| 20 | 13% | 14% |  |
 | 21 | 0.9% | 0.9% |  |
 | 22 | 0% | 0% |  |
 

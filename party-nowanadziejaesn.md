@@ -180,13 +180,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–6 | 3–6 |
-| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–6 | 4–6 | 3–7 |
+| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 4 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 5 | 5–6 | 4–6 | 4–7 | 4–7 |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -333,8 +333,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0% | 100% |  |
 | 3 | 0.7% | 100% |  |
 | 4 | 39% | 99.3% |  |
-| 5 | 42% | 60% | Median |
-| 6 | 17% | 18% |  |
+| 5 | 51% | 60% | Median |
+| 6 | 9% | 10% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 

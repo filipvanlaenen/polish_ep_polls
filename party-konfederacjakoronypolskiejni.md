@@ -179,12 +179,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
-| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
+| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 3 | 3 | 3–4 | 3–4 | 0–4 |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 0–4 | 0–4 | 0–4 | 0–4 |
-| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 3 | 3–4 | 3–4 | 3–5 | 0–5 |
+| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 3 | 3–4 | 3–4 | 3–4 | 0–4 |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0–3 | 0–3 | 0–3 |
@@ -326,10 +326,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 0% | 96% |  |
-| 2 | 0.1% | 96% |  |
-| 3 | 47% | 96% | Median |
+| 0 | 3% | 100% | Last Result |
+| 1 | 0% | 97% |  |
+| 2 | 0.1% | 97% |  |
+| 3 | 48% | 97% | Median |
 | 4 | 47% | 49% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |

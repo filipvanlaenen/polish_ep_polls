@@ -172,13 +172,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
+| [15–22 October 2025](2025-10-22-OGB.html) | OGB | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–12 October 2025](2025-10-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–12 October 2025](2025-10-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–9 October 2025](2025-10-09-IBRiS.html) | IBRiS <br> Onet | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–8 October 2025](2025-10-08-Opinia24.html) | Opinia24 | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [26–29 September 2025](2025-09-29-ResearchPartner.html) | Research Partner | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26–28 September 2025](2025-09-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–1 | 0–1 | 0–1 | 0–2 |
@@ -320,9 +320,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 34% | 100% | Last Result |
-| 1 | 66% | 66% | Median |
-| 2 | 0.3% | 0.3% |  |
+| 0 | 26% | 100% | Last Result |
+| 1 | 72% | 74% | Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 

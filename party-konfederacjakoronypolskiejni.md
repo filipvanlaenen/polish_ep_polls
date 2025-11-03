@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 5.6–7.7% | 5.3–8.1% | 5.1–8.4% | 4.7–9.0% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.4–7.7% | 5.2–8.1% | 4.9–8.4% | 4.5–9.0% |
 | [23–27 October 2025](2025-10-27-OGB.html) | OGB | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
-| [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.9% | N/A | N/A | N/A | N/A |
-| [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.8% | N/A | N/A | N/A | N/A |
+| [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.9% | 5.9–8.0% | 5.6–8.4% | 5.4–8.7% | 5.0–9.3% |
+| [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.8% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
 | [15–22 October 2025](2025-10-22-OGB.html) | OGB | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 6.8% | 5.8–8.0% | 5.6–8.3% | 5.3–8.6% | 4.9–9.2% |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
@@ -163,11 +163,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.3% | 100% |  |
-| 4.5–5.5% | 9% | 99.7% |  |
-| 5.5–6.5% | 39% | 90% |  |
-| 6.5–7.5% | 38% | 52% | Median |
-| 7.5–8.5% | 12% | 14% |  |
+| 3.5–4.5% | 0.6% | 100% |  |
+| 4.5–5.5% | 12% | 99.4% |  |
+| 5.5–6.5% | 39% | 88% |  |
+| 6.5–7.5% | 35% | 49% | Median |
+| 7.5–8.5% | 12% | 13% |  |
 | 8.5–9.5% | 2% | 2% |  |
 | 9.5–10.5% | 0.1% | 0.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
@@ -181,10 +181,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 0–4 | 0–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 0–5 | 0–5 |
 | [23–27 October 2025](2025-10-27-OGB.html) | OGB | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
-| [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
+| [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [15–22 October 2025](2025-10-22-OGB.html) | OGB | 3 | 3 | 3–4 | 3–4 | 0–4 |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -332,12 +332,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 0.1% | 97% |  |
-| 3 | 47% | 97% | Median |
-| 4 | 47% | 49% |  |
-| 5 | 2% | 2% |  |
+| 0 | 4% | 100% | Last Result |
+| 1 | 0% | 96% |  |
+| 2 | 0.3% | 96% |  |
+| 3 | 51% | 96% | Median |
+| 4 | 41% | 46% |  |
+| 5 | 4% | 4% |  |
 | 6 | 0% | 0% |  |
 
 

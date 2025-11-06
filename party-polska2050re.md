@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 1.3–3.8% | 1.2–4.1% | 1.0–4.4% | 0.8–4.9% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.3–3.9% | 1.2–4.2% | 1.0–4.5% | 0.8–5.0% |
+| [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 3.4% | 2.7–4.2% | 2.5–4.5% | 2.4–4.7% | 2.1–5.1% |
 | [23–27 October 2025](2025-10-27-OGB.html) | OGB | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.6% | 1.2–2.3% | 1.1–2.5% | 1.0–2.6% | 0.8–3.0% |
 | [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
@@ -161,11 +162,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 20% | 100% |  |
-| 1.5–2.5% | 33% | 80% | Median |
-| 2.5–3.5% | 31% | 46% |  |
-| 3.5–4.5% | 14% | 16% |  |
-| 4.5–5.5% | 1.5% | 2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 1.5–2.5% | 32% | 80% | Median |
+| 2.5–3.5% | 29% | 48% |  |
+| 3.5–4.5% | 17% | 19% |  |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
 
 
@@ -178,6 +179,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0 |
 | [23–27 October 2025](2025-10-27-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |

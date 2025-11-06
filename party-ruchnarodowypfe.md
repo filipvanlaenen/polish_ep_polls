@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.0% | 4.9–7.2% | 4.6–7.6% | 4.4–7.9% | 4.0–8.6% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.9–7.2% | 4.6–7.6% | 4.4–7.9% | 3.9–8.6% |
+| [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
 | [23–27 October 2025](2025-10-27-OGB.html) | OGB | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.4% | 4.5–6.4% | 4.3–6.7% | 4.1–7.0% | 3.7–7.5% |
 | [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.7% | 5.8–7.9% | 5.6–8.2% | 5.3–8.5% | 4.9–9.0% |
@@ -163,9 +164,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 4% | 99.9% |  |
-| 4.5–5.5% | 28% | 96% |  |
-| 5.5–6.5% | 40% | 68% | Median |
+| 3.5–4.5% | 5% | 99.9% |  |
+| 4.5–5.5% | 28% | 95% |  |
+| 5.5–6.5% | 40% | 67% | Median |
 | 6.5–7.5% | 22% | 27% |  |
 | 7.5–8.5% | 5% | 6% |  |
 | 8.5–9.5% | 0.5% | 0.5% |  |
@@ -180,8 +181,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
-| [23–27 October 2025](2025-10-27-OGB.html) | OGB | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [23–27 October 2025](2025-10-27-OGB.html) | OGB | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [15–22 October 2025](2025-10-22-OGB.html) | OGB | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
@@ -333,10 +335,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 7% | 100% |  |
-| 3 | 58% | 93% | Median |
-| 4 | 32% | 34% |  |
-| 5 | 2% | 2% |  |
+| 2 | 10% | 100% |  |
+| 3 | 54% | 90% | Median |
+| 4 | 33% | 36% |  |
+| 5 | 3% | 3% |  |
 | 6 | 0% | 0% |  |
 
 

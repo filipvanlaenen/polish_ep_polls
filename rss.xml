@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 06 Nov 2025 20:25:23 +0100</pubDate>
+    <pubDate>Thu, 06 Nov 2025 22:12:50 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Partner, 31 October–3 November 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-11-03-ResearchPartner.html#seats</link>
@@ -72,22 +72,22 @@
     <item>
       <title>Opinion Poll by United Surveys for WP.pl, 24–26 October 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-10-26-UnitedSurveys.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–21 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 3–5 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 15–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–21 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0–2 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 3–5 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 14–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-10-26-UnitedSurveys-seats.png"
-        length="300022"
+        length="307875"
         type="image/png"/>
-      <pubDate>Mon, 03 Nov 2025 22:04:06 +0100</pubDate>
-      <dc:date>2025-11-03T22:04:06.972385+01:00</dc:date>
+      <pubDate>Thu, 06 Nov 2025 22:12:50 +0100</pubDate>
+      <dc:date>2025-11-06T22:12:50.133105+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by United Surveys for WP.pl, 24–26 October 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-10-26-UnitedSurveys.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-10-26-UnitedSurveys-coalitions-seats.png"
-        length="200820"
+        length="207119"
         type="image/png"/>
-      <pubDate>Mon, 03 Nov 2025 22:04:06 +0100</pubDate>
-      <dc:date>2025-11-03T22:04:06.972385+01:00</dc:date>
+      <pubDate>Thu, 06 Nov 2025 22:12:50 +0100</pubDate>
+      <dc:date>2025-11-06T22:12:50.133105+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by United Surveys for WP.pl, 24–26 October 2025 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-10-26-UnitedSurveys.png"
         length="351778"
         type="image/png"/>
-      <pubDate>Mon, 03 Nov 2025 22:04:06 +0100</pubDate>
-      <dc:date>2025-11-03T22:04:06.972385+01:00</dc:date>
+      <pubDate>Thu, 06 Nov 2025 22:12:50 +0100</pubDate>
+      <dc:date>2025-11-06T22:12:50.133105+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 24–25 October 2025 – Seat Projections for the Parties</title>
@@ -1329,6 +1329,6 @@
       <pubDate>Sun, 06 Jul 2025 13:54:29 +0200</pubDate>
       <dc:date>2025-07-06T13:54:29.765922+02:00</dc:date>
     </item>
-    <dc:date>2025-11-06T20:25:23.253106+01:00</dc:date>
+    <dc:date>2025-11-06T22:12:50.133105+01:00</dc:date>
   </channel>
 </rss>

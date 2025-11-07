@@ -187,7 +187,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [23–27 October 2025](2025-10-27-OGB.html) | OGB | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [15–22 October 2025](2025-10-22-OGB.html) | OGB | 0 | 0 | 0 | 0–3 | 0–3 |
 | [13–14 October 2025](2025-10-14-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
 | [8–13 October 2025](2025-10-13-OGB.html) | OGB | 0 | 0 | 0–3 | 0–3 | 0–3 |
@@ -338,9 +338,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 11% | 100% | Last Result |
 | 1 | 0% | 89% |  |
 | 2 | 0.1% | 89% |  |
-| 3 | 30% | 89% |  |
+| 3 | 31% | 89% |  |
 | 4 | 50% | 58% | Median |
-| 5 | 8% | 9% |  |
+| 5 | 8% | 8% |  |
 | 6 | 0.5% | 0.5% |  |
 | 7 | 0% | 0% |  |
 

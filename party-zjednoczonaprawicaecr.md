@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 29.5% | 27.2–31.7% | 26.6–32.3% | 26.1–32.8% | 25.2–33.9% |
+| N/A | [Poll Average](average.html) | 29.4% | 27.2–31.6% | 26.6–32.2% | 26.1–32.7% | 25.2–33.8% |
+| [3–5 November 2025](2025-11-05-Opinia24.html) | Opinia24 | 29.8% | 27.9–31.8% | 27.4–32.4% | 26.9–32.9% | 26.0–33.8% |
 | [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 30.6% | 28.8–32.6% | 28.3–33.1% | 27.8–33.6% | 26.9–34.5% |
 | [23–27 October 2025](2025-10-27-OGB.html) | OGB | 28.0% | 26.2–29.9% | 25.7–30.4% | 25.3–30.9% | 24.5–31.8% |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 28.6% | 26.7–30.5% | 26.2–31.1% | 25.8–31.6% | 24.9–32.5% |
@@ -187,14 +188,14 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0.1% | 100% |  |
 | 24.5–25.5% | 0.9% | 99.9% |  |
 | 25.5–26.5% | 4% | 99.0% |  |
-| 26.5–27.5% | 9% | 95% |  |
-| 27.5–28.5% | 16% | 86% |  |
-| 28.5–29.5% | 22% | 70% | Median |
-| 29.5–30.5% | 21% | 48% |  |
-| 30.5–31.5% | 15% | 27% |  |
-| 31.5–32.5% | 8% | 12% |  |
-| 32.5–33.5% | 3% | 4% |  |
-| 33.5–34.5% | 0.7% | 0.9% |  |
+| 26.5–27.5% | 10% | 95% |  |
+| 27.5–28.5% | 17% | 86% |  |
+| 28.5–29.5% | 23% | 69% | Median |
+| 29.5–30.5% | 21% | 46% |  |
+| 30.5–31.5% | 15% | 25% |  |
+| 31.5–32.5% | 7% | 10% |  |
+| 32.5–33.5% | 2% | 3% |  |
+| 33.5–34.5% | 0.6% | 0.7% |  |
 | 34.5–35.5% | 0.1% | 0.1% |  |
 | 35.5–36.5% | 0% | 0% |  |
 
@@ -207,7 +208,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17 | 16–19 | 15–19 | 15–19 | 14–20 |
+| N/A | [Poll Average](average.html) | 17 | 16–18 | 15–19 | 15–19 | 14–20 |
+| [3–5 November 2025](2025-11-05-Opinia24.html) | Opinia24 | 17 | 16–19 | 16–19 | 16–19 | 15–19 |
 | [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 18 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [23–27 October 2025](2025-10-27-OGB.html) | OGB | 17 | 15–17 | 15–18 | 14–18 | 14–19 |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–18 | 15–19 | 14–19 | 14–20 |
@@ -375,11 +377,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0.9% | 100% |  |
 | 15 | 7% | 99.1% |  |
-| 16 | 22% | 92% |  |
-| 17 | 30% | 71% | Median |
-| 18 | 30% | 40% |  |
-| 19 | 10% | 11% |  |
-| 20 | 1.0% | 1.1% |  |
+| 16 | 20% | 92% |  |
+| 17 | 31% | 72% | Median |
+| 18 | 32% | 41% |  |
+| 19 | 9% | 10% |  |
+| 20 | 0.9% | 0.9% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
 

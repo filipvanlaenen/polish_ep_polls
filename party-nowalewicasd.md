@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.2% | 4.4–8.7% | 3.9–9.1% | 3.6–9.4% | 3.2–10.1% |
+| N/A | [Poll Average](average.html) | 7.4% | 4.6–8.9% | 4.0–9.3% | 3.7–9.6% | 3.2–10.3% |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [21–23 November 2025](2025-11-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.3% | N/A | N/A | N/A | N/A |
+| [21–23 November 2025](2025-11-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.3% | 7.3–9.6% | 7.0–10.0% | 6.7–10.3% | 6.3–10.9% |
 | [21–23 November 2025](2025-11-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.6% | 6.6–8.8% | 6.4–9.1% | 6.1–9.4% | 5.7–10.0% |
 | [15–17 November 2025](2025-11-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 6.9% | 5.9–8.0% | 5.7–8.3% | 5.5–8.6% | 5.1–9.2% |
 | [14–15 November 2025](2025-11-15-IBRiS.html) | IBRiS <br> Onet | 7.3% | 6.4–8.4% | 6.1–8.8% | 5.9–9.1% | 5.5–9.6% |
@@ -171,14 +171,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 9% | 98% |  |
-| 4.5–5.5% | 6% | 89% |  |
-| 5.5–6.5% | 13% | 83% |  |
-| 6.5–7.5% | 30% | 70% | Median |
-| 7.5–8.5% | 28% | 40% |  |
-| 8.5–9.5% | 10% | 12% |  |
-| 9.5–10.5% | 2% | 2% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 8% | 98% |  |
+| 4.5–5.5% | 5% | 90% |  |
+| 5.5–6.5% | 11% | 85% |  |
+| 6.5–7.5% | 28% | 74% | Median |
+| 7.5–8.5% | 30% | 46% |  |
+| 8.5–9.5% | 14% | 17% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -193,7 +193,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–5 | 0–6 |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 0 | 0 | 0 | 0–3 | 0–3 |
-| [21–23 November 2025](2025-11-23-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [21–23 November 2025](2025-11-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [21–23 November 2025](2025-11-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [15–17 November 2025](2025-11-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [14–15 November 2025](2025-11-15-IBRiS.html) | IBRiS <br> Onet | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
@@ -349,13 +349,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 15% | 84% |  |
-| 4 | 49% | 69% | Median |
-| 5 | 19% | 20% |  |
-| 6 | 0.9% | 0.9% |  |
+| 0 | 14% | 100% | Last Result |
+| 1 | 0% | 86% |  |
+| 2 | 0% | 86% |  |
+| 3 | 13% | 86% |  |
+| 4 | 48% | 73% | Median |
+| 5 | 24% | 25% |  |
+| 6 | 1.0% | 1.0% |  |
 | 7 | 0% | 0% |  |
 
 

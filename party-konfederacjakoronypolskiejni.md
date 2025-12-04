@@ -191,9 +191,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–5 | 0–6 |
+| N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
-| [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 5 | 5 | 4–6 | 4–6 | 4–6 |
+| [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [21–23 November 2025](2025-11-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [21–23 November 2025](2025-11-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [15–17 November 2025](2025-11-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
@@ -355,8 +355,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 2 | 0.5% | 88% |  |
 | 3 | 46% | 87% | Median |
 | 4 | 25% | 42% |  |
-| 5 | 15% | 17% |  |
-| 6 | 1.3% | 1.3% |  |
-| 7 | 0% | 0% |  |
+| 5 | 13% | 16% |  |
+| 6 | 4% | 4% |  |
+| 7 | 0.1% | 0.1% |  |
+| 8 | 0% | 0% |  |
 
 

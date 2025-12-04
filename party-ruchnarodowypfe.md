@@ -191,7 +191,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–5 | 1–5 | 0–5 |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
-| [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [21–23 November 2025](2025-11-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [21–23 November 2025](2025-11-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [15–17 November 2025](2025-11-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
@@ -350,10 +350,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.9% | 100% | Last Result |
 | 1 | 4% | 99.1% |  |
-| 2 | 19% | 95% |  |
-| 3 | 30% | 76% | Median |
-| 4 | 37% | 46% |  |
-| 5 | 8% | 8% |  |
+| 2 | 20% | 95% |  |
+| 3 | 33% | 76% | Median |
+| 4 | 34% | 43% |  |
+| 5 | 8% | 9% |  |
 | 6 | 0% | 0% |  |
 
 

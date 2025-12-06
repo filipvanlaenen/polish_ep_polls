@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.5% | 5.2–8.6% | 4.9–9.3% | 4.6–9.8% | 4.2–10.7% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.2–8.7% | 4.9–9.3% | 4.6–9.8% | 4.2–10.7% |
+| [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 6.6% | 5.7–7.8% | 5.4–8.1% | 5.2–8.4% | 4.8–9.0% |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 8.9% | 7.8–10.2% | 7.5–10.5% | 7.3–10.8% | 6.8–11.5% |
 | [21–23 November 2025](2025-11-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.8% | 5.8–7.9% | 5.5–8.2% | 5.3–8.5% | 4.9–9.1% |
@@ -173,9 +174,9 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 2% | 100% |  |
 | 4.5–5.5% | 16% | 98% |  |
-| 5.5–6.5% | 33% | 81% |  |
-| 6.5–7.5% | 25% | 49% | Median |
-| 7.5–8.5% | 12% | 23% |  |
+| 5.5–6.5% | 32% | 82% |  |
+| 6.5–7.5% | 26% | 50% | Median |
+| 7.5–8.5% | 13% | 24% |  |
 | 8.5–9.5% | 7% | 11% |  |
 | 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.6% | 0.7% |  |
@@ -192,6 +193,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 3 | 3–4 | 0–4 | 0–5 | 0–5 |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 3 | 0–4 | 0–4 | 0–5 | 0–5 |
 | [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 5 | 5–6 | 4–6 | 4–6 | 4–6 |
 | [21–23 November 2025](2025-11-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -353,9 +355,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 12% | 100% | Last Result |
 | 1 | 0% | 88% |  |
 | 2 | 0.5% | 88% |  |
-| 3 | 46% | 87% | Median |
-| 4 | 25% | 42% |  |
-| 5 | 13% | 16% |  |
+| 3 | 42% | 87% | Median |
+| 4 | 28% | 45% |  |
+| 5 | 13% | 17% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

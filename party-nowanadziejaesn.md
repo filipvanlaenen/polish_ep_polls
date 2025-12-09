@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 4.4–10.2% | 3.8–10.7% | 3.5–11.1% | 3.0–11.9% |
+| N/A | [Poll Average](average.html) | 8.1% | 4.2–9.9% | 3.7–10.4% | 3.5–10.8% | 3.0–11.6% |
+| [4–6 December 2025](2025-12-06-IBRiS.html) | IBRiS <br> Polsat News | 8.3% | 7.2–9.5% | 6.9–9.9% | 6.7–10.2% | 6.2–10.9% |
 | [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 9.0% | 7.8–10.3% | 7.5–10.6% | 7.3–11.0% | 6.8–11.6% |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 8.1% | 7.1–9.3% | 6.8–9.6% | 6.6–10.0% | 6.1–10.6% |
@@ -172,17 +173,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 8% | 97% |  |
-| 4.5–5.5% | 4% | 89% |  |
-| 5.5–6.5% | 8% | 85% |  |
-| 6.5–7.5% | 16% | 77% |  |
-| 7.5–8.5% | 20% | 61% | Median |
-| 8.5–9.5% | 21% | 42% |  |
-| 9.5–10.5% | 15% | 21% |  |
-| 10.5–11.5% | 5% | 6% |  |
-| 11.5–12.5% | 0.9% | 1.0% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 3.5–4.5% | 10% | 97% |  |
+| 4.5–5.5% | 5% | 87% |  |
+| 5.5–6.5% | 7% | 82% |  |
+| 6.5–7.5% | 14% | 75% |  |
+| 7.5–8.5% | 23% | 61% | Median |
+| 8.5–9.5% | 23% | 38% |  |
+| 9.5–10.5% | 12% | 16% |  |
+| 10.5–11.5% | 3% | 4% |  |
+| 11.5–12.5% | 0.5% | 0.5% |  |
+| 12.5–13.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -193,7 +193,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 2–6 | 2–6 | 2–6 | 0–7 |
+| N/A | [Poll Average](average.html) | 4 | 2–6 | 2–6 | 2–6 | 0–7 |
+| [4–6 December 2025](2025-12-06-IBRiS.html) | IBRiS <br> Polsat News | 5 | 4–6 | 4–6 | 4–6 | 3–7 |
 | [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 2 | 2–3 | 0–3 | 0–3 | 0–4 |
 | [22–25 November 2025](2025-11-25-OGB.html) | OGB <br> Stan 360 | 4 | 4–5 | 4–6 | 4–6 | 3–7 |
@@ -353,14 +354,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% | Last Result |
-| 1 | 0.2% | 99.1% |  |
-| 2 | 9% | 98.9% |  |
-| 3 | 8% | 89% |  |
-| 4 | 26% | 82% |  |
-| 5 | 29% | 55% | Median |
-| 6 | 24% | 27% |  |
-| 7 | 2% | 2% |  |
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 0.2% | 99.0% |  |
+| 2 | 11% | 98.8% |  |
+| 3 | 8% | 88% |  |
+| 4 | 31% | 79% | Median |
+| 5 | 27% | 48% |  |
+| 6 | 20% | 22% |  |
+| 7 | 1.5% | 1.5% |  |
 | 8 | 0% | 0% |  |
 
 

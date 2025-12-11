@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 4.4–9.2% | 3.9–9.7% | 3.6–10.0% | 3.2–10.8% |
+| N/A | [Poll Average](average.html) | 7.1% | 4.2–9.0% | 3.9–9.5% | 3.6–9.9% | 3.2–10.6% |
+| [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.5–9.9% |
+| [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 5.0% | 4.2–6.0% | 3.9–6.3% | 3.7–6.6% | 3.4–7.1% |
 | [4–6 December 2025](2025-12-06-IBRiS.html) | IBRiS <br> Polsat News | 8.7% | 7.6–10.0% | 7.3–10.3% | 7.1–10.7% | 6.6–11.3% |
 | [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 7.0% | 6.1–8.2% | 5.8–8.6% | 5.6–8.9% | 5.1–9.5% |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
@@ -173,15 +175,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 9% | 98% |  |
-| 4.5–5.5% | 6% | 89% |  |
-| 5.5–6.5% | 10% | 83% |  |
-| 6.5–7.5% | 23% | 73% |  |
-| 7.5–8.5% | 27% | 50% | Median |
-| 8.5–9.5% | 17% | 23% |  |
-| 9.5–10.5% | 5% | 6% |  |
-| 10.5–11.5% | 0.8% | 0.8% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 13% | 98% |  |
+| 4.5–5.5% | 14% | 85% |  |
+| 5.5–6.5% | 11% | 71% |  |
+| 6.5–7.5% | 20% | 59% | Median |
+| 7.5–8.5% | 22% | 39% |  |
+| 8.5–9.5% | 13% | 17% |  |
+| 9.5–10.5% | 4% | 4% |  |
+| 10.5–11.5% | 0.6% | 0.6% |  |
+| 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
 
@@ -194,6 +196,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
+| [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4 | 3–4 | 3–5 | 3–5 |
+| [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [4–6 December 2025](2025-12-06-IBRiS.html) | IBRiS <br> Polsat News | 4 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
@@ -354,12 +358,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 16% | 100% | Last Result |
-| 1 | 0% | 84% |  |
-| 2 | 0% | 84% |  |
-| 3 | 11% | 84% |  |
-| 4 | 48% | 73% | Median |
-| 5 | 22% | 25% |  |
+| 0 | 21% | 100% | Last Result |
+| 1 | 0% | 79% |  |
+| 2 | 0% | 79% |  |
+| 3 | 18% | 79% |  |
+| 4 | 44% | 61% | Median |
+| 5 | 14% | 16% |  |
 | 6 | 3% | 3% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |

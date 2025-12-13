@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.3% | 29.0–34.5% | 28.4–35.4% | 27.9–36.2% | 26.9–37.4% |
+| N/A | [Poll Average](average.html) | 31.1% | 28.6–34.3% | 27.9–35.3% | 27.3–36.0% | 26.3–37.3% |
+| [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 29.0% | 27.2–31.0% | 26.7–31.6% | 26.2–32.0% | 25.3–33.0% |
 | [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.4% | 29.5–33.3% | 28.9–33.9% | 28.5–34.4% | 27.6–35.4% |
 | [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 31.6% | 29.7–33.6% | 29.2–34.2% | 28.7–34.6% | 27.8–35.6% |
+| [6–7 December 2025](2025-12-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 31.4% | 29.6–33.4% | 29.1–33.9% | 28.7–34.4% | 27.8–35.3% |
 | [4–6 December 2025](2025-12-06-IBRiS.html) | IBRiS <br> Polsat News | 29.8% | 27.9–31.8% | 27.4–32.3% | 27.0–32.8% | 26.1–33.8% |
 | [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 30.7% | 28.8–32.7% | 28.3–33.3% | 27.8–33.7% | 26.9–34.7% |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 30.9% | 29.1–32.8% | 28.5–33.4% | 28.1–33.8% | 27.3–34.8% |
@@ -196,19 +198,19 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0% | 100% |  |
-| 25.5–26.5% | 0.2% | 100% |  |
-| 26.5–27.5% | 1.3% | 99.7% |  |
-| 27.5–28.5% | 5% | 98% |  |
-| 28.5–29.5% | 11% | 94% |  |
-| 29.5–30.5% | 18% | 83% |  |
-| 30.5–31.5% | 20% | 65% | Median |
-| 31.5–32.5% | 17% | 44% |  |
-| 32.5–33.5% | 11% | 28% |  |
-| 33.5–34.5% | 7% | 17% |  |
-| 34.5–35.5% | 5% | 9% |  |
-| 35.5–36.5% | 3% | 5% |  |
-| 36.5–37.5% | 1.2% | 2% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 0.7% | 99.9% |  |
+| 26.5–27.5% | 3% | 99.2% |  |
+| 27.5–28.5% | 6% | 97% |  |
+| 28.5–29.5% | 12% | 90% |  |
+| 29.5–30.5% | 17% | 78% |  |
+| 30.5–31.5% | 19% | 61% | Median |
+| 31.5–32.5% | 16% | 42% |  |
+| 32.5–33.5% | 11% | 26% |  |
+| 33.5–34.5% | 7% | 15% |  |
+| 34.5–35.5% | 4% | 8% |  |
+| 35.5–36.5% | 3% | 4% |  |
+| 36.5–37.5% | 1.1% | 1.4% |  |
 | 37.5–38.5% | 0.3% | 0.4% |  |
 | 38.5–39.5% | 0.1% | 0.1% |  |
 | 39.5–40.5% | 0% | 0% |  |
@@ -222,9 +224,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20 | 19–23 | 18–23 | 18–23 | 17–24 |
-| [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 19–20 | 19–20 | 19–21 | 18–21 |
-| [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 21 | 19–22 | 19–22 | 19–22 | 18–24 |
+| N/A | [Poll Average](average.html) | 19 | 17–22 | 17–23 | 17–23 | 16–23 |
+| [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 17 | 17–19 | 16–19 | 16–19 | 16–20 |
+| [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 19–20 | 19–20 | 19–21 | 17–22 |
+| [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 20 | 19–22 | 19–23 | 19–23 | 18–24 |
+| [6–7 December 2025](2025-12-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 20 | 18–21 | 18–21 | 18–22 | 18–23 |
 | [4–6 December 2025](2025-12-06-IBRiS.html) | IBRiS <br> Polsat News | 19 | 18–20 | 17–21 | 17–21 | 16–21 |
 | [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 19 | 18–21 | 17–21 | 17–21 | 16–23 |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 19 | 19–21 | 18–22 | 18–22 | 17–22 |
@@ -401,15 +405,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.2% | 100% |  |
-| 17 | 1.4% | 99.8% |  |
-| 18 | 8% | 98% |  |
-| 19 | 40% | 90% |  |
-| 20 | 16% | 51% | Median |
-| 21 | 12% | 35% |  |
-| 22 | 12% | 23% |  |
-| 23 | 10% | 11% |  |
-| 24 | 0.4% | 0.6% |  |
+| 16 | 1.0% | 100% |  |
+| 17 | 11% | 98.9% |  |
+| 18 | 9% | 88% |  |
+| 19 | 30% | 79% | Median |
+| 20 | 21% | 50% |  |
+| 21 | 10% | 28% |  |
+| 22 | 9% | 18% |  |
+| 23 | 9% | 9% |  |
+| 24 | 0.3% | 0.5% |  |
 | 25 | 0.2% | 0.2% |  |
 | 26 | 0% | 0% |  |
 

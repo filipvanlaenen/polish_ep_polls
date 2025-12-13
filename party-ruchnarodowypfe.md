@@ -10,9 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 3.2–6.8% | 2.8–7.1% | 2.5–7.4% | 2.1–8.0% |
+| N/A | [Poll Average](average.html) | 5.6% | 3.3–6.8% | 2.9–7.2% | 2.6–7.4% | 2.2–8.0% |
+| [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 5.8% | 4.9–6.9% | 4.7–7.2% | 4.5–7.5% | 4.1–8.1% |
 | [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.8% | 4.9–6.9% | 4.7–7.2% | 4.5–7.5% | 4.1–8.0% |
 | [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.6% | 4.2–8.2% |
+| [6–7 December 2025](2025-12-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
 | [4–6 December 2025](2025-12-06-IBRiS.html) | IBRiS <br> Polsat News | 6.0% | 5.2–7.2% | 4.9–7.5% | 4.7–7.8% | 4.3–8.3% |
 | [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 6.6% | 5.7–7.8% | 5.4–8.1% | 5.2–8.4% | 4.8–9.0% |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 3.0% | 2.4–3.8% | 2.2–4.1% | 2.1–4.3% | 1.9–4.7% |
@@ -173,11 +175,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 11% | 97% |  |
-| 3.5–4.5% | 9% | 86% |  |
+| 1.5–2.5% | 2% | 100% |  |
+| 2.5–3.5% | 10% | 98% |  |
+| 3.5–4.5% | 10% | 88% |  |
 | 4.5–5.5% | 26% | 77% |  |
-| 5.5–6.5% | 35% | 51% | Median |
+| 5.5–6.5% | 36% | 52% | Median |
 | 6.5–7.5% | 14% | 16% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
@@ -192,9 +194,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 1–4 | 1–4 | 0–5 |
-| [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3 | 3 | 3–4 | 2–4 |
-| [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 1–4 | 0–5 |
+| [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
+| [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
+| [6–7 December 2025](2025-12-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 2 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [4–6 December 2025](2025-12-06-IBRiS.html) | IBRiS <br> Polsat News | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [1–3 December 2025](2025-12-03-Opinia24.html) | Opinia24 | 3 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [1–30 November 2025](2025-11-30-SocialChanges.html) | Social Changes <br> wPolsce24 | 2 | 1–2 | 0–2 | 0–2 | 0–3 |
@@ -355,12 +359,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.1% | 100% | Last Result |
-| 1 | 4% | 98.9% |  |
-| 2 | 18% | 95% |  |
-| 3 | 48% | 76% | Median |
-| 4 | 27% | 29% |  |
-| 5 | 1.5% | 2% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 4% | 99.1% |  |
+| 2 | 19% | 95% |  |
+| 3 | 42% | 77% | Median |
+| 4 | 33% | 35% |  |
+| 5 | 1.4% | 1.4% |  |
 | 6 | 0% | 0% |  |
 
 

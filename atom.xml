@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-12-13T15:31:39.323833+01:00</updated>
+  <updated>2025-12-17T21:23:20.466164+01:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partia Zieloni (Greens/EFA): 0.3–1.4%, 0–1 seats</li><li>Nowa Lewica (S&amp;D): 3.8–6.5%, 0–3 seats</li><li>.Nowoczesna (RE): 1.1–2.8%, 0–1 seats</li><li>Inicjatywa Polska (EPP): 0.3–1.4%, 0–1 seats</li><li>Polska 2050 (RE): 1.1–2.7%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 1.1–2.7%, 0 seats</li><li>Platforma Obywatelska (EPP): 29.2–35.0%, 18–22 seats</li><li>Lewica Razem (GUE/NGL): 2.3–4.6%, 0 seats</li><li>Nowa Nadzieja (ESN): 4.9–7.9%, 3–5 seats</li><li>Ruch Narodowy (PfE): 3.4–6.0%, 2–3 seats</li><li>Konfederacja Korony Polskiej (NI): 9.4–13.3%, 5–7 seats</li><li>Zjednoczona Prawica (ECR): 28.4–34.1%, 16–21 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2025-12-15-OGB.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2025-12-15-OGB.html"/>
+    <title>Opinion Poll by OGB, 9–15 December 2025</title>
+    <updated>2025-12-17T21:23:20.466164+01:00</updated>
+    <dc:date>2025-12-17T21:23:20.466164+01:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Partia Zieloni (Greens/EFA): 0.3–1.4%, 0–1 seats</li><li>Nowa Lewica (S&amp;D): 5.9–9.3%, 3–5 seats</li><li>.Nowoczesna (RE): 1.0–2.7%, 0–1 seats</li><li>Inicjatywa Polska (EPP): 0.3–1.4%, 0 seats</li><li>Polska 2050 (RE): 2.3–4.6%, 0 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 2.3–4.6%, 0 seats</li><li>Platforma Obywatelska (EPP): 26.2–32.0%, 16–19 seats</li><li>Lewica Razem (GUE/NGL): 5.0–8.1%, 0–4 seats</li><li>Nowa Nadzieja (ESN): 6.4–9.9%, 4–6 seats</li><li>Ruch Narodowy (PfE): 4.5–7.5%, 3–4 seats</li><li>Konfederacja Korony Polskiej (NI): 5.9–9.3%, 3–5 seats</li><li>Zjednoczona Prawica (ECR): 23.9–29.6%, 14–17 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2025-12-09-Ipsos.html</id>
@@ -463,5 +471,5 @@
     <updated>2025-07-06T13:54:29.765922+02:00</updated>
     <dc:date>2025-07-06T13:54:29.765922+02:00</dc:date>
   </entry>
-  <dc:date>2025-12-13T15:31:39.323833+01:00</dc:date>
+  <dc:date>2025-12-17T21:23:20.466164+01:00</dc:date>
 </feed>

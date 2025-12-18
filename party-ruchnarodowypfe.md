@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 3.3–6.8% | 2.9–7.2% | 2.6–7.4% | 2.2–8.0% |
+| N/A | [Poll Average](average.html) | 5.3% | 3.3–6.7% | 2.9–7.1% | 2.6–7.4% | 2.2–8.0% |
+| [9–15 December 2025](2025-12-15-OGB.html) | OGB | 4.5% | 3.7–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 5.8% | 4.9–6.9% | 4.7–7.2% | 4.5–7.5% | 4.1–8.1% |
 | [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.8% | 4.9–6.9% | 4.7–7.2% | 4.5–7.5% | 4.1–8.0% |
 | [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.6% | 4.2–8.2% |
@@ -176,11 +177,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 10% | 98% |  |
-| 3.5–4.5% | 10% | 88% |  |
-| 4.5–5.5% | 26% | 77% |  |
-| 5.5–6.5% | 36% | 52% | Median |
-| 6.5–7.5% | 14% | 16% |  |
+| 2.5–3.5% | 11% | 98% |  |
+| 3.5–4.5% | 17% | 87% |  |
+| 4.5–5.5% | 28% | 71% | Median |
+| 5.5–6.5% | 30% | 43% |  |
+| 6.5–7.5% | 11% | 13% |  |
 | 7.5–8.5% | 2% | 2% |  |
 | 8.5–9.5% | 0.1% | 0.1% |  |
 | 9.5–10.5% | 0% | 0% |  |
@@ -195,6 +196,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 1–4 | 0–5 |
+| [9–15 December 2025](2025-12-15-OGB.html) | OGB | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [5–8 December 2025](2025-12-08-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3 | 3–4 | 2–4 | 2–4 |
 | [4–7 December 2025](2025-12-07-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
@@ -361,10 +363,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.9% | 100% | Last Result |
 | 1 | 4% | 99.1% |  |
-| 2 | 19% | 95% |  |
-| 3 | 42% | 77% | Median |
-| 4 | 33% | 35% |  |
-| 5 | 1.4% | 1.4% |  |
+| 2 | 25% | 95% |  |
+| 3 | 44% | 70% | Median |
+| 4 | 25% | 26% |  |
+| 5 | 1.2% | 1.3% |  |
 | 6 | 0% | 0% |  |
 
 

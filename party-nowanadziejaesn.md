@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 5.4–9.0% | 5.0–9.4% | 4.7–9.7% | 4.2–10.4% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.4–8.8% | 5.0–9.3% | 4.7–9.6% | 4.2–10.3% |
+| [1–31 December 2025](2025-12-31-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 6.7% | 5.8–7.9% | 5.5–8.3% | 5.3–8.6% | 4.9–9.2% |
 | [20 December 2025](2025-12-20-SocialChanges.html) | Social Changes <br> wPolsce24 | 5.4% | 4.6–6.5% | 4.3–6.8% | 4.1–7.0% | 3.8–7.6% |
 | [9–15 December 2025](2025-12-15-OGB.html) | OGB | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 8.0% | 6.9–9.2% | 6.6–9.6% | 6.4–9.9% | 5.9–10.5% |
@@ -180,13 +181,13 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 1.5% | 100% |  |
-| 4.5–5.5% | 11% | 98.5% |  |
-| 5.5–6.5% | 21% | 88% |  |
-| 6.5–7.5% | 23% | 67% | Median |
-| 7.5–8.5% | 26% | 44% |  |
-| 8.5–9.5% | 15% | 18% |  |
-| 9.5–10.5% | 3% | 4% |  |
-| 10.5–11.5% | 0.3% | 0.4% |  |
+| 4.5–5.5% | 12% | 98% |  |
+| 5.5–6.5% | 25% | 87% |  |
+| 6.5–7.5% | 25% | 62% | Median |
+| 7.5–8.5% | 22% | 37% |  |
+| 8.5–9.5% | 12% | 14% |  |
+| 9.5–10.5% | 3% | 3% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -198,7 +199,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 2–6 | 2–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 2–6 | 2–6 |
+| [1–31 December 2025](2025-12-31-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [20 December 2025](2025-12-20-SocialChanges.html) | Social Changes <br> wPolsce24 | 4 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [9–15 December 2025](2025-12-15-OGB.html) | OGB | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 5 | 4–5 | 4–5 | 4–6 | 3–6 |
@@ -368,11 +370,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 3% | 100% |  |
-| 3 | 13% | 97% |  |
-| 4 | 43% | 84% | Median |
-| 5 | 36% | 41% |  |
-| 6 | 5% | 5% |  |
-| 7 | 0.3% | 0.3% |  |
+| 3 | 17% | 97% |  |
+| 4 | 48% | 80% | Median |
+| 5 | 28% | 32% |  |
+| 6 | 4% | 4% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 

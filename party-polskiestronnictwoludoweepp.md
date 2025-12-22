@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 1.7–4.6% | 1.5–4.9% | 1.3–5.2% | 1.1–5.8% |
+| [1–31 December 2025](2025-12-31-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 2.8% | 2.2–3.7% | 2.1–3.9% | 1.9–4.1% | 1.7–4.6% |
 | [20 December 2025](2025-12-20-SocialChanges.html) | Social Changes <br> wPolsce24 | 4.2% | 3.4–5.1% | 3.2–5.4% | 3.1–5.6% | 2.8–6.1% |
 | [9–15 December 2025](2025-12-15-OGB.html) | OGB | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 3.2% | 2.6–4.1% | 2.4–4.4% | 2.3–4.6% | 2.0–5.0% |
@@ -177,9 +178,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 6% | 100% |  |
-| 1.5–2.5% | 28% | 94% |  |
-| 2.5–3.5% | 30% | 66% | Median |
-| 3.5–4.5% | 25% | 36% |  |
+| 1.5–2.5% | 26% | 94% |  |
+| 2.5–3.5% | 32% | 68% | Median |
+| 3.5–4.5% | 26% | 37% |  |
 | 4.5–5.5% | 9% | 10% |  |
 | 5.5–6.5% | 1.0% | 1.1% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -194,6 +195,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–3 | 0–3 |
+| [1–31 December 2025](2025-12-31-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [20 December 2025](2025-12-20-SocialChanges.html) | Social Changes <br> wPolsce24 | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
 | [9–15 December 2025](2025-12-15-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 0 | 0 | 0 | 0 | 0 |

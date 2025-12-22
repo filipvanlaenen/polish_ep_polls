@@ -49,7 +49,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 30.8% | 28.9–32.8% | 28.3–33.3% | 27.9–33.8% | 27.0–34.8% |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 32.1% | 30.2–34.2% | 29.6–34.7% | 29.1–35.2% | 28.2–36.2% |
 | [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 31.6% | N/A | N/A | N/A | N/A |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 31.9% | 28.5–32.2% | 28.0–32.7% | 27.6–33.2% | 26.7–34.1% |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet | 30.3% | 28.5–32.2% | 28.0–32.7% | 27.6–33.2% | 26.7–34.1% |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 35.9% | 33.9–37.9% | 33.3–38.5% | 32.8–39.0% | 31.9–40.0% |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 30.2% | 28.3–32.2% | 27.7–32.8% | 27.3–33.2% | 26.4–34.2% |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 30.6% | 28.7–32.5% | 28.2–33.0% | 27.8–33.5% | 26.9–34.4% |
@@ -261,7 +261,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 18 | 16–20 | 16–20 | 16–20 | 15–21 |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 18–20 | 18–21 | 18–21 | 17–22 |
 | [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 18–19 | 17–20 | 17–20 | 17–20 |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet | 19 | 18–19 | 17–20 | 17–20 | 17–20 |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 22 | 21–23 | 20–23 | 20–23 | 19–24 |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 18 | 17–20 | 17–21 | 16–21 | 16–22 |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 19 | 18–20 | 17–21 | 17–21 | 16–21 |

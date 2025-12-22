@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 22 Dec 2025 13:40:48 +0100</pubDate>
+    <pubDate>Mon, 22 Dec 2025 21:53:55 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Opinia24 for Fakty TVN and TVN24, 1–31 December 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-12-31-Opinia24.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0–1 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 19–23 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0–3 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 4–7 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 14–19 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-12-31-Opinia24-seats.png"
+        length="304725"
+        type="image/png"/>
+      <pubDate>Mon, 22 Dec 2025 21:53:55 +0100</pubDate>
+      <dc:date>2025-12-22T21:53:55.61818+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinia24 for Fakty TVN and TVN24, 1–31 December 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-12-31-Opinia24.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-12-31-Opinia24-coalitions-seats.png"
+        length="215167"
+        type="image/png"/>
+      <pubDate>Mon, 22 Dec 2025 21:53:55 +0100</pubDate>
+      <dc:date>2025-12-22T21:53:55.61818+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Opinia24 for Fakty TVN and TVN24, 1–31 December 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-12-31-Opinia24.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 4.1–7.0%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 1.5–3.5%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 1.9–4.1%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 29.5–35.5%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 2.7–5.3%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5.3–8.6%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 3.7–6.5%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 7.6–11.4%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 24.8–30.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-12-31-Opinia24.png"
+        length="353504"
+        type="image/png"/>
+      <pubDate>Mon, 22 Dec 2025 21:53:55 +0100</pubDate>
+      <dc:date>2025-12-22T21:53:55.61818+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Social Changes for wPolsce24, 20 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-12-20-SocialChanges.html#seats</link>
@@ -1779,6 +1809,6 @@
       <pubDate>Sun, 06 Jul 2025 13:54:29 +0200</pubDate>
       <dc:date>2025-07-06T13:54:29.765922+02:00</dc:date>
     </item>
-    <dc:date>2025-12-22T13:40:48.27797+01:00</dc:date>
+    <dc:date>2025-12-22T21:53:55.61818+01:00</dc:date>
   </channel>
 </rss>

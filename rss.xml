@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Dec 2025 21:23:42 +0100</pubDate>
+    <pubDate>Mon, 22 Dec 2025 13:40:48 +0100</pubDate>
     <item>
       <title>Opinion Poll by Social Changes for wPolsce24, 20 December 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-12-20-SocialChanges.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-12-20-SocialChanges-seats.png"
         length="306593"
         type="image/png"/>
-      <pubDate>Sat, 20 Dec 2025 21:23:42 +0100</pubDate>
-      <dc:date>2025-12-20T21:23:42.291651+01:00</dc:date>
+      <pubDate>Mon, 22 Dec 2025 13:40:48 +0100</pubDate>
+      <dc:date>2025-12-22T13:40:48.27797+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes for wPolsce24, 20 December 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-12-20-SocialChanges-coalitions-seats.png"
         length="218755"
         type="image/png"/>
-      <pubDate>Sat, 20 Dec 2025 21:23:42 +0100</pubDate>
-      <dc:date>2025-12-20T21:23:42.291651+01:00</dc:date>
+      <pubDate>Mon, 22 Dec 2025 13:40:48 +0100</pubDate>
+      <dc:date>2025-12-22T13:40:48.27797+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes for wPolsce24, 20 December 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-12-20-SocialChanges.png"
         length="356277"
         type="image/png"/>
-      <pubDate>Sat, 20 Dec 2025 21:23:42 +0100</pubDate>
-      <dc:date>2025-12-20T21:23:42.291651+01:00</dc:date>
+      <pubDate>Mon, 22 Dec 2025 13:40:48 +0100</pubDate>
+      <dc:date>2025-12-22T13:40:48.27797+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGB, 9–15 December 2025 – Seat Projections for the Parties</title>
@@ -1120,7 +1120,7 @@
       <dc:date>2025-09-04T20:29:16.982137+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IBRiS for Rzeczpospolita, 29–30 August 2025 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by IBRiS for Onet, 29–30 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-08-30-IBRiS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–20 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5–7 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4–5 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 0 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 17–20 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-30-IBRiS-seats.png"
@@ -1130,7 +1130,7 @@
       <dc:date>2025-09-04T20:59:02.204601+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IBRiS for Rzeczpospolita, 29–30 August 2025 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by IBRiS for Onet, 29–30 August 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-08-30-IBRiS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-30-IBRiS-coalitions-seats.png"
@@ -1140,7 +1140,7 @@
       <dc:date>2025-09-04T20:59:02.204601+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by IBRiS for Rzeczpospolita, 29–30 August 2025 – Voting Intentions</title>
+      <title>Opinion Poll by IBRiS for Onet, 29–30 August 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2025-08-30-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 7.1–10.6%&lt;/li&gt;&lt;li&gt;.Nowoczesna (RE): 1.0–2.5%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.3–5.8%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska (EPP): 25.1–30.6%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 7.3–10.8%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 2.6–4.9%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 27.6–33.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2025-08-30-IBRiS.png"
@@ -1779,6 +1779,6 @@
       <pubDate>Sun, 06 Jul 2025 13:54:29 +0200</pubDate>
       <dc:date>2025-07-06T13:54:29.765922+02:00</dc:date>
     </item>
-    <dc:date>2025-12-20T21:23:42.291651+01:00</dc:date>
+    <dc:date>2025-12-22T13:40:48.27797+01:00</dc:date>
   </channel>
 </rss>

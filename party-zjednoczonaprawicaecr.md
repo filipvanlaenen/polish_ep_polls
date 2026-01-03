@@ -226,7 +226,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17 | 14–19 | 14–19 | 14–19 | 14–21 |
 | [1–31 December 2025](2025-12-31-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 17 | 15–18 | 15–18 | 14–19 | 14–19 |
-| [19–21 December 2025](2025-12-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–17 | 14–17 | 14–17 | 13–17 |
+| [19–21 December 2025](2025-12-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [20 December 2025](2025-12-20-SocialChanges.html) | Social Changes <br> wPolsce24 | 17 | 17–19 | 17–21 | 16–21 | 15–22 |
 | [9–15 December 2025](2025-12-15-OGB.html) | OGB | 18 | 17–19 | 17–20 | 16–21 | 16–21 |
 | [5–9 December 2025](2025-12-09-Ipsos.html) | Ipsos <br> Radio ZET | 15 | 15–17 | 14–17 | 14–17 | 14–17 |
@@ -408,9 +408,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0.5% | 100% |  |
 | 14 | 10% | 99.5% |  |
-| 15 | 17% | 90% |  |
-| 16 | 15% | 73% |  |
-| 17 | 27% | 58% | Median |
+| 15 | 18% | 89% |  |
+| 16 | 14% | 71% |  |
+| 17 | 26% | 58% | Median |
 | 18 | 13% | 31% |  |
 | 19 | 16% | 18% |  |
 | 20 | 1.0% | 2% |  |

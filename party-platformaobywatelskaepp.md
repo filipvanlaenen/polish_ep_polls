@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 30.8% | 28.3–33.3% | 27.6–34.0% | 27.1–34.5% | 26.1–35.6% |
+| N/A | [Poll Average](average.html) | 30.9% | 28.6–35.5% | 28.0–36.5% | 27.5–37.3% | 26.6–38.5% |
+| [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet | 30.2% | 28.4–32.1% | 27.9–32.6% | 27.5–33.1% | 26.7–34.0% |
+| [12–19 January 2026](2026-01-19-OGB.html) | OGB <br> Stan 360 | 35.5% | 33.6–37.5% | 33.1–38.0% | 32.6–38.5% | 31.7–39.5% |
+| [16–18 January 2026](2026-01-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.5% | 28.6–32.4% | 28.1–33.0% | 27.6–33.5% | 26.7–34.4% |
+| [12–14 January 2026](2026-01-14-Opinia24.html) | Opinia24 | 29.6% | 27.8–31.6% | 27.2–32.1% | 26.8–32.6% | 25.9–33.5% |
+| [2–4 January 2026](2026-01-04-UnitedSurveys.html) | United Surveys <br> WP.pl | 29.4% | N/A | N/A | N/A | N/A |
+| [2–3 January 2026](2026-01-03-IBRiS.html) | IBRiS <br> Rzeczpospolita | 30.2% | N/A | N/A | N/A | N/A |
+| [31 December 2025–1 January 2026](2026-01-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 31.1% | 29.3–33.1% | 28.8–33.6% | 28.3–34.1% | 27.5–35.0% |
 | [1–31 December 2025](2025-12-31-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 32.4% | 30.5–34.5% | 29.9–35.0% | 29.5–35.5% | 28.6–36.5% |
 | [19–21 December 2025](2025-12-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.1% | 29.2–33.1% | 28.7–33.7% | 28.2–34.2% | 27.3–35.1% |
 | [20 December 2025](2025-12-20-SocialChanges.html) | Social Changes <br> wPolsce24 | 29.4% | 27.5–31.3% | 27.0–31.9% | 26.6–32.3% | 25.7–33.3% |
@@ -29,7 +36,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [14–15 November 2025](2025-11-15-IBRiS.html) | IBRiS <br> Onet | 29.9% | 28.2–31.8% | 27.6–32.3% | 27.2–32.8% | 26.4–33.7% |
 | [3–5 November 2025](2025-11-05-Opinia24.html) | Opinia24 | 32.6% | 30.7–34.7% | 30.1–35.3% | 29.7–35.8% | 28.8–36.7% |
 | [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 29.3% | 27.5–31.2% | 27.0–31.8% | 26.5–32.2% | 25.7–33.2% |
-| [23–27 October 2025](2025-10-27-OGB.html) | OGB | 35.5% | 33.5–37.4% | 33.0–37.9% | 32.5–38.4% | 31.6–39.4% |
+| [23–27 October 2025](2025-10-27-OGB.html) | OGB | 35.4% | 33.5–37.4% | 33.0–37.9% | 32.5–38.4% | 31.6–39.4% |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.0% | 28.1–32.0% | 27.6–32.5% | 27.1–33.0% | 26.2–34.0% |
 | [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 29.2% | 27.5–31.1% | 26.9–31.7% | 26.5–32.1% | 25.7–33.0% |
 | [15–22 October 2025](2025-10-22-OGB.html) | OGB | 34.7% | 32.8–36.7% | 32.3–37.2% | 31.8–37.7% | 30.9–38.7% |
@@ -51,7 +58,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 28.0% | 26.1–29.9% | 25.6–30.5% | 25.2–31.0% | 24.3–31.9% |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 27.4% | 25.5–29.3% | 25.0–29.9% | 24.5–30.4% | 23.7–31.3% |
 | [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 29.7% | N/A | N/A | N/A | N/A |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 28.4% | 26.0–29.6% | 25.5–30.1% | 25.1–30.6% | 24.3–31.5% |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet | 27.8% | 26.0–29.6% | 25.5–30.1% | 25.1–30.6% | 24.3–31.5% |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 28.1% | 26.2–30.0% | 25.7–30.6% | 25.2–31.1% | 24.4–32.0% |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 28.2% | 26.3–30.2% | 25.8–30.7% | 25.4–31.2% | 24.5–32.2% |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 30.4% | 28.5–32.3% | 28.0–32.8% | 27.6–33.3% | 26.7–34.2% |
@@ -84,7 +91,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet | 31.0% | N/A | N/A | N/A | N/A |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 28.3% | N/A | N/A | N/A | N/A |
 | [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 31.1% | N/A | N/A | N/A | N/A |
-| [5–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Newsweek | 31.3% | N/A | N/A | N/A | N/A |
+| [6–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 31.3% | N/A | N/A | N/A | N/A |
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 28.4% | N/A | N/A | N/A | N/A |
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 29.9% | N/A | N/A | N/A | N/A |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 28.5% | N/A | N/A | N/A | N/A |
@@ -202,20 +209,23 @@ The following table shows the probability mass function per percentage block of 
 | 21.5–22.5% | 0% | 100% |  |
 | 22.5–23.5% | 0% | 100% |  |
 | 23.5–24.5% | 0% | 100% |  |
-| 24.5–25.5% | 0.2% | 100% |  |
-| 25.5–26.5% | 1.0% | 99.8% |  |
-| 26.5–27.5% | 4% | 98.9% |  |
-| 27.5–28.5% | 8% | 95% |  |
-| 28.5–29.5% | 14% | 87% |  |
-| 29.5–30.5% | 18% | 73% |  |
-| 30.5–31.5% | 19% | 55% | Median |
-| 31.5–32.5% | 17% | 35% |  |
-| 32.5–33.5% | 11% | 19% |  |
-| 33.5–34.5% | 5% | 8% |  |
-| 34.5–35.5% | 2% | 2% |  |
-| 35.5–36.5% | 0.5% | 0.6% |  |
-| 36.5–37.5% | 0.1% | 0.1% |  |
-| 37.5–38.5% | 0% | 0% |  |
+| 24.5–25.5% | 0.1% | 100% |  |
+| 25.5–26.5% | 0.4% | 99.9% |  |
+| 26.5–27.5% | 2% | 99.5% |  |
+| 27.5–28.5% | 7% | 97% |  |
+| 28.5–29.5% | 14% | 91% |  |
+| 29.5–30.5% | 19% | 76% |  |
+| 30.5–31.5% | 19% | 57% | Median |
+| 31.5–32.5% | 12% | 38% |  |
+| 32.5–33.5% | 6% | 26% |  |
+| 33.5–34.5% | 5% | 20% |  |
+| 34.5–35.5% | 5% | 15% |  |
+| 35.5–36.5% | 5% | 10% |  |
+| 36.5–37.5% | 3% | 5% |  |
+| 37.5–38.5% | 1.3% | 2% |  |
+| 38.5–39.5% | 0.4% | 0.5% |  |
+| 39.5–40.5% | 0.1% | 0.1% |  |
+| 40.5–41.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -226,7 +236,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–21 | 17–22 | 16–22 | 16–23 |
+| N/A | [Poll Average](average.html) | 19 | 17–23 | 17–24 | 17–24 | 17–24 |
+| [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet | 18 | 17–20 | 17–21 | 17–21 | 16–21 |
+| [12–19 January 2026](2026-01-19-OGB.html) | OGB <br> Stan 360 | 23 | 22–24 | 21–24 | 21–24 | 20–25 |
+| [16–18 January 2026](2026-01-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 17–22 | 17–22 | 17–22 | 16–22 |
+| [12–14 January 2026](2026-01-14-Opinia24.html) | Opinia24 | 18 | 17–20 | 17–21 | 17–21 | 17–22 |
+| [2–4 January 2026](2026-01-04-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [2–3 January 2026](2026-01-03-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [31 December 2025–1 January 2026](2026-01-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–21 | 18–22 | 17–22 | 17–23 |
 | [1–31 December 2025](2025-12-31-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 21 | 19–23 | 19–23 | 19–23 | 18–24 |
 | [19–21 December 2025](2025-12-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 17–20 | 16–21 | 16–21 | 16–21 |
 | [20 December 2025](2025-12-20-SocialChanges.html) | Social Changes <br> wPolsce24 | 17 | 17–18 | 16–19 | 16–20 | 16–21 |
@@ -267,7 +284,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 17 | 16–19 | 16–19 | 16–20 | 15–21 |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 17 | 17–19 | 16–19 | 16–20 | 16–20 |
 | [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 19 | 17–19 | 17–20 | 17–20 | 16–20 |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet | 19 | 17–19 | 17–20 | 17–20 | 16–20 |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 18 | 17–19 | 17–20 | 17–20 | 16–21 |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 18 | 17–20 | 17–20 | 17–21 | 16–21 |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 20 | 19–21 | 19–21 | 19–22 | 17–23 |
@@ -300,7 +317,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [5–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Newsweek |  |  |  |  |  |
+| [6–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
@@ -410,16 +427,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0% | 100% |  |
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
-| 15 | 0.1% | 100% |  |
-| 16 | 3% | 99.9% |  |
-| 17 | 19% | 97% |  |
-| 18 | 13% | 77% |  |
-| 19 | 27% | 64% | Median |
-| 20 | 20% | 37% |  |
-| 21 | 12% | 18% |  |
-| 22 | 4% | 5% |  |
-| 23 | 2% | 2% |  |
-| 24 | 0.2% | 0.2% |  |
-| 25 | 0% | 0% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0.4% | 100% |  |
+| 17 | 20% | 99.5% |  |
+| 18 | 10% | 79% |  |
+| 19 | 20% | 70% | Median |
+| 20 | 18% | 49% |  |
+| 21 | 9% | 31% |  |
+| 22 | 7% | 22% |  |
+| 23 | 10% | 15% |  |
+| 24 | 5% | 5% |  |
+| 25 | 0.2% | 0.3% |  |
+| 26 | 0.1% | 0.1% |  |
+| 27 | 0% | 0% | Majority |
 
 

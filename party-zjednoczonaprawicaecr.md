@@ -230,14 +230,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 15–19 | 15–19 | 14–19 | 14–19 |
-| [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet | 16 | 15–17 | 15–19 | 15–19 | 15–19 |
-| [12–19 January 2026](2026-01-19-OGB.html) | OGB <br> Stan 360 | 16 | 15–18 | 14–18 | 14–18 | 14–19 |
+| N/A | [Poll Average](average.html) | 17 | 15–18 | 15–19 | 14–19 | 14–19 |
+| [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet | 16 | 15–18 | 15–19 | 15–19 | 15–19 |
+| [12–19 January 2026](2026-01-19-OGB.html) | OGB <br> Stan 360 | 17 | 15–18 | 15–18 | 14–18 | 14–19 |
 | [16–18 January 2026](2026-01-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 16 | 15–18 | 14–19 | 14–19 | 14–19 |
-| [12–14 January 2026](2026-01-14-Opinia24.html) | Opinia24 | 16 | 15–17 | 15–18 | 14–18 | 14–19 |
+| [12–14 January 2026](2026-01-14-Opinia24.html) | Opinia24 | 16 | 15–17 | 15–18 | 15–19 | 14–19 |
 | [2–4 January 2026](2026-01-04-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [2–3 January 2026](2026-01-03-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [31 December 2025–1 January 2026](2026-01-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 17–19 | 16–19 | 16–19 | 15–20 |
+| [31 December 2025–1 January 2026](2026-01-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
 | [1–31 December 2025](2025-12-31-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 17 | 15–18 | 15–18 | 14–19 | 14–19 |
 | [19–21 December 2025](2025-12-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
 | [20 December 2025](2025-12-20-SocialChanges.html) | Social Changes <br> wPolsce24 | 17 | 17–19 | 17–21 | 16–21 | 15–22 |
@@ -419,13 +419,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 0% | 100% |  |
 | 11 | 0% | 100% |  |
 | 12 | 0% | 100% |  |
-| 13 | 0% | 100% |  |
-| 14 | 4% | 100% |  |
-| 15 | 13% | 96% |  |
-| 16 | 43% | 83% | Median |
-| 17 | 21% | 40% |  |
-| 18 | 9% | 19% |  |
-| 19 | 10% | 10% |  |
+| 13 | 0.1% | 100% |  |
+| 14 | 3% | 99.9% |  |
+| 15 | 12% | 97% |  |
+| 16 | 34% | 85% |  |
+| 17 | 28% | 51% | Median |
+| 18 | 16% | 24% |  |
+| 19 | 7% | 7% |  |
 | 20 | 0.4% | 0.4% |  |
 | 21 | 0% | 0% |  |
 

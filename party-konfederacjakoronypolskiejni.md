@@ -208,11 +208,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–6 | 3–6 | 3–6 | 3–6 |
-| [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 3–6 | 3–6 |
+| [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [12–19 January 2026](2026-01-19-OGB.html) | OGB <br> Stan 360 | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [16–18 January 2026](2026-01-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 3–6 |
-| [12–14 January 2026](2026-01-14-Opinia24.html) | Opinia24 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [12–14 January 2026](2026-01-14-Opinia24.html) | Opinia24 | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [2–4 January 2026](2026-01-04-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [2–3 January 2026](2026-01-03-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [31 December 2025–1 January 2026](2026-01-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
@@ -388,10 +388,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 18% | 99.9% |  |
-| 4 | 54% | 82% | Median |
-| 5 | 18% | 28% |  |
-| 6 | 10% | 10% |  |
-| 7 | 0.2% | 0.2% |  |
+| 4 | 52% | 82% | Median |
+| 5 | 20% | 29% |  |
+| 6 | 9% | 9% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 

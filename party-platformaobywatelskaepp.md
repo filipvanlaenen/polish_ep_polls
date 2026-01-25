@@ -236,11 +236,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 17–23 | 17–24 | 17–24 | 17–24 |
-| [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet | 18 | 17–20 | 17–21 | 17–21 | 16–21 |
+| N/A | [Poll Average](average.html) | 19 | 17–23 | 17–24 | 17–24 | 16–24 |
+| [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet | 19 | 17–20 | 17–21 | 17–21 | 16–21 |
 | [12–19 January 2026](2026-01-19-OGB.html) | OGB <br> Stan 360 | 23 | 22–24 | 21–24 | 21–24 | 20–25 |
-| [16–18 January 2026](2026-01-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 17–22 | 17–22 | 17–22 | 16–22 |
-| [12–14 January 2026](2026-01-14-Opinia24.html) | Opinia24 | 18 | 17–20 | 17–21 | 17–21 | 17–22 |
+| [16–18 January 2026](2026-01-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 17–21 | 17–22 | 17–22 | 16–22 |
+| [12–14 January 2026](2026-01-14-Opinia24.html) | Opinia24 | 19 | 17–20 | 17–21 | 17–21 | 17–22 |
 | [2–4 January 2026](2026-01-04-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [2–3 January 2026](2026-01-03-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [31 December 2025–1 January 2026](2026-01-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–21 | 18–22 | 17–22 | 17–23 |
@@ -428,16 +428,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.4% | 100% |  |
-| 17 | 20% | 99.5% |  |
-| 18 | 10% | 79% |  |
-| 19 | 20% | 70% | Median |
-| 20 | 18% | 49% |  |
-| 21 | 9% | 31% |  |
-| 22 | 7% | 22% |  |
-| 23 | 10% | 15% |  |
-| 24 | 5% | 5% |  |
-| 25 | 0.2% | 0.3% |  |
+| 16 | 0.9% | 100% |  |
+| 17 | 14% | 99.1% |  |
+| 18 | 15% | 85% |  |
+| 19 | 22% | 71% | Median |
+| 20 | 19% | 49% |  |
+| 21 | 8% | 30% |  |
+| 22 | 6% | 21% |  |
+| 23 | 8% | 15% |  |
+| 24 | 8% | 8% |  |
+| 25 | 0.1% | 0.2% |  |
 | 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0% | Majority |
 

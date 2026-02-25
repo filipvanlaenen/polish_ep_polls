@@ -104,6 +104,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.1% | N/A | N/A | N/A | N/A |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4.2% | N/A | N/A | N/A | N/A |
 | [23–25 April 2025](2025-04-25-OGB.html) | OGB | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
+| [24 April 2025](2025-04-24-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 3.6% | N/A | N/A | N/A | N/A |
 | [17–19 April 2025](2025-04-19-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.8% | N/A | N/A | N/A | N/A |
 | [14–16 April 2025](2025-04-16-Opinia24.html) | Opinia24 | 3.7% | N/A | N/A | N/A | N/A |
 | [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.4–5.7% |
@@ -306,6 +307,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [23–25 April 2025](2025-04-25-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
+| [24 April 2025](2025-04-24-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [17–19 April 2025](2025-04-19-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [14–16 April 2025](2025-04-16-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [14–16 April 2025](2025-04-16-Ipsos.html) | Ipsos <br> TVP Info | 0 | 0 | 0 | 0–3 | 0–3 |

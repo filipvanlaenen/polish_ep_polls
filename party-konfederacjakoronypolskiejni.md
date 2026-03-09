@@ -224,13 +224,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–7 | 3–7 |
 | [2–4 March 2026](2026-03-04-Opinia24.html) | Opinia24 | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [27 February–1 March 2026](2026-03-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–6 | 4–6 | 4–7 | 4–7 |
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
 | [25–26 February 2026](2026-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [20–21 February 2026](2026-02-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 5–7 | 5–7 | 5–7 | 5–8 |
-| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [6–17 February 2026](2026-02-17-SocialChanges.html) | Social Changes <br> wPolsce24 | 6 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [13–15 February 2026](2026-02-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
 | [9–14 February 2026](2026-02-14-OGB.html) | OGB | 5 | 4–5 | 4–6 | 4–6 | 4–7 |
@@ -415,12 +415,12 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 0% | 99.9% |  |
-| 2 | 0% | 99.9% |  |
-| 3 | 5% | 99.9% |  |
-| 4 | 31% | 95% |  |
-| 5 | 42% | 63% | Median |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 4% | 100% |  |
+| 4 | 36% | 96% |  |
+| 5 | 39% | 61% | Median |
 | 6 | 18% | 21% |  |
 | 7 | 3% | 3% |  |
 | 8 | 0% | 0% |  |

@@ -223,7 +223,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–6 | 3–7 |
 | [2–4 March 2026](2026-03-04-Opinia24.html) | Opinia24 | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
 | [27 February–1 March 2026](2026-03-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
@@ -416,11 +416,11 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 0.2% | 100% |  |
-| 3 | 8% | 99.8% |  |
-| 4 | 35% | 91% |  |
-| 5 | 41% | 57% | Median |
-| 6 | 15% | 15% |  |
+| 2 | 0.1% | 100% |  |
+| 3 | 11% | 99.9% |  |
+| 4 | 33% | 89% |  |
+| 5 | 39% | 56% | Median |
+| 6 | 16% | 17% |  |
 | 7 | 0.5% | 0.5% |  |
 | 8 | 0% | 0% |  |
 

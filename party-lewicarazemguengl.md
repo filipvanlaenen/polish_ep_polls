@@ -223,9 +223,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–4 March 2026](2026-03-04-Opinia24.html) | Opinia24 | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [27 February–1 March 2026](2026-03-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0–3 | 0–3 |
-| [25–26 February 2026](2026-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [25–26 February 2026](2026-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [20–21 February 2026](2026-02-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
-| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
 | [6–17 February 2026](2026-02-17-SocialChanges.html) | Social Changes <br> wPolsce24 | 0 | 0 | 0 | 0 | 0 |
 | [13–15 February 2026](2026-02-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [9–14 February 2026](2026-02-14-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
@@ -412,9 +412,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 77% | 100% | Last Result, Median |
 | 1 | 0% | 23% |  |
-| 2 | 0.4% | 23% |  |
-| 3 | 22% | 22% |  |
-| 4 | 1.0% | 1.0% |  |
+| 2 | 2% | 23% |  |
+| 3 | 20% | 21% |  |
+| 4 | 0.9% | 0.9% |  |
 | 5 | 0% | 0% |  |
 
 

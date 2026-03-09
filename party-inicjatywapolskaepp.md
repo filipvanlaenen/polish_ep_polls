@@ -217,9 +217,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [2–4 March 2026](2026-03-04-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0–1 |
 | [27 February–1 March 2026](2026-03-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–1 |
-| [25–26 February 2026](2026-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0–1 | 0–1 |
+| [25–26 February 2026](2026-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [20–21 February 2026](2026-02-21-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
-| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 0 | 0 | 0 | 0 | 0 |
+| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 0 | 0 | 0 | 0 | 0–1 |
 | [6–17 February 2026](2026-02-17-SocialChanges.html) | Social Changes <br> wPolsce24 | 0 | 0 | 0 | 0 | 0 |
 | [13–15 February 2026](2026-02-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0–1 | 0–1 |
 | [9–14 February 2026](2026-02-14-OGB.html) | OGB | 0 | 0 | 0 | 0–1 | 0–1 |

@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.1% | 1.3–3.1% | 1.1–3.3% | 0.9–3.6% | 0.7–4.0% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.9–3.2% | 0.7–3.5% | 0.6–3.7% | 0.4–4.2% |
+| [11–16 March 2026](2026-03-16-OGB.html) | OGB | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [13–15 March 2026](2026-03-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.7% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
+| [13–15 March 2026](2026-03-15-IBRiS.html) | IBRiS <br> Polsat News | 1.5% | 1.1–2.2% | 1.0–2.3% | 0.9–2.5% | 0.7–2.9% |
+| [11–13 March 2026](2026-03-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 3.0% | 2.5–3.8% | 2.3–4.1% | 2.2–4.3% | 1.9–4.7% |
+| [11–12 March 2026](2026-03-12-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 1.9% | 1.5–2.7% | 1.3–2.9% | 1.2–3.0% | 1.0–3.4% |
+| [9 March 2026](2026-03-09-IBRiS.html) | IBRiS <br> Onet | 1.0% | N/A | N/A | N/A | N/A |
 | [2–4 March 2026](2026-03-04-Opinia24.html) | Opinia24 | 1.7% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
 | [27 February–1 March 2026](2026-03-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 1.2% | 0.9–1.8% | 0.7–2.0% | 0.7–2.1% | 0.5–2.5% |
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 1.6% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.8–3.0% |
@@ -199,11 +205,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% | Last Result |
-| 0.5–1.5% | 22% | 99.9% |  |
-| 1.5–2.5% | 51% | 78% | Median |
-| 2.5–3.5% | 24% | 27% |  |
-| 3.5–4.5% | 3% | 3% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 30% | 98% |  |
+| 1.5–2.5% | 40% | 68% | Median |
+| 2.5–3.5% | 24% | 28% |  |
+| 3.5–4.5% | 4% | 4% |  |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -217,6 +223,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–16 March 2026](2026-03-16-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
+| [13–15 March 2026](2026-03-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [13–15 March 2026](2026-03-15-IBRiS.html) | IBRiS <br> Polsat News | 0 | 0 | 0 | 0 | 0 |
+| [11–13 March 2026](2026-03-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 0 | 0 | 0 | 0 | 0 |
+| [11–12 March 2026](2026-03-12-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
+| [9 March 2026](2026-03-09-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [2–4 March 2026](2026-03-04-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
 | [27 February–1 March 2026](2026-03-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |

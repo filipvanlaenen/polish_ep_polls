@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.4% | 5.8–9.2% | 5.4–9.7% | 5.1–10.1% | 4.6–10.8% |
+| N/A | [Poll Average](average.html) | 6.8% | 5.1–8.9% | 4.8–9.5% | 4.5–10.0% | 4.0–10.8% |
+| [11–16 March 2026](2026-03-16-OGB.html) | OGB | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
+| [13–15 March 2026](2026-03-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 7.1% | 6.1–8.3% | 5.8–8.6% | 5.6–8.9% | 5.2–9.5% |
+| [13–15 March 2026](2026-03-15-IBRiS.html) | IBRiS <br> Polsat News | 6.6% | 5.6–7.7% | 5.4–8.0% | 5.1–8.3% | 4.7–8.9% |
+| [11–13 March 2026](2026-03-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 9.0% | 8.0–10.3% | 7.7–10.6% | 7.5–10.9% | 7.0–11.5% |
+| [11–12 March 2026](2026-03-12-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 5.5% | 4.6–6.6% | 4.4–6.9% | 4.2–7.1% | 3.8–7.7% |
+| [9 March 2026](2026-03-09-IBRiS.html) | IBRiS <br> Onet | 7.4% | N/A | N/A | N/A | N/A |
 | [2–4 March 2026](2026-03-04-Opinia24.html) | Opinia24 | 6.5% | 5.6–7.7% | 5.3–8.0% | 5.1–8.3% | 4.7–8.9% |
 | [27 February–1 March 2026](2026-03-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.4% | 7.3–9.7% | 7.0–10.1% | 6.8–10.4% | 6.3–11.1% |
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.5–9.9% |
@@ -203,14 +209,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.4% | 100% |  |
-| 4.5–5.5% | 6% | 99.6% |  |
-| 5.5–6.5% | 21% | 93% |  |
-| 6.5–7.5% | 27% | 72% | Median |
-| 7.5–8.5% | 24% | 46% |  |
-| 8.5–9.5% | 15% | 22% |  |
-| 9.5–10.5% | 5% | 6% |  |
-| 10.5–11.5% | 0.9% | 1.0% |  |
+| 3.5–4.5% | 3% | 100% |  |
+| 4.5–5.5% | 16% | 97% |  |
+| 5.5–6.5% | 26% | 81% |  |
+| 6.5–7.5% | 25% | 56% | Median |
+| 7.5–8.5% | 17% | 31% |  |
+| 8.5–9.5% | 10% | 14% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.7% | 0.8% |  |
 | 11.5–12.5% | 0.1% | 0.1% |  |
 | 12.5–13.5% | 0% | 0% |  |
 
@@ -223,7 +229,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–6 | 0–6 | 0–6 |
+| N/A | [Poll Average](average.html) | 4 | 2–5 | 0–5 | 0–6 | 0–6 |
+| [11–16 March 2026](2026-03-16-OGB.html) | OGB | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [13–15 March 2026](2026-03-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [13–15 March 2026](2026-03-15-IBRiS.html) | IBRiS <br> Polsat News | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [11–13 March 2026](2026-03-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
+| [11–12 March 2026](2026-03-12-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 3 | 0–3 | 0–4 | 0–4 | 0–4 |
+| [9 March 2026](2026-03-09-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [2–4 March 2026](2026-03-04-Opinia24.html) | Opinia24 | 4 | 3–5 | 0–5 | 0–5 | 0–5 |
 | [27 February–1 March 2026](2026-03-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
@@ -414,14 +426,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 3% | 100% | Last Result |
-| 1 | 0% | 97% |  |
-| 2 | 0.3% | 97% |  |
-| 3 | 24% | 97% |  |
-| 4 | 46% | 73% | Median |
-| 5 | 21% | 27% |  |
-| 6 | 6% | 6% |  |
-| 7 | 0.1% | 0.1% |  |
+| 0 | 10% | 100% | Last Result |
+| 1 | 0% | 90% |  |
+| 2 | 0.5% | 90% |  |
+| 3 | 35% | 90% |  |
+| 4 | 37% | 55% | Median |
+| 5 | 15% | 18% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
 
 

@@ -394,9 +394,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 77% | 100% | Last Result, Median |
 | 1 | 0% | 23% |  |
-| 2 | 1.5% | 23% |  |
+| 2 | 1.2% | 23% |  |
 | 3 | 21% | 22% |  |
-| 4 | 0.8% | 0.8% |  |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Partia Zieloni (Greens/EFA)
@@ -441,7 +441,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 93% |  |
 | 2 | 0.3% | 93% |  |
 | 3 | 41% | 92% |  |
-| 4 | 31% | 51% | Median |
+| 4 | 30% | 51% | Median |
 | 5 | 16% | 21% |  |
 | 6 | 4% | 5% |  |
 | 7 | 0.1% | 0.1% |  |
@@ -529,13 +529,13 @@ Only polls for which at least the sample size has been published are included in
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.2% | 100% |  |
-| 17 | 2% | 99.8% |  |
+| 16 | 0.3% | 100% |  |
+| 17 | 3% | 99.7% |  |
 | 18 | 9% | 97% |  |
 | 19 | 22% | 88% |  |
-| 20 | 20% | 67% | Median |
+| 20 | 19% | 67% | Median |
 | 21 | 20% | 47% |  |
-| 22 | 16% | 27% |  |
+| 22 | 17% | 27% |  |
 | 23 | 7% | 10% |  |
 | 24 | 2% | 3% |  |
 | 25 | 1.0% | 1.1% |  |
@@ -592,11 +592,11 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.9% |  |
 | 14 | 11% | 98% |  |
-| 15 | 28% | 87% |  |
-| 16 | 24% | 59% | Median |
-| 17 | 17% | 36% |  |
-| 18 | 11% | 19% |  |
-| 19 | 7% | 8% |  |
+| 15 | 27% | 87% |  |
+| 16 | 25% | 61% | Median |
+| 17 | 18% | 36% |  |
+| 18 | 11% | 18% |  |
+| 19 | 7% | 7% |  |
 | 20 | 0.6% | 0.7% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
@@ -612,9 +612,9 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
 | 2 | 20% | 99.9% |  |
-| 3 | 49% | 80% | Median |
-| 4 | 30% | 31% |  |
-| 5 | 1.2% | 1.2% |  |
+| 3 | 48% | 80% | Median |
+| 4 | 32% | 33% |  |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 ### Nowa Nadzieja (ESN)
@@ -629,10 +629,10 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
 | 3 | 16% | 99.9% |  |
-| 4 | 43% | 84% | Median |
-| 5 | 34% | 41% |  |
+| 4 | 44% | 84% | Median |
+| 5 | 34% | 40% |  |
 | 6 | 6% | 7% |  |
-| 7 | 0.8% | 0.8% |  |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 ### Kukiz’15 (NI)
@@ -665,8 +665,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 8% | 99.9% |  |
-| 4 | 49% | 92% | Median |
-| 5 | 37% | 43% |  |
+| 4 | 50% | 92% | Median |
+| 5 | 36% | 42% |  |
 | 6 | 6% | 6% |  |
 | 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
@@ -777,11 +777,11 @@ Only polls for which at least the sample size has been published are included in
 | 12 | 0.1% | 100% |  |
 | 13 | 2% | 99.9% |  |
 | 14 | 11% | 98% |  |
-| 15 | 28% | 87% |  |
-| 16 | 24% | 59% | Median |
-| 17 | 17% | 36% |  |
-| 18 | 11% | 19% |  |
-| 19 | 7% | 8% |  |
+| 15 | 27% | 87% |  |
+| 16 | 25% | 61% | Median |
+| 17 | 18% | 36% |  |
+| 18 | 11% | 18% |  |
+| 19 | 7% | 7% |  |
 | 20 | 0.6% | 0.7% |  |
 | 21 | 0.1% | 0.1% |  |
 | 22 | 0% | 0% |  |
@@ -796,8 +796,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 99.9% |  |
 | 2 | 0% | 99.9% |  |
 | 3 | 8% | 99.9% |  |
-| 4 | 49% | 92% | Median |
-| 5 | 37% | 43% |  |
+| 4 | 50% | 92% | Median |
+| 5 | 36% | 42% |  |
 | 6 | 6% | 6% |  |
 | 7 | 0.4% | 0.4% |  |
 | 8 | 0% | 0% |  |
@@ -812,10 +812,10 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
 | 3 | 16% | 99.9% |  |
-| 4 | 43% | 84% | Median |
-| 5 | 34% | 41% |  |
+| 4 | 44% | 84% | Median |
+| 5 | 34% | 40% |  |
 | 6 | 6% | 7% |  |
-| 7 | 0.8% | 0.8% |  |
+| 7 | 0.7% | 0.7% |  |
 | 8 | 0% | 0% |  |
 
 ### Nowa Lewica (S&D) – Sojusz Lewicy Demokratycznej (S&D) – Wiosna (S&D) – Wiosna–Partia Razem (S&D)
@@ -828,7 +828,7 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 93% |  |
 | 2 | 0.3% | 93% |  |
 | 3 | 41% | 92% |  |
-| 4 | 31% | 51% | Median |
+| 4 | 30% | 51% | Median |
 | 5 | 16% | 21% |  |
 | 6 | 4% | 5% |  |
 | 7 | 0.1% | 0.1% |  |
@@ -843,9 +843,9 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.1% | 100% |  |
 | 2 | 20% | 99.9% |  |
-| 3 | 49% | 80% | Median |
-| 4 | 30% | 31% |  |
-| 5 | 1.2% | 1.2% |  |
+| 3 | 48% | 80% | Median |
+| 4 | 32% | 33% |  |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 ### Lewica Razem (GUE/NGL)
@@ -856,9 +856,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 77% | 100% | Last Result, Median |
 | 1 | 0% | 23% |  |
-| 2 | 1.5% | 23% |  |
+| 2 | 1.2% | 23% |  |
 | 3 | 21% | 22% |  |
-| 4 | 0.8% | 0.8% |  |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 ### .Nowoczesna (RE) – Polska 2050 (RE) – Trzecia Droga (RE)
@@ -891,6 +891,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 7
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 13,631,488
-+ **Error estimate:** 5.20%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 14,680,064
++ **Error estimate:** 3.19%

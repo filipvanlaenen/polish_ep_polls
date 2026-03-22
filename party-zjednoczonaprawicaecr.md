@@ -266,9 +266,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 16 | 15–18 | 15–19 | 15–19 | 14–19 |
 | [6–17 February 2026](2026-02-17-SocialChanges.html) | Social Changes <br> wPolsce24 | 16 | 15–18 | 15–18 | 15–18 | 14–19 |
 | [13–15 February 2026](2026-02-15-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [9–14 February 2026](2026-02-14-OGB.html) | OGB | 16 | 15–17 | 15–18 | 15–18 | 15–19 |
+| [9–14 February 2026](2026-02-14-OGB.html) | OGB | 16 | 15–18 | 15–18 | 15–19 | 14–19 |
 | [1–8 February 2026](2026-02-08-SocialChanges.html) | Social Changes <br> wPolsce24 |  |  |  |  |  |
-| [2–4 February 2026](2026-02-04-Opinia24.html) | Opinia24 | 15 | 14–17 | 14–17 | 14–17 | 13–18 |
+| [2–4 February 2026](2026-02-04-Opinia24.html) | Opinia24 | 16 | 14–16 | 14–17 | 14–17 | 13–18 |
 | [30 January–1 February 2026](2026-02-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [30–31 January 2026](2026-01-31-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |

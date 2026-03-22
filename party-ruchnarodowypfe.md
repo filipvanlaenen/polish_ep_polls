@@ -241,7 +241,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [6–17 February 2026](2026-02-17-SocialChanges.html) | Social Changes <br> wPolsce24 | 2 | 2–3 | 2–3 | 2–4 | 2–4 |
 | [13–15 February 2026](2026-02-15-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [9–14 February 2026](2026-02-14-OGB.html) | OGB | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
+| [9–14 February 2026](2026-02-14-OGB.html) | OGB | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [1–8 February 2026](2026-02-08-SocialChanges.html) | Social Changes <br> wPolsce24 |  |  |  |  |  |
 | [2–4 February 2026](2026-02-04-Opinia24.html) | Opinia24 | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
 | [30 January–1 February 2026](2026-02-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |

@@ -246,7 +246,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [13–15 February 2026](2026-02-15-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [9–14 February 2026](2026-02-14-OGB.html) | OGB | 3 | 3–4 | 0–4 | 0–4 | 0–4 |
 | [1–8 February 2026](2026-02-08-SocialChanges.html) | Social Changes <br> wPolsce24 |  |  |  |  |  |
-| [2–4 February 2026](2026-02-04-Opinia24.html) | Opinia24 | 4 | 3–5 | 3–5 | 3–5 | 0–5 |
+| [2–4 February 2026](2026-02-04-Opinia24.html) | Opinia24 | 3 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [30 January–1 February 2026](2026-02-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [30–31 January 2026](2026-01-31-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [20–21 January 2026](2026-01-21-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |

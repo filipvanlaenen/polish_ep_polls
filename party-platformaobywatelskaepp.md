@@ -260,7 +260,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 21 | 19–23 | 18–23 | 18–24 | 17–25 |
-| [20–23 March 2026](2026-03-23-ResearchPartner.html) | Research Partner | 20 | 19–22 | 19–22 | 19–22 | 18–23 |
+| [20–23 March 2026](2026-03-23-ResearchPartner.html) | Research Partner | 20 | 19–21 | 19–22 | 19–22 | 18–23 |
 | [11–16 March 2026](2026-03-16-OGB.html) | OGB | 22 | 21–23 | 20–24 | 20–25 | 19–25 |
 | [13–15 March 2026](2026-03-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 21 | 19–22 | 18–22 | 18–22 | 18–23 |
 | [13–15 March 2026](2026-03-15-IBRiS.html) | IBRiS <br> Polsat News | 19 | 18–21 | 18–21 | 18–21 | 17–22 |
@@ -476,9 +476,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 16 | 0.1% | 100% |  |
 | 17 | 0.7% | 99.9% |  |
 | 18 | 5% | 99.3% |  |
-| 19 | 18% | 94% |  |
-| 20 | 25% | 76% |  |
-| 21 | 23% | 51% | Median |
+| 19 | 19% | 94% |  |
+| 20 | 23% | 75% |  |
+| 21 | 24% | 52% | Median |
 | 22 | 18% | 28% |  |
 | 23 | 7% | 10% |  |
 | 24 | 2% | 3% |  |

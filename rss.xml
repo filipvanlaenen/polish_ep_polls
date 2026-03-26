@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 25 Mar 2026 20:06:36 +0100</pubDate>
+    <pubDate>Thu, 26 Mar 2026 17:55:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by Research Partner, 20–23 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-03-23-ResearchPartner.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-03-23-ResearchPartner-seats.png"
         length="261312"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 20:06:36 +0100</pubDate>
-      <dc:date>2026-03-25T20:06:36.403854+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 17:55:43 +0100</pubDate>
+      <dc:date>2026-03-26T17:55:43.274991+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Partner, 20–23 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-03-23-ResearchPartner-coalitions-seats.png"
         length="192904"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 20:06:36 +0100</pubDate>
-      <dc:date>2026-03-25T20:06:36.403854+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 17:55:43 +0100</pubDate>
+      <dc:date>2026-03-26T17:55:43.274991+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Research Partner, 20–23 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-03-23-ResearchPartner.png"
         length="328633"
         type="image/png"/>
-      <pubDate>Wed, 25 Mar 2026 20:06:36 +0100</pubDate>
-      <dc:date>2026-03-25T20:06:36.403854+01:00</dc:date>
+      <pubDate>Thu, 26 Mar 2026 17:55:43 +0100</pubDate>
+      <dc:date>2026-03-26T17:55:43.274991+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by OGB, 11–16 March 2026 – Seat Projections for the Parties</title>
@@ -399,6 +399,6 @@
       <pubDate>Sun, 22 Mar 2026 14:08:42 +0100</pubDate>
       <dc:date>2026-03-22T14:08:42.532467+01:00</dc:date>
     </item>
-    <dc:date>2026-03-25T20:06:36.403854+01:00</dc:date>
+    <dc:date>2026-03-26T17:55:43.274991+01:00</dc:date>
   </channel>
 </rss>

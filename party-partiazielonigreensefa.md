@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.3–1.5% | 0.3–1.8% |
+| N/A | [Poll Average](average.html) | 0.8% | 0.5–1.2% | 0.4–1.3% | 0.3–1.5% | 0.3–1.7% |
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.6% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
-| [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 | 0.6% | N/A | N/A | N/A | N/A |
+| [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.4% | 0.2–1.6% |
 | [20–23 March 2026](2026-03-23-ResearchPartner.html) | Research Partner | 0.7% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [11–16 March 2026](2026-03-16-OGB.html) | OGB | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
 | [13–15 March 2026](2026-03-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.7% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
@@ -209,8 +209,8 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 17% | 100% | Last Result |
-| 0.5–1.5% | 81% | 83% | Median |
+| 0.0–0.5% | 19% | 100% | Last Result |
+| 0.5–1.5% | 79% | 81% | Median |
 | 1.5–2.5% | 2% | 2% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
@@ -226,7 +226,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz | 0 | 0 | 0 | 0 | 0 |
-| [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 |  |  |  |  |  |
+| [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 | 0 | 0 | 0 | 0 | 0 |
 | [20–23 March 2026](2026-03-23-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0–1 |
 | [11–16 March 2026](2026-03-16-OGB.html) | OGB | 0 | 0 | 0 | 0–1 | 0–1 |
 | [13–15 March 2026](2026-03-15-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
@@ -424,8 +424,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.5% | 100% | Last Result, Median |
-| 1 | 1.5% | 1.5% |  |
+| 0 | 98.7% | 100% | Last Result, Median |
+| 1 | 1.3% | 1.3% |  |
 | 2 | 0% | 0% |  |
 
 

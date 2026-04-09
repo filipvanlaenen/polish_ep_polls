@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.6% | 1.8–5.7% | 1.6–6.1% | 1.4–6.4% | 1.1–7.1% |
+| N/A | [Poll Average](average.html) | 3.6% | 1.5–5.7% | 1.3–6.1% | 1.2–6.4% | 1.0–7.1% |
+| [25 March–4 April 2026](2026-04-04-OGB.html) | OGB | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.5% | 4.6–6.6% | 4.4–6.9% | 4.2–7.1% | 3.8–7.7% |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz | 4.7% | 4.0–5.7% | 3.8–6.0% | 3.6–6.2% | 3.3–6.7% |
 | [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.5–6.2% | 3.2–6.7% |
@@ -210,9 +211,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 5% | 100% |  |
-| 1.5–2.5% | 29% | 95% |  |
-| 2.5–3.5% | 16% | 67% |  |
+| 0.5–1.5% | 11% | 100% |  |
+| 1.5–2.5% | 28% | 89% |  |
+| 2.5–3.5% | 11% | 61% |  |
 | 3.5–4.5% | 14% | 50% | Median |
 | 4.5–5.5% | 23% | 36% |  |
 | 5.5–6.5% | 11% | 13% |  |
@@ -230,6 +231,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [25 March–4 April 2026](2026-04-04-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 | 0 | 0–3 | 0–3 | 0–3 | 0–3 |

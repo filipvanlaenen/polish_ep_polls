@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 5.1–9.2% | 4.7–9.6% | 4.5–9.9% | 4.0–10.6% |
+| N/A | [Poll Average](average.html) | 7.5% | 4.8–9.2% | 4.5–9.6% | 4.2–9.9% | 3.7–10.6% |
+| [25 March–4 April 2026](2026-04-04-OGB.html) | OGB | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.4% | 7.3–9.6% | 7.0–10.0% | 6.8–10.3% | 6.3–11.0% |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
 | [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.2–10.8% |
@@ -212,11 +213,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.1% | 100% |  |
-| 3.5–4.5% | 3% | 99.9% |  |
-| 4.5–5.5% | 15% | 97% |  |
-| 5.5–6.5% | 15% | 81% |  |
-| 6.5–7.5% | 17% | 66% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 6% | 99.8% |  |
+| 4.5–5.5% | 16% | 94% |  |
+| 5.5–6.5% | 12% | 78% |  |
+| 6.5–7.5% | 16% | 66% |  |
 | 7.5–8.5% | 27% | 50% | Median |
 | 8.5–9.5% | 18% | 23% |  |
 | 9.5–10.5% | 5% | 5% |  |
@@ -233,6 +234,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| [25 March–4 April 2026](2026-04-04-OGB.html) | OGB | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
@@ -433,10 +435,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% | Last Result |
-| 1 | 0% | 92% |  |
-| 2 | 0.1% | 92% |  |
-| 3 | 25% | 92% |  |
+| 0 | 9% | 100% | Last Result |
+| 1 | 0% | 91% |  |
+| 2 | 0.6% | 91% |  |
+| 3 | 24% | 90% |  |
 | 4 | 33% | 66% | Median |
 | 5 | 33% | 34% |  |
 | 6 | 1.2% | 1.2% |  |

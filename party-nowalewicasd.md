@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 4.8–9.2% | 4.5–9.6% | 4.2–9.9% | 3.7–10.6% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.1–9.1% | 4.6–9.5% | 4.3–9.9% | 3.8–10.6% |
+| [8–13 April 2026](2026-04-13-IBRiS.html) | IBRiS <br> Polsat News | 7.5% | 6.5–8.7% | 6.2–9.1% | 6.0–9.4% | 5.5–10.0% |
+| [10–12 April 2026](2026-04-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.5% | 7.4–9.8% | 7.1–10.1% | 6.9–10.4% | 6.4–11.1% |
+| [7–9 April 2026](2026-04-09-Opinia24.html) | Opinia24 <br> RMF FM | 7.2% | 6.2–8.4% | 6.0–8.8% | 5.7–9.1% | 5.3–9.7% |
 | [25 March–4 April 2026](2026-04-04-OGB.html) | OGB | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.4% | 7.3–9.6% | 7.0–10.0% | 6.8–10.3% | 6.3–11.0% |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz | 8.3% | 7.3–9.5% | 7.0–9.9% | 6.7–10.2% | 6.3–10.8% |
@@ -214,14 +217,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 6% | 99.8% |  |
-| 4.5–5.5% | 16% | 94% |  |
-| 5.5–6.5% | 12% | 78% |  |
-| 6.5–7.5% | 16% | 66% |  |
-| 7.5–8.5% | 27% | 50% | Median |
-| 8.5–9.5% | 18% | 23% |  |
-| 9.5–10.5% | 5% | 5% |  |
-| 10.5–11.5% | 0.5% | 0.6% |  |
+| 3.5–4.5% | 4% | 99.8% |  |
+| 4.5–5.5% | 9% | 95% |  |
+| 5.5–6.5% | 10% | 86% |  |
+| 6.5–7.5% | 25% | 76% |  |
+| 7.5–8.5% | 30% | 51% | Median |
+| 8.5–9.5% | 16% | 21% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.5% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -234,6 +237,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 0–5 | 0–5 | 0–6 |
+| [8–13 April 2026](2026-04-13-IBRiS.html) | IBRiS <br> Polsat News | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [10–12 April 2026](2026-04-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [7–9 April 2026](2026-04-09-Opinia24.html) | Opinia24 <br> RMF FM | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [25 March–4 April 2026](2026-04-04-OGB.html) | OGB | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
@@ -435,13 +441,13 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 9% | 100% | Last Result |
-| 1 | 0% | 91% |  |
-| 2 | 0.6% | 91% |  |
-| 3 | 24% | 90% |  |
-| 4 | 33% | 66% | Median |
-| 5 | 33% | 34% |  |
-| 6 | 1.2% | 1.2% |  |
+| 0 | 6% | 100% | Last Result |
+| 1 | 0% | 94% |  |
+| 2 | 0.6% | 94% |  |
+| 3 | 18% | 93% |  |
+| 4 | 46% | 75% | Median |
+| 5 | 27% | 29% |  |
+| 6 | 1.5% | 1.5% |  |
 | 7 | 0% | 0% |  |
 
 

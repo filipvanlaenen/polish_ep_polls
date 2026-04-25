@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 24 Apr 2026 21:16:55 +0200</pubDate>
+    <pubDate>Sat, 25 Apr 2026 09:16:10 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 21–22 April 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-04-22-InstytutBadańPollster.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Platforma Obywatelska (EPP): 18–21 seats&lt;/li&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0–4 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–5 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 0–4 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 15–19 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-04-22-InstytutBadańPollster-seats.png"
+        length="303110"
+        type="image/png"/>
+      <pubDate>Sat, 25 Apr 2026 09:16:10 +0200</pubDate>
+      <dc:date>2026-04-25T09:16:10.826733+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 21–22 April 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-04-22-InstytutBadańPollster.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-04-22-InstytutBadańPollster-coalitions-seats.png"
+        length="218875"
+        type="image/png"/>
+      <pubDate>Sat, 25 Apr 2026 09:16:10 +0200</pubDate>
+      <dc:date>2026-04-25T09:16:10.826733+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 21–22 April 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-04-22-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Platforma Obywatelska (EPP): 28.8–34.6%&lt;/li&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4.1–6.8%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 1.8–3.9%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 4.9–8.0%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 26.2–31.8%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2.7–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-04-22-InstytutBadańPollster.png"
+        length="331426"
+        type="image/png"/>
+      <pubDate>Sat, 25 Apr 2026 09:16:10 +0200</pubDate>
+      <dc:date>2026-04-25T09:16:10.826733+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by United Surveys for WP, 17–19 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-04-19-UnitedSurveys.html#seats</link>
@@ -669,6 +699,6 @@
       <pubDate>Sun, 22 Mar 2026 14:08:42 +0100</pubDate>
       <dc:date>2026-03-22T14:08:42.532467+01:00</dc:date>
     </item>
-    <dc:date>2026-04-24T21:16:55.127578+02:00</dc:date>
+    <dc:date>2026-04-25T09:16:10.826733+02:00</dc:date>
   </channel>
 </rss>

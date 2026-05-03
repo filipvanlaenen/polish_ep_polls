@@ -274,7 +274,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 21 | 19–23 | 18–24 | 18–24 | 17–25 |
 | [17–27 April 2026](2026-04-27-OGB.html) | OGB | 23 | 21–24 | 21–24 | 20–24 | 20–25 |
 | [21–22 April 2026](2026-04-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
-| [17–20 April 2026](2026-04-20-SocialChanges.html) | Social Changes <br> Interia | 20 | 18–21 | 18–21 | 18–21 | 17–22 |
+| [17–20 April 2026](2026-04-20-SocialChanges.html) | Social Changes <br> Interia | 20 | 18–21 | 18–21 | 18–22 | 17–22 |
 | [17–19 April 2026](2026-04-19-UnitedSurveys.html) | United Surveys <br> WP | 21 | 20–22 | 20–23 | 19–23 | 19–24 |
 | [8–13 April 2026](2026-04-13-IBRiS.html) | IBRiS <br> Polsat News | 20 | 19–21 | 18–22 | 18–22 | 17–22 |
 | [10–12 April 2026](2026-04-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 20 | 18–20 | 17–21 | 17–21 | 16–22 |
@@ -499,10 +499,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 15 | 0% | 100% |  |
 | 16 | 0% | 100% |  |
 | 17 | 0.6% | 100% |  |
-| 18 | 5% | 99.4% |  |
-| 19 | 10% | 94% |  |
-| 20 | 30% | 85% |  |
-| 21 | 19% | 54% | Median |
+| 18 | 7% | 99.3% |  |
+| 19 | 10% | 92% |  |
+| 20 | 27% | 82% |  |
+| 21 | 20% | 55% | Median |
 | 22 | 15% | 35% |  |
 | 23 | 14% | 20% |  |
 | 24 | 5% | 6% |  |

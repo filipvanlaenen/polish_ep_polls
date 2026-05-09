@@ -266,13 +266,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 13–18 | 12–19 | 12–19 | 11–19 |
-| [27–30 April 2026](2026-04-30-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 14 | 13–16 | 12–16 | 12–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 16 | 12–18 | 11–18 | 11–19 | 11–19 |
+| [27–30 April 2026](2026-04-30-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
 | [17–27 April 2026](2026-04-27-OGB.html) | OGB | 18 | 16–19 | 16–19 | 16–19 | 15–20 |
-| [24–25 April 2026](2026-04-25-IBRiS.html) | IBRiS <br> Rz | 14 | 13–16 | 13–16 | 13–16 | 13–17 |
-| [21–22 April 2026](2026-04-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 16–18 | 15–18 | 15–19 | 15–20 |
-| [17–20 April 2026](2026-04-20-SocialChanges.html) | Social Changes <br> Interia | 17 | 15–17 | 15–17 | 15–18 | 14–19 |
-| [17–19 April 2026](2026-04-19-UnitedSurveys.html) | United Surveys <br> WP | 13 | 11–14 | 11–14 | 11–14 | 10–15 |
+| [24–25 April 2026](2026-04-25-IBRiS.html) | IBRiS <br> Rz | 14 | 13–16 | 13–16 | 12–16 | 12–17 |
+| [21–22 April 2026](2026-04-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 17 | 16–18 | 16–18 | 15–19 | 15–19 |
+| [17–20 April 2026](2026-04-20-SocialChanges.html) | Social Changes <br> Interia | 17 | 15–17 | 15–18 | 15–18 | 14–19 |
+| [17–19 April 2026](2026-04-19-UnitedSurveys.html) | United Surveys <br> WP | 12 | 11–13 | 11–14 | 11–14 | 10–14 |
 | [8–13 April 2026](2026-04-13-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
 | [10–12 April 2026](2026-04-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [7–9 April 2026](2026-04-09-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
@@ -281,7 +281,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–29 March 2026](2026-03-29-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [27–28 March 2026](2026-03-28-IBRiS.html) | IBRiS <br> Rz |  |  |  |  |  |
 | [16–26 March 2026](2026-03-26-SocialChanges.html) | Social Changes <br> wPolsce24 |  |  |  |  |  |
-| [20–23 March 2026](2026-03-23-ResearchPartner.html) | Research Partner | 17 | 16–18 | 16–19 | 15–19 | 15–20 |
+| [20–23 March 2026](2026-03-23-ResearchPartner.html) | Research Partner | 17 | 16–19 | 16–19 | 15–19 | 15–20 |
 | [11–16 March 2026](2026-03-16-OGB.html) | OGB |  |  |  |  |  |
 | [13–15 March 2026](2026-03-15-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [13–15 March 2026](2026-03-15-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
@@ -293,7 +293,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [25–26 February 2026](2026-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [20–21 February 2026](2026-02-21-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 16 | 15–19 | 15–19 | 15–19 | 14–20 |
+| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 16 | 15–18 | 15–19 | 15–19 | 14–19 |
 | [6–17 February 2026](2026-02-17-SocialChanges.html) | Social Changes <br> wPolsce24 |  |  |  |  |  |
 | [13–15 February 2026](2026-02-15-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [9–14 February 2026](2026-02-14-OGB.html) | OGB |  |  |  |  |  |
@@ -488,17 +488,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
 | 9 | 0% | 100% |  |
-| 10 | 0.2% | 100% |  |
-| 11 | 2% | 99.8% |  |
-| 12 | 4% | 98% |  |
-| 13 | 13% | 94% |  |
-| 14 | 17% | 81% |  |
-| 15 | 13% | 64% |  |
-| 16 | 13% | 51% | Median |
-| 17 | 23% | 38% |  |
-| 18 | 9% | 15% |  |
-| 19 | 5% | 5% |  |
-| 20 | 0.3% | 0.3% |  |
+| 10 | 0.1% | 100% |  |
+| 11 | 8% | 99.9% |  |
+| 12 | 3% | 92% |  |
+| 13 | 12% | 89% |  |
+| 14 | 15% | 77% |  |
+| 15 | 12% | 63% |  |
+| 16 | 14% | 50% | Median |
+| 17 | 22% | 36% |  |
+| 18 | 11% | 15% |  |
+| 19 | 4% | 4% |  |
+| 20 | 0.2% | 0.3% |  |
 | 21 | 0% | 0% |  |
 
 

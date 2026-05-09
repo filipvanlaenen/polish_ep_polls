@@ -242,12 +242,12 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
-| [27–30 April 2026](2026-04-30-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
-| [17–27 April 2026](2026-04-27-OGB.html) | OGB | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
-| [24–25 April 2026](2026-04-25-IBRiS.html) | IBRiS <br> Rz | 3 | 3 | 3–4 | 2–4 | 2–4 |
+| [27–30 April 2026](2026-04-30-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [17–27 April 2026](2026-04-27-OGB.html) | OGB | 3 | 2–3 | 2–4 | 2–4 | 2–5 |
+| [24–25 April 2026](2026-04-25-IBRiS.html) | IBRiS <br> Rz | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [21–22 April 2026](2026-04-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [17–20 April 2026](2026-04-20-SocialChanges.html) | Social Changes <br> Interia | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
-| [17–19 April 2026](2026-04-19-UnitedSurveys.html) | United Surveys <br> WP | 4 | 3–4 | 2–4 | 2–4 | 2–5 |
+| [17–19 April 2026](2026-04-19-UnitedSurveys.html) | United Surveys <br> WP | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [8–13 April 2026](2026-04-13-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
 | [10–12 April 2026](2026-04-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [7–9 April 2026](2026-04-09-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
@@ -268,7 +268,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [27–28 February 2026](2026-02-28-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [25–26 February 2026](2026-02-26-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [20–21 February 2026](2026-02-21-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 3 | 3–4 | 3–4 | 3–5 | 2–5 |
+| [19–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> TVP Info | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [6–17 February 2026](2026-02-17-SocialChanges.html) | Social Changes <br> wPolsce24 |  |  |  |  |  |
 | [13–15 February 2026](2026-02-15-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [9–14 February 2026](2026-02-14-OGB.html) | OGB |  |  |  |  |  |
@@ -456,9 +456,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 14% | 100% |  |
-| 3 | 67% | 86% | Median |
-| 4 | 18% | 19% |  |
-| 5 | 1.4% | 1.4% |  |
+| 3 | 72% | 86% | Median |
+| 4 | 14% | 14% |  |
+| 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
 

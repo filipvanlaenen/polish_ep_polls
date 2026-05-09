@@ -247,10 +247,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 0–5 | 0–5 | 0–6 | 0–6 |
 | [27–30 April 2026](2026-04-30-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 4 | 4–5 | 3–5 | 3–5 | 3–6 |
 | [17–27 April 2026](2026-04-27-OGB.html) | OGB | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [24–25 April 2026](2026-04-25-IBRiS.html) | IBRiS <br> Rz | 5 | 5–6 | 5–6 | 4–7 | 4–7 |
-| [21–22 April 2026](2026-04-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 3–4 | 3–5 | 0–5 |
-| [17–20 April 2026](2026-04-20-SocialChanges.html) | Social Changes <br> Interia | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [17–19 April 2026](2026-04-19-UnitedSurveys.html) | United Surveys <br> WP | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
+| [24–25 April 2026](2026-04-25-IBRiS.html) | IBRiS <br> Rz | 5 | 5–6 | 4–6 | 4–6 | 4–7 |
+| [21–22 April 2026](2026-04-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–4 | 3–4 | 3–5 | 0–5 |
+| [17–20 April 2026](2026-04-20-SocialChanges.html) | Social Changes <br> Interia | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [17–19 April 2026](2026-04-19-UnitedSurveys.html) | United Surveys <br> WP | 5 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [8–13 April 2026](2026-04-13-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
 | [10–12 April 2026](2026-04-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [7–9 April 2026](2026-04-09-Opinia24.html) | Opinia24 <br> RMF FM |  |  |  |  |  |
@@ -456,14 +456,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% | Last Result |
-| 1 | 0% | 87% |  |
-| 2 | 0% | 87% |  |
-| 3 | 18% | 87% |  |
-| 4 | 36% | 69% | Median |
-| 5 | 29% | 33% |  |
-| 6 | 3% | 4% |  |
-| 7 | 0.4% | 0.4% |  |
+| 0 | 12% | 100% | Last Result |
+| 1 | 0% | 88% |  |
+| 2 | 0% | 88% |  |
+| 3 | 17% | 88% |  |
+| 4 | 34% | 71% | Median |
+| 5 | 34% | 37% |  |
+| 6 | 3% | 3% |  |
+| 7 | 0.3% | 0.3% |  |
 | 8 | 0% | 0% |  |
 
 

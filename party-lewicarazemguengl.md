@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.1–5.9% | 2.8–6.3% | 2.7–6.7% | 2.3–7.3% |
+| N/A | [Poll Average](average.html) | 4.3% | 2.5–5.8% | 2.2–6.2% | 2.0–6.5% | 1.7–7.1% |
+| [1–12 May 2026](2026-05-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.5% | 4.6–6.5% | 4.4–6.8% | 4.2–7.1% | 3.8–7.6% |
+| [28 April–11 May 2026](2026-05-11-OGB.html) | OGB | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
+| [4–6 May 2026](2026-05-06-Opinia24.html) | Opinia24 | 2.0% | N/A | N/A | N/A | N/A |
 | [27–30 April 2026](2026-04-30-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.7–5.2% | 2.4–5.7% |
 | [17–27 April 2026](2026-04-27-OGB.html) | OGB | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.4–4.7% | 2.2–5.2% |
 | [24–25 April 2026](2026-04-25-IBRiS.html) | IBRiS <br> Rz | 4.3% | 3.6–5.3% | 3.4–5.6% | 3.2–5.8% | 2.9–6.3% |
@@ -71,7 +74,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [3–5 November 2025](2025-11-05-Opinia24.html) | Opinia24 | 3.4% | N/A | N/A | N/A | N/A |
 | [31 October–3 November 2025](2025-11-03-ResearchPartner.html) | Research Partner | 3.3% | N/A | N/A | N/A | N/A |
 | [1–31 October 2025](2025-10-31-SocialChanges.html) | Social Changes <br> wPolsce24 | 5.0% | N/A | N/A | N/A | N/A |
-| [23–27 October 2025](2025-10-27-OGB.html) | OGB | 2.3% | N/A | N/A | N/A | N/A |
+| [23–27 October 2025](2025-10-27-OGB.html) | OGB | 2.2% | N/A | N/A | N/A | N/A |
 | [24–26 October 2025](2025-10-26-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.6% | N/A | N/A | N/A | N/A |
 | [24–25 October 2025](2025-10-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4.3% | N/A | N/A | N/A | N/A |
 | [15–22 October 2025](2025-10-22-OGB.html) | OGB | 2.0% | N/A | N/A | N/A | N/A |
@@ -93,7 +96,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 4.2% | N/A | N/A | N/A | N/A |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.5% | N/A | N/A | N/A | N/A |
 | [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.5% | N/A | N/A | N/A | N/A |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet | 4.5% | N/A | N/A | N/A | N/A |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.9% | N/A | N/A | N/A | N/A |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 3.3% | N/A | N/A | N/A | N/A |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 3.4% | N/A | N/A | N/A | N/A |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 3.3% | N/A | N/A | N/A | N/A |
@@ -221,14 +224,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 24% | 98% |  |
-| 3.5–4.5% | 35% | 75% | Median |
-| 4.5–5.5% | 24% | 40% |  |
-| 5.5–6.5% | 13% | 16% |  |
-| 6.5–7.5% | 3% | 3% |  |
-| 7.5–8.5% | 0.3% | 0.3% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 10% | 99.8% |  |
+| 2.5–3.5% | 21% | 89% |  |
+| 3.5–4.5% | 24% | 68% | Median |
+| 4.5–5.5% | 28% | 44% |  |
+| 5.5–6.5% | 14% | 16% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -240,7 +243,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [1–12 May 2026](2026-05-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 0–4 | 0–4 | 0–4 | 0–4 |
+| [28 April–11 May 2026](2026-05-11-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
+| [4–6 May 2026](2026-05-06-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [27–30 April 2026](2026-04-30-Opinia24.html) | Opinia24 <br> Gazeta Wyborcza | 0 | 0 | 0–3 | 0–3 | 0–3 |
 | [17–27 April 2026](2026-04-27-OGB.html) | OGB | 0 | 0 | 0 | 0–3 | 0–3 |
 | [24–25 April 2026](2026-04-25-IBRiS.html) | IBRiS <br> Rz | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
@@ -323,7 +329,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner |  |  |  |  |  |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl |  |  |  |  |  |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB |  |  |  |  |  |
@@ -454,9 +460,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 72% | 100% | Last Result, Median |
 | 1 | 0% | 28% |  |
-| 2 | 0.3% | 28% |  |
-| 3 | 27% | 28% |  |
-| 4 | 1.3% | 1.4% |  |
+| 2 | 0.4% | 28% |  |
+| 3 | 24% | 27% |  |
+| 4 | 3% | 3% |  |
 | 5 | 0% | 0% |  |
 
 

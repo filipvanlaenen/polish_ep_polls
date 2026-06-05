@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.4% | 4.5–6.5% | 4.2–6.8% | 4.0–7.1% | 3.7–7.7% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.6–6.8% | 4.4–7.1% | 4.1–7.5% | 3.7–8.1% |
+| [28–29 May 2026](2026-05-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.1% | 4.0–7.7% |
+| [22–24 May 2026](2026-05-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.3% | 5.3–7.4% | 5.1–7.8% | 4.9–8.1% | 4.5–8.6% |
+| [12–23 May 2026](2026-05-23-OGB.html) | OGB | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
+| [22–23 May 2026](2026-05-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.2% | 4.0–7.7% |
 | [1–12 May 2026](2026-05-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.0% | 4.2–6.0% | 3.9–6.2% | 3.8–6.5% | 3.4–7.0% |
 | [28 April–11 May 2026](2026-05-11-OGB.html) | OGB | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [8–10 May 2026](2026-05-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.8% | 5.0–7.0% | 4.7–7.3% | 4.5–7.5% | 4.1–8.1% |
@@ -229,13 +233,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 12% | 99.7% |  |
-| 4.5–5.5% | 44% | 88% | Median |
-| 5.5–6.5% | 35% | 43% |  |
-| 6.5–7.5% | 8% | 9% |  |
-| 7.5–8.5% | 0.7% | 0.7% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 9% | 99.8% |  |
+| 4.5–5.5% | 38% | 91% |  |
+| 5.5–6.5% | 39% | 53% | Median |
+| 6.5–7.5% | 13% | 15% |  |
+| 7.5–8.5% | 2% | 2% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -246,7 +251,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 2–4 | 2–4 | 2–4 | 2–5 |
+| [28–29 May 2026](2026-05-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [22–24 May 2026](2026-05-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [12–23 May 2026](2026-05-23-OGB.html) | OGB | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [22–23 May 2026](2026-05-23-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3 | 2–4 | 2–4 | 2–4 |
 | [1–12 May 2026](2026-05-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [28 April–11 May 2026](2026-05-11-OGB.html) | OGB | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [8–10 May 2026](2026-05-10-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 2–4 | 2–4 | 2–5 |
@@ -466,10 +475,10 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 14% | 100% |  |
-| 3 | 68% | 85% | Median |
-| 4 | 17% | 17% |  |
-| 5 | 0.2% | 0.2% |  |
+| 2 | 16% | 100% |  |
+| 3 | 61% | 84% | Median |
+| 4 | 21% | 23% |  |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 

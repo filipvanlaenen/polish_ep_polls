@@ -255,8 +255,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
-| [29 May–2 June 2026](2026-06-02-IBRiS.html) | IBRiS <br> Polsat News | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 3–6 | 3–6 | 3–6 |
+| [29 May–2 June 2026](2026-06-02-IBRiS.html) | IBRiS <br> Polsat News | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [28–29 May 2026](2026-05-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [22–24 May 2026](2026-05-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [12–23 May 2026](2026-05-23-OGB.html) | OGB | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
@@ -481,11 +481,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 8% | 100% |  |
-| 4 | 42% | 92% | Median |
-| 5 | 43% | 50% |  |
+| 3 | 9% | 100% |  |
+| 4 | 41% | 91% |  |
+| 5 | 43% | 51% | Median |
 | 6 | 7% | 7% |  |
-| 7 | 0.2% | 0.3% |  |
+| 7 | 0.2% | 0.2% |  |
 | 8 | 0% | 0% |  |
 
 

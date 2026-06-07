@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Jun 2026 00:03:48 +0200</pubDate>
+    <pubDate>Sun, 07 Jun 2026 13:04:44 +0200</pubDate>
     <item>
       <title>Opinion Poll by IBRiS for Polsat News, 29 May–2 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-06-02-IBRiS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–20 seats&lt;/li&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 3–6 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 4–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–5 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 4–6 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 14–17 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Platforma Obywatelska (EPP): 17–20 seats&lt;/li&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 4–6 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 4–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 3–5 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 4–6 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 13–17 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-06-02-IBRiS-seats.png"
-        length="280787"
+        length="276199"
         type="image/png"/>
-      <pubDate>Sun, 07 Jun 2026 00:03:48 +0200</pubDate>
-      <dc:date>2026-06-07T00:03:48.942322+02:00</dc:date>
+      <pubDate>Sun, 07 Jun 2026 13:04:44 +0200</pubDate>
+      <dc:date>2026-06-07T13:04:44.321496+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Polsat News, 29 May–2 June 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-06-02-IBRiS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-06-02-IBRiS-coalitions-seats.png"
-        length="203721"
+        length="191171"
         type="image/png"/>
-      <pubDate>Sun, 07 Jun 2026 00:03:48 +0200</pubDate>
-      <dc:date>2026-06-07T00:03:48.942322+02:00</dc:date>
+      <pubDate>Sun, 07 Jun 2026 13:04:44 +0200</pubDate>
+      <dc:date>2026-06-07T13:04:44.321496+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Polsat News, 29 May–2 June 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-06-02-IBRiS.png"
         length="336238"
         type="image/png"/>
-      <pubDate>Sun, 07 Jun 2026 00:03:48 +0200</pubDate>
-      <dc:date>2026-06-07T00:03:48.942322+02:00</dc:date>
+      <pubDate>Sun, 07 Jun 2026 13:04:44 +0200</pubDate>
+      <dc:date>2026-06-07T13:04:44.321496+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 28–29 May 2026 – Seat Projections for the Parties</title>
@@ -579,6 +579,6 @@
       <pubDate>Sat, 09 May 2026 21:13:24 +0200</pubDate>
       <dc:date>2026-05-09T21:13:24.438874+02:00</dc:date>
     </item>
-    <dc:date>2026-06-07T00:03:48.942322+02:00</dc:date>
+    <dc:date>2026-06-07T13:04:44.321496+02:00</dc:date>
   </channel>
 </rss>

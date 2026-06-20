@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Jun 2026 13:04:44 +0200</pubDate>
+    <pubDate>Sat, 20 Jun 2026 22:03:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Instytut Badań Pollster for NCZAS, 1–30 June 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-06-30-InstytutBadańPollster.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Platforma Obywatelska (EPP): 28.9–34.7%&lt;/li&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 5.6–8.8%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4.0–6.8%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 1.8–3.8%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 24.4–29.9%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-06-30-InstytutBadańPollster.png"
+        length="333374"
+        type="image/png"/>
+      <pubDate>Sat, 20 Jun 2026 22:03:20 +0200</pubDate>
+      <dc:date>2026-06-20T22:03:20.846211+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by IBRiS for Polsat News, 29 May–2 June 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-06-02-IBRiS.html#seats</link>
@@ -579,6 +589,6 @@
       <pubDate>Sat, 09 May 2026 21:13:24 +0200</pubDate>
       <dc:date>2026-05-09T21:13:24.438874+02:00</dc:date>
     </item>
-    <dc:date>2026-06-07T13:04:44.321496+02:00</dc:date>
+    <dc:date>2026-06-20T22:03:20.846211+02:00</dc:date>
   </channel>
 </rss>

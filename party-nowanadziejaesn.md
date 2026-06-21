@@ -258,10 +258,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
 | [1–30 June 2026](2026-06-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> NCZAS | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
-| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 3–6 | 3–6 | 3–6 |
+| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
+| [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 | 4 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [29 May–2 June 2026](2026-06-02-IBRiS.html) | IBRiS <br> Polsat News | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
 | [28–29 May 2026](2026-05-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
@@ -488,8 +488,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 8% | 100% |  |
-| 4 | 51% | 92% | Median |
+| 3 | 10% | 100% |  |
+| 4 | 49% | 90% | Median |
 | 5 | 37% | 40% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.1% |  |

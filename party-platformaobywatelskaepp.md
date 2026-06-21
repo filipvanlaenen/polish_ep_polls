@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 31.3% | 29.3–33.3% | 28.8–33.9% | 28.3–34.4% | 27.3–35.3% |
+| N/A | [Poll Average](average.html) | 32.1% | 29.4–35.1% | 28.8–35.8% | 28.2–36.4% | 27.2–37.6% |
 | [1–30 June 2026](2026-06-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> NCZAS | 31.7% | 29.9–33.6% | 29.3–34.2% | 28.9–34.7% | 28.0–35.6% |
-| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 33.4% | N/A | N/A | N/A | N/A |
-| [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.3% | N/A | N/A | N/A | N/A |
-| [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 | 34.4% | N/A | N/A | N/A | N/A |
+| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 33.4% | 31.5–35.4% | 31.0–36.0% | 30.5–36.4% | 29.6–37.4% |
+| [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.3% | 28.4–32.3% | 27.9–32.9% | 27.5–33.4% | 26.6–34.4% |
+| [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 | 34.4% | 32.5–36.4% | 31.9–37.0% | 31.5–37.5% | 30.5–38.5% |
 | [29 May–2 June 2026](2026-06-02-IBRiS.html) | IBRiS <br> Polsat News | 30.8% | 28.9–32.9% | 28.4–33.4% | 27.9–33.9% | 27.0–34.9% |
 | [28–29 May 2026](2026-05-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 31.7% | 29.9–33.6% | 29.4–34.1% | 29.0–34.6% | 28.1–35.5% |
 | [22–24 May 2026](2026-05-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 30.8% | 28.9–32.9% | 28.4–33.4% | 27.9–33.9% | 27.0–34.9% |
@@ -262,17 +262,20 @@ The following table shows the probability mass function per percentage block of 
 | 23.5–24.5% | 0% | 100% |  |
 | 24.5–25.5% | 0% | 100% |  |
 | 25.5–26.5% | 0.1% | 100% |  |
-| 26.5–27.5% | 0.7% | 99.9% |  |
-| 27.5–28.5% | 3% | 99.2% |  |
-| 28.5–29.5% | 9% | 96% |  |
-| 29.5–30.5% | 18% | 87% |  |
-| 30.5–31.5% | 25% | 69% | Median |
-| 31.5–32.5% | 23% | 44% |  |
-| 32.5–33.5% | 14% | 21% |  |
-| 33.5–34.5% | 6% | 8% |  |
-| 34.5–35.5% | 2% | 2% |  |
-| 35.5–36.5% | 0.3% | 0.3% |  |
-| 36.5–37.5% | 0% | 0% |  |
+| 26.5–27.5% | 0.8% | 99.9% |  |
+| 27.5–28.5% | 3% | 99.1% |  |
+| 28.5–29.5% | 7% | 96% |  |
+| 29.5–30.5% | 13% | 89% |  |
+| 30.5–31.5% | 17% | 76% |  |
+| 31.5–32.5% | 17% | 59% | Median |
+| 32.5–33.5% | 15% | 42% |  |
+| 33.5–34.5% | 12% | 27% |  |
+| 34.5–35.5% | 8% | 15% |  |
+| 35.5–36.5% | 4% | 7% |  |
+| 36.5–37.5% | 2% | 2% |  |
+| 37.5–38.5% | 0.4% | 0.5% |  |
+| 38.5–39.5% | 0.1% | 0.1% |  |
+| 39.5–40.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -283,11 +286,11 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19 | 18–20 | 18–20 | 17–20 | 17–22 |
-| [1–30 June 2026](2026-06-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> NCZAS | 20 | 18–20 | 18–20 | 17–21 | 17–22 |
-| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel |  |  |  |  |  |
-| [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 19 | 18–22 | 18–23 | 17–23 | 16–23 |
+| [1–30 June 2026](2026-06-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> NCZAS | 19 | 19–21 | 18–21 | 18–21 | 17–22 |
+| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 20 | 19–22 | 19–22 | 18–22 | 18–23 |
+| [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 17–20 | 17–20 | 16–21 | 16–21 |
+| [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 | 22 | 20–23 | 20–23 | 19–23 | 18–24 |
 | [29 May–2 June 2026](2026-06-02-IBRiS.html) | IBRiS <br> Polsat News | 19 | 18–20 | 18–20 | 17–20 | 17–21 |
 | [28–29 May 2026](2026-05-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 20 | 18–22 | 18–22 | 18–22 | 17–23 |
 | [22–24 May 2026](2026-05-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 19 | 18–20 | 17–20 | 17–21 | 16–21 |
@@ -526,14 +529,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 0.2% | 100% |  |
-| 17 | 3% | 99.8% |  |
-| 18 | 23% | 97% |  |
-| 19 | 34% | 74% | Median |
-| 20 | 38% | 40% |  |
-| 21 | 2% | 2% |  |
-| 22 | 0.6% | 0.8% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 16 | 1.0% | 100% |  |
+| 17 | 3% | 99.0% |  |
+| 18 | 16% | 96% |  |
+| 19 | 31% | 80% | Median |
+| 20 | 19% | 48% |  |
+| 21 | 12% | 30% |  |
+| 22 | 12% | 17% |  |
+| 23 | 5% | 5% |  |
+| 24 | 0.2% | 0.2% |  |
+| 25 | 0% | 0% |  |
 
 

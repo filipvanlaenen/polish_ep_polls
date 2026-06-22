@@ -253,7 +253,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–30 June 2026](2026-06-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> NCZAS | 0 | 0 | 0 | 0 | 0–1 |
 | [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 0 | 0 | 0 | 0–1 | 0–1 |
 | [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |
-| [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0–1 | 0–1 |
 | [29 May–2 June 2026](2026-06-02-IBRiS.html) | IBRiS <br> Polsat News | 0 | 0 | 0 | 0 | 0–1 |
 | [28–29 May 2026](2026-05-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [22–24 May 2026](2026-05-24-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–1 |

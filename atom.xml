@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2026-06-23T19:05:03.646389+02:00</updated>
+  <updated>2026-06-24T21:12:02.91867+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Platforma Obywatelska (EPP): 29.8–35.5%, 18–22 seats</li><li>Partia Zieloni (Greens/EFA): 0.3–1.4%, 0 seats</li><li>Lewica Razem (GUE/NGL): 3.5–6.1%, 0–3 seats</li><li>Nowa Lewica (S&amp;D): 6.4–9.6%, 3–5 seats</li><li>Inicjatywa Polska (EPP): 0.3–1.4%, 0 seats</li><li>Nowa Nadzieja (ESN): 6.5–9.8%, 4–6 seats</li><li>Ruch Narodowy (PfE): 4.6–7.5%, 2–5 seats</li><li>Polska 2050 (RE): 1.0–2.6%, 0 seats</li><li>Konfederacja Korony Polskiej (NI): 6.2–9.4%, 3–5 seats</li><li>Zjednoczona Prawica (ECR): 23.5–28.9%, 14–17 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 2.6–4.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_ep_polls/2026-06-21-InstytutBadańPollster.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_ep_polls/2026-06-21-InstytutBadańPollster.html"/>
+    <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 19–21 June 2026</title>
+    <updated>2026-06-24T21:12:02.91867+02:00</updated>
+    <dc:date>2026-06-24T21:12:02.91867+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Platforma Obywatelska (EPP): 28.9–34.7%, 18–22 seats</li><li>Partia Zieloni (Greens/EFA): 0.3–1.4%, 0 seats</li><li>Lewica Razem (GUE/NGL): 4.6–7.5%, 0–4 seats</li><li>Nowa Lewica (S&amp;D): 6.5–9.9%, 3–5 seats</li><li>Inicjatywa Polska (EPP): 0.3–1.4%, 0 seats</li><li>Nowa Nadzieja (ESN): 5.6–8.8%, 3–5 seats</li><li>Ruch Narodowy (PfE): 4.0–6.8%, 2–4 seats</li><li>Polska 2050 (RE): 1.8–3.8%, 0 seats</li><li>Konfederacja Korony Polskiej (NI): 5.3–8.4%, 3–5 seats</li><li>Zjednoczona Prawica (ECR): 24.4–29.9%, 14–17 seats</li><li>Polskie Stronnictwo Ludowe (EPP): 2.6–5.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_ep_polls/2026-06-16-InstytutBadańPollster.html</id>
@@ -199,5 +207,5 @@
     <updated>2026-05-09T21:13:24.438874+02:00</updated>
     <dc:date>2026-05-09T21:13:24.438874+02:00</dc:date>
   </entry>
-  <dc:date>2026-06-23T19:05:03.646389+02:00</dc:date>
+  <dc:date>2026-06-24T21:12:02.91867+02:00</dc:date>
 </feed>

@@ -10,7 +10,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.5% | 7.0–10.2% | 6.7–10.7% | 6.4–11.1% | 5.9–11.9% |
+| N/A | [Poll Average](average.html) | 8.7% | 6.8–10.4% | 6.4–10.9% | 6.0–11.3% | 5.4–12.0% |
+| [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 7.2% | 6.0–8.8% | 5.7–9.3% | 5.4–9.7% | 4.8–10.5% |
+| [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.9% | 7.8–10.3% | 7.5–10.6% | 7.3–10.9% | 6.8–11.6% |
+| [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 7.5% | 6.6–8.7% | 6.3–9.0% | 6.1–9.3% | 5.6–9.9% |
+| [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 10.0% | 8.9–11.3% | 8.6–11.6% | 8.4–11.9% | 7.9–12.6% |
+| [10–12 July 2026](2026-07-12-UnitedSurveys.html) | United Surveys <br> WP.pl | 7.9% | N/A | N/A | N/A | N/A |
+| [6–8 July 2026](2026-07-08-Opinia24.html) | Opinia24 | 10.0% | N/A | N/A | N/A | N/A |
+| [2–3 July 2026](2026-07-03-IBRiS.html) | IBRiS <br> Rzeczpospolita | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
 | [30 June–1 July 2026](2026-07-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 7.3% | 6.4–8.4% | 6.1–8.8% | 5.9–9.0% | 5.4–9.6% |
 | [26–28 June 2026](2026-06-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.7% | 7.6–10.0% | 7.3–10.3% | 7.0–10.7% | 6.5–11.3% |
 | [24–27 June 2026](2026-06-27-IBRiS.html) | IBRiS <br> Polsat News | 9.0% | 7.9–10.3% | 7.6–10.7% | 7.3–11.1% | 6.8–11.7% |
@@ -146,7 +153,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet | 8.0% | N/A | N/A | N/A | N/A |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.9% | N/A | N/A | N/A | N/A |
 | [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl | 8.3% | N/A | N/A | N/A | N/A |
-| [5–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Newsweek | 9.3% | N/A | N/A | N/A | N/A |
+| [6–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 8.3% | N/A | N/A | N/A | N/A |
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 6.2% | N/A | N/A | N/A | N/A |
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl | 7.3% | N/A | N/A | N/A | N/A |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.9% | N/A | N/A | N/A | N/A |
@@ -245,14 +252,14 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 4% | 99.8% |  |
-| 6.5–7.5% | 18% | 96% |  |
-| 7.5–8.5% | 31% | 78% | Median |
-| 8.5–9.5% | 27% | 47% |  |
-| 9.5–10.5% | 14% | 20% |  |
-| 10.5–11.5% | 5% | 6% |  |
-| 11.5–12.5% | 0.9% | 1.0% |  |
+| 4.5–5.5% | 0.8% | 100% |  |
+| 5.5–6.5% | 6% | 99.2% |  |
+| 6.5–7.5% | 16% | 93% |  |
+| 7.5–8.5% | 24% | 77% |  |
+| 8.5–9.5% | 26% | 53% | Median |
+| 9.5–10.5% | 19% | 27% |  |
+| 10.5–11.5% | 7% | 9% |  |
+| 11.5–12.5% | 1.3% | 1.4% |  |
 | 12.5–13.5% | 0.1% | 0.1% |  |
 | 13.5–14.5% | 0% | 0% |  |
 
@@ -265,7 +272,14 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 3–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
+| [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
+| [10–12 July 2026](2026-07-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [6–8 July 2026](2026-07-08-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [2–3 July 2026](2026-07-03-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
 | [30 June–1 July 2026](2026-07-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [26–28 June 2026](2026-06-28-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–5 | 4–6 | 3–7 |
 | [24–27 June 2026](2026-06-27-IBRiS.html) | IBRiS <br> Polsat News | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
@@ -401,7 +415,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [12–13 May 2025](2025-05-13-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [7–8 May 2025](2025-05-08-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [7 May 2025](2025-05-07-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [5–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Newsweek |  |  |  |  |  |
+| [6–7 May 2025](2025-05-07-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [1–30 April 2025](2025-04-30-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [28–29 April 2025](2025-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
@@ -497,14 +511,14 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 5% | 100% |  |
-| 4 | 41% | 95% |  |
-| 5 | 44% | 55% | Median |
-| 6 | 9% | 10% |  |
-| 7 | 1.0% | 1.0% |  |
+| 0 | 0.3% | 100% | Last Result |
+| 1 | 0% | 99.7% |  |
+| 2 | 0% | 99.7% |  |
+| 3 | 9% | 99.6% |  |
+| 4 | 29% | 91% |  |
+| 5 | 48% | 62% | Median |
+| 6 | 12% | 14% |  |
+| 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 
 

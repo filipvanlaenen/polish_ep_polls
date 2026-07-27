@@ -301,7 +301,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 20 | 18–22 | 18–22 | 18–23 | 17–24 |
 | [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 18 | 17–20 | 17–20 | 16–20 | 16–21 |
 | [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 19 | 18–20 | 17–21 | 17–21 | 17–22 |
-| [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 19 | 18–20 | 18–20 | 17–21 | 17–21 |
+| [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 19 | 18–20 | 18–20 | 18–21 | 17–21 |
 | [10–12 July 2026](2026-07-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [6–8 July 2026](2026-07-08-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [2–3 July 2026](2026-07-03-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 17–19 | 17–20 | 16–20 | 16–21 |
@@ -552,11 +552,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 0% | 100% |  |
 | 14 | 0% | 100% |  |
 | 15 | 0% | 100% |  |
-| 16 | 1.2% | 100% |  |
-| 17 | 14% | 98.7% |  |
-| 18 | 24% | 84% |  |
-| 19 | 29% | 61% | Median |
-| 20 | 22% | 32% |  |
+| 16 | 1.5% | 100% |  |
+| 17 | 16% | 98.5% |  |
+| 18 | 22% | 83% |  |
+| 19 | 32% | 61% | Median |
+| 20 | 19% | 29% |  |
 | 21 | 8% | 10% |  |
 | 22 | 2% | 2% |  |
 | 23 | 0.7% | 0.8% |  |

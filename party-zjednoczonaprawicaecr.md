@@ -293,10 +293,10 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 14 | 12–18 | 11–18 | 11–19 | 10–20 |
-| [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 15 | 13–16 | 13–16 | 12–17 | 12–17 |
-| [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 12 | 10–13 | 10–13 | 10–13 | 9–14 |
-| [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 15 | 14–16 | 13–16 | 13–16 | 12–17 |
+| N/A | [Poll Average](average.html) | 14 | 11–18 | 10–18 | 10–19 | 10–20 |
+| [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
+| [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 11 | 10–13 | 10–13 | 10–13 | 10–14 |
+| [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 15 | 14–15 | 13–16 | 13–16 | 13–17 |
 | [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
 | [10–12 July 2026](2026-07-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [6–8 July 2026](2026-07-08-Opinia24.html) | Opinia24 |  |  |  |  |  |
@@ -541,14 +541,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0% | 100% |  |
-| 9 | 0.2% | 100% |  |
-| 10 | 2% | 99.8% |  |
-| 11 | 7% | 98% |  |
-| 12 | 9% | 91% |  |
-| 13 | 9% | 82% |  |
-| 14 | 26% | 73% | Median |
-| 15 | 19% | 46% |  |
-| 16 | 7% | 28% |  |
+| 9 | 0.1% | 100% |  |
+| 10 | 6% | 99.9% |  |
+| 11 | 5% | 94% |  |
+| 12 | 5% | 89% |  |
+| 13 | 13% | 85% |  |
+| 14 | 24% | 71% | Median |
+| 15 | 20% | 47% |  |
+| 16 | 7% | 27% |  |
 | 17 | 9% | 21% |  |
 | 18 | 7% | 11% |  |
 | 19 | 4% | 4% |  |

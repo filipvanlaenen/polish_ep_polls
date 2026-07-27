@@ -274,8 +274,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
 | [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 4 | 3–5 | 3–5 | 3–5 | 0–6 |
-| [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
-| [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–6 | 4–6 | 4–6 | 4–6 |
+| [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
 | [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 5 | 5–7 | 5–7 | 5–7 | 4–7 |
 | [10–12 July 2026](2026-07-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [6–8 July 2026](2026-07-08-Opinia24.html) | Opinia24 |  |  |  |  |  |
@@ -514,10 +514,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0.3% | 100% | Last Result |
 | 1 | 0% | 99.7% |  |
 | 2 | 0% | 99.7% |  |
-| 3 | 9% | 99.6% |  |
-| 4 | 29% | 91% |  |
-| 5 | 48% | 62% | Median |
-| 6 | 12% | 14% |  |
+| 3 | 9% | 99.7% |  |
+| 4 | 32% | 90% |  |
+| 5 | 44% | 59% | Median |
+| 6 | 13% | 15% |  |
 | 7 | 2% | 2% |  |
 | 8 | 0% | 0% |  |
 

@@ -272,15 +272,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–5 | 2–5 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–5 | 2–5 | 2–5 |
 | [31 July–3 August 2026](2026-08-03-SocialChanges.html) | Social Changes <br> Interia | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [29 July–2 August 2026](2026-08-02-IBRiS.html) | IBRiS <br> Polsat News | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [24–25 July 2026](2026-07-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–4 | 3–5 | 3–5 |
-| [24–25 July 2026](2026-07-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [24–25 July 2026](2026-07-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 3 | 3–4 | 3–5 | 3–5 | 3–5 |
+| [24–25 July 2026](2026-07-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 3 | 2–4 | 2–4 | 2–5 | 2–5 |
 | [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 3 | 2–3 | 2–3 | 2–3 | 1–4 |
+| [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [10–12 July 2026](2026-07-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [6–8 July 2026](2026-07-08-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [2–3 July 2026](2026-07-03-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
@@ -518,9 +518,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 5% | 100% |  |
-| 3 | 61% | 95% | Median |
-| 4 | 29% | 34% |  |
-| 5 | 5% | 5% |  |
+| 3 | 55% | 95% | Median |
+| 4 | 32% | 40% |  |
+| 5 | 8% | 8% |  |
 | 6 | 0% | 0% |  |
 
 

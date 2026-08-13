@@ -293,31 +293,31 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 10–16 | 10–17 | 9–17 | 8–18 |
+| N/A | [Poll Average](average.html) | 13 | 10–16 | 9–16 | 9–17 | 8–18 |
 | [31 July–3 August 2026](2026-08-03-SocialChanges.html) | Social Changes <br> Interia | 16 | 15–17 | 14–17 | 14–18 | 14–18 |
-| [29 July–2 August 2026](2026-08-02-IBRiS.html) | IBRiS <br> Polsat News | 11 | 10–12 | 9–13 | 9–13 | 8–13 |
-| [24–25 July 2026](2026-07-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 10 | 10 | 9–11 | 9–11 | 8–11 |
-| [24–25 July 2026](2026-07-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 13 | 12–13 | 12–14 | 12–15 | 11–15 |
-| [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 15 | 13–16 | 13–16 | 12–17 | 12–17 |
+| [29 July–2 August 2026](2026-08-02-IBRiS.html) | IBRiS <br> Polsat News | 11 | 9–12 | 9–12 | 9–12 | 9–13 |
+| [24–25 July 2026](2026-07-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 10 | 9–10 | 9–11 | 8–11 | 8–11 |
+| [24–25 July 2026](2026-07-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 13 | 12–13 | 12–14 | 11–15 | 11–15 |
+| [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 14 | 13–16 | 13–16 | 12–17 | 12–17 |
 | [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [16–17 July 2026](2026-07-17-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 18 | 17–19 | 17–19 | 16–20 | 16–20 |
+| [10–13 July 2026](2026-07-13-SocialChanges.html) | Social Changes <br> wPolsce24 | 17 | 17–19 | 17–19 | 16–19 | 16–20 |
 | [10–12 July 2026](2026-07-12-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [6–8 July 2026](2026-07-08-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [2–3 July 2026](2026-07-03-IBRiS.html) | IBRiS <br> Rzeczpospolita | 14 | 13–16 | 13–16 | 13–17 | 12–17 |
+| [2–3 July 2026](2026-07-03-IBRiS.html) | IBRiS <br> Rzeczpospolita | 14 | 13–16 | 13–16 | 13–16 | 12–17 |
 | [30 June–1 July 2026](2026-07-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [26–28 June 2026](2026-06-28-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [24–27 June 2026](2026-06-27-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
 | [19–21 June 2026](2026-06-21-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [1–16 June 2026](2026-06-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> NCZAS |  |  |  |  |  |
-| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 16 | 15–17 | 15–18 | 14–18 | 14–18 |
+| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
 | [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [5–9 June 2026](2026-06-09-SocialChanges.html) | Social Changes <br> Interia |  |  |  |  |  |
 | [29 May–2 June 2026](2026-06-02-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
 | [28–29 May 2026](2026-05-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [22–24 May 2026](2026-05-24-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [12–23 May 2026](2026-05-23-OGB.html) | OGB | 16 | 15–17 | 15–18 | 15–18 | 14–18 |
+| [12–23 May 2026](2026-05-23-OGB.html) | OGB | 16 | 14–17 | 14–18 | 14–18 | 14–18 |
 | [22–23 May 2026](2026-05-23-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [1–12 May 2026](2026-05-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [28 April–11 May 2026](2026-05-11-OGB.html) | OGB |  |  |  |  |  |
@@ -544,17 +544,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.6% | 100% |  |
-| 9 | 2% | 99.4% |  |
-| 10 | 25% | 97% |  |
-| 11 | 7% | 72% |  |
-| 12 | 8% | 65% |  |
-| 13 | 19% | 57% | Median |
-| 14 | 9% | 39% |  |
-| 15 | 12% | 30% |  |
-| 16 | 11% | 18% |  |
-| 17 | 6% | 7% |  |
-| 18 | 0.6% | 0.7% |  |
+| 8 | 0.8% | 100% |  |
+| 9 | 7% | 99.2% |  |
+| 10 | 19% | 92% |  |
+| 11 | 9% | 72% |  |
+| 12 | 7% | 64% |  |
+| 13 | 19% | 56% | Median |
+| 14 | 9% | 38% |  |
+| 15 | 14% | 29% |  |
+| 16 | 10% | 15% |  |
+| 17 | 4% | 5% |  |
+| 18 | 0.6% | 0.6% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |
 

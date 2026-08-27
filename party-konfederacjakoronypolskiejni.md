@@ -285,7 +285,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–6 | 4–6 | 4–7 | 3–7 |
 | [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
-| [21–22 August 2026](2026-08-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 5–6 | 5–6 | 5–6 | 4–7 |
+| [21–22 August 2026](2026-08-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 5–6 | 5–6 | 4–6 | 4–7 |
 | [5–12 August 2026](2026-08-12-OGB.html) | OGB | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [7–9 August 2026](2026-08-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 5–6 | 5–6 | 4–7 | 4–8 |
 | [3–5 August 2026](2026-08-05-Opinia24.html) | Opinia24 | 6 | 5–6 | 5–6 | 4–7 | 4–7 |
@@ -539,7 +539,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 1.1% | 100% |  |
 | 4 | 13% | 98.9% |  |
 | 5 | 53% | 86% | Median |
-| 6 | 29% | 32% |  |
+| 6 | 29% | 33% |  |
 | 7 | 4% | 4% |  |
 | 8 | 0.2% | 0.2% |  |
 | 9 | 0% | 0% |  |

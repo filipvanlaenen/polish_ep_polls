@@ -131,7 +131,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 | 1.6% | N/A | N/A | N/A | N/A |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.3% | N/A | N/A | N/A | N/A |
 | [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 1.5% | N/A | N/A | N/A | N/A |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet | 4.4% | N/A | N/A | N/A | N/A |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.7% | N/A | N/A | N/A | N/A |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner | 2.2% | N/A | N/A | N/A | N/A |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl | 4.0% | N/A | N/A | N/A | N/A |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB | 3.4% | N/A | N/A | N/A | N/A |
@@ -397,7 +397,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [1–3 September 2025](2025-09-03-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [28 August–1 September 2025](2025-09-01-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [30 August–1 September 2025](2025-09-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
-| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
+| [29–30 August 2025](2025-08-30-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [22–25 August 2025](2025-08-25-ResearchPartner.html) | Research Partner |  |  |  |  |  |
 | [13–16 August 2025](2025-08-16-UnitedSurveys.html) | United Surveys <br> SE.pl |  |  |  |  |  |
 | [6–13 August 2025](2025-08-13-OGB.html) | OGB |  |  |  |  |  |

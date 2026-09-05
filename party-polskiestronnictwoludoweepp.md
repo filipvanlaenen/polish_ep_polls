@@ -10,18 +10,18 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.9–5.6% | 3.7–5.9% | 3.5–6.1% | 3.2–6.6% |
+| N/A | [Poll Average](average.html) | 2.8% | 1.3–4.6% | 1.1–5.1% | 0.9–5.4% | 0.7–6.1% |
 | [25–27 August 2026](2026-08-27-IBRiS.html) | IBRiS <br> Onet | 4.6% | 3.9–5.6% | 3.7–5.9% | 3.5–6.1% | 3.2–6.6% |
-| [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.3% | N/A | N/A | N/A | N/A |
+| [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.3% | 2.6–4.2% | 2.4–4.4% | 2.3–4.6% | 2.0–5.1% |
 | [21–22 August 2026](2026-08-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.9% | N/A | N/A | N/A | N/A |
-| [5–12 August 2026](2026-08-12-OGB.html) | OGB | 1.7% | N/A | N/A | N/A | N/A |
+| [5–12 August 2026](2026-08-12-OGB.html) | OGB | 1.7% | 1.3–2.4% | 1.2–2.5% | 1.1–2.7% | 0.9–3.1% |
 | [7–9 August 2026](2026-08-09-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.4% | N/A | N/A | N/A | N/A |
-| [3–5 August 2026](2026-08-05-Opinia24.html) | Opinia24 | 1.2% | N/A | N/A | N/A | N/A |
-| [31 July–3 August 2026](2026-08-03-SocialChanges.html) | Social Changes <br> Interia | 3.0% | N/A | N/A | N/A | N/A |
+| [3–5 August 2026](2026-08-05-Opinia24.html) | Opinia24 | 1.2% | 0.8–1.8% | 0.7–2.0% | 0.7–2.1% | 0.5–2.5% |
+| [31 July–3 August 2026](2026-08-03-SocialChanges.html) | Social Changes <br> Interia | 3.0% | 2.4–3.8% | 2.3–4.0% | 2.1–4.2% | 1.9–4.6% |
 | [29 July–2 August 2026](2026-08-02-IBRiS.html) | IBRiS <br> Polsat News | 4.4% | N/A | N/A | N/A | N/A |
-| [28 July–2 August 2026](2026-08-02-ARCRynekiOpinia.html) | ARC Rynek i Opinia | 2.6% | N/A | N/A | N/A | N/A |
+| [28 July–2 August 2026](2026-08-02-ARCRynekiOpinia.html) | ARC Rynek i Opinia | 2.6% | 2.0–3.7% | 1.8–3.9% | 1.6–4.2% | 1.4–4.8% |
 | [24–25 July 2026](2026-07-25-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.6% | N/A | N/A | N/A | N/A |
-| [24–25 July 2026](2026-07-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3.8% | N/A | N/A | N/A | N/A |
+| [24–25 July 2026](2026-07-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.6% |
 | [24–25 July 2026](2026-07-25-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.1% | N/A | N/A | N/A | N/A |
 | [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 | 2.8% | N/A | N/A | N/A | N/A |
 | [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.1% | N/A | N/A | N/A | N/A |
@@ -35,7 +35,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | [24–27 June 2026](2026-06-27-IBRiS.html) | IBRiS <br> Polsat News | 4.5% | N/A | N/A | N/A | N/A |
 | [19–21 June 2026](2026-06-21-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3.5% | N/A | N/A | N/A | N/A |
 | [1–16 June 2026](2026-06-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> NCZAS | 3.6% | N/A | N/A | N/A | N/A |
-| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 1.6% | N/A | N/A | N/A | N/A |
+| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 1.6% | 1.1–2.2% | 1.0–2.4% | 0.9–2.5% | 0.8–2.9% |
 | [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl | 5.4% | N/A | N/A | N/A | N/A |
 | [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 | 2.8% | N/A | N/A | N/A | N/A |
 | [5–9 June 2026](2026-06-09-SocialChanges.html) | Social Changes <br> Interia | 2.0% | N/A | N/A | N/A | N/A |
@@ -259,14 +259,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 38% | 97% |  |
-| 4.5–5.5% | 47% | 59% | Median |
-| 5.5–6.5% | 11% | 12% |  |
-| 6.5–7.5% | 0.7% | 0.7% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 18% | 99.9% |  |
+| 1.5–2.5% | 24% | 82% |  |
+| 2.5–3.5% | 30% | 57% | Median |
+| 3.5–4.5% | 17% | 27% |  |
+| 4.5–5.5% | 9% | 11% |  |
+| 5.5–6.5% | 2% | 2% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -278,18 +278,18 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [25–27 August 2026](2026-08-27-IBRiS.html) | IBRiS <br> Onet | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
-| [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0–2 |
 | [21–22 August 2026](2026-08-22-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [5–12 August 2026](2026-08-12-OGB.html) | OGB |  |  |  |  |  |
+| [5–12 August 2026](2026-08-12-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [7–9 August 2026](2026-08-09-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [3–5 August 2026](2026-08-05-Opinia24.html) | Opinia24 |  |  |  |  |  |
-| [31 July–3 August 2026](2026-08-03-SocialChanges.html) | Social Changes <br> Interia |  |  |  |  |  |
+| [3–5 August 2026](2026-08-05-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
+| [31 July–3 August 2026](2026-08-03-SocialChanges.html) | Social Changes <br> Interia | 0 | 0 | 0 | 0 | 0 |
 | [29 July–2 August 2026](2026-08-02-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
-| [28 July–2 August 2026](2026-08-02-ARCRynekiOpinia.html) | ARC Rynek i Opinia |  |  |  |  |  |
+| [28 July–2 August 2026](2026-08-02-ARCRynekiOpinia.html) | ARC Rynek i Opinia | 0 | 0 | 0 | 0 | 0 |
 | [24–25 July 2026](2026-07-25-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [24–25 July 2026](2026-07-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [24–25 July 2026](2026-07-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0–3 |
 | [24–25 July 2026](2026-07-25-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [1–21 July 2026](2026-07-21-Opinia24.html) | Opinia24 <br> Fakty TVN and TVN24 |  |  |  |  |  |
 | [16–17 July 2026](2026-07-17-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
@@ -303,7 +303,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [24–27 June 2026](2026-06-27-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
 | [19–21 June 2026](2026-06-21-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [1–16 June 2026](2026-06-16-InstytutBadańPollster.html) | Instytut Badań Pollster <br> NCZAS |  |  |  |  |  |
-| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel |  |  |  |  |  |
+| [12–15 June 2026](2026-06-15-ResearchPartner.html) | Research Partner <br> Ariadna Research Panel | 0 | 0 | 0 | 0 | 0 |
 | [12–14 June 2026](2026-06-14-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [8–10 June 2026](2026-06-10-Opinia24.html) | Opinia24 |  |  |  |  |  |
 | [5–9 June 2026](2026-06-09-SocialChanges.html) | Social Changes <br> Interia |  |  |  |  |  |
@@ -529,11 +529,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 67% | 100% | Last Result, Median |
-| 1 | 0% | 33% |  |
-| 2 | 0.8% | 33% |  |
-| 3 | 31% | 32% |  |
-| 4 | 0.3% | 0.3% |  |
-| 5 | 0% | 0% |  |
+| 0 | 94% | 100% | Last Result, Median |
+| 1 | 0% | 6% |  |
+| 2 | 2% | 6% |  |
+| 3 | 4% | 4% |  |
+| 4 | 0% | 0% |  |
 
 

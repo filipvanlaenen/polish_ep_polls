@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Platforma Obywatelska (EPP) | 0.0% | 28.5% | 26.7–30.5% |26.2–31.1% |25.7–31.6% |24.8–32.5% |
+| Koalicja Obywatelska (EPP) | 0.0% | 28.5% | 26.7–30.5% |26.2–31.1% |25.7–31.6% |24.8–32.5% |
 | Zjednoczona Prawica (ECR) | 0.0% | 22.4% | 20.7–24.3% |20.3–24.8% |19.9–25.3% |19.1–26.2% |
 | Konfederacja Korony Polskiej (NI) | 0.0% | 9.2% | 8.0–10.5% |7.7–10.9% |7.5–11.2% |6.9–11.9% |
 | Nowa Nadzieja (ESN) | 0.0% | 8.8% | 7.7–10.1% |7.4–10.5% |7.1–10.8% |6.7–11.5% |
@@ -35,7 +35,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#platforma-obywatelska-(epp)">Platforma Obywatelska (EPP)</a> | 0 | 17 | 16–19 |15–19 |15–19 |15–20 |
+| <a href="#koalicja-obywatelska-(epp)">Koalicja Obywatelska (EPP)</a> | 0 | 17 | 16–19 |15–19 |15–19 |15–20 |
 | <a href="#zjednoczona-prawica-(ecr)">Zjednoczona Prawica (ECR)</a> | 0 | 13 | 12–14 |11–15 |11–15 |11–15 |
 | <a href="#konfederacja-korony-polskiej-(ni)">Konfederacja Korony Polskiej (NI)</a> | 0 | 5 | 4–6 |4–6 |4–6 |4–7 |
 | <a href="#nowa-nadzieja-(esn)">Nowa Nadzieja (ESN)</a> | 0 | 5 | 4–6 |4–6 |4–7 |4–7 |
@@ -48,11 +48,11 @@
 | <a href="#partia-zieloni-(greens/efa)">Partia Zieloni (Greens/EFA)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#inicjatywa-polska-(epp)">Inicjatywa Polska (EPP)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 
-### Platforma Obywatelska (EPP)
+### Koalicja Obywatelska (EPP)
 
-*For a full overview of the results for this party, see the [Platforma Obywatelska (EPP)](party-platformaobywatelskaepp.html) page.*
+*For a full overview of the results for this party, see the [Koalicja Obywatelska (EPP)](party-koalicjaobywatelskaepp.html) page.*
 
-![Graph with seats probability mass function not yet produced](2026-08-23-UnitedSurveys-seats-pmf-platformaobywatelskaepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2026-08-23-UnitedSurveys-seats-pmf-koalicjaobywatelskaepp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

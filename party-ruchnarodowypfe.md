@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 4.6–7.6% | 4.1–8.0% | 3.7–8.3% | 3.1–9.0% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.3–7.8% | 5.0–8.2% | 4.7–8.5% | 4.3–9.2% |
+| [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.9% | 6.0–8.2% | 5.7–8.5% | 5.5–8.8% | 5.0–9.4% |
 | [25–27 August 2026](2026-08-27-IBRiS.html) | IBRiS <br> Onet | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.8% | 4.4–8.4% |
 | [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 6.5% | 5.6–7.7% | 5.3–8.0% | 5.1–8.3% | 4.7–8.9% |
 | [21–22 August 2026](2026-08-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.2% | N/A | N/A | N/A | N/A |
@@ -262,14 +263,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 8% | 98% |  |
-| 4.5–5.5% | 19% | 90% |  |
-| 5.5–6.5% | 33% | 71% | Median |
-| 6.5–7.5% | 27% | 38% |  |
-| 7.5–8.5% | 10% | 11% |  |
-| 8.5–9.5% | 1.3% | 1.4% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0% | 100% |  |
+| 3.5–4.5% | 2% | 100% |  |
+| 4.5–5.5% | 14% | 98% |  |
+| 5.5–6.5% | 35% | 84% |  |
+| 6.5–7.5% | 34% | 49% | Median |
+| 7.5–8.5% | 14% | 16% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.1% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -281,7 +282,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 2–4 | 2–5 | 1–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [25–27 August 2026](2026-08-27-IBRiS.html) | IBRiS <br> Onet | 3 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
 | [21–22 August 2026](2026-08-22-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
@@ -533,12 +535,12 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0.6% | 100% |  |
-| 2 | 9% | 99.4% |  |
-| 3 | 42% | 90% | Median |
-| 4 | 44% | 49% |  |
-| 5 | 5% | 5% |  |
-| 6 | 0.1% | 0.1% |  |
+| 1 | 0% | 100% |  |
+| 2 | 0.7% | 100% |  |
+| 3 | 36% | 99.3% |  |
+| 4 | 57% | 63% | Median |
+| 5 | 6% | 6% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 

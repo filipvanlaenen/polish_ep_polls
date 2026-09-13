@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.5–2.1% | 0.4–2.4% | 0.3–2.6% | 0.2–3.0% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.4–2.1% | 0.3–2.4% | 0.2–2.6% | 0.2–3.0% |
+| [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.5% | 0.3–1.0% | 0.3–1.1% | 0.2–1.3% | 0.2–1.5% |
 | [25–27 August 2026](2026-08-27-IBRiS.html) | IBRiS <br> Onet | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.4–1.7% | 0.3–2.0% |
 | [21–22 August 2026](2026-08-22-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.9% | N/A | N/A | N/A | N/A |
@@ -259,9 +260,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 13% | 100% | Last Result |
-| 0.5–1.5% | 57% | 87% | Median |
-| 1.5–2.5% | 27% | 30% |  |
+| 0.0–0.5% | 22% | 100% | Last Result |
+| 0.5–1.5% | 51% | 78% | Median |
+| 1.5–2.5% | 24% | 28% |  |
 | 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -276,6 +277,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [25–27 August 2026](2026-08-27-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
 | [21–23 August 2026](2026-08-23-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
 | [21–22 August 2026](2026-08-22-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |

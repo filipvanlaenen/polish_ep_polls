@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.0–5.3% | 2.7–5.6% | 2.5–5.9% | 2.1–6.4% |
+| N/A | [Poll Average](average.html) | 4.3% | 2.9–5.7% | 2.7–6.0% | 2.5–6.3% | 2.2–6.8% |
+| [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 5.2% | 4.4–6.2% | 4.2–6.4% | 4.0–6.7% | 3.7–7.2% |
+| [18–22 September 2026](2026-09-22-OGB.html) | OGB | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
+| [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
+| [18–21 September 2026](2026-09-21-ResearchPartner.html) | Research Partner | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.4% | 3.2–6.9% |
+| [18–20 September 2026](2026-09-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 3.4% | 2.7–4.3% | 2.6–4.5% | 2.4–4.8% | 2.1–5.2% |
+| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.2% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.0–5.0% |
 | [11–14 September 2026](2026-09-14-SocialChanges.html) | Social Changes | 4.5% | 3.8–5.4% | 3.6–5.6% | 3.4–5.9% | 3.1–6.3% |
 | [7–9 September 2026](2026-09-09-Opinia24.html) | Opinia24 | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.5–6.3% | 3.1–6.8% |
 | [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 4.3% | 3.6–5.3% | 3.4–5.6% | 3.2–5.9% | 2.9–6.4% |
@@ -267,11 +273,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 19% | 97% |  |
-| 3.5–4.5% | 42% | 78% | Median |
-| 4.5–5.5% | 30% | 35% |  |
-| 5.5–6.5% | 5% | 6% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
+| 2.5–3.5% | 25% | 97% |  |
+| 3.5–4.5% | 29% | 72% | Median |
+| 4.5–5.5% | 30% | 42% |  |
+| 5.5–6.5% | 11% | 12% |  |
+| 6.5–7.5% | 1.1% | 1.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -283,7 +289,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 3 | 0–3 | 0–3 | 0–4 | 0–4 |
+| [18–22 September 2026](2026-09-22-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
+| [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 3 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [18–21 September 2026](2026-09-21-ResearchPartner.html) | Research Partner | 0 | 0–3 | 0–3 | 0–3 | 0–4 |
+| [18–20 September 2026](2026-09-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0 | 0 |
+| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [11–14 September 2026](2026-09-14-SocialChanges.html) | Social Changes | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [7–9 September 2026](2026-09-09-Opinia24.html) | Opinia24 | 3 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0–3 | 0–3 | 0–3 |
@@ -539,11 +551,11 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 79% | 100% | Last Result, Median |
-| 1 | 0% | 21% |  |
-| 2 | 0.8% | 21% |  |
-| 3 | 20% | 20% |  |
-| 4 | 0.2% | 0.2% |  |
+| 0 | 66% | 100% | Last Result, Median |
+| 1 | 0% | 34% |  |
+| 2 | 0.4% | 34% |  |
+| 3 | 32% | 33% |  |
+| 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
 

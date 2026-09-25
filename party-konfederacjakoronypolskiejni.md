@@ -10,7 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 6.9–9.8% | 6.5–10.2% | 6.3–10.6% | 5.8–11.3% |
+| N/A | [Poll Average](average.html) | 9.1% | 6.6–11.6% | 6.2–12.2% | 5.9–12.7% | 5.4–13.6% |
+| [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6.7% | 5.8–7.7% | 5.5–8.0% | 5.3–8.3% | 4.9–8.9% |
+| [18–22 September 2026](2026-09-22-OGB.html) | OGB | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
+| [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 7.3% | 6.3–8.4% | 6.1–8.8% | 5.9–9.1% | 5.4–9.6% |
+| [18–21 September 2026](2026-09-21-ResearchPartner.html) | Research Partner | 9.9% | 8.7–11.2% | 8.4–11.6% | 8.1–12.0% | 7.6–12.7% |
+| [18–20 September 2026](2026-09-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 11.6% | 10.3–13.0% | 10.0–13.4% | 9.7–13.8% | 9.1–14.5% |
+| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10.5% | 9.4–11.8% | 9.0–12.2% | 8.8–12.5% | 8.2–13.2% |
 | [11–14 September 2026](2026-09-14-SocialChanges.html) | Social Changes | 8.9% | 7.8–10.1% | 7.6–10.4% | 7.3–10.7% | 6.9–11.3% |
 | [7–9 September 2026](2026-09-09-Opinia24.html) | Opinia24 | 7.7% | 6.7–9.0% | 6.4–9.3% | 6.1–9.6% | 5.7–10.3% |
 | [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 7.4% | 6.4–8.6% | 6.1–9.0% | 5.9–9.3% | 5.4–9.9% |
@@ -269,15 +275,18 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 5% | 99.8% |  |
-| 6.5–7.5% | 21% | 95% |  |
-| 7.5–8.5% | 33% | 74% | Median |
-| 8.5–9.5% | 27% | 41% |  |
-| 9.5–10.5% | 11% | 14% |  |
-| 10.5–11.5% | 2% | 3% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.9% | 100% |  |
+| 5.5–6.5% | 8% | 99.1% |  |
+| 6.5–7.5% | 18% | 91% |  |
+| 7.5–8.5% | 15% | 73% |  |
+| 8.5–9.5% | 15% | 58% | Median |
+| 9.5–10.5% | 17% | 43% |  |
+| 10.5–11.5% | 14% | 25% |  |
+| 11.5–12.5% | 8% | 11% |  |
+| 12.5–13.5% | 3% | 3% |  |
+| 13.5–14.5% | 0.5% | 0.6% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -288,7 +297,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–6 | 3–6 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–6 | 3–7 | 3–7 | 3–7 |
+| [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
+| [18–22 September 2026](2026-09-22-OGB.html) | OGB | 6 | 5–6 | 5–6 | 5–6 | 4–6 |
+| [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| [18–21 September 2026](2026-09-21-ResearchPartner.html) | Research Partner | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
+| [18–20 September 2026](2026-09-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 6–7 | 6–7 | 6–7 | 5–8 |
+| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6 | 5–7 | 5–7 | 5–7 | 4–8 |
 | [11–14 September 2026](2026-09-14-SocialChanges.html) | Social Changes | 5 | 4–6 | 4–6 | 4–6 | 4–7 |
 | [7–9 September 2026](2026-09-09-Opinia24.html) | Opinia24 | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–5 | 3–5 | 3–5 | 3–6 |
@@ -544,14 +559,15 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 0% | 100% |  |
-| 3 | 7% | 100% |  |
-| 4 | 38% | 93% |  |
-| 5 | 42% | 56% | Median |
-| 6 | 13% | 14% |  |
-| 7 | 0.5% | 0.5% |  |
-| 8 | 0% | 0% |  |
+| 0 | 0.1% | 100% | Last Result |
+| 1 | 0% | 99.9% |  |
+| 2 | 0% | 99.9% |  |
+| 3 | 5% | 99.9% |  |
+| 4 | 34% | 94% |  |
+| 5 | 16% | 60% | Median |
+| 6 | 38% | 44% |  |
+| 7 | 6% | 6% |  |
+| 8 | 0.3% | 0.3% |  |
+| 9 | 0% | 0% |  |
 
 

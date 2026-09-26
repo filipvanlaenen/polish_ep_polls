@@ -310,13 +310,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 10–16 | 8–17 |
+| N/A | [Poll Average](average.html) | 12 | 10–14 | 10–15 | 9–16 | 9–17 |
 | [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 14–16 | 13–17 | 13–17 | 12–17 |
 | [18–22 September 2026](2026-09-22-OGB.html) | OGB | 13 | 13 | 12–13 | 12–14 | 12–15 |
 | [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 12 | 12–14 | 12–14 | 12–15 | 11–16 |
 | [18–21 September 2026](2026-09-21-ResearchPartner.html) | Research Partner | 13 | 12–14 | 12–16 | 11–16 | 11–16 |
 | [18–20 September 2026](2026-09-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
-| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10 | 9–11 | 9–11 | 8–12 | 8–13 |
+| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10 | 9–11 | 9–11 | 8–11 | 8–13 |
 | [11–14 September 2026](2026-09-14-SocialChanges.html) | Social Changes | 15 | 14–17 | 14–17 | 13–17 | 13–18 |
 | [7–9 September 2026](2026-09-09-Opinia24.html) | Opinia24 | 11 | 10–12 | 10–13 | 10–13 | 9–14 |
 | [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 11 | 11–13 | 11–14 | 10–14 | 10–14 |
@@ -580,12 +580,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 5 | 0% | 100% |  |
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
-| 8 | 0.5% | 100% |  |
-| 9 | 2% | 99.5% |  |
-| 10 | 12% | 98% |  |
-| 11 | 24% | 86% |  |
+| 8 | 0.4% | 100% |  |
+| 9 | 3% | 99.6% |  |
+| 10 | 13% | 97% |  |
+| 11 | 23% | 84% |  |
 | 12 | 17% | 62% | Median |
-| 13 | 24% | 45% |  |
+| 13 | 23% | 45% |  |
 | 14 | 13% | 21% |  |
 | 15 | 5% | 8% |  |
 | 16 | 2% | 3% |  |

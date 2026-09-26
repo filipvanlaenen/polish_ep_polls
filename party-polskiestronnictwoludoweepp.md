@@ -289,13 +289,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–3 | 0–3 | 0–3 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–2 | 0–3 | 0–3 |
 | [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0 |
 | [18–22 September 2026](2026-09-22-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0–3 |
 | [18–21 September 2026](2026-09-21-ResearchPartner.html) | Research Partner | 0 | 0 | 0 | 0 | 0 |
 | [18–20 September 2026](2026-09-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0 | 0 | 0–3 | 0–3 |
-| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
+| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 2 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [11–14 September 2026](2026-09-14-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [7–9 September 2026](2026-09-09-Opinia24.html) | Opinia24 | 0 | 0 | 0 | 0 | 0 |
 | [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 0 | 0–2 | 0–2 | 0–3 | 0–3 |
@@ -551,9 +551,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 94% | 100% | Last Result, Median |
-| 1 | 0% | 6% |  |
-| 2 | 0.6% | 6% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 0% | 9% |  |
+| 2 | 4% | 9% |  |
 | 3 | 5% | 5% |  |
 | 4 | 0% | 0% |  |
 

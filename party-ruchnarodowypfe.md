@@ -297,7 +297,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 4 | 3–4 | 3–4 | 3–4 | 2–5 |
 | [18–21 September 2026](2026-09-21-ResearchPartner.html) | Research Partner | 3 | 3–4 | 2–4 | 2–4 | 2–4 |
 | [18–20 September 2026](2026-09-20-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–4 | 2–4 | 2–4 |
-| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–5 | 3–5 | 2–5 |
+| [18–19 September 2026](2026-09-19-IBRiS.html) | IBRiS <br> Rzeczpospolita | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [11–14 September 2026](2026-09-14-SocialChanges.html) | Social Changes | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
 | [7–9 September 2026](2026-09-09-Opinia24.html) | Opinia24 | 3 | 3–4 | 3–4 | 2–4 | 2–5 |
 | [4–6 September 2026](2026-09-06-UnitedSurveys.html) | United Surveys <br> WP.pl | 4 | 3–4 | 3–5 | 3–5 | 3–5 |

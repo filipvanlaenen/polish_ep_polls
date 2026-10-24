@@ -11,6 +11,14 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [19–21 October 2026](2026-10-21-InstytutBadańPollster.html) | Instytut Badań Pollster | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
+| [18–19 October 2026](2026-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl and wPolsce24 | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [16–18 October 2026](2026-10-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.7% | N/A | N/A | N/A | N/A |
+| [14–16 October 2026](2026-10-16-IBRiS.html) | IBRiS <br> Polsat News | 0.6% | N/A | N/A | N/A | N/A |
+| [1–13 October 2026](2026-10-13-OGB.html) | OGB | 0.7% | N/A | N/A | N/A | N/A |
+| [5–7 October 2026](2026-10-07-Opinia24.html) | Opinia24 | 0.8% | N/A | N/A | N/A | N/A |
+| [6–7 October 2026](2026-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.7% | N/A | N/A | N/A | N/A |
+| [2–4 October 2026](2026-10-04-UnitedSurveys.html) | United Surveys <br> WP.pl | 0.6% | N/A | N/A | N/A | N/A |
 | [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0.6% | 0.4–1.1% | 0.4–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [18–22 September 2026](2026-09-22-OGB.html) | OGB | 0.7% | 0.5–1.2% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
 | [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0.7% | 0.4–1.1% | 0.4–1.3% | 0.3–1.4% | 0.2–1.7% |
@@ -272,7 +280,7 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 23% | 100% | Last Result |
 | 0.5–1.5% | 76% | 77% | Median |
-| 1.5–2.5% | 1.0% | 1.0% |  |
+| 1.5–2.5% | 0.9% | 0.9% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -284,7 +292,15 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19–21 October 2026](2026-10-21-InstytutBadańPollster.html) | Instytut Badań Pollster | 0 | 0 | 0 | 0 | 0 |
+| [18–19 October 2026](2026-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl and wPolsce24 | 0 | 0 | 0 | 0 | 0 |
+| [16–18 October 2026](2026-10-18-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
+| [14–16 October 2026](2026-10-16-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
+| [1–13 October 2026](2026-10-13-OGB.html) | OGB |  |  |  |  |  |
+| [5–7 October 2026](2026-10-07-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [6–7 October 2026](2026-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
+| [2–4 October 2026](2026-10-04-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 0 | 0 | 0 | 0 | 0–1 |
 | [18–22 September 2026](2026-09-22-OGB.html) | OGB | 0 | 0 | 0 | 0 | 0 |
 | [21–22 September 2026](2026-09-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 0 | 0 | 0 | 0 | 0 |
@@ -546,8 +562,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0.4% | 0.4% |  |
 | 2 | 0% | 0% |  |
 
 

@@ -325,8 +325,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | [18–19 October 2026](2026-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl and wPolsce24 | 16 | 15–17 | 15–17 | 14–18 | 14–19 |
 | [16–18 October 2026](2026-10-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 11 | 10–11 | 10–12 | 9–12 | 9–12 |
 | [14–16 October 2026](2026-10-16-IBRiS.html) | IBRiS <br> Polsat News | 12 | 11–13 | 10–13 | 10–13 | 10–13 |
-| [1–13 October 2026](2026-10-13-OGB.html) | OGB | 15 | 14–16 | 14–17 | 14–17 | 13–17 |
-| [5–7 October 2026](2026-10-07-Opinia24.html) | Opinia24 | 11 | 10–12 | 9–12 | 9–13 | 8–13 |
+| [1–13 October 2026](2026-10-13-OGB.html) | OGB | 15 | 14–16 | 14–16 | 14–17 | 13–17 |
+| [5–7 October 2026](2026-10-07-Opinia24.html) | Opinia24 | 11 | 10–12 | 10–13 | 9–13 | 9–13 |
 | [6–7 October 2026](2026-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [2–4 October 2026](2026-10-04-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 14 | 14–16 | 13–17 | 13–17 | 12–17 |
@@ -599,15 +599,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 6 | 0% | 100% |  |
 | 7 | 0% | 100% |  |
 | 8 | 0.1% | 100% |  |
-| 9 | 1.3% | 99.9% |  |
-| 10 | 7% | 98.6% |  |
-| 11 | 23% | 92% |  |
-| 12 | 12% | 68% |  |
+| 9 | 1.0% | 99.9% |  |
+| 10 | 6% | 99.0% |  |
+| 11 | 25% | 93% |  |
+| 12 | 11% | 68% |  |
 | 13 | 22% | 57% | Median |
 | 14 | 8% | 35% |  |
-| 15 | 11% | 26% |  |
-| 16 | 10% | 15% |  |
-| 17 | 4% | 5% |  |
+| 15 | 12% | 27% |  |
+| 16 | 10% | 14% |  |
+| 17 | 4% | 4% |  |
 | 18 | 0.4% | 0.5% |  |
 | 19 | 0.1% | 0.1% |  |
 | 20 | 0% | 0% |  |

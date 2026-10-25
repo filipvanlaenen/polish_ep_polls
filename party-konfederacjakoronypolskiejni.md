@@ -10,13 +10,13 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 6.8–10.5% | 6.5–11.0% | 6.2–11.4% | 5.7–12.2% |
+| N/A | [Poll Average](average.html) | 9.8% | 7.2–12.3% | 6.8–12.9% | 6.5–13.4% | 6.0–14.3% |
 | [19–21 October 2026](2026-10-21-InstytutBadańPollster.html) | Instytut Badań Pollster | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
 | [18–19 October 2026](2026-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl and wPolsce24 | 7.3% | 6.4–8.4% | 6.1–8.7% | 5.9–9.0% | 5.5–9.6% |
-| [16–18 October 2026](2026-10-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 10.9% | N/A | N/A | N/A | N/A |
-| [14–16 October 2026](2026-10-16-IBRiS.html) | IBRiS <br> Polsat News | 12.2% | N/A | N/A | N/A | N/A |
-| [1–13 October 2026](2026-10-13-OGB.html) | OGB | 11.3% | N/A | N/A | N/A | N/A |
-| [5–7 October 2026](2026-10-07-Opinia24.html) | Opinia24 | 8.2% | N/A | N/A | N/A | N/A |
+| [16–18 October 2026](2026-10-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 10.9% | 9.7–12.3% | 9.3–12.8% | 9.1–13.1% | 8.5–13.8% |
+| [14–16 October 2026](2026-10-16-IBRiS.html) | IBRiS <br> Polsat News | 12.2% | 10.9–13.7% | 10.6–14.1% | 10.3–14.5% | 9.7–15.2% |
+| [1–13 October 2026](2026-10-13-OGB.html) | OGB | 11.3% | 10.4–12.3% | 10.2–12.5% | 10.0–12.8% | 9.6–13.2% |
+| [5–7 October 2026](2026-10-07-Opinia24.html) | Opinia24 | 8.2% | 7.1–9.5% | 6.8–9.8% | 6.6–10.1% | 6.1–10.8% |
 | [6–7 October 2026](2026-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl | 7.4% | N/A | N/A | N/A | N/A |
 | [2–4 October 2026](2026-10-04-UnitedSurveys.html) | United Surveys <br> WP.pl | 9.6% | N/A | N/A | N/A | N/A |
 | [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 6.7% | 5.8–7.7% | 5.5–8.0% | 5.3–8.3% | 4.9–8.9% |
@@ -283,16 +283,18 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.2% | 100% |  |
-| 5.5–6.5% | 6% | 99.8% |  |
-| 6.5–7.5% | 23% | 94% |  |
-| 7.5–8.5% | 28% | 71% | Median |
-| 8.5–9.5% | 19% | 43% |  |
-| 9.5–10.5% | 14% | 23% |  |
-| 10.5–11.5% | 7% | 9% |  |
-| 11.5–12.5% | 2% | 2% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 4.5–5.5% | 0.1% | 100% |  |
+| 5.5–6.5% | 3% | 99.9% |  |
+| 6.5–7.5% | 13% | 97% |  |
+| 7.5–8.5% | 18% | 85% |  |
+| 8.5–9.5% | 14% | 66% |  |
+| 9.5–10.5% | 13% | 53% | Median |
+| 10.5–11.5% | 18% | 40% |  |
+| 11.5–12.5% | 14% | 21% |  |
+| 12.5–13.5% | 6% | 8% |  |
+| 13.5–14.5% | 2% | 2% |  |
+| 14.5–15.5% | 0.3% | 0.3% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -303,13 +305,13 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 3–6 | 3–6 | 3–7 | 3–7 |
+| N/A | [Poll Average](average.html) | 5 | 4–8 | 3–8 | 3–8 | 3–8 |
 | [19–21 October 2026](2026-10-21-InstytutBadańPollster.html) | Instytut Badań Pollster | 5 | 4–5 | 4–5 | 3–5 | 3–6 |
 | [18–19 October 2026](2026-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl and wPolsce24 | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
-| [16–18 October 2026](2026-10-18-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
-| [14–16 October 2026](2026-10-16-IBRiS.html) | IBRiS <br> Polsat News |  |  |  |  |  |
-| [1–13 October 2026](2026-10-13-OGB.html) | OGB |  |  |  |  |  |
-| [5–7 October 2026](2026-10-07-Opinia24.html) | Opinia24 |  |  |  |  |  |
+| [16–18 October 2026](2026-10-18-UnitedSurveys.html) | United Surveys <br> WP.pl | 6 | 5–6 | 5–7 | 5–7 | 5–7 |
+| [14–16 October 2026](2026-10-16-IBRiS.html) | IBRiS <br> Polsat News | 7 | 6–8 | 6–8 | 6–8 | 5–9 |
+| [1–13 October 2026](2026-10-13-OGB.html) | OGB | 7 | 6–8 | 6–8 | 6–8 | 5–8 |
+| [5–7 October 2026](2026-10-07-Opinia24.html) | Opinia24 | 5 | 4–5 | 4–6 | 3–6 | 3–6 |
 | [6–7 October 2026](2026-10-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> SE.pl |  |  |  |  |  |
 | [2–4 October 2026](2026-10-04-UnitedSurveys.html) | United Surveys <br> WP.pl |  |  |  |  |  |
 | [18–22 September 2026](2026-09-22-SocialChanges.html) | Social Changes <br> wPolityce.pl | 4 | 3–4 | 3–4 | 3–4 | 0–5 |
@@ -576,12 +578,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 14% | 100% |  |
-| 4 | 25% | 86% |  |
-| 5 | 39% | 60% | Median |
-| 6 | 17% | 21% |  |
-| 7 | 4% | 4% |  |
-| 8 | 0.2% | 0.2% |  |
-| 9 | 0% | 0% |  |
+| 3 | 5% | 100% |  |
+| 4 | 17% | 95% |  |
+| 5 | 31% | 78% | Median |
+| 6 | 30% | 48% |  |
+| 7 | 7% | 18% |  |
+| 8 | 11% | 11% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0% |  |
 
 

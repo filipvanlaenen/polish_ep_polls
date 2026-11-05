@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 25 Oct 2026 19:23:30 +0100</pubDate>
+    <pubDate>Thu, 05 Nov 2026 22:12:31 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for TVP Info, 21–22 October 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–4 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Rozwój Plus (ECR): 0–3 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 19–23 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0–4 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0–3 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 3–5 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 2–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 4–6 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 14–18 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos-seats.png"
+        length="288810"
+        type="image/png"/>
+      <pubDate>Thu, 05 Nov 2026 22:12:31 +0100</pubDate>
+      <dc:date>2026-11-05T22:12:31.402769+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for TVP Info, 21–22 October 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos-coalitions-seats.png"
+        length="202195"
+        type="image/png"/>
+      <pubDate>Thu, 05 Nov 2026 22:12:31 +0100</pubDate>
+      <dc:date>2026-11-05T22:12:31.402769+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for TVP Info, 21–22 October 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.3–1.4%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Rozwój Plus (ECR): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 29.8–35.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 3.8–6.5%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 4.5–7.4%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 23.4–28.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos.png"
+        length="346838"
+        type="image/png"/>
+      <pubDate>Thu, 05 Nov 2026 22:12:31 +0100</pubDate>
+      <dc:date>2026-11-05T22:12:31.402769+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster, 19–21 October 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-10-21-InstytutBadańPollster.html#seats</link>
@@ -759,6 +789,6 @@
       <pubDate>Sat, 05 Sep 2026 21:59:54 +0200</pubDate>
       <dc:date>2026-09-05T21:59:54.796316+02:00</dc:date>
     </item>
-    <dc:date>2026-10-25T19:23:30.196963+01:00</dc:date>
+    <dc:date>2026-11-05T22:12:31.402769+01:00</dc:date>
   </channel>
 </rss>

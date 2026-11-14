@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Tue, 23 Jul 2024 18:38:29 +0200</pubDate>
     <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 6–7 November 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Rzeczpospolita, 6–7 November 2026<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS-seating-plan.png" length="393923" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2026 13:48:39 +0100</pubDate>
+      <dc:date>2026-11-14T13:48:39.507707309+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 6–7 November 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by IBRiS for Rzeczpospolita, 6–7 November 2026<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS-seats.png" length="290113" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2026 13:48:39 +0100</pubDate>
+      <dc:date>2026-11-14T13:48:39.507707309+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 6–7 November 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by IBRiS for Rzeczpospolita, 6–7 November 2026<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.png" length="358542" type="image/png"/>
+      <pubDate>Sat, 14 Nov 2026 13:48:39 +0100</pubDate>
+      <dc:date>2026-11-14T13:48:39.507707309+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for TVP Info, 21–22 October 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Ipsos for TVP Info, 21–22 October 2026<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2026-10-22-Ipsos-seating-plan.png"/>]]></description>
@@ -172,30 +196,6 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-10-07-Opinia24.png" length="346050" type="image/png"/>
       <pubDate>Sun, 25 Oct 2026 19:23:30 +0100</pubDate>
       <dc:date>2026-10-25T19:23:30.196963439+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 21–22 September 2026 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 21–22 September 2026<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster-seating-plan.png" length="419674" type="image/png"/>
-      <pubDate>Thu, 24 Sep 2026 22:56:47 +0200</pubDate>
-      <dc:date>2026-09-24T22:56:47.442215372+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 21–22 September 2026 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>27 seats needed for a majority<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 21–22 September 2026<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster-seats.png" length="307562" type="image/png"/>
-      <pubDate>Thu, 24 Sep 2026 22:56:47 +0200</pubDate>
-      <dc:date>2026-09-24T22:56:47.442215372+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Instytut Badań Pollster for SE.pl, 21–22 September 2026 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Instytut Badań Pollster for SE.pl, 21–22 September 2026<br/>Details on https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster.html<br/><img src="https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-09-22-InstytutBadańPollster.png" length="356106" type="image/png"/>
-      <pubDate>Thu, 24 Sep 2026 22:56:47 +0200</pubDate>
-      <dc:date>2026-09-24T22:56:47.442215372+02:00</dc:date>
     </item>
   </channel>
 </rss>

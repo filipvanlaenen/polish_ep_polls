@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.3% | 5.9–8.9% | 5.4–9.4% | 5.1–9.7% | 4.6–10.4% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.9–9.0% | 5.4–9.4% | 5.1–9.7% | 4.6–10.4% |
 | [6–7 November 2026](2026-11-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 8.3% | 7.2–9.5% | 7.0–9.9% | 6.7–10.2% | 6.2–10.8% |
+| [26 October–5 November 2026](2026-11-05-OGB.html) | OGB | 7.7% | 7.0–8.5% | 6.8–8.7% | 6.6–9.0% | 6.3–9.4% |
 | [21–22 October 2026](2026-10-22-Ipsos.html) | Ipsos <br> TVP Info | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [19–21 October 2026](2026-10-21-InstytutBadańPollster.html) | Instytut Badań Pollster | 7.0% | 6.1–8.1% | 5.8–8.5% | 5.6–8.7% | 5.2–9.3% |
 | [18–19 October 2026](2026-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl and wPolsce24 | 7.6% | 6.6–8.7% | 6.4–9.0% | 6.2–9.3% | 5.7–9.9% |
@@ -285,11 +286,11 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.5% | 100% |  |
-| 4.5–5.5% | 6% | 99.5% |  |
-| 5.5–6.5% | 19% | 94% |  |
-| 6.5–7.5% | 32% | 75% | Median |
-| 7.5–8.5% | 27% | 43% |  |
-| 8.5–9.5% | 13% | 17% |  |
+| 4.5–5.5% | 5% | 99.5% |  |
+| 5.5–6.5% | 14% | 94% |  |
+| 6.5–7.5% | 28% | 80% |  |
+| 7.5–8.5% | 34% | 52% | Median |
+| 8.5–9.5% | 15% | 18% |  |
 | 9.5–10.5% | 3% | 4% |  |
 | 10.5–11.5% | 0.4% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -303,8 +304,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–6 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
 | [6–7 November 2026](2026-11-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 5 | 4–5 | 4–6 | 4–6 | 3–6 |
+| [26 October–5 November 2026](2026-11-05-OGB.html) | OGB | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [21–22 October 2026](2026-10-22-Ipsos.html) | Ipsos <br> TVP Info | 4 | 3–4 | 3–4 | 3–5 | 2–5 |
 | [19–21 October 2026](2026-10-21-InstytutBadańPollster.html) | Instytut Badań Pollster | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [18–19 October 2026](2026-10-19-SocialChanges.html) | Social Changes <br> wPolityce.pl and wPolsce24 | 4 | 4–5 | 4–5 | 4–6 | 3–6 |
@@ -578,10 +580,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0.1% | 100% |  |
-| 3 | 11% | 99.9% |  |
-| 4 | 54% | 89% | Median |
-| 5 | 32% | 35% |  |
-| 6 | 3% | 4% |  |
+| 3 | 7% | 99.9% |  |
+| 4 | 46% | 93% | Median |
+| 5 | 43% | 47% |  |
+| 6 | 4% | 4% |  |
 | 7 | 0.1% | 0.1% |  |
 | 8 | 0% | 0% |  |
 

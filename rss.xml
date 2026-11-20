@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/polish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 14 Nov 2026 13:48:39 +0100</pubDate>
+    <pubDate>Fri, 20 Nov 2026 19:36:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 6–7 November 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-11-07-IBRiS.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sat, 14 Nov 2026 13:48:39 +0100</pubDate>
       <dc:date>2026-11-14T13:48:39.507707+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGB, 26 October–5 November 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-11-05-OGB.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 0–3 seats&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 0 seats&lt;/li&gt;&lt;li&gt;Rozwój Plus (ECR): 0–3 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 21–27 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 0 seats&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 4–6 seats&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 3–4 seats&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 4–6 seats&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 13–15 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-05-OGB-seats.png"
+        length="273091"
+        type="image/png"/>
+      <pubDate>Fri, 20 Nov 2026 19:36:55 +0100</pubDate>
+      <dc:date>2026-11-20T19:36:55.704866+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGB, 26 October–5 November 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-11-05-OGB.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-05-OGB-coalitions-seats.png"
+        length="189746"
+        type="image/png"/>
+      <pubDate>Fri, 20 Nov 2026 19:36:55 +0100</pubDate>
+      <dc:date>2026-11-20T19:36:55.704866+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by OGB, 26 October–5 November 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_ep_polls/2026-11-05-OGB.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Partia Zieloni (Greens/EFA): 0.5–1.2%&lt;/li&gt;&lt;li&gt;Nowa Lewica (S&amp;amp;D): 4.0–5.9%&lt;/li&gt;&lt;li&gt;Inicjatywa Polska (EPP): 0.5–1.2%&lt;/li&gt;&lt;li&gt;Polska 2050 (RE): 1.2–2.3%&lt;/li&gt;&lt;li&gt;Rozwój Plus (ECR): 4.1–6.0%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska (EPP): 33.5–37.7%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe (EPP): 2.5–4.1%&lt;/li&gt;&lt;li&gt;Lewica Razem (GUE/NGL): 2.4–3.9%&lt;/li&gt;&lt;li&gt;Nowa Nadzieja (ESN): 6.6–9.0%&lt;/li&gt;&lt;li&gt;Ruch Narodowy (PfE): 4.7–6.8%&lt;/li&gt;&lt;li&gt;Konfederacja Korony Polskiej (NI): 7.5–10.0%&lt;/li&gt;&lt;li&gt;Zjednoczona Prawica (ECR): 21.3–25.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_ep_polls/2026-11-05-OGB.png"
+        length="328119"
+        type="image/png"/>
+      <pubDate>Fri, 20 Nov 2026 19:36:55 +0100</pubDate>
+      <dc:date>2026-11-20T19:36:55.704866+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for TVP Info, 21–22 October 2026 – Seat Projections for the Parties</title>
@@ -819,6 +849,6 @@
       <pubDate>Sat, 05 Sep 2026 21:59:54 +0200</pubDate>
       <dc:date>2026-09-05T21:59:54.796316+02:00</dc:date>
     </item>
-    <dc:date>2026-11-14T13:48:39.507707+01:00</dc:date>
+    <dc:date>2026-11-20T19:36:55.704866+01:00</dc:date>
   </channel>
 </rss>
